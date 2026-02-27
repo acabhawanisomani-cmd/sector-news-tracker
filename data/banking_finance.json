@@ -1,5 +1,15 @@
 [
   {
+    "id": "ef11b9c5fe5c",
+    "title": "Starmer under pressure after Greens secure historic by-election victory",
+    "source": "www.ft.com",
+    "summary": "Labour finishes third in Gorton and Denton seat as vote crumbles in traditional stronghold",
+    "url": "https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 05:15:42 GMT",
+    "fetched_at": "2026-02-27T06:58:04.531197+00:00"
+  },
+  {
     "id": "761342571fe2",
     "title": "Greens win key UK by-election in blow to Labour",
     "source": "www.ft.com",
@@ -7,17 +17,7 @@
     "url": "https://www.ft.com/content/c7fee9cc-2bb1-457d-a94c-f60bc30da018",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 04:58:50 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808115+00:00"
-  },
-  {
-    "id": "ef11b9c5fe5c",
-    "title": "Starmer under pressure after Greens win Gorton and Denton by-election",
-    "source": "www.ft.com",
-    "summary": "Labour comes in third place in new blow to prime minister",
-    "url": "https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e",
-    "image": "",
-    "published_at": "Fri, 27 Feb 2026 05:15:42 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808162+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531217+00:00"
   },
   {
     "id": "94c58b94d76f",
@@ -27,7 +27,7 @@
     "url": "https://www.ft.com/content/845e247e-37d3-4a68-9269-bad5ad82eda1",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 05:00:04 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808204+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531234+00:00"
   },
   {
     "id": "ff43b3c21000",
@@ -37,7 +37,7 @@
     "url": "https://www.ft.com/content/19863a82-7979-49db-a644-78a5d1830044",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 05:00:13 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808235+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531245+00:00"
   },
   {
     "id": "3a19263c733a",
@@ -47,7 +47,7 @@
     "url": "https://www.ft.com/content/47da78cd-3a3e-46eb-bfa5-ad20d9b9dcef",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 05:00:05 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808265+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531257+00:00"
   },
   {
     "id": "df64dbe0a69a",
@@ -57,7 +57,7 @@
     "url": "https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 00:08:01 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808297+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531270+00:00"
   },
   {
     "id": "83bf2cd9a06a",
@@ -67,7 +67,7 @@
     "url": "https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 01:26:52 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808331+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531282+00:00"
   },
   {
     "id": "c75d10aa97ba",
@@ -77,7 +77,17 @@
     "url": "https://www.ft.com/content/a56d70b5-669c-4bcc-8541-a4961fc99802",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 05:00:13 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808361+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531293+00:00"
+  },
+  {
+    "id": "3204932a8f7b",
+    "title": "Fall in UK net migration threatens to carve deep hole in public finances",
+    "source": "www.ft.com",
+    "summary": "Issue is expected to come under the spotlight in chancellor Rachel Reeves’ Spring Statement",
+    "url": "https://www.ft.com/content/7408ad00-e4eb-41c7-8849-36061bc0eac1",
+    "image": "",
+    "published_at": "Thu, 26 Feb 2026 17:52:12 GMT",
+    "fetched_at": "2026-02-27T06:58:04.531305+00:00"
   },
   {
     "id": "e9449690cc6b",
@@ -87,7 +97,107 @@
     "url": "https://www.ft.com/content/b2a817a8-9924-44dd-9be7-1490df9929f6",
     "image": "",
     "published_at": "Thu, 26 Feb 2026 13:41:08 GMT",
-    "fetched_at": "2026-02-27T05:48:28.808392+00:00"
+    "fetched_at": "2026-02-27T06:58:04.531317+00:00"
+  },
+  {
+    "id": "25ecf7064bab",
+    "title": "Pound Worst-Performing Major Currency After By-Election",
+    "source": "feeds.bloomberg.com",
+    "summary": "",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-02-27/ftse-100-live-uk-by-elections-pound-gilts-british-airways-oil-gold-prices-what-s-moving-uk-markets-right-now-markets-today",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:50:42 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765384+00:00"
+  },
+  {
+    "id": "087d0636afa5",
+    "title": "Horizons Middle East & Africa 02/27/2026 (Video)",
+    "source": "feeds.bloomberg.com",
+    "summary": "",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-27/horizons-middle-east-africa-02-27-2026-video",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:48:46 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765405+00:00"
+  },
+  {
+    "id": "caa9d4da24a1",
+    "title": "UBS Nominates Ex-BIS Head Carstens, Apple’s Maestri for Board",
+    "source": "feeds.bloomberg.com",
+    "summary": "UBS Group AG named Agustin Carstens, the former head of the Bank for International Settlements, and Luca Maestri, vice president at Apple Inc., to its board.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/ubs-nominates-ex-bis-head-carstens-apple-s-maestri-for-board",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:33:58 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765425+00:00"
+  },
+  {
+    "id": "5ecc6a52aa86",
+    "title": "Rush to Buy Korean Chip Stocks Sparks Wild Global ETF Moves",
+    "source": "feeds.bloomberg.com",
+    "summary": "A wave of global money chasing high-flying shares of South Korean chipmakers is spurring abnormal moves and volumes in exchange‑traded funds.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/rush-to-buy-korean-chip-stocks-sparks-wild-global-etf-moves",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:31:16 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765441+00:00"
+  },
+  {
+    "id": "ee407b1210ac",
+    "title": "Dubai Aerospace CEO: M&A Part of Our DNA",
+    "source": "feeds.bloomberg.com",
+    "summary": "Dubai Aerospace Enterprise is buying Macquarie AirFinance for an enterprise value of about $7 billion. The purchase will double DAE's fleet to more than 1,000 units and the company plans to finance the cash transaction with a combination of debt and equity. Firoz Tarapore, CEO of Dubai Aerospace Ent",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-27/dubai-aerospace-ceo-m-a-part-of-our-dna-video",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:22:27 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765468+00:00"
+  },
+  {
+    "id": "ee85b507092b",
+    "title": "Sunway Is Willing to Walk Away If $2.7 Billion IJM Bid Rejected",
+    "source": "feeds.bloomberg.com",
+    "summary": "Sunway Bhd. is prepared to walk away from its offer to acquire IJM Corp. if the builder’s shareholders do not accept the conglomerate’s deal by the April 6 deadline, said Sunway founder Jeffrey Cheah.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/sunway-is-willing-to-walk-away-if-2-7-billion-ijm-bid-rejected",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:17:47 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765504+00:00"
+  },
+  {
+    "id": "e7fda7daa6c9",
+    "title": "Canada's Fairfax on Course to Take Record Foreign Stake in an Indian Bank",
+    "source": "feeds.bloomberg.com",
+    "summary": "Fairfax Financial Holdings Ltd. is the frontrunner to buy a majority stake in IDBI Bank Ltd., according to people familiar with the matter, in what could be the biggest foreign investment in India’s banking sector. Shares rose.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/fairfax-said-to-lead-race-for-8-billion-india-bank-stake-sale",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 05:31:38 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765523+00:00"
+  },
+  {
+    "id": "b6a637c9f4e5",
+    "title": "Fadlallah: Saudi Arabian Market Reflects 21st Century",
+    "source": "feeds.bloomberg.com",
+    "summary": "Saudi Arabia has been the laying the groundwork for more consequential reforms, including the recent opening of its $2.5 trillion stock market to all foreign investors. Tarek Fadlallah, Middle East CEO at Nomura Asset Management says it’s time to adopt a more positive outlook on Saudi Arabian equiti",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-27/fadlallah-saudi-arabian-market-reflects-21st-century-video",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:16:08 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765550+00:00"
+  },
+  {
+    "id": "d0846d4c0f85",
+    "title": "UK Set to Slash Bond Sales to Lowest in Three Years",
+    "source": "feeds.bloomberg.com",
+    "summary": "The UK is expected to slash gilt sales in the coming year, a rare piece of good news for bond investors concerned about the country’s strained finances.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/uk-set-to-slash-bond-sales-to-lowest-in-three-years",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:15:00 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765566+00:00"
+  },
+  {
+    "id": "255bb190b83b",
+    "title": "AI Capex Fueling Strongest EM Earnings in Two Decades, MS Says",
+    "source": "feeds.bloomberg.com",
+    "summary": "Emerging-market stocks are heading for their strongest stretch of earnings growth since the 2002-04 super-cycle, powered by a surge in artificial-intelligence investment that is reshaping the asset class, according to Morgan Stanley.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/ai-capex-fueling-strongest-em-earnings-in-two-decades-ms-says",
+    "image": "",
+    "published_at": "Fri, 27 Feb 2026 06:07:58 GMT",
+    "fetched_at": "2026-02-27T06:58:04.765582+00:00"
   },
   {
     "id": "fb0845dc976b",
@@ -108,16 +218,6 @@
     "image": "",
     "published_at": "Thu, 26 Feb 2026 23:32:26 GMT",
     "fetched_at": "2026-02-27T05:48:31.344262+00:00"
-  },
-  {
-    "id": "e7fda7daa6c9",
-    "title": "Fairfax Said to Lead Race for $8 Billion India Bank Stake Sale",
-    "source": "feeds.bloomberg.com",
-    "summary": "Fairfax Financial Holdings Ltd. is the frontrunner to buy a majority stake in IDBI Bank Ltd., according to people familiar with the matter, in what could be the biggest foreign investment in India’s banking sector.",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-27/fairfax-said-to-lead-race-for-8-billion-india-bank-stake-sale",
-    "image": "",
-    "published_at": "Fri, 27 Feb 2026 05:31:38 GMT",
-    "fetched_at": "2026-02-27T05:48:31.344361+00:00"
   },
   {
     "id": "a06937a84f6e",
