@@ -1,5 +1,5 @@
 {
-  "last_fetch": "2026-02-27T06:58:36.160774+00:00",
+  "last_fetch": "2026-02-27T07:40:09.982474+00:00",
   "sectors_updated": [
     "Technology",
     "Banking & Finance",
@@ -10,5 +10,9 @@
     "Real Estate",
     "Telecommunications"
   ],
-  "total_new_articles": 50
+  "regions_updated": [
+    "Global",
+    "India"
+  ],
+  "total_new_articles": 90
 }
