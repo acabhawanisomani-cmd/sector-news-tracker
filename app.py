@@ -1,6 +1,7 @@
 """
 Sector News Tracker — Streamlit Dashboard
 A clean, sector-based news dashboard for research analysts.
+Supports Global and India region views.
 """
 
 import json
@@ -9,7 +10,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from config import DATA_DIR, SECTORS
+from config import DATA_DIR, REGIONS, SECTORS
 
 # ── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -80,6 +81,23 @@ st.markdown("""
         font-weight: 500;
     }
 
+    .region-badge-global {
+        background: #e6f4ea;
+        color: #137333;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.78rem;
+        font-weight: 500;
+    }
+    .region-badge-india {
+        background: #fef3e2;
+        color: #b45309;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.78rem;
+        font-weight: 500;
+    }
+
     .sector-header {
         display: flex;
         align-items: center;
@@ -92,20 +110,36 @@ st.markdown("""
         color: #888;
         padding: 0.3rem 0;
     }
+
+    /* Region toggle styling */
+    .stRadio > div {
+        flex-direction: row !important;
+        gap: 0.5rem;
+    }
+    .stRadio > div > label {
+        padding: 0.3rem 0.8rem !important;
+        border-radius: 20px !important;
+        border: 1px solid #ddd !important;
+        font-size: 0.9rem !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 
 # ── Data Loading ───────────────────────────────────────────────────────────────
 
-def sector_filename(sector: str) -> str:
-    return f"{sector.lower().replace(' & ', '_').replace(' ', '_')}.json"
+def _make_filename(sector: str, region: str) -> str:
+    """Build the JSON filename for a sector + region combo."""
+    base = sector.lower().replace(" & ", "_").replace(" ", "_")
+    if region.lower() == "india":
+        return f"{base}_india.json"
+    return f"{base}.json"
 
 
 @st.cache_data(ttl=300)  # cache for 5 minutes
-def load_sector_news(sector: str) -> list[dict]:
-    """Load articles for a given sector from the JSON data store."""
-    path = Path(DATA_DIR) / sector_filename(sector)
+def load_sector_news(sector: str, region: str) -> list[dict]:
+    """Load articles for a given sector + region from the JSON data store."""
+    path = Path(DATA_DIR) / _make_filename(sector, region)
     if not path.exists():
         return []
     try:
@@ -170,6 +204,23 @@ with st.sidebar:
     st.markdown("## 📊 Sector News Tracker")
     st.markdown("---")
 
+    # Region toggle
+    region_options = list(REGIONS.keys())
+    region_labels = [
+        f'{REGIONS[r]["icon"]} {REGIONS[r]["label"]}' for r in region_options
+    ]
+    selected_region = st.radio(
+        "Region",
+        region_options,
+        index=0,
+        format_func=lambda r: f'{REGIONS[r]["icon"]} {REGIONS[r]["label"]}',
+        horizontal=True,
+        help="Switch between Global and India-specific news.",
+    )
+
+    st.markdown("---")
+
+    # Sector selector
     sector_list = list(SECTORS.keys())
     selected_sector = st.selectbox(
         "Select Sector",
@@ -188,7 +239,7 @@ with st.sidebar:
     )
 
     # Source filter
-    articles_for_filter = load_sector_news(selected_sector)
+    articles_for_filter = load_sector_news(selected_sector, selected_region)
     sources = sorted({a.get("source", "Unknown") for a in articles_for_filter})
     selected_sources = st.multiselect(
         "📰 Filter by source",
@@ -219,14 +270,19 @@ with st.sidebar:
 # ── Main Content ───────────────────────────────────────────────────────────────
 
 icon = SECTOR_ICONS.get(selected_sector, "📰")
+region_icon = REGIONS[selected_region]["icon"]
+region_label = REGIONS[selected_region]["label"]
+
 st.markdown(
     f'<div class="sector-header">'
-    f"<h1>{icon} {selected_sector}</h1>"
+    f"<h1>{icon} {selected_sector} &nbsp;"
+    f'<span style="font-size:0.6em;vertical-align:middle;">'
+    f"{region_icon} {region_label}</span></h1>"
     f"</div>",
     unsafe_allow_html=True,
 )
 
-articles = load_sector_news(selected_sector)
+articles = load_sector_news(selected_sector, selected_region)
 
 # Apply filters
 if keyword_filter:
@@ -241,14 +297,17 @@ if selected_sources:
 
 
 if not articles:
+    region_note = (
+        "India-specific" if selected_region == "India" else "global"
+    )
     st.info(
-        "No articles found for this sector yet. "
-        "News will appear after the first automated fetch runs. "
+        f"No {region_note} articles found for {selected_sector} yet. "
+        "News will appear after the next automated fetch runs. "
         "You can also run `python fetch_news.py` manually."
     )
 else:
     # Stats bar
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     col1.metric("Total Articles", len(articles))
     recent_count = sum(
         1 for a in articles
@@ -257,6 +316,7 @@ else:
     )
     col2.metric("Recent (< 24h)", recent_count)
     col3.metric("Sources", len({a.get("source") for a in articles}))
+    col4.metric("Region", f"{region_icon} {region_label}")
 
     st.markdown("---")
 
@@ -268,6 +328,11 @@ else:
         summary = article.get("summary", "")
         published = format_timestamp(article.get("published_at", ""))
 
+        region_badge_class = (
+            "region-badge-india" if selected_region == "India"
+            else "region-badge-global"
+        )
+
         card_html = f"""
         <div class="news-card">
             <div class="news-title">
@@ -275,6 +340,8 @@ else:
             </div>
             <div class="news-meta">
                 <span class="source-badge">{source}</span>
+                &nbsp;
+                <span class="{region_badge_class}">{region_icon} {region_label}</span>
                 &nbsp;&middot;&nbsp; {published}
             </div>
             <div class="news-summary">{summary}</div>

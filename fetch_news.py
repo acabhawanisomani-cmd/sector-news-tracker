@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Sector News Tracker — News Fetcher
-Fetches news from GNews API and RSS feeds, deduplicates, and writes to JSON.
+Fetches news from GNews API and RSS feeds for both Global and India regions,
+deduplicates, and writes to JSON.
 Designed to run via GitHub Actions every hour.
 """
 
@@ -9,6 +10,7 @@ import hashlib
 import json
 import logging
 import os
+import re
 import sys
 import time
 import xml.etree.ElementTree as ET
@@ -24,6 +26,7 @@ from config import (
     GNEWS_BASE_URL,
     GNEWS_MAX_RESULTS,
     MAX_ARTICLES_PER_SECTOR,
+    REGIONS,
     SECTORS,
 )
 
@@ -42,31 +45,50 @@ def article_id(url: str) -> str:
     return hashlib.md5(url.encode()).hexdigest()[:12]
 
 
-def load_existing(sector: str) -> list[dict]:
-    """Load previously saved articles for a sector."""
-    path = Path(DATA_DIR) / f"{sector.lower().replace(' & ', '_').replace(' ', '_')}.json"
+def _make_filename(sector: str, region: str) -> str:
+    """Build the JSON filename for a sector + region combo.
+
+    Global files:  technology.json
+    India files:   technology_india.json
+    """
+    base = sector.lower().replace(" & ", "_").replace(" ", "_")
+    if region.lower() == "india":
+        return f"{base}_india.json"
+    return f"{base}.json"
+
+
+def load_existing(sector: str, region: str) -> list[dict]:
+    """Load previously saved articles for a sector + region."""
+    path = Path(DATA_DIR) / _make_filename(sector, region)
     if path.exists():
         try:
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError):
-            logger.warning("Corrupt JSON for %s — starting fresh.", sector)
+            logger.warning("Corrupt JSON for %s/%s — starting fresh.", sector, region)
     return []
 
 
-def save_articles(sector: str, articles: list[dict]) -> None:
-    """Persist articles to the sector JSON file."""
-    path = Path(DATA_DIR) / f"{sector.lower().replace(' & ', '_').replace(' ', '_')}.json"
+def save_articles(sector: str, region: str, articles: list[dict]) -> None:
+    """Persist articles to the sector + region JSON file."""
+    path = Path(DATA_DIR) / _make_filename(sector, region)
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=2, ensure_ascii=False)
-    logger.info("Saved %d articles for [%s]", len(articles), sector)
+    logger.info("Saved %d articles for [%s / %s]", len(articles), sector, region)
 
 
 # ── GNews API Fetcher ──────────────────────────────────────────────────────────
 
-def fetch_gnews(query: str, max_results: int = GNEWS_MAX_RESULTS) -> list[dict]:
-    """Fetch articles from GNews API for a single query string."""
+def fetch_gnews(query: str, country: str | None = None,
+                max_results: int = GNEWS_MAX_RESULTS) -> list[dict]:
+    """Fetch articles from GNews API for a single query string.
+
+    Args:
+        query: Search query.
+        country: GNews country code (e.g. 'in' for India). None = worldwide.
+        max_results: Max articles to return.
+    """
     if not GNEWS_API_KEY:
         logger.warning("GNEWS_API_KEY not set — skipping API fetch for '%s'.", query)
         return []
@@ -78,6 +100,8 @@ def fetch_gnews(query: str, max_results: int = GNEWS_MAX_RESULTS) -> list[dict]:
         "apikey": GNEWS_API_KEY,
         "sortby": "publishedAt",
     }
+    if country:
+        params["country"] = country
 
     url = f"{GNEWS_BASE_URL}?{urlencode(params)}"
     try:
@@ -189,7 +213,6 @@ def _text(element, tag: str) -> str:
 
 def _clean(text: str) -> str:
     """Strip HTML tags and excessive whitespace from text."""
-    import re
     text = re.sub(r"<[^>]+>", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
@@ -197,14 +220,23 @@ def _clean(text: str) -> str:
 
 # ── Main Pipeline ──────────────────────────────────────────────────────────────
 
-def fetch_sector(sector: str, sector_config: dict) -> list[dict]:
-    """Fetch all news for a single sector from all sources."""
+def fetch_sector(sector: str, sector_config: dict, region: str,
+                 country: str | None) -> list[dict]:
+    """Fetch all news for a single sector + region from all sources."""
     all_articles = []
     seen_ids = set()
 
-    # 1. GNews API queries
-    for query in sector_config["queries"]:
-        articles = fetch_gnews(query)
+    # 1. Determine which queries to use
+    if region.lower() == "india":
+        # For India: use India-specific queries only
+        queries = sector_config.get("queries_india", [])
+    else:
+        # For Global: use the standard queries
+        queries = sector_config["queries"]
+
+    # 2. GNews API queries
+    for query in queries:
+        articles = fetch_gnews(query, country=country)
         for art in articles:
             if art["id"] not in seen_ids:
                 seen_ids.add(art["id"])
@@ -212,8 +244,13 @@ def fetch_sector(sector: str, sector_config: dict) -> list[dict]:
         # Small delay to avoid hammering the API
         time.sleep(1)
 
-    # 2. RSS feeds
-    for feed_url in sector_config.get("rss_feeds", []):
+    # 3. RSS feeds (region-specific)
+    if region.lower() == "india":
+        feeds = sector_config.get("rss_feeds_india", [])
+    else:
+        feeds = sector_config.get("rss_feeds", [])
+
+    for feed_url in feeds:
         articles = fetch_rss(feed_url)
         for art in articles:
             if art["id"] not in seen_ids:
@@ -221,12 +258,14 @@ def fetch_sector(sector: str, sector_config: dict) -> list[dict]:
                 all_articles.append(art)
 
     logger.info(
-        "Fetched %d new unique articles for [%s]", len(all_articles), sector
+        "Fetched %d new unique articles for [%s / %s]",
+        len(all_articles), sector, region,
     )
     return all_articles
 
 
-def merge_and_trim(existing: list[dict], new: list[dict], max_items: int) -> list[dict]:
+def merge_and_trim(existing: list[dict], new: list[dict],
+                   max_items: int) -> list[dict]:
     """Merge new articles into existing list, deduplicate, sort by date, trim."""
     seen_ids = set()
     merged = []
@@ -252,7 +291,7 @@ def merge_and_trim(existing: list[dict], new: list[dict], max_items: int) -> lis
 
 
 def run_all():
-    """Main entry point: fetch news for every sector and save."""
+    """Main entry point: fetch news for every sector × region and save."""
     logger.info("=" * 60)
     logger.info("Starting Sector News Tracker fetch run")
     logger.info("=" * 60)
@@ -266,18 +305,24 @@ def run_all():
     total_new = 0
 
     for sector, cfg in SECTORS.items():
-        logger.info("Processing sector: %s", sector)
-        existing = load_existing(sector)
-        new_articles = fetch_sector(sector, cfg)
-        merged = merge_and_trim(existing, new_articles, MAX_ARTICLES_PER_SECTOR)
-        save_articles(sector, merged)
-        total_new += len(new_articles)
+        for region_name, region_cfg in REGIONS.items():
+            logger.info("Processing: %s / %s", sector, region_name)
+            existing = load_existing(sector, region_name)
+            new_articles = fetch_sector(
+                sector, cfg, region_name, region_cfg["country"]
+            )
+            merged = merge_and_trim(
+                existing, new_articles, MAX_ARTICLES_PER_SECTOR
+            )
+            save_articles(sector, region_name, merged)
+            total_new += len(new_articles)
 
     # Write a metadata file with the last fetch timestamp
     meta_path = Path(DATA_DIR) / "_meta.json"
     meta = {
         "last_fetch": datetime.now(timezone.utc).isoformat(),
         "sectors_updated": list(SECTORS.keys()),
+        "regions_updated": list(REGIONS.keys()),
         "total_new_articles": total_new,
     }
     with open(meta_path, "w", encoding="utf-8") as f:
