@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWklaNlMzNFRJUXdMcV9vcDR4dzJUdjNJTjJvYmYxeWx6bW5lVWs0YTlkTXBaQkN5MHZzN2JjNE5IaGIwcWNoTFhyNHhRYVA0dmNodzAwNVlBRUhPRmJQM2JXaFBuc3hvTUU3aTJ1RllzN245cEhQOGxkVHpaeHRRYzdnSnlhWmtialBsQklzVklLeGtEM3Q3ZlBGdw?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 01:25:08 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962243+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007811+00:00"
   },
   {
     "id": "ca62432db43a",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGl4VHNCSHBBdnpKRXdDemNPVzNzNlVSREFVN3dtYzdid05GZkFYazJfelJEeDlqWDNfLTZaVjc3dkVvdFl4QkVpYkw3d2lZYURJM2ZVRHo3NlV1ekV3elBMNnc2VFB4ZWZYaTdOcUFnZGYtSUtkOXJLem12TU4wadIBhgFBVV95cUxQR2pEM1NMQUJlUHRYVmc1SVFubXdXUE5EdVYzdlZXX1lwZUUwM2VQYTM5a1U3OWR2WWJrcXY5cnBvLUo2dWl4aGNnNXVLa1ROT0w2NE9lc2RLUFVXNmhMbkJTSWQxZHRiUFNibkdqLUtXQ19Jd2VPSkVjQnJIVVBUUEpPMF9Jdw?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 12:30:01 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962279+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007852+00:00"
   },
   {
     "id": "c296abb83671",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1dIb2tkbC1uYkZuWEE0dC1PcVNHQXFXY2w1alNOSm1WS1NvbVVFTDVMcXpoc1JzUDhkcWFkUFdDU2w3ZG1haFA3S0I4c01vOXFmSzJpRkg0NUVrU18xV0o4OUlQTWNpWWtQYkZTU2NxT1B4NDExUXBmSUlhYzgxVGNNX04zYkl0RFFfTEJRVUxTRFc0QXJqR1FB?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 07:13:18 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962306+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007883+00:00"
   },
   {
     "id": "a14089b294f8",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EbFdfUVJHcXk3TkdsTjFmWmZpT3lvMEJVQjFfSFIzbmMxUkNrcGVpWHpoMzM3MWVzVGs1TWZBTGJFWEF5TVF4Vkl1OUQ5WFpITDVUd3pzU2hsMEs0RXcxMUdzbHZscDRJdUZ3cFA4TFB1d2VJREZpeEUtLW4?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 13:00:18 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962327+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007910+00:00"
   },
   {
     "id": "dee1a9032f04",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEpGZ1V3TmxsU1pWSG5fSVJHaGFOSWxkQVhJWFpqdVRjY1NDWGhZeDN1bmFjRWdTRTVWaWE1U0dHYkJaX0ZqckFza0FIRlpwZ2ZOLTZNa18wUWRiYml2Wm5vU2dkUDJXZ1NtOVVhbGlITUd3UkUzRC1DYTZQRlZXY2NzM0hWRjdWMnZ3OXlR?oc=5",
     "image": "",
     "published_at": "Tue, 03 Mar 2026 09:05:13 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962345+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007935+00:00"
   },
   {
     "id": "9ffe8fce8bfb",
@@ -57,7 +57,17 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJ5ZGFiSFVEaGNRS2N0Z1R4U2hxS1dPTzYzM2RLeHJsZ3ZNNllfaHNhLW92N2FBM21fMzlCYUVkU096cDIwWkN5bjJHVmFQVVpJaGMyN2tEWnRKckpzYjBsVWc1UVRrRi1aSEdaa2pWOW16TDFLUjl1bktnRnpjMHYzY2VMb1NtUDlTR25YMWxEZzl1S2IyTmNJTkdlTjBNa2todkh4M29yRGg5M1daa1VueGpQVm1nNkFDWUFjdEJxdw?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 16:00:00 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962360+00:00"
+    "fetched_at": "2026-03-04T21:04:51.007956+00:00"
+  },
+  {
+    "id": "533e7e310184",
+    "title": "Altitude House Buyers Addresses New Hampshire Housing Market Challenges with Fast Cash Solutions",
+    "source": "Treasure Coast News",
+    "summary": "Altitude House Buyers Addresses New Hampshire Housing Market Challenges with Fast Cash Solutions&nbsp;&nbsp;Treasure Coast News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHBzUlJZa2gtQnd3cXdMRld2UjJGLWc0Smc5MkdZc1RVYXV2TEI1c2tBQkJ0TTFpcS1TOHdEYy1PNVZyM29Yb05VbzJEX2c1TTYtMktSOUZEZHY0OGtDaHRFNzVXbnZYSl9GcFZGMzAzTXNaWTRiZW02SzItNW1mQXplMFJiQldReVZEcjFqTExpMEM1UF9ZMG9MUWRYeXNkUFlPMW5USFVIbldQUFRxaGpLX0hwc19LdkFIRHJPLURGWXM5MjhwVkExWXpfb0hNVWhLWjRiM3ZmejdsWV9z?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 20:28:30 GMT",
+    "fetched_at": "2026-03-04T21:04:51.007983+00:00"
   },
   {
     "id": "369ca1624189",
@@ -67,7 +77,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkJBWnFzcmY2VndtREdBbThrR2o1cEhTS01YMW1VV19GbTVVeVJIVm9EVUVMSVZDMnlkOUhfaVFsaFRIZmMxOWlwLTRUajYxcmxYNXg3dms5LWkxT3VpZ0h3ZmpIT29zck9BOGUzV21RdHJHUC1EY1JtYlR6aFEwRFZJMmxuNk1qNUdTNFZPcWRtOGtOM05FQjdVM0o4dHgxczdiQ1AtcW9Gdk1fdzdOVGhqSQ?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 17:35:40 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962376+00:00"
+    "fetched_at": "2026-03-04T21:04:51.008008+00:00"
   },
   {
     "id": "053773cea291",
@@ -77,7 +87,7 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWVKWnJPMFc2Z09iY0F2bHFZLUNRVldkamtRVUFmN1gta1g1WV9pWjRXR1A3c3pSVUdOTlZlZG5IWkZfXzNZdDZmX2h2T0FjVDNHWThPY0FfZjl4cE41LXV6WWpQRkVMeEZYbDZIaHBPNlBGSTF3WGxOdEtwRzNkNEt0cUV2cjJ5dVUyTzR3emZHUEtYVlUzeGtaVXRsNWM?oc=5",
     "image": "",
     "published_at": "Wed, 04 Mar 2026 00:04:00 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962390+00:00"
+    "fetched_at": "2026-03-04T21:04:51.008030+00:00"
   },
   {
     "id": "baa04e9dec52",
@@ -87,7 +97,107 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzJ1LTNJVnUyRkdXVTBYQmYwNmw2MFllaHlzZ09XWHEyN20yb1FPcW1NZHp1WEt1eC0wUHZjb2hBVVF4MDVVbkRFVk1RQkQ5TENKSm5sZE56Q282LWVxYWhQbllTWnRSaWpCeGEyak1OdDUzTTRPbEZVZWNKSDlqbWNYNGU2X1JlcnU3UmRuY0JUQ0MxZ1lSckYyVjVoNWpaM0VuMmlkeEFZUnh4cTJNOEx1OFFSYUJ6LTA5VjFIWmhfRzU5bHc?oc=5",
     "image": "",
     "published_at": "Tue, 03 Mar 2026 09:04:00 GMT",
-    "fetched_at": "2026-03-04T19:54:00.962407+00:00"
+    "fetched_at": "2026-03-04T21:04:51.008056+00:00"
+  },
+  {
+    "id": "602ab8c8f53c",
+    "title": "New Zealand House Prices Edge Higher, While Buyers Stay Cautious",
+    "source": "Bloomberg",
+    "summary": "New Zealand House Prices Edge Higher, While Buyers Stay Cautious&nbsp;&nbsp;Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2NxTXc3MHI1NkVvblptbllzTEluYlNKMzhOek5HTXAwdHdFR3BRMHd6dGxLNWdDaW1CNUo4ZThoS015UUpOR3ZuYWc3dXFMZDhhcXE2NkgtUmd3VVRZWlR4YzRBVVAtZklFUmdUdVo5cHhkVTBDUDM5RktXMmhtUTdjRkRLb1RCVnkzYW9XREZ2djR4R21NQU5yU0VWWjZLSXA5VHRVa2dQSWJjYkNhTXpyUGI?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 19:00:00 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978675+00:00"
+  },
+  {
+    "id": "f7cf155d3d84",
+    "title": "The 1.8 Million 'Missing' Households: Why Gen Z and Millennials Vanished From the Housing Market in 2025",
+    "source": "Realtor.com",
+    "summary": "The 1.8 Million 'Missing' Households: Why Gen Z and Millennials Vanished From the Housing Market in 2025&nbsp;&nbsp;Realtor.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlpYMzdFSThubF80Q21sWXByOVZfaG16TENvZ0FrNWg2dVgyZGFhSUNfUk8zVklWNHh4WEdLUGVQZW1iMDJwM0xKNmpaV3dTdERwU1FRUTU0ZEdxVzNWVFR1NDNrM1FxTVJqS0NwbmFaaFFJTkU0WkN2WFJKZS1QcFFBcFU2TlN5U3hRa2lOdmoxRE1Ba3NITV9ZRWJ3OUk?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Mar 2026 07:13:12 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978720+00:00"
+  },
+  {
+    "id": "9baa98a936f7",
+    "title": "Key Trends and Emerging Changes Shaping the Property Restoration Services Market Landscape",
+    "source": "openPR.com",
+    "summary": "Key Trends and Emerging Changes Shaping the Property Restoration Services Market Landscape&nbsp;&nbsp;openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUlDUVotOHBVZXU3X3NRRFZVRTZnSXpZOTZ4dmU1X0NPOGJOTnhxdmEwR3hoY0lOTFhQMDdtckN5VDNhSEFvOXdHOUNPTVZaaGtoWTlFU3o1eXE0VW05cUx3T1RIZHU1MzkzYnI0eXBuUlJJWEw3N3RHUm9DX19tWC05V0FWSGpXbk80QS1FUUpKQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 05:41:34 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978748+00:00"
+  },
+  {
+    "id": "c6bf532f1c4e",
+    "title": "Physical Intellectual Property (IP) Business Analysis",
+    "source": "GlobeNewswire",
+    "summary": "Physical Intellectual Property (IP) Business Analysis&nbsp;&nbsp;GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOZmxqVGRLWWF5TVV4cDlvczBRWm92X3hpOE81QWpQZ191ZTQ1ZGNpT0RqSTV4V1B4RVU5VHI1Mnc3MlZDaDlyLXA0cmctSHBMa3p0S2M1Y0JWVGQ4VHk2ZktlSEFDeFFIeHJQUy1jQlRkN1duaEtBZ3BKeEp0N2doQi1WRTBmYXJOZGVvTHo1dnNucVpfVVRIblpxSGFvN0lpVnlTVVNzTk1HUWsxeUM2MVJQWXB4ZUtrY2tWZlM4TjdjYmVfQ2lON191Y29RNzlxMlVMZ1lKejVmRU51ejBTZ2g5WExyZTl0aFpXb1NCV0pVN2FRUEV3RmtEb2VlN25DdWNDMnRHUUY3WlpLTWQ5aDFGOEZhX3FXQkQ0NTN3ejNoNE9GTnB3OU5xaFdpNUdvSHNhbEFCZHdzTElEb0FKSjZIWU1rU1BBT0kxV2dObjc2ajVrTzBVUFBXVzlHcFQ5Ty1wTDFSczg5YktD?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 10:40:43 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978769+00:00"
+  },
+  {
+    "id": "d44e04a3da46",
+    "title": "The outlook for the US housing market in 2026",
+    "source": "J.P. Morgan",
+    "summary": "The outlook for the US housing market in 2026&nbsp;&nbsp;J.P. Morgan",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUFjbHhrb3BhWG9aTlJFSXRQWmNPa2RmVnJYX2dNcGpBU2xEVWNrOTJIX3FYTFlJOW1TOHExVk56U2JBdXM4d3FWNkk3cnViM1VrRnlCXzMwSWctM3gxeHFIZWw3dzlIb0VKTzNYcFk5NEpQYWQyOHQ4UnY5WUhGaHdRdXBHN25TS2lVc3VDUW0?oc=5",
+    "image": "",
+    "published_at": "Tue, 27 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978790+00:00"
+  },
+  {
+    "id": "1ced9007b3d6",
+    "title": "Middle East conflict threatens UK property market stability",
+    "source": "PropertyWire",
+    "summary": "Middle East conflict threatens UK property market stability&nbsp;&nbsp;PropertyWire",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnRQWjNWQmpyOFRienpzRGI0cDhTc0ZEbExxTHNDbXQybkpyWW1aSHpObTBkLTc2QncxX3A5Tmc1T3VSbW0tZlVlRWt4WlNZN3dxQ1lRN0xISE1xcGR1dDQ4dTA3NzBpYklqMlR5SDdmNXRVcTJrU1BpZTFtbDJkblgxRldnQkk0YlhpbGZFeVU0UkdPX2lXbzBR?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 20:03:01 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978811+00:00"
+  },
+  {
+    "id": "6a967bd96a2c",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978833+00:00"
+  },
+  {
+    "id": "739b67fe3490",
+    "title": "Global Real Estate Outlook",
+    "source": "JLL",
+    "summary": "Global Real Estate Outlook&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978849+00:00"
+  },
+  {
+    "id": "6e7363125a67",
+    "title": "Emerging Trends in Real Estate® 2026",
+    "source": "PwC",
+    "summary": "Emerging Trends in Real Estate® 2026&nbsp;&nbsp;PwC",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDN3dUZtSjhOUThqemdyV1g3eVpBc1dXTGxsaUVlMWNOZG5PMFlCMW1iMUR0d0dyNTVXa3NwZVI1azZYeHhWdEFpUGlXSFRsRXFDMXZVWmtPQm5MYzZzZ1R5bHdxVDUzOV95REQ0ZG5QZHlIRmhiRFJCSGpTYVY0ZmFtRXZCaTJmaG12MVNPRE5rRV92clZudTRQU3RrYXZwdWNDeF9ubU1ueVNlZWNsZzhLUTZ2VzBud1NrTFdIdmFQclVaLWl2c1c3TlBHUE8x?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Nov 2025 18:02:09 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978871+00:00"
+  },
+  {
+    "id": "9d281ba3871e",
+    "title": "New Zealand tests ‘houseless’ recovery as spending outpaces property prices",
+    "source": "mpamag.com",
+    "summary": "New Zealand tests ‘houseless’ recovery as spending outpaces property prices&nbsp;&nbsp;mpamag.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmpQemdNU1ZJaV9MczBTb2xsbXBDODNJUFBXSzNNSHEwa3dLUmMxTkR5RzllSnhfdEZfQm9MOGlZWVA1SnJ1UU5obW1qQXpNNnhJaTBkUmo0VmF5QUxXQXJpeXMyRVJLTEVrM2hweWdPNkRXMElpREE4Wml3NnFQamFrN083YkJJRDR3Nmp3TVI3QjFxRVRpTEhic01GOURiM0JwVERjNHBwQTZMRmJQTzhmSmdtVEVOeHpR?oc=5",
+    "image": "",
+    "published_at": "Mon, 02 Mar 2026 07:22:24 GMT",
+    "fetched_at": "2026-03-04T21:04:51.978902+00:00"
   },
   {
     "id": "fa9656e4d64f",
@@ -98,76 +208,6 @@
     "image": "",
     "published_at": "Mon, 02 Mar 2026 19:38:44 GMT",
     "fetched_at": "2026-03-04T19:54:00.962422+00:00"
-  },
-  {
-    "id": "9baa98a936f7",
-    "title": "Key Trends and Emerging Changes Shaping the Property Restoration Services Market Landscape",
-    "source": "openPR.com",
-    "summary": "Key Trends and Emerging Changes Shaping the Property Restoration Services Market Landscape&nbsp;&nbsp;openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUlDUVotOHBVZXU3X3NRRFZVRTZnSXpZOTZ4dmU1X0NPOGJOTnhxdmEwR3hoY0lOTFhQMDdtckN5VDNhSEFvOXdHOUNPTVZaaGtoWTlFU3o1eXE0VW05cUx3T1RIZHU1MzkzYnI0eXBuUlJJWEw3N3RHUm9DX19tWC05V0FWSGpXbk80QS1FUUpKQQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 05:41:34 GMT",
-    "fetched_at": "2026-03-04T19:54:01.964951+00:00"
-  },
-  {
-    "id": "f7cf155d3d84",
-    "title": "The 1.8 Million 'Missing' Households: Why Gen Z and Millennials Vanished From the Housing Market in 2025",
-    "source": "Realtor.com",
-    "summary": "The 1.8 Million 'Missing' Households: Why Gen Z and Millennials Vanished From the Housing Market in 2025&nbsp;&nbsp;Realtor.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlpYMzdFSThubF80Q21sWXByOVZfaG16TENvZ0FrNWg2dVgyZGFhSUNfUk8zVklWNHh4WEdLUGVQZW1iMDJwM0xKNmpaV3dTdERwU1FRUTU0ZEdxVzNWVFR1NDNrM1FxTVJqS0NwbmFaaFFJTkU0WkN2WFJKZS1QcFFBcFU2TlN5U3hRa2lOdmoxRE1Ba3NITV9ZRWJ3OUk?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Mar 2026 07:13:12 GMT",
-    "fetched_at": "2026-03-04T19:54:01.964985+00:00"
-  },
-  {
-    "id": "c6bf532f1c4e",
-    "title": "Physical Intellectual Property (IP) Business Analysis",
-    "source": "GlobeNewswire",
-    "summary": "Physical Intellectual Property (IP) Business Analysis&nbsp;&nbsp;GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOZmxqVGRLWWF5TVV4cDlvczBRWm92X3hpOE81QWpQZ191ZTQ1ZGNpT0RqSTV4V1B4RVU5VHI1Mnc3MlZDaDlyLXA0cmctSHBMa3p0S2M1Y0JWVGQ4VHk2ZktlSEFDeFFIeHJQUy1jQlRkN1duaEtBZ3BKeEp0N2doQi1WRTBmYXJOZGVvTHo1dnNucVpfVVRIblpxSGFvN0lpVnlTVVNzTk1HUWsxeUM2MVJQWXB4ZUtrY2tWZlM4TjdjYmVfQ2lON191Y29RNzlxMlVMZ1lKejVmRU51ejBTZ2g5WExyZTl0aFpXb1NCV0pVN2FRUEV3RmtEb2VlN25DdWNDMnRHUUY3WlpLTWQ5aDFGOEZhX3FXQkQ0NTN3ejNoNE9GTnB3OU5xaFdpNUdvSHNhbEFCZHdzTElEb0FKSjZIWU1rU1BBT0kxV2dObjc2ajVrTzBVUFBXVzlHcFQ5Ty1wTDFSczg5YktD?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 10:40:43 GMT",
-    "fetched_at": "2026-03-04T19:54:01.965001+00:00"
-  },
-  {
-    "id": "d44e04a3da46",
-    "title": "The outlook for the US housing market in 2026",
-    "source": "J.P. Morgan",
-    "summary": "The outlook for the US housing market in 2026&nbsp;&nbsp;J.P. Morgan",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUFjbHhrb3BhWG9aTlJFSXRQWmNPa2RmVnJYX2dNcGpBU2xEVWNrOTJIX3FYTFlJOW1TOHExVk56U2JBdXM4d3FWNkk3cnViM1VrRnlCXzMwSWctM3gxeHFIZWw3dzlIb0VKTzNYcFk5NEpQYWQyOHQ4UnY5WUhGaHdRdXBHN25TS2lVc3VDUW0?oc=5",
-    "image": "",
-    "published_at": "Tue, 27 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-04T19:54:01.965017+00:00"
-  },
-  {
-    "id": "6a967bd96a2c",
-    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-    "source": "Forbes",
-    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-04T19:54:01.965032+00:00"
-  },
-  {
-    "id": "9d281ba3871e",
-    "title": "New Zealand tests ‘houseless’ recovery as spending outpaces property prices",
-    "source": "mpamag.com",
-    "summary": "New Zealand tests ‘houseless’ recovery as spending outpaces property prices&nbsp;&nbsp;mpamag.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmpQemdNU1ZJaV9MczBTb2xsbXBDODNJUFBXSzNNSHEwa3dLUmMxTkR5RzllSnhfdEZfQm9MOGlZWVA1SnJ1UU5obW1qQXpNNnhJaTBkUmo0VmF5QUxXQXJpeXMyRVJLTEVrM2hweWdPNkRXMElpREE4Wml3NnFQamFrN083YkJJRDR3Nmp3TVI3QjFxRVRpTEhic01GOURiM0JwVERjNHBwQTZMRmJQTzhmSmdtVEVOeHpR?oc=5",
-    "image": "",
-    "published_at": "Mon, 02 Mar 2026 07:22:24 GMT",
-    "fetched_at": "2026-03-04T19:54:01.965057+00:00"
-  },
-  {
-    "id": "6e7363125a67",
-    "title": "Emerging Trends in Real Estate® 2026",
-    "source": "PwC",
-    "summary": "Emerging Trends in Real Estate® 2026&nbsp;&nbsp;PwC",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDN3dUZtSjhOUThqemdyV1g3eVpBc1dXTGxsaUVlMWNOZG5PMFlCMW1iMUR0d0dyNTVXa3NwZVI1azZYeHhWdEFpUGlXSFRsRXFDMXZVWmtPQm5MYzZzZ1R5bHdxVDUzOV95REQ0ZG5QZHlIRmhiRFJCSGpTYVY0ZmFtRXZCaTJmaG12MVNPRE5rRV92clZudTRQU3RrYXZwdWNDeF9ubU1ueVNlZWNsZzhLUTZ2VzBud1NrTFdIdmFQclVaLWl2c1c3TlBHUE8x?oc=5",
-    "image": "",
-    "published_at": "Wed, 05 Nov 2025 18:02:09 GMT",
-    "fetched_at": "2026-03-04T19:54:01.965073+00:00"
   },
   {
     "id": "ebce41460318",
@@ -308,16 +348,6 @@
     "image": "",
     "published_at": "Tue, 03 Mar 2026 19:13:14 GMT",
     "fetched_at": "2026-03-04T07:55:43.904239+00:00"
-  },
-  {
-    "id": "739b67fe3490",
-    "title": "Global Real Estate Outlook",
-    "source": "JLL",
-    "summary": "Global Real Estate Outlook&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-04T07:55:43.904307+00:00"
   },
   {
     "id": "f5d0dc415ba6",
@@ -468,35 +498,5 @@
     "image": "",
     "published_at": "Wed, 25 Feb 2026 10:05:00 GMT",
     "fetched_at": "2026-03-03T10:09:12.376091+00:00"
-  },
-  {
-    "id": "9bd5620fdcfb",
-    "title": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis",
-    "source": "MarketWatch",
-    "summary": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis&nbsp;&nbsp;MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYUV3cHltX053Tmd5Mk9uaGM0V0pXcW9pX3FjcWtzRmJpeVJBb18wZkppQ1g1aDZpaWV6bElOMmg1VlVQbDFSNzEtSGlxRUJEbTk0UGNfRTR1MkRPM0F6UVYzaEhMZEh5ckFmd0otcW5nQnRMVTM0S2NMVGxHTlRfN1dGZjFlaDNUcUY2bWRxWmdIQWlkY2xIVER1TFQ0dExUb3JGaUducm1PN0djc0FpUzFVLWtSaVFfNVBPNlJ1SDg5MHQ5WGhGQ0g4TUN6aGFEVmJ5aFR0YUo2amhSRlFWc0RvQlpjSkNySWRjOUF1elU5bUVQY0wyYUZ5Y0dHY18wOHE3T2xGZUVJTG9yUXB1LThBalEybFZvUlNKclkyazAyM1BqbUN5ODdINHhlcndvVkpRNzFmUFVGVzF2dnVCQ29rMXZrd0pYUTBBb0NlY21RUURFOC1HZ0ZzSndhbE8zd09GdWY4bG9jQ2xkLThoZW9fS3NaQmVuYTN4aWhxOUR6VWlHZE5UODFFejFKMEU1dkpzSzVuSm44SDJBZ0JnTTg0amRVVm8zdVZjc3hFaFhsb05oakhnUk5vNWpsRkU?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Feb 2026 14:00:00 GMT",
-    "fetched_at": "2026-03-03T10:09:12.376110+00:00"
-  },
-  {
-    "id": "0ee66263099e",
-    "title": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis",
-    "source": "MarketWatch",
-    "summary": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis&nbsp;&nbsp;MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNX1htV0Jwd1lyc2JBTnF0T0c4ajJmc0RTc0h4ckhYYjdCY0U2bTlOMGU0SmNTdF9xM3dZSzBFM1Q5dVQzcTR5ZHpVMWhqbGFnbXFCM3Y0VFJ3SlFBQVBua21UM3pRb0FkT3FmTk8wZW9HZXY2eWg2TXZRcGtDWTFjT0V4ZUpkUkN3bksxTFVSY1VDR09JMlFFcC1GUDJ3clVKOVJOQno3UDFpY2NQSmtISzdOX2VNZDQzQ09KWFNfaHJ4YVJ5X2R5c1RtbEw2UE1tbVQ2XzJuRXctLXZhVGFqNTV6TURlbnVWNkRtdFBWQ0paNkJXZWtBbkdQakJqeUszaW1mNllSZ3owOXRfRTVmMTJZUFphRWt3aHBlSGY1UzlvZzg4NER4SElLZzc0R0E4NzBwTlkwY2lvSzU3NFF6YWFuNXlTVHV1SWVzMEliWW5JVnRXOVVKWDJZdlgxdmF1SXlsd1hkaGVmSm5qSUJSVDU1dTV5S3cxRDJzVmFLbm84Ujc5V3RGZHN0RjJ4QjBUd0lGc0JuVEFuODh6X1JBOWVVVjlraGE1SVplOGRLSzF3enBNNldsNEtVUFZHLXc?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Feb 2026 14:00:00 GMT",
-    "fetched_at": "2026-03-03T07:59:38.269595+00:00"
-  },
-  {
-    "id": "1a48fb843d03",
-    "title": "Housing Market Overview - H2 2025",
-    "source": "JLL",
-    "summary": "Housing Market Overview - H2 2025&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PSFZPNjZ5blpKc3AyYkNWN3NxdENKUXR4X2JyVU9ya0kwdXFHX3BjVnBDYUkzMnQ4Z0lDb1daZzh1c3VTYWEyNXpHQ0ZfYnBtMXBjbmlYYjVLVmV5OTg5MHNodTJiU0Q4bU5sdnZhM2hRVHRMY0h6aA?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-03T07:59:39.341418+00:00"
   }
 ]
