@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHExemdWdXNVNlJVZHplaTNMZ1B4TGo3bkwyWktjcWtPd1RaTEd5SWw4WnJReVBaUW5DN2p3RDhJcUNVUkJWczU3bGxSMDJKUWVXYUFfVjBMUFo5OFdpMGdjWmk0SWRPZE9Xd0xxZzU3UENpYU5sUExVbkMtRDhkRnRQSkJaWWkzODllWUUyNDBmcVU?oc=5",
     "image": "",
     "published_at": "Sat, 07 Mar 2026 13:54:00 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814560+00:00"
+    "fetched_at": "2026-03-08T07:46:11.348206+00:00"
   },
   {
     "id": "7516b95e5698",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5",
     "image": "",
     "published_at": "Mon, 02 Mar 2026 23:03:25 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814590+00:00"
+    "fetched_at": "2026-03-08T07:46:11.348236+00:00"
   },
   {
     "id": "325336030fa7",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBndzJYbXY4bTVMaHV3a1FsQU82OC16U0JKWTBPazM3QWw2a3g1ZEJmQURHSk9UNjJyaC1lSDZCOE9pYmJ5U0t3aWt2c1hfbU1hRjBrUldsVUtJV1FMVnQ1UGVsa1RpZjFXbUpLazM0WTBVaFpteElFX0dFNXE?oc=5",
     "image": "",
     "published_at": "Thu, 05 Mar 2026 18:56:15 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814608+00:00"
+    "fetched_at": "2026-03-08T07:46:11.348253+00:00"
   },
   {
     "id": "a6a4afdc0515",
@@ -37,7 +37,167 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWZnUnlhS1YzUzNvQ2JWWUREb2VYNHFvTjZkaWJNV3gwNktwcEpIQVpkUmJCb3Y1aDU0ejBzeHZuTUNoSS16cnU4VEdyRzNZN2VoQjNpMkd1SEFsQ2NPdnMyTjA1aF8yOVRYeExZR1pHNzUzQkJTbGtkYVllenJHX2JURUo1Yk13dVhxTzcyXzE?oc=5",
     "image": "",
     "published_at": "Thu, 04 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814627+00:00"
+    "fetched_at": "2026-03-08T07:46:11.348271+00:00"
+  },
+  {
+    "id": "4e9bb1585b66",
+    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
+    "source": "Courier & Press",
+    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Courier & Press",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWWVSb1hhdHFKUmRlR282LWZXUkp4OUlydV9JRm9EMHU4bTdmb0dLMnZrcV9SQmNEemNRMmIzYnpwNTA0TEdQN280eU9tRVJBOTliQUxzcjExYXN5UXRIRk1VZ2hVRjFQY0dNYTdneGFuU1Jvcnl6eTBfb1BSQzVrV1dSanpjU2lEemNjMGVDOHU5YXQ3S3ktb2xMTjVGN053V0F0QWJCbXl3TFFEMVY5STFFSXJCbEJCanV2UG9CZXhSMGdzQnpldjAzQ1FLaFNKb21TNl81RWRMOThDcjNXU0JmUW1XV0E?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Mar 2026 11:17:47 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348290+00:00"
+  },
+  {
+    "id": "b23f43b99708",
+    "title": "Brazil ends 2025 with over 68% 5G coverage",
+    "source": "Telecompaper",
+    "summary": "Brazil ends 2025 with over 68% 5G coverage&nbsp;&nbsp;Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEdsdGtycEtGVmFUNGY0czk3dnhRQzdSdGR4N1JPNjVwUmwxcGFjdTlZdHo5bElLVEdKNFNObzg2c2NLTm1Uei05VlBrLU1zVTM1MXFlU1NrVTVMOHI2Y2JWbkhBalJ2d04wajNZWGFQYmkxaGF5Q0lkTFZKQnJON2xwb3JKdmVDUlB6Rw?oc=5",
+    "image": "",
+    "published_at": "Fri, 06 Mar 2026 10:04:45 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348302+00:00"
+  },
+  {
+    "id": "16c4bcc9726a",
+    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
+    "source": "The Destin Log",
+    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;The Destin Log",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3kwZVJJM2VEUzIxSGljMHQ2U2Q5azdTVmZkMXBZS0oyYzNvQXBHbVA4S2YzS0toQlFOaV9BZXFFTTlNblZfbDNVN2stYW5oVmNwN3J2MzFxYjkxSEF0U1dBT3VuVy15dTRYQ1ZuNWFneDIwZmVlVHNXUWp5dW54YTdRd0V5dThZeFpoMHp3TGpRdHVuNDNKVXVQdGVZdXdaaXhHRU9sR1FZSUVvbldvQkExeVQzR1l6OHBaS2ktRmdpX2wta04tcWR0QmJYaEw5bnZtYk9GeDQydW5VVjZQb25vUWNDd00?oc=5",
+    "image": "",
+    "published_at": "Sat, 28 Feb 2026 17:23:50 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348336+00:00"
+  },
+  {
+    "id": "0909ee34b2ae",
+    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
+    "source": "Morris County NJ News | Daily Record",
+    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Morris County NJ News | Daily Record",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNTExM0pMTXk4ajhVYkFFR0FOeVBXUndMM3ZDcEJaMWc3clY0N05XU3l3cFY5MVp0UnQyTWRvZEJMMzczYXMtUE15ZFpvckJSX056aEQxTXlSeWlwVHpIeVdjQWEwdlBWWHFTZ0loZnEyRno5cXpKVXpFVU4wUEJHalJsMlNTR2d3NUlLRUFXd240R2JIQ3lkR3FRU1NTZUsxaXhQblNYbzh0bjZheFBSQzRUc1hGSXBIaXZGN0EzZXo2Mnl4UmlwaTMyVU5RN2ZqRmZMbktITVNaakJENzloMmV1SEFqZw?oc=5",
+    "image": "",
+    "published_at": "Sat, 28 Feb 2026 11:02:26 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348354+00:00"
+  },
+  {
+    "id": "3e178254d961",
+    "title": "Ghana's shared 5G network goes live but its future is uncertain",
+    "source": "Telecoms",
+    "summary": "Ghana's shared 5G network goes live but its future is uncertain&nbsp;&nbsp;Telecoms",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0RiY0hZZEpBU1NCR1ZGTS12MUV5WkIzOTlybHZqQnhsUEJWWTlySHQydWtjUE5zZm1iRm5RbW9RaVBiWkt5c0l4UVYzeFJJTnpuNmI3bkVhNkFYeGZpQ2RsbERuTVptbUw5enFleXRTN1NFT3Rpcjc3Z05xTzV2U2dEZFFjazhwMVhPNExWWTVqVHByS3ByNXNR?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Mar 2026 11:21:10 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348368+00:00"
+  },
+  {
+    "id": "0024025afde4",
+    "title": "Telecommunications Industry Statistics (2026)",
+    "source": "tridenstechnology.com",
+    "summary": "Telecommunications Industry Statistics (2026)&nbsp;&nbsp;tridenstechnology.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ2FlV1owa3RFNF9fSXdpN2V0aGduWWh5MGVlNG1lNkdqcGc2OFcwT3NGd3JxNWFNaEREa3ZwcVZQOFd4TTBibkx6bDlmNTVIN3VLTUJCMldRVVNrNEJpN2RxZHliT0JqQ1BkZEtFMmtJVXVmSzhxZw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-08T07:46:11.348379+00:00"
+  },
+  {
+    "id": "5e3aeb74a49e",
+    "title": "Where telecommunications companies can grow in the future",
+    "source": "KPMG",
+    "summary": "Where telecommunications companies can grow in the future&nbsp;&nbsp;KPMG",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGVXaFI4ZWcwYzlSOHc4YnNieExvQ0dQa1YtRVVjWHBsdDRhMXptSDQ3c09HbnE4WnR5MHdRNjhaM1RRMHVNblZLM2ZQRmY1RkgwajFTUE54MHp4Sk5PQ1F1dk0wcnNRTnZPNGVFb2hVN0VvMjZBVndBQmExWUJtSklJSVQzM1A1WS1TTE5jZG9mRlhaQ2k4azBiWnQwSG5RRWh5MExYWVJMSVhpQnQ1U0l3TGF6LVdkQnlwYnBMMA?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 15:47:07 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288379+00:00"
+  },
+  {
+    "id": "080a5dda8175",
+    "title": "York County libraries offer free hotspot checkouts through Mission Telecom partnership",
+    "source": "WBTV",
+    "summary": "York County libraries offer free hotspot checkouts through Mission Telecom partnership&nbsp;&nbsp;WBTV",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3p2Y0puNlN2bDgtUHVjTXI0eHlhRWlESWdLWkhrSkFpamd6a1VFUmplNUE3Wjc1ZF9abTV1VkNBYWV5OTVzazd5YlhCNTJJaDNfZkFyTWE3T2VESEM3TWNwSDFKNmJiRTd5QlM1Mmpad2dVRjlUQUJqZlI3MWloTTZqdUhzQUpzMjhjYTJWY040UXNPaG1fT2F1ZmMtSllZMlVSMnU3OWZXZUFGWXA3VDFCWUZzeG1nSmI00gHPAUFVX3lxTFBOa1ctckc5ZVF3UWlNdExQUjZVZzYwdXN6dVdQMjZVbE1YenRuRjZYdnJ1WXBxZjM3cUJRQkp0bWF0X01wZC1HeERjTW1GZXh1Y3dfOFpMa1VTS2ZYMUp3c3hFaXhzRU52d3FqUjF5YXlNSTlmdkFWbkd5eURzUjY0RzM0UkFlMlV0dk5Mc3dRYm1zSnpoVnU2N0tTbjFuN1BJTXg5QW9CR29adDMzT01GUnZTSVpSMnpVci1iSTB3U1dxTmpWYnNrU1J1RWVoaw?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 23:36:00 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288406+00:00"
+  },
+  {
+    "id": "d743d826fd87",
+    "title": "Peru moves to unlock telecom innovation, ease business models",
+    "source": "BNamericas",
+    "summary": "Peru moves to unlock telecom innovation, ease business models&nbsp;&nbsp;BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2xPM2lQWXBpYzBDOHRYV1ZUUzdRQ2lwU09OV2VIYjdidG5rYTN1V3Nfd0p5eUN2TnR1MllheS1qTFlvR1RQTndrTlFyNGFwSUlCQjZtN0Jhai1ZM2FxS0dIR3hsZkxYSFdwbzd1c2M4YlJ2TksxTGUtQUVERXhBdXRWa2EzellqaGxmMjNOWVdmZkZFSGw0M1dGWQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 17:09:54 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288421+00:00"
+  },
+  {
+    "id": "db30e59d0108",
+    "title": "The Strategic Role of Telecom Providers Across the AI Value Chain",
+    "source": "El Foro Económico Mundial",
+    "summary": "The Strategic Role of Telecom Providers Across the AI Value Chain&nbsp;&nbsp;El Foro Económico Mundial",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDUzTjFSY1IzOVhEUzg4cEpSbUhPVG9hd0ZrNjdvLVIxNTRHM2xtOVV4cnJtcnM0RU02VWYxUkVWNjdQWUtsVGRuZDFuaExOWHdHZ3BTZ1hGUjF4b2IwTUtLaXItOTlJU1lNc3RldGFCdWZjUURLazdtSFd0VGpraU9URFhYZGhCbGRFS1NOdTRGMjhydGRYWG5fNWg5VFdnUWFPWA?oc=5",
+    "image": "",
+    "published_at": "Thu, 26 Feb 2026 09:44:11 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288445+00:00"
+  },
+  {
+    "id": "f12d866abac5",
+    "title": "LG Uplus sets out plan to become global AI software company",
+    "source": "Telecompaper",
+    "summary": "LG Uplus sets out plan to become global AI software company&nbsp;&nbsp;Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2ZmUWJzWGltWk9lWkRSYjdkS29FaS1TLTdEWUs4c2ZYTURTYlQ0aDhZTDFMc2VwRGtadzRjUVF0WjRUMFM4NzdZQVR1aFh4QUxOSWNkbkFPNEtMNDVVajNoOWkwaEN3YlVtRXk3b29ldHZWR2hoMXIwbV9Pa1JsT0FqR0lpbFI0TFd2WTk1NkF6cndhU05pMUFDVDNDZTN5Q01NUw?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Mar 2026 05:40:46 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288459+00:00"
+  },
+  {
+    "id": "602dbc1ab2da",
+    "title": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing",
+    "source": "WSJ",
+    "summary": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing&nbsp;&nbsp;WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOZ19jT3ZieDhJUDFmNjl0OXljM294S1d2cFVMakh2cWhPdFlsUGJaZnZpbkdLTUhSbld3bmRFMml0SDQ1aGdxV3E0NkhBekFwMnlIemdOTGV0ZndTYkdjVUNqTi1QbU54SmFWd0h1ZnExS1VFeWx2LWJ5dzBlVlNlaGU0RDN3N3J5OURJLTF0dEQ2d2pnUDZxTk5ROHMxM2hpMmpFdksyUE9UdnJtTW90cjVjMXM0TTY4M2FZOWlIUkpwWllWZ1J2Y0FpaW84Y3NHZ0xEV2JsUkxZdldtWktZWXBMemhSTWwtTVByVmlsMWRFMENKUkpSWGgyRzFGS0JIVFltN25WdkdRTjZGcGpYN1BDNGI3QTZyMHBZc3haeFZCMTJsclBWQlJQd2RkZTFmcE02cUlVVS0zT0NlQThZTzN2MFE3S0FXX1B5S2g0Rk5xeF82SFVrNzdUeEhyWkdNQkRFeURmQ250Q0dyNUlSdHRxSTBHclljelpWcTFVLWl1X0hHV0VnYmRQX0ltY3AyUWc2TUt2UGNzazJ0RHVzTHdEaDAyUGhCZTlFVVVn?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Oct 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288474+00:00"
+  },
+  {
+    "id": "1b3b965f5610",
+    "title": "Attorney General Jeff Jackson Wins Judgment Forcing Robocaller Out of Telecommunications Business",
+    "source": "NCDOJ (.gov)",
+    "summary": "Attorney General Jeff Jackson Wins Judgment Forcing Robocaller Out of Telecommunications Business&nbsp;&nbsp;NCDOJ (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUhsZHlRTklLWmNaNmNYZm54OEc4S3lYR2FLQUQyTzBjZXBzbUR3V1ZFajZ4Um1sOFFGYjF3NHlJMGtXM0VreUppZHU4UC1nems0bEZ3SmhyTFR6WUFmVDREaFVXYkZTR1JTeC1kbjI0bnpJNzJtN01VM3RMQnF6T3R2dmFwZXdFcWp3eWZmRkVWanU1cUROOGQxZk1fSVNUQjVkeEdDWE5ZM0kzY0UwbUhhS1lzUE0?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 May 2025 15:26:51 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288490+00:00"
+  },
+  {
+    "id": "7d2188fcb0f9",
+    "title": "Shenandoah Telecommunications Company Q4 2025 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "summary": "Shenandoah Telecommunications Company Q4 2025 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjEtX3JiQXVYbl9VdnpINlVDNF85RjhTeHZHSlFCY2haZjhSRWUzQ0M4TXNCUDVRZC1GcGFwcl90ekZZdFE2ZEJTa2RhdTBOZ2VYa3YwOG1iQVZncnA0M1JMNkRqS05JTEZXUjJackhiRi1yR3U4QnRUaXotSXBQZklTVnhOMGZabTJ4cGpPYjNZNGlNNHc?oc=5",
+    "image": "",
+    "published_at": "Thu, 26 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288505+00:00"
+  },
+  {
+    "id": "0e6a1fa4066b",
+    "title": "Communication services sector: Investing in companies that entertain and inform",
+    "source": "Britannica",
+    "summary": "Communication services sector: Investing in companies that entertain and inform&nbsp;&nbsp;Britannica",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haUhVQ0tzMkQ5ZnZXRUZwV2g2aXNPTmFMZm55aGtfeXN4ZXNUVDZ0Rjc1OWRXRkNud0xpUklFelNqRVNieGVKYnhDY2FIdDRPMU1aYmJTczJTYU55SU1zb2pFN3ItaDEwYkZ4aHVDWQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288518+00:00"
+  },
+  {
+    "id": "7331052ea477",
+    "title": "Nvidia Takes on Telco Industry With Open Source Model",
+    "source": "AI Business",
+    "summary": "Nvidia Takes on Telco Industry With Open Source Model&nbsp;&nbsp;AI Business",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXBTVkRwSVpJM2hFbE1FaFBiUTdQT0dVdG9URWotVmlyZUZEMVhMZWYyVFRKZ2ZEY2QxaXctMVBYU1AyYm5BNzdVZU01eGlQaXFiYkdSWldGV3d1Y2s1elJqOW9YVHVxSXNKVzBPNUJTU2ZzOUpCdU9UcUoxNnpoN0VCWFc5czloWGc?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 17:25:11 GMT",
+    "fetched_at": "2026-03-08T07:46:12.288532+00:00"
   },
   {
     "id": "27fd35e0efd5",
@@ -50,66 +210,6 @@
     "fetched_at": "2026-03-08T05:04:16.814645+00:00"
   },
   {
-    "id": "4e9bb1585b66",
-    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
-    "source": "Courier & Press",
-    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Courier & Press",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWWVSb1hhdHFKUmRlR282LWZXUkp4OUlydV9JRm9EMHU4bTdmb0dLMnZrcV9SQmNEemNRMmIzYnpwNTA0TEdQN280eU9tRVJBOTliQUxzcjExYXN5UXRIRk1VZ2hVRjFQY0dNYTdneGFuU1Jvcnl6eTBfb1BSQzVrV1dSanpjU2lEemNjMGVDOHU5YXQ3S3ktb2xMTjVGN053V0F0QWJCbXl3TFFEMVY5STFFSXJCbEJCanV2UG9CZXhSMGdzQnpldjAzQ1FLaFNKb21TNl81RWRMOThDcjNXU0JmUW1XV0E?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Mar 2026 11:17:47 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814664+00:00"
-  },
-  {
-    "id": "b23f43b99708",
-    "title": "Brazil ends 2025 with over 68% 5G coverage",
-    "source": "Telecompaper",
-    "summary": "Brazil ends 2025 with over 68% 5G coverage&nbsp;&nbsp;Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEdsdGtycEtGVmFUNGY0czk3dnhRQzdSdGR4N1JPNjVwUmwxcGFjdTlZdHo5bElLVEdKNFNObzg2c2NLTm1Uei05VlBrLU1zVTM1MXFlU1NrVTVMOHI2Y2JWbkhBalJ2d04wajNZWGFQYmkxaGF5Q0lkTFZKQnJON2xwb3JKdmVDUlB6Rw?oc=5",
-    "image": "",
-    "published_at": "Fri, 06 Mar 2026 10:04:45 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814676+00:00"
-  },
-  {
-    "id": "16c4bcc9726a",
-    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
-    "source": "The Destin Log",
-    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;The Destin Log",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3kwZVJJM2VEUzIxSGljMHQ2U2Q5azdTVmZkMXBZS0oyYzNvQXBHbVA4S2YzS0toQlFOaV9BZXFFTTlNblZfbDNVN2stYW5oVmNwN3J2MzFxYjkxSEF0U1dBT3VuVy15dTRYQ1ZuNWFneDIwZmVlVHNXUWp5dW54YTdRd0V5dThZeFpoMHp3TGpRdHVuNDNKVXVQdGVZdXdaaXhHRU9sR1FZSUVvbldvQkExeVQzR1l6OHBaS2ktRmdpX2wta04tcWR0QmJYaEw5bnZtYk9GeDQydW5VVjZQb25vUWNDd00?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Feb 2026 17:23:50 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814693+00:00"
-  },
-  {
-    "id": "0909ee34b2ae",
-    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
-    "source": "Morris County NJ News | Daily Record",
-    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Morris County NJ News | Daily Record",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNTExM0pMTXk4ajhVYkFFR0FOeVBXUndMM3ZDcEJaMWc3clY0N05XU3l3cFY5MVp0UnQyTWRvZEJMMzczYXMtUE15ZFpvckJSX056aEQxTXlSeWlwVHpIeVdjQWEwdlBWWHFTZ0loZnEyRno5cXpKVXpFVU4wUEJHalJsMlNTR2d3NUlLRUFXd240R2JIQ3lkR3FRU1NTZUsxaXhQblNYbzh0bjZheFBSQzRUc1hGSXBIaXZGN0EzZXo2Mnl4UmlwaTMyVU5RN2ZqRmZMbktITVNaakJENzloMmV1SEFqZw?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Feb 2026 11:02:26 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814712+00:00"
-  },
-  {
-    "id": "3e178254d961",
-    "title": "Ghana's shared 5G network goes live but its future is uncertain",
-    "source": "Telecoms",
-    "summary": "Ghana's shared 5G network goes live but its future is uncertain&nbsp;&nbsp;Telecoms",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0RiY0hZZEpBU1NCR1ZGTS12MUV5WkIzOTlybHZqQnhsUEJWWTlySHQydWtjUE5zZm1iRm5RbW9RaVBiWkt5c0l4UVYzeFJJTnpuNmI3bkVhNkFYeGZpQ2RsbERuTVptbUw5enFleXRTN1NFT3Rpcjc3Z05xTzV2U2dEZFFjazhwMVhPNExWWTVqVHByS3ByNXNR?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Mar 2026 11:21:10 GMT",
-    "fetched_at": "2026-03-08T05:04:16.814725+00:00"
-  },
-  {
-    "id": "080a5dda8175",
-    "title": "York County libraries offer free hotspot checkouts through Mission Telecom partnership",
-    "source": "WBTV",
-    "summary": "York County libraries offer free hotspot checkouts through Mission Telecom partnership&nbsp;&nbsp;WBTV",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3p2Y0puNlN2bDgtUHVjTXI0eHlhRWlESWdLWkhrSkFpamd6a1VFUmplNUE3Wjc1ZF9abTV1VkNBYWV5OTVzazd5YlhCNTJJaDNfZkFyTWE3T2VESEM3TWNwSDFKNmJiRTd5QlM1Mmpad2dVRjlUQUJqZlI3MWloTTZqdUhzQUpzMjhjYTJWY040UXNPaG1fT2F1ZmMtSllZMlVSMnU3OWZXZUFGWXA3VDFCWUZzeG1nSmI00gHPAUFVX3lxTFBOa1ctckc5ZVF3UWlNdExQUjZVZzYwdXN6dVdQMjZVbE1YenRuRjZYdnJ1WXBxZjM3cUJRQkp0bWF0X01wZC1HeERjTW1GZXh1Y3dfOFpMa1VTS2ZYMUp3c3hFaXhzRU52d3FqUjF5YXlNSTlmdkFWbkd5eURzUjY0RzM0UkFlMlV0dk5Mc3dRYm1zSnpoVnU2N0tTbjFuN1BJTXg5QW9CR29adDMzT01GUnZTSVpSMnpVci1iSTB3U1dxTmpWYnNrU1J1RWVoaw?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 23:36:00 GMT",
-    "fetched_at": "2026-03-08T05:04:17.875770+00:00"
-  },
-  {
     "id": "7884df0576e1",
     "title": "2026 Global Telecommunications Industry Outlook",
     "source": "Deloitte",
@@ -120,16 +220,6 @@
     "fetched_at": "2026-03-08T05:04:17.875797+00:00"
   },
   {
-    "id": "f12d866abac5",
-    "title": "LG Uplus sets out plan to become global AI software company",
-    "source": "Telecompaper",
-    "summary": "LG Uplus sets out plan to become global AI software company&nbsp;&nbsp;Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2ZmUWJzWGltWk9lWkRSYjdkS29FaS1TLTdEWUs4c2ZYTURTYlQ0aDhZTDFMc2VwRGtadzRjUVF0WjRUMFM4NzdZQVR1aFh4QUxOSWNkbkFPNEtMNDVVajNoOWkwaEN3YlVtRXk3b29ldHZWR2hoMXIwbV9Pa1JsT0FqR0lpbFI0TFd2WTk1NkF6cndhU05pMUFDVDNDZTN5Q01NUw?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Mar 2026 05:40:46 GMT",
-    "fetched_at": "2026-03-08T05:04:17.875812+00:00"
-  },
-  {
     "id": "7f9e5fe2198f",
     "title": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing",
     "source": "WSJ",
@@ -138,36 +228,6 @@
     "image": "",
     "published_at": "Wed, 22 Oct 2025 07:00:00 GMT",
     "fetched_at": "2026-03-08T05:04:17.875827+00:00"
-  },
-  {
-    "id": "1b3b965f5610",
-    "title": "Attorney General Jeff Jackson Wins Judgment Forcing Robocaller Out of Telecommunications Business",
-    "source": "NCDOJ (.gov)",
-    "summary": "Attorney General Jeff Jackson Wins Judgment Forcing Robocaller Out of Telecommunications Business&nbsp;&nbsp;NCDOJ (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUhsZHlRTklLWmNaNmNYZm54OEc4S3lYR2FLQUQyTzBjZXBzbUR3V1ZFajZ4Um1sOFFGYjF3NHlJMGtXM0VreUppZHU4UC1nems0bEZ3SmhyTFR6WUFmVDREaFVXYkZTR1JTeC1kbjI0bnpJNzJtN01VM3RMQnF6T3R2dmFwZXdFcWp3eWZmRkVWanU1cUROOGQxZk1fSVNUQjVkeEdDWE5ZM0kzY0UwbUhhS1lzUE0?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 May 2025 15:26:51 GMT",
-    "fetched_at": "2026-03-08T05:04:17.875843+00:00"
-  },
-  {
-    "id": "7331052ea477",
-    "title": "Nvidia Takes on Telco Industry With Open Source Model",
-    "source": "AI Business",
-    "summary": "Nvidia Takes on Telco Industry With Open Source Model&nbsp;&nbsp;AI Business",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXBTVkRwSVpJM2hFbE1FaFBiUTdQT0dVdG9URWotVmlyZUZEMVhMZWYyVFRKZ2ZEY2QxaXctMVBYU1AyYm5BNzdVZU01eGlQaXFiYkdSWldGV3d1Y2s1elJqOW9YVHVxSXNKVzBPNUJTU2ZzOUpCdU9UcUoxNnpoN0VCWFc5czloWGc?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 17:25:11 GMT",
-    "fetched_at": "2026-03-08T05:04:17.875856+00:00"
-  },
-  {
-    "id": "0e6a1fa4066b",
-    "title": "Communication services sector: Investing in companies that entertain and inform",
-    "source": "Britannica",
-    "summary": "Communication services sector: Investing in companies that entertain and inform&nbsp;&nbsp;Britannica",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haUhVQ0tzMkQ5ZnZXRUZwV2g2aXNPTmFMZm55aGtfeXN4ZXNUVDZ0Rjc1OWRXRkNud0xpUklFelNqRVNieGVKYnhDY2FIdDRPMU1aYmJTczJTYU55SU1zb2pFN3ItaDEwYkZ4aHVDWQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-08T05:04:17.875870+00:00"
   },
   {
     "id": "c2b13d8506ba",
@@ -188,16 +248,6 @@
     "image": "",
     "published_at": "Tue, 27 Jan 2026 08:00:00 GMT",
     "fetched_at": "2026-03-08T05:04:17.875911+00:00"
-  },
-  {
-    "id": "db30e59d0108",
-    "title": "The Strategic Role of Telecom Providers Across the AI Value Chain",
-    "source": "El Foro Económico Mundial",
-    "summary": "The Strategic Role of Telecom Providers Across the AI Value Chain&nbsp;&nbsp;El Foro Económico Mundial",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDUzTjFSY1IzOVhEUzg4cEpSbUhPVG9hd0ZrNjdvLVIxNTRHM2xtOVV4cnJtcnM0RU02VWYxUkVWNjdQWUtsVGRuZDFuaExOWHdHZ3BTZ1hGUjF4b2IwTUtLaXItOTlJU1lNc3RldGFCdWZjUURLazdtSFd0VGpraU9URFhYZGhCbGRFS1NOdTRGMjhydGRYWG5fNWg5VFdnUWFPWA?oc=5",
-    "image": "",
-    "published_at": "Thu, 26 Feb 2026 09:44:11 GMT",
-    "fetched_at": "2026-03-07T23:48:09.207693+00:00"
   },
   {
     "id": "a2c28f7ea1c3",
@@ -310,26 +360,6 @@
     "fetched_at": "2026-03-07T16:56:20.816536+00:00"
   },
   {
-    "id": "5e3aeb74a49e",
-    "title": "Where telecommunications companies can grow in the future",
-    "source": "KPMG",
-    "summary": "Where telecommunications companies can grow in the future&nbsp;&nbsp;KPMG",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGVXaFI4ZWcwYzlSOHc4YnNieExvQ0dQa1YtRVVjWHBsdDRhMXptSDQ3c09HbnE4WnR5MHdRNjhaM1RRMHVNblZLM2ZQRmY1RkgwajFTUE54MHp4Sk5PQ1F1dk0wcnNRTnZPNGVFb2hVN0VvMjZBVndBQmExWUJtSklJSVQzM1A1WS1TTE5jZG9mRlhaQ2k4azBiWnQwSG5RRWh5MExYWVJMSVhpQnQ1U0l3TGF6LVdkQnlwYnBMMA?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 15:47:07 GMT",
-    "fetched_at": "2026-03-07T15:48:40.825328+00:00"
-  },
-  {
-    "id": "d743d826fd87",
-    "title": "Peru moves to unlock telecom innovation, ease business models",
-    "source": "BNamericas",
-    "summary": "Peru moves to unlock telecom innovation, ease business models&nbsp;&nbsp;BNamericas",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2xPM2lQWXBpYzBDOHRYV1ZUUzdRQ2lwU09OV2VIYjdidG5rYTN1V3Nfd0p5eUN2TnR1MllheS1qTFlvR1RQTndrTlFyNGFwSUlCQjZtN0Jhai1ZM2FxS0dIR3hsZkxYSFdwbzd1c2M4YlJ2TksxTGUtQUVERXhBdXRWa2EzellqaGxmMjNOWVdmZkZFSGw0M1dGWQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 17:09:54 GMT",
-    "fetched_at": "2026-03-07T15:48:40.825367+00:00"
-  },
-  {
     "id": "861eb81959be",
     "title": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing",
     "source": "WSJ",
@@ -338,16 +368,6 @@
     "image": "",
     "published_at": "Wed, 22 Oct 2025 07:00:00 GMT",
     "fetched_at": "2026-03-07T15:48:40.825433+00:00"
-  },
-  {
-    "id": "7d2188fcb0f9",
-    "title": "Shenandoah Telecommunications Company Q4 2025 Earnings Call Summary",
-    "source": "Yahoo Finance",
-    "summary": "Shenandoah Telecommunications Company Q4 2025 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjEtX3JiQXVYbl9VdnpINlVDNF85RjhTeHZHSlFCY2haZjhSRWUzQ0M4TXNCUDVRZC1GcGFwcl90ekZZdFE2ZEJTa2RhdTBOZ2VYa3YwOG1iQVZncnA0M1JMNkRqS05JTEZXUjJackhiRi1yR3U4QnRUaXotSXBQZklTVnhOMGZabTJ4cGpPYjNZNGlNNHc?oc=5",
-    "image": "",
-    "published_at": "Thu, 26 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-07T15:48:40.825446+00:00"
   },
   {
     "id": "08cefbe53a37",
@@ -430,16 +450,6 @@
     "fetched_at": "2026-03-07T10:53:58.829400+00:00"
   },
   {
-    "id": "0024025afde4",
-    "title": "Telecommunications Industry Statistics (2026)",
-    "source": "tridenstechnology.com",
-    "summary": "Telecommunications Industry Statistics (2026)&nbsp;&nbsp;tridenstechnology.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ2FlV1owa3RFNF9fSXdpN2V0aGduWWh5MGVlNG1lNkdqcGc2OFcwT3NGd3JxNWFNaEREa3ZwcVZQOFd4TTBibkx6bDlmNTVIN3VLTUJCMldRVVNrNEJpN2RxZHliT0JqQ1BkZEtFMmtJVXVmSzhxZw?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-07T09:56:00.924661+00:00"
-  },
-  {
     "id": "dfe32f749776",
     "title": "Google Cloud and the rise of the agentic telco",
     "source": "Google Cloud",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Wed, 04 Mar 2026 06:37:23 GMT",
     "fetched_at": "2026-03-06T23:02:23.465895+00:00"
-  },
-  {
-    "id": "c45768ce0849",
-    "title": "BCE cuts another 1,700 jobs in 2025 as telecom industry contracts",
-    "source": "The Globe and Mail",
-    "summary": "BCE cuts another 1,700 jobs in 2025 as telecom industry contracts&nbsp;&nbsp;The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWVCMUw1YXZsbVJVam1FXy1KUFNGV3IxZXgxXzBTb3hWQnRiWkZ4bkJKU05vU2NCSFhzQWZzV09TVVR1STA2dUYwNUhRLTQ2ZlZ5UDV3YVN6dUgzVEx5N1kyWjd1QUxKSnpYTHhMbVp3UmhfMlMwVHFvNWZWT1B6YVhJSWNNWldwUWo2aVhxZTR6bzZqbHlQS3h1LU1jNjYtcHdhV2xKY2s4bkE?oc=5",
-    "image": "",
-    "published_at": "Fri, 06 Mar 2026 16:59:31 GMT",
-    "fetched_at": "2026-03-06T23:02:23.465936+00:00"
   }
 ]
