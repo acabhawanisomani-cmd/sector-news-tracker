@@ -1,93 +1,83 @@
 [
   {
-    "id": "9434102a90df",
-    "title": "Asus co-CEO says Apple MacBook Neo ‘certainly a shock’ but has limitations: ‘It feels more like a…’",
+    "id": "5519b25b0e78",
+    "title": "March Patch Tuesday Minimal Risks Highlight Shadow AI Threats",
+    "source": "Security Today",
+    "summary": "March Patch Tuesday Minimal Risks Highlight Shadow AI Threats&nbsp;&nbsp;Security TodayMicrosoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days&nbsp;&nbsp;The Hacker NewsMicrosoft .NET 0-Day Vulnerability Enables Denial-of-Service Attacks&nbsp;&nbsp;CyberSecurityNewsThe Marc",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDY3RElOT0tQbXU4bHZhQm9WbFg4Wi1FX2E5N19MbVZyMFRRSWN4RThKZFlibENsbU9XVE5xUGZXRUhNa2xZenZTMHR0NVQ5MVN5S1p6NlMyelJfMC1rZnFadWhtUElQM1ZQbnp3eEswT29FMFpIbnVTT2RSYlFfLTJBak5kODlWMUlfaUcyYXM5dVFvbExrbVN5OTNoVWNYYllKU3BnOVhyak5VVTNuUWJ3?oc=5",
+    "image": "",
+    "published_at": "Wed, 11 Mar 2026 21:43:19 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477113+00:00"
+  },
+  {
+    "id": "cfd2102222d5",
+    "title": "Samsung Galaxy S26 series now available for instant delivery on Instamart",
+    "source": "indiantelevision.com",
+    "summary": "Samsung Galaxy S26 series now available for instant delivery on Instamart&nbsp;&nbsp;indiantelevision.comSamsung Galaxy S26 Ultra review: This is too much phone&nbsp;&nbsp;MashableGalaxy S26 and Buds 4 lineups are live in the USA, check launch prices and offers&nbsp;&nbsp;SamMobileSamsung Unpacked 2",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjFCUS10NVViTC1rUkNhVS04LUxDYnluTVk1QzI2MVc1cEttMy1XNUVjWXZfSllTMy1VYVBienluTk1XbUpwa1FyLUVZeHpFSXFYQS1sb0Q4ZUZTeW1sQXZ1YjZ6TGhnTlg4SXg1bU1rb0hWeVlBN1RvZ0p3aTZ4TjBLMnB6cHhyd3ZXRFFLS205QVdzZ0V0cHloVURZVUlMQU9DaGRYRkdhVHd3OGpz?oc=5",
+    "image": "",
+    "published_at": "Wed, 11 Mar 2026 13:09:14 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477155+00:00"
+  },
+  {
+    "id": "71d9beb624f7",
+    "title": "iPhone 18 Pro series now rumored to miss out on an important upgrade - GSMArena.com news",
+    "source": "GSMArena.com",
+    "summary": "iPhone 18 Pro series now rumored to miss out on an important upgrade - GSMArena.com news&nbsp;&nbsp;GSMArena.comiPhone 18 Pro, 18 Pro Max: Leaked camera, battery, price, design, launch details and more&nbsp;&nbsp;India TodayNew iPhone 18 Pro leaks explore design details, dimensions, more&nbsp;&nbsp;",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2Y5cGlaZTlaZmcwY2cyaXh5NENVZnlzbUk0ZXpLR2FCM0l6OENHa3p1ZUdEQUtNcHBYR1IxeGFQV2h2OHhwQ0Z1MGpfYkhNRE5oV2NLdGlrUDE3c2VUVlduZGlJUGRraDJmVmhrUm11Y1hORXRZQXMwdGJvcEVHcnpmNlJhazYwTlFNZGdFYlFoaDdaMTdjeGtLWHJOYmJXVk40NkwyVdIBowFBVV95cUxNdmxsbFFHNHJUZEhrS0FaZGVUUWc2Sy1iTTU4ejlsODFmM0hPb2Ytelp1NmhtYW9ZeDBxRGNyZzl4em9rLXkxY0hBdXU5a016QkFjelBNLWFObDZVMXhjSE92QUpEZnNUMDg1WDVwNHowSl84SVRCS1pEQi1NUlZXNVdWNW5JdW42OGh6M3FWMHM4YTJPSU8xanM3N3FRSVhDY0I0?oc=5",
+    "image": "",
+    "published_at": "Wed, 11 Mar 2026 22:31:01 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477190+00:00"
+  },
+  {
+    "id": "2518817606a1",
+    "title": "Xiaomi launches Xiaomi 17 and Xiaomi 17 Ultra, its most-expensive phones so far; offer 200MP camera and S",
     "source": "The Times of India",
-    "summary": "Asus co-CEO says Apple MacBook Neo ‘certainly a shock’ but has limitations: ‘It feels more like a…’&nbsp;&nbsp;The Times of IndiaMacBook Neo&nbsp;&nbsp;AppleAsus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry&nbsp;&nbsp;PCMagApple just created a billion more Mac users&nbsp;&nbsp;MacworldWhy Asu",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPODNBdFBBcGRKX3hNMWo1WjBMQTY2OU1sMllRZ2owc00tbjV1NzZ6NnZrdlZfVDg4cmZGSGo0YkhEM2gzMGp4TE5lZ3g3YjBoSTVVRmt6cXl6b1pXektYOThlOWJrQjJCb2sxNDc0NkFjM1NOeW5VN0RJUEpFcmliM0lfVXV4Qlo0Z3NQcWMxZGp2eFN1alBaR0tQbVFnZFpLX2VuUE05eEtvTVg2UGloOWJlYjNQYndEeUVoTUpVbGpnVFoxakpjQ2ttQ29RekFaZFhDTzZTTzJCOXdSdGlTOGJRZWhfSEFSNjNNR0RleGI1cVplSkpLVVVyakwzd1Y2WkVSQ0R5Y9IBjAJBVV95cUxPUTJXT3RKczNpdmJnOGxEZjdHcDN1cG9uT01NUjE3eDdyaFRzYUZhNjhRSl9zZE1BM25fVmZZZ1BHUExlaDczaXN1dXllMFIxTG53NFhiQV9EYnJRd3pOcW1vSzNQWk1HdE0wcGVkTXBqODI2RVR1bFNkODgxMFpWVlBxNmFtWGU2Mmh3N3U0a3Fkd25PQXpnN0FYVi1iSEQ1b0hLWWM2NWhFUE5kZzFCZjFNSEJpVmRxdmYtUE9HZzZvcEMtMnJ6VXpDdmZMdE9RemEtaks3YlhSeDZ1aU8xUHluRW1McHRhVEdlLS14cUk4Y2hjQ1NSNThaTnJSWVZsTE1oMXp4emZQTWMy?oc=5",
+    "summary": "Xiaomi launches Xiaomi 17 and Xiaomi 17 Ultra, its most-expensive phones so far; offer 200MP camera and S&nbsp;&nbsp;The Times of IndiaXiaomi 17 Ultra and Xiaomi 17 launched in India&nbsp;&nbsp;The HinduXiaomi 17 Ultra Review: The Ultimate Camera-Phone Money Can Buy?&nbsp;&nbsp;iDivaVivo X300 Pro vs",
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOWVoNXVrRHhsX2NaN1dGQUhNdVNqQ3FjR2I5c045TUNRbnBZazVYeGVoc1VqX0lqQnFiQnlobWF0a281OEpXNXJlTXhVN2IxS1JvWUpKSWk3MFNsSHNXcU40dWI0cTE3Z25xWk9SZ2UzaHFzWU1rd1JMOHliNEZLTjc2NkFyVmYtcWczQ19hTWZ0dU8tMkJ1TVRwb3hJa1Z6d0RhUTYzVldQSU5lRHBuSjF1VjN0SV9NZURLcjdKVXQyRnBsajV3OFc5d091cV84RGlJUDZVcVZGUDl2OUlPalVVdm1zalN2SWladUtJbDl0MTRKX25kNFVJdGVVdzNZNXhuNjF6V09lYmJkVTNtN3ZxUXdGWExPUkhhd3Y1LWNROEtwNDlEcm9KTzI5WS1OcjVmYkVTRUZyallJVEFOMmln0gHHAkFVX3lxTFBEaFZ6Q0tiel9mcjdZdm9VQzJ2YlRHMWZvRGJSMURKYVV6cWRKSGEydTByOTY1WGkzYzl4QS1EdE5FM0xMQW8ySlRGMHZSNkw1N08xZzNZQlJCcldraFFubHZWNmdrOFlCQ0FIc1FMRFpsWDlKNTZad3ZtYU41SmdRR0NOQkhsRkVwWkIwLUc3MVI3ZFdEVERvVUg2OG1rOHRxN0xFMVFSZE1semZzU3BJZ2twbEVTWjRlaUU4UUpCRU1nZ0JkS2xQZVI2UnROMnRQUWExTXByTlNzZWRMSTd6MWNhV3BQOEY5MkJFbEw4VVFUOUdaTWhTNEhpSk5qQ3dtcUVmMFNsNk1yZ01vUWpVTGJKSzNEem5VbENkQno1Vjl1RGsyYTNTd0RWNVRRZEJORkN5Yi1YeDhNMWpyd1hlbllqQ2ZKdw?oc=5",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 17:56:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230041+00:00"
-  },
-  {
-    "id": "add0ceb09589",
-    "title": "GIGABYTE Launches Z890 Plus Series Motherboards Supporting Intel Core Ultra 200S Plus Series Processors and CQDIMM",
-    "source": "TechPowerUp",
-    "summary": "GIGABYTE Launches Z890 Plus Series Motherboards Supporting Intel Core Ultra 200S Plus Series Processors and CQDIMM&nbsp;&nbsp;TechPowerUpIntel launches Intel Core Ultra 200S Plus Series desktop processors: All details here&nbsp;&nbsp;The Times of IndiaIntel Launches \"Arrow Lake Refresh\": Core Ultra ",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQWg0aTh1OXRxNGM4V2VfOEZldEdiOGRFckZpamwyaFRLNjA5d1hKRVljWDB4RmF2bWZUQVJybmt3N0UwczlYdWZiNFhmTXI5OVBlTXROYjNMT2JCNUR4ejEtSkZVbDBzM3pvS2RPTGVBZnFUcWtYZTNzZ2p0UlZnU3lmbUR2YTNuOGs3MkhiS1hzVXV2TlBPem9CSmxnRjhBcnhTNkw3WENoek1xOFpLbjdDQm03VVhmNzZ3M181RlFiQ1RsSU5CaDVoeGtjQlRsNUJORFlFS25VcXlmcF84WmxNZ9IB6AFBVV95cUxPVGgyU1hPeEJDUU9YVXoxdFhyU3B4SURueVJGZTZXR3NuTEhYME1rWW5vWVVYbTVRVTF2UFhkQ0hlQ3ZQeUdIbFJKd3FhSXp5Z25aWkFOWUIzNURMbTVQUHhFOUN0SDNkaEphQVBlWHpPalk1Q0tnU0lVbDFvcjc0RUl3M3lqaHRLMWxQX2lKNVpTQ29IUEg4OVEtOE0td1BnRV9xNjFaQ2Mtb1QwQmhvN1BSNlJOcHlGYUJmSTNwN2hGLUxSdnZvU0M0eEhZNlhpNjNDV3gtQnhOOTQ4N3Rpdm5xcHFYUHBz?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 15:49:31 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230123+00:00"
-  },
-  {
-    "id": "e9a290e28c9b",
-    "title": "Burson Audio announces two Stellar headphone amplifiers",
-    "source": "Darko.Audio",
-    "summary": "Burson Audio announces two Stellar headphone amplifiers&nbsp;&nbsp;Darko.AudioBurson’s New Stellar Duo Is Designed to Drive Everything From IEMs to Planars&nbsp;&nbsp;HomeTheaterReview",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeGFYVm0wWGttRnJfTUI4RU81S1JLTDgwa1VPUWtWTmNOZUdqME9DVjVQZWp6R1VrTlZ0NGRmSllIblMzQnpwZUdNcjhwSDllODRxdUktY2hqUFZKM3pST2pQNUZSemFKVDd6REs0a0lBR3FzeDFTWmh1MkdVaEZLcUdlS0RQbU11RktPeA?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 07:16:15 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230148+00:00"
-  },
-  {
-    "id": "04d67de97f2a",
-    "title": "Plus adds Samsung Galaxy S26 to smartphone range",
-    "source": "Telecompaper",
-    "summary": "Plus adds Samsung Galaxy S26 to smartphone range&nbsp;&nbsp;TelecompaperSamsung Galaxy S26 Series and Galaxy Buds4 Series Now Available Worldwide&nbsp;&nbsp;Samsung Global NewsroomSamsung Galaxy S26 Ultra review: This is too much phone&nbsp;&nbsp;MashableGalaxy S26 and Buds 4 lineups are live in the",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXFDTnEzWHYtMWN2VHhreGtzLXZPQURsdlppdk5XbENwZWxycXFSNXFlaEt2WTdxSGlaS1QzdTBVb2laZkQ2NkZGWWJmYzc5NHhFQlVOODZNWEZhaFlMZ3NTQnctZGVtTFc4WXVQcFlZd1RDbnd5ODJUN0h2RFVyTFJoRU9iTWc2akxlVFRfWjZzekZKdmc?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 19:55:55 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230182+00:00"
-  },
-  {
-    "id": "9624cc2d37f4",
-    "title": "Microsoft March 2026 Patch Tuesday Fixes 70+ Vulnerabilities, Including 2 Zero-Day Flaws",
-    "source": "LinkedIn",
-    "summary": "Microsoft March 2026 Patch Tuesday Fixes 70+ Vulnerabilities, Including 2 Zero-Day Flaws&nbsp;&nbsp;LinkedInMicrosoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days&nbsp;&nbsp;The Hacker NewsMicrosoft SQL Server Zero-Day Vulnerability Allows Attackers to Escalate Privileges&",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObE45a2dDVmtoVEhPcHZqV05lRy1tRjNia3VMWVJ0Rld0bXdEdFdGWkdrVGQyaGhFOUVaNmxUX3hzeVItdnpDNEV6UExGcm03c2lGdm0xTmdJVHpRdV9MWTJLS21Oakx4SHppa2ItclFmNHhpX1VranY3dzV5dlB0aE84NHdhTnpzbkVj?oc=5",
-    "image": "",
-    "published_at": "Tue, 10 Mar 2026 21:00:03 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230215+00:00"
-  },
-  {
-    "id": "04d0997f4148",
-    "title": "Latest iPhone 18 Pro leak brings both bad and awesome news",
-    "source": "PhoneArena",
-    "summary": "Latest iPhone 18 Pro leak brings both bad and awesome news&nbsp;&nbsp;PhoneArenaiPhone 18 Pro, 18 Pro Max: Leaked camera, battery, price, design, launch details and more&nbsp;&nbsp;India TodayNew iPhone 18 Pro leaks explore design details, dimensions, more&nbsp;&nbsp;9to5MaciPhone 18 Pro Max Expecte",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnTnNsZWZ6dGNoNGlhYUhHaUVzZ213dEdFQlZ6c09SZ3Bsc0VBRThOTk50eFluaHFOUmswb0dfRG9GVE1DTzZFZnQwdXJzYUJaUHl4WmIwdlZ6QU5zbnItN1B6Wk4wdDFfYWRNb05NMmR6VW9wdWduQVNWeVY?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 08:25:48 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230247+00:00"
-  },
-  {
-    "id": "96b105c13924",
-    "title": "Xiaomi 17 Ultra and Xiaomi 17 launched in India",
-    "source": "The Hindu",
-    "summary": "Xiaomi 17 Ultra and Xiaomi 17 launched in India&nbsp;&nbsp;The HinduXiaomi 17 Ultra Review: The Ultimate Camera-Phone Money Can Buy?&nbsp;&nbsp;iDivaVivo X300 Pro vs. Xiaomi 17 Ultra: Which Android heavyweight takes the crown?&nbsp;&nbsp;Sportskeeda TechXiaomi 17, 17 ultra set for Mar 11 launch, Pad",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2xrYlFoWW1iUHZxMzJGdHpIUmJVYUNMYjk1N2FGY2lDUlRxcGk0TzNzcEdUYkZ3cUlHcG5VSUozWHVRME56bmR0OWZibGxaOXhfeHlLUWozcFBzaXZYQ2pMWjJsMUJoUWRFOVA4QmxQVjdySFpPc1FBVFcwSUY4Z1RtVHIzdWpnTmZjSmU4Q2ZoZXp1bWVBNmZwLTU4ZXQzaW91RG81RXQtQXJoQmRoMEhZQUNKQ01nY0I0ZNIBwwFBVV95cUxOY2pTY2U5a1ExelZTanBfMnVtWlhFMThuTzV5eWxHcFRyUEI1dkQ3WWFWZ2xBc0JqYU9PNFNsaGlmaUxCenJyM0dZZEZYbFc3X0VRM2Z2ZndmYnFZNHJyS3cwZmFSRVoxdkVKUk1CMlNzNkJzbEFSR0RXeERTODZlYThGZUdIN0Y2aEg3c1o3UlVPRm5XeENhWlZQYWF1QWZ6WUNPQ1hoeUhHUFo3SXhNdHdack5mOC0wcVVoWDlIWkpFcHM?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 06:17:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230287+00:00"
+    "published_at": "Wed, 11 Mar 2026 06:31:00 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477237+00:00"
   },
   {
     "id": "80db691b918e",
     "title": "Adobe Expands AI Capabilities in Photoshop and Firefly With New Generative Editing Tools",
     "source": "AI Insider",
-    "summary": "Adobe Expands AI Capabilities in Photoshop and Firefly With New Generative Editing Tools&nbsp;&nbsp;AI InsiderImage editing just got smarter with AI in Photoshop and Firefly&nbsp;&nbsp;AdobeAdobe is debuting an AI assistant for Photoshop&nbsp;&nbsp;TechCrunchAdobe Brings Conversational AI to Photosh",
+    "summary": "Adobe Expands AI Capabilities in Photoshop and Firefly With New Generative Editing Tools&nbsp;&nbsp;AI InsiderImage editing just got smarter with AI in Photoshop and Firefly&nbsp;&nbsp;AdobeAdobe Brings Conversational AI to Photoshop & Firefly With New Editing Tools&nbsp;&nbsp;Analytics India Magazi",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUhVUlJKU1FvNVE0cDJ5TjZUNEN5aUpra3Rud0pkMDlBNVJKS0Z5T1JSYURHamFWdHBWMHhSRWtYS1poRmJfSWJGanJtQ1ZyaUlzaWNlbnZETThKVlBzYnBkenJJWHA3ZHBTbHl4UElRczY5LVBVTDlVTUFMY09RQlVpbENxeDliU2dVd3BzUHRJRTUwbnNwM3V1TDNXb1UyaGNLNDFkLUZ0TElzS090YWxWRjh1TGpRLTFXQjlZUkh1SXZw?oc=5",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 17:35:39 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230324+00:00"
+    "fetched_at": "2026-03-12T05:08:28.477274+00:00"
+  },
+  {
+    "id": "6b93401fe65a",
+    "title": "PC makers are worried about Apple’s MacBook Neo, and Asus said it loudly | Business News",
+    "source": "Hindustan Times",
+    "summary": "PC makers are worried about Apple’s MacBook Neo, and Asus said it loudly | Business News&nbsp;&nbsp;Hindustan TimesBudget MacBook Neo 'Shocks' Asus Chief, Says PC Industry Discussing 'How To Compete'&nbsp;&nbsp;NDTVApple's $599 MacBook Neo Shocks PC Industry Leaders&nbsp;&nbsp;Gadget HacksApple just",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlNFZWp3MnMyeHZjNlpZMUFPTUpnWHBqaUZVWmZscmM5bklUY2MwYU00ZXZBbi1TamMzeG8xY29oNlI5UmJ6Sl9DRkxsaGE1X3lNS1hRSzlwWVJubThXYVRoMzBlSG91WHUtanRHaDZXNHJXVFRaVG1PbFoxQTB5QzRfQVBxNzU1UEVERUM0NHdiMEVuTTN6THliS0Zkc3FIbjhnVWxsaHFua1JYYU1wcHpIQXJqTFBvTkRBRnBpbjFrMjFQSmJ3RFd6N2HSAdIBQVVfeXFMT3N0d2QtQnVhMlJhanBVRmRIVGJBaEQ2NmF4bENTUThvaC16Z1FxUlk5MnJfbGlpQXRFdndIa2JRZ25Xam5KcXRPcXM2bmtYbFRjTC0tcXhwVkxFTGNFam5ieVlQR1ZybTlZSWJUQ3dkcm84SkdUWkg5Zm1tNk9MaEMyT3N4M2FTcEhGaVFQMU9RSURyVERrbDZlcjRjQk9lOUdEb3FLTWgxVlNhcHFRM2hjUHBKMzY0UU5hNFdQdjZsaTR0OVpWODlyOF94SFQ3V3BR?oc=5",
+    "image": "",
+    "published_at": "Thu, 12 Mar 2026 04:07:33 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477312+00:00"
   },
   {
     "id": "cb5193cc3a73",
     "title": "Poco X8 Pro and Poco X8 Pro Max to launch on March 17: MediaTek processor, 9000mAh battery, 100watt fast",
     "source": "The Times of India",
-    "summary": "Poco X8 Pro and Poco X8 Pro Max to launch on March 17: MediaTek processor, 9000mAh battery, 100watt fast&nbsp;&nbsp;The Times of IndiaPOCO X8 Pro Iron Man Edition revealed with Marvel-inspired design and flagship performance features&nbsp;&nbsp;Sportskeeda TechPoco X8 Pro series India launch set for",
+    "summary": "Poco X8 Pro and Poco X8 Pro Max to launch on March 17: MediaTek processor, 9000mAh battery, 100watt fast&nbsp;&nbsp;The Times of IndiaPOCO X8 Pro Iron Man Edition revealed with Marvel-inspired design and flagship performance features&nbsp;&nbsp;Sportskeeda TechPoco X8 Pro price in India revealed: Re",
     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSTVXajhNMnlZT0VteDRsZlNVMnRvdUx0anA0aE9RcThwa1RHdmQtZjdGTTduSXNNNTR3UTgzWHJYVklJR0JlWkFUMTE0Q2d4SE1NSEt6ZXp4TG85RzI3dndiUmVWb1lxeGpVYWg5UHVwa25xZC13RkJ0Y1Y3UWVRZWFLeHFPOTJ3UUdDOXU4X3pieWhOTnRTMXhRWmxpYzREd2J0Qkx0UjE3VzRid015blVXMGJWUGoxRVNvZlJQZWtzLUF4cnRER3k5VHA0b0RjQmpXTkhwenVhTnZMVXN2aUhjeXgtNXBUdlYwcVNmbldVa1ZRTzVNWGVqbGJ0alVhU2ZEZlpUbkU4OElZWEJ5Q3ZIZV9FTmxaRXpzRmFXMFpzTmdEUDhBMllrLXNhMTlHTGY5Q2RCOVhCeTdfZkUzdWhidnJpcTQt0gHOAkFVX3lxTE0xWXp0Q24zMDdZd3U2NjUxbXJUVkY2ak9xajFyOU1TX05uWmF0M0xiMFBxRWp6Vk5VTFpieVBtdjNTenRyRDRIQjhlUTdQZDhOTWtjWU1LdVRGQUZaMDNJa1ZZdGE1djNZamNPNFZCX0RxZnhpWGJmV1hYMmRiaDVIZzZ4djhCWDBWak1vZmJLLUxqWFMwR3pMcEZzbWh3eHpQRmV1LWpULWNYVk83WVdaN0lIWFlZTjBmeGpDZUcxdHFTSFlobk5lbnBSb0lxVWJzQUtEcFZNTEhBdlAyWmJ5a2RYMDRzNFRidXl4U2RoN2tMMTJ2eGN3eGU5TWw5U0ZzQk9GckhRY1dfWmR4QjdkQVJVVlFjZzJMMzZrRnR0SnI0dWpvNWF0Tl9NUFVGeW85ZGV4bFNld1lvOUJGT1ZoMUgzZ212YlNRVGZieWc?oc=5",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 08:06:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230365+00:00"
+    "fetched_at": "2026-03-12T05:08:28.477351+00:00"
+  },
+  {
+    "id": "98cc653e672b",
+    "title": "Best tablets to buy during the Amazon Electronics Premier League sale with big discounts| Technology News",
+    "source": "Hindustan Times",
+    "summary": "Best tablets to buy during the Amazon Electronics Premier League sale with big discounts| Technology News&nbsp;&nbsp;Hindustan TimesiPhone Air price drops below Rs 91,000, check deal here&nbsp;&nbsp;India TodayAmazon Electronics Premier League: Top 10 chimney deals to upgrade your kitchen this summe",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHNyRTJtUEN6Vld4dmhDcm5pNXlHRk1RX1VJZTE3dzdrdXMybzdpV19oRDE1MzhXbnBMYUZZeXMwa3dMOU4yZ0t1WEZ1ajA1WTRzRFhDZmJESHc2bmhSYjZfczFoeXNJLTVodllqS05RY3NoM2pQZl85V0VCRkQzbEc4QU5NcUdVYm02dDgzVjRtVDQ3VU5XVlhCbzFJS2diRjc5MUowbnU3cnIxUFhncllLbWVDNi1oVmYxWU1nc3p6N2ZLZ2ZLRURtaFozWVhSU1ZmM0VkUWpjTHVncmJ1dUl1ZUZPdw?oc=5",
+    "image": "",
+    "published_at": "Thu, 12 Mar 2026 03:30:34 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477382+00:00"
   },
   {
     "id": "270466f693f0",
@@ -97,7 +87,27 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzhnS2Z6cDUwTjBDYTUtbWF1cHd4NTFoM0U3N0V0OFdPbjNwMzNQeGVoOTJtcXl0alh0S0FndXQ3T1F6dGRrSV9OM05vdzhHX0YxWkRTYVNEN004czdxOG5ETUkxQkdfdDNGNHF3azh4dlQ3LUdaQ0hoWjd3SnloNDVLdk5IaHJ6YUNXaGhXZmwySFFPNjFPdmxhTG5uUkxzTnlISXFLWVFlWm5MZ1hYMWJINVN6Qk04OGwxSHZRLWZnUFI3RUpIV3k5bkhpNnc?oc=5",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 17:00:57 GMT",
-    "fetched_at": "2026-03-11T23:53:58.230400+00:00"
+    "fetched_at": "2026-03-12T05:08:28.477415+00:00"
+  },
+  {
+    "id": "58843fcef81e",
+    "title": "Crimson Desert reveals PC, Mac, console and ROG Xbox Ally specs: RTX 5070Ti/RX 9070 XT for Ultra experience",
+    "source": "VideoCardz.com",
+    "summary": "Crimson Desert reveals PC, Mac, console and ROG Xbox Ally specs: RTX 5070Ti/RX 9070 XT for Ultra experience&nbsp;&nbsp;VideoCardz.comCrimson Desert: Pearl Abyss Answers Every Tech Question We Could Think Of&nbsp;&nbsp;Digital FoundryWhy Crimson Desert on GTX 1060 would be more of a stress-test than ",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdF9iVmpvU2trVHRhVXVELWx4aDJ0Ulp4emVITDE4VVpWTjVfcTV5ckN0bG5ob3RyY0pDdnczY2ZWNHlIRmhUR3g4VVVRaEtNUjE1NTI3NEVsQ05adVBhN2U4MG02elpUNElsaGFrcUM3X0dhM2RBaEpPNkZrSVdINTVBY1pPY0ZkS1FDR1ZaLVZhT3NMdU9oTXF1Wlh6VUtPVEQ3b2FkSkw1RFo2UjZ1blZFbmp6TG1VS2ZkMl9mU0FTQ2tCQm5VaUcxSXg?oc=5",
+    "image": "",
+    "published_at": "Tue, 10 Mar 2026 15:43:00 GMT",
+    "fetched_at": "2026-03-12T05:08:28.477449+00:00"
+  },
+  {
+    "id": "561e55311d92",
+    "title": "Digitalisation in India: A Class Perspective on Technology and Power",
+    "source": "Countercurrents",
+    "summary": "Digitalisation in India: A Class Perspective on Technology and Power&nbsp;&nbsp;Countercurrents",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkxEaDZscTZqYzlEaEpMS1JkQ2tSbUpmelBfbUlhdDlxS3RHckIwaVVQeEw1X2xxSzJkNXoyb3B0RkkyZ3pXXzcyY3hWanU1UDY0UnFEVjVYMlA5UlhLQmtGd0luYV9rT0FUZFBVbE41b0I4dXZhYnU2Z1dFWGZ5d0FGVTdGZXM3SmtKTzY3V1RnZzZSZ2lOdkp5TmhWTjhPRS0xei04WQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 12 Mar 2026 03:56:15 GMT",
+    "fetched_at": "2026-03-12T05:08:28.912461+00:00"
   },
   {
     "id": "1af406bb941d",
@@ -107,7 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNHUGZpUGNiS0htamFrRkhMeGl2OEJVdU9idXVBT3MtWnYzcnBJNUw3Qko3LXlaTXdxdWtib011STVkTGRvSmlfTldGdDhlWW5XdmxLcDFNYUhFNjJPMkdUZkZFYngyb2ZGTUdZN0E0SC1NTWFDbFdQeUN5UlA1anA3WDEtZFhsa3Y2c1lXWURHWm16dDdmV2FRaURsODNGLVRoaFlB?oc=5",
     "image": "",
     "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719780+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912487+00:00"
   },
   {
     "id": "746b6b3fedc0",
@@ -117,17 +127,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmU0ZjRELXZKLS1YZFlnOHZiTUsySjEwZ19KeEhITmxPa0JuZy11Rk01S2FWa3R4bGlJbTJ3SWplbHB6eFRKVkxJdnpsaktlSEJwc29uVmVrNjVfejJuMEN3WkF4ZEllTVdqT2todDRVRTdMMW5pVWFQOWNHTV9LVFNZaGd3QTFJbVk2WjBGazZ1NERDNlg3S1lZZy01R2xFTVFzS1lzWFhlTXF6OHpVNw?oc=5",
     "image": "",
     "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719813+00:00"
-  },
-  {
-    "id": "d4a124922a71",
-    "title": "Best Drone Stocks in India 2026",
-    "source": "Groww",
-    "summary": "Best Drone Stocks in India 2026&nbsp;&nbsp;Groww",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYM2dNRHYxa3NUUVhSdzlpUnVnX0xoRmFRcVlLVnFGMUZpYVpjNGhvUmVjZlZSVDM3Vi13b3pCbWNqNEVnWDdiVFhyQlBud0VHWmphX25SYmxBT0Jw?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 08:52:04 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719827+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912509+00:00"
   },
   {
     "id": "2660b397a6f9",
@@ -137,7 +137,7 @@
     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQd1loR0YzTzF5MDV3bVJ0NmZVS1ZBM1pDcXdkUThrYk83aTdSeThqeWFQbk0yR21FZnRsZVBwUTIyNDBMY25oY3VSLVJudWFJeHZSQ0dhbEZaWmVOVmdWSFdsTHJXdWwxci0yeXdZeWMzTVQyVVJxOWNZQlF3UWxYR3VuSWJtUWtYUUx1UWc4MnNnN1JVd0lLOFZDdEtTc1RNZ0ZhSHloZmpMMGUySzNCVFVWdG9TdXV5M2FlWnBNazBSYzVuOVZjdzVoNHRReHhBcFpVcnVfMWVkNkNSSHItSU1weGRVWWk4ZURFSE93bEgwLVFzNzdLR3otZFM0VkhtaXMtcHNsdjVQSEpzNmxENnYtd9IBmAJBVV95cUxNUk5Yc0c0Q2tsaUM0N3FKbzZSYVV1SE1iR2dPYm9nc3c5X2VzMkZ6YXBCZUJQUmZmQklBdzBCZ0p1S05GT3poRm9jdTVkYVB0cUYxZmZQbUk5WXhrMU1sUFZOVjZfX2pJUE1QQ2VjYUlFdi1KazItVGpCV2hUZFpJOTZwdjdhbU1hcDhPNHJkS01yUE1CVUtYa1d6bVB5eE96aHlYQXhXYzh2clZiUkoyRnA0NnV0SUNnYWs5Y2k5YW90TlpCMUpKYWlydGswRU5aTktpSDByb3lOUnpfOUZkcVl1cXdEakMwMWZPYS1CaFlWVmhwak05R0NlR09Dc2N4Ny1MZHRsMXFsNGV5THNvZXVVekJSUkE1?oc=5",
     "image": "",
     "published_at": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719851+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912533+00:00"
   },
   {
     "id": "547980ef1119",
@@ -147,17 +147,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ3FWVEpKRlpVSldzcHEtYzVmZHNqTTdBOEtEUjRpd3pVb2lpMDRQS2g5ZWU5YVN6RDlLMl82MG5hcVltRGlnYlNvRzhDMkNORW4xWUR3aC04TXZmZnRtRWVNQ3BVYUx2eXFUaV9QZHhjR2xUX0J6RGZwN3pFZzFieUhYVlBVeTFxblBCaExhX3dMZFpBbk80RmY1WDBobzluWjVycGh3bk56U1pLOWJVUXZTVXZWaFdkR2NBdGZaWkV6TFNxVkZ6VGFVcURCeTY5N2NSRWgwV1I5cjlLZE9YNnRyelFDNWfSAe4BQVVfeXFMT2FoRTcwbXRuMjkzdWdpd2RaMGlvZFlfSEFuaXZpYWdpQUJxaFJoRzU5M1dYOXBpdHlCbVFiLTVRdV9NekxUaU5OM2VkZW9CUW5MRFhEVDVsQldXWDV6bDZiSDZORndGZ09HVWVHOElWbWNORUNpWVhvVmE2bHVWNDlQLWczazBwNmtvc0RSV05lVlcwSUdmU19hNEdwdVFnRzNoT2JxdmVoVmFkeGFwM0wtYnp5NHZlVWxZeW8wd1JPbTdJNGY5ZXAzSTYyMWI5ZTZkRzJ4cjFLUV9kUTNkNmRidVd0OFQ3SEVIOWFZZw?oc=5",
     "image": "",
     "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719868+00:00"
-  },
-  {
-    "id": "3179af5b01e4",
-    "title": "Technology Sector in India Set to Grow 6% to $315 Billion in FY2026: Industry Report",
-    "source": "Meyka",
-    "summary": "Technology Sector in India Set to Grow 6% to $315 Billion in FY2026: Industry Report&nbsp;&nbsp;Meyka",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU0xVXAtWVNyS3lsQVVKclBHcTc0cUl2UGhFMXFQNndRdVJZRDVEQ2ZTN00tQ1plYk1ZSVl4VlZXWmp0Q0ZWYnBaZHk4SnROcGFSTU5GX0NCejdZYTNsNEUybGd2WHZObW9TZXVDZHZreDdiV1FOblRWNEh0ZldHYVFIdmdUR0FRYVBTVndqRFluTnJGVUFJeDRaMnZqNHM5YU5oVWstNkw?oc=5",
-    "image": "",
-    "published_at": "Tue, 24 Feb 2026 13:03:14 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719883+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912552+00:00"
   },
   {
     "id": "774e003d36c9",
@@ -167,7 +157,7 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSlk1RTdudWZvMUVaWGxYaEtLTEpjZ0JCS1lkeGRxOUpqbk9ST0t3Rml0bnBtODUwUWFSbWt6dFJuWWpCc1oxOGxyaVQySG5DdHdMQWliUHJEclNyMTFlVkl1Q2FiX29seE5iLUFTZXhxbWRESGU1WjJiRi1tSC1ycjVueVBDajE4dko0NA?oc=5",
     "image": "",
     "published_at": "Tue, 03 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719897+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912567+00:00"
   },
   {
     "id": "0724199bb88c",
@@ -177,17 +167,7 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3B3RWdxSm9oa1htVG5LNUYyNkxhUWRWQXlWWEM0WUlTSUd4RnJxQTY2WGQ1eWVxR1pISzM4NXNSQTdhNm9tUTd6SDNCQnlvUDhxcldqS1ZUOG5ZaGNOTXhwWEROR3hZT0VHRVMtX0NHX0gzOWRMYWNnSVZDSVpuTV8wUXNDSDBkVlJxRlpSYkZUcmQ1M3pNRzlSN2syZkJfN2U0RW40a0lha19iSDNwLXdQS1dKV1h4aHZ6LUhvNGtST2VzQkk4NG5HaG04bUo5Smw1dkRscXJfYWZ5VlZR?oc=5",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 15:28:24 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719912+00:00"
-  },
-  {
-    "id": "204a413ff99e",
-    "title": "India's technology sector to grow 6.1% in fiscal 2026, industry body says",
-    "source": "Yahoo Finance Singapore",
-    "summary": "India's technology sector to grow 6.1% in fiscal 2026, industry body says&nbsp;&nbsp;Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTVlycDNaeFY1d3pxRWxlZ29NTGJJUVRxMWFCdGk0NXJZanJ6c0lrc3NYMC05MzBIaEcwUzNvbmxzVWIyZ0J6TjQ5RGR6S0pzYlpjeUxGR1VaNjl0alp6UERSdnB2ZUUxLVFGU1UyQ05CM3c4ZW16LXZzTkdvR2VHeE1sUWVFa1U?oc=5",
-    "image": "",
-    "published_at": "Tue, 24 Feb 2026 07:59:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719925+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912597+00:00"
   },
   {
     "id": "37904cdc0da2",
@@ -197,7 +177,37 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GVnNPQ2dHSS1ndkhEYTRESDR0bGlLalhqM0xvZHlWRlI4RDdqSTl0WGpaVkotN2JWbG9zWVZwNzdFeGFfd2c3V2pWdllMaEVxWG1KNV9qeXBPU193SlV5d3ZEeFRVNElhVDZaRU5IdVY?oc=5",
     "image": "",
     "published_at": "Tue, 18 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:58.719938+00:00"
+    "fetched_at": "2026-03-12T05:08:28.912612+00:00"
+  },
+  {
+    "id": "6e064637b0d2",
+    "title": "India’s tech sector entered 2026 on a muted note, with hiring demand slipping further even as expectations of a rebound remain uncertain. Xpheno’s latest outlook shows active openings continuing to trail previous highs, signalling that the slowdown that bega",
+    "source": "LinkedIn",
+    "summary": "India’s tech sector entered 2026 on a muted note, with hiring demand slipping further even as expectations of a rebound remain uncertain. Xpheno’s latest outlook shows active openings continuing to trail previous highs, signalling that the slowdown that bega&nbsp;&nbsp;LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhoUlllUXVfS0s0VFptYW5XWGNBcHRvVEFvTVF6T3k2X0UwVlhNeU5Jcm5aX01KSGFlMFFLQWdCZ3FqZzhnVDFobUdKRDdwTWFuMzJaMGpiOGpfZVFqWnZ3elhoLTVDNzdwMVZ2Y2NacVZzNzJXdzdDbEdPaTMwYmk0Y2tzNk1EOHdNYy1hVVVuM2hnNlYtNlNqN3FHVEs4TS1TSm1MUVJKVWhRcmJCSlBacFNjQmh0Q2YwV3dBTHdYcTlDZG0wcjk5OHc?oc=5",
+    "image": "",
+    "published_at": "Sat, 03 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-12T05:08:28.912644+00:00"
+  },
+  {
+    "id": "84729d1caa46",
+    "title": "India's technology sector to grow 6.1% in fiscal 2026, industry body says",
+    "source": "MSN",
+    "summary": "India's technology sector to grow 6.1% in fiscal 2026, industry body says&nbsp;&nbsp;MSN",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VBblZXU3gwU3hpbVZiUmtJWlNwMnM0YlhIeU9RRnpWMFFmSzR3S0ZfV2lhSHBzaHlHZmdMMTU5eldkbDBXNDBKUFNDM1Ficm45TnFCVXlfa1lXMEpId1J6aElBWnpJbXBwV3dIeGQ2TmpzT01JNXVrZFVwaVFIYW1jalJoSGVmemVpMWJVWEdCWW1vWGI2Y3lTVG5zeWZCVTFObjRfU0VWbi1TbEZyWW44RWZuNXRMVmxyT1V4OXh6aGs?oc=5",
+    "image": "",
+    "published_at": "Tue, 24 Feb 2026 10:31:44 GMT",
+    "fetched_at": "2026-03-12T05:08:28.912659+00:00"
+  },
+  {
+    "id": "68262264af94",
+    "title": "West Asia conflict keeps Indian FMCG brands on watch; industry executives see limited immediate impact",
+    "source": "Storyboard18",
+    "summary": "West Asia conflict keeps Indian FMCG brands on watch; industry executives see limited immediate impact&nbsp;&nbsp;Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjJSUjVzOUdTbjRiX25JMXYxUS1wZl9pUE1OWTdIaEJpSE5qOVlLM1poZ3JNVkQzREg2QmQ5NjlNWV9DY3dlVVZiZnlQb3dCTE1qdnZEYjNQa3BITmJqWTI4QVZnUjl1LUV0M0kyNDBOMkg0OGFZQnk2OWFvMU5DM0Y2WWpKQUx1WG0xSThaOGpCNlhScWdSeGVjcm9HZmZVb1N5cHZpOEtoWUdiaEx4QmdqdGRhN0U3aGdHWTl6b3U0MkVfRHF1Sm5PWdIBywFBVV95cUxNVjJSUjVzOUdTbjRiX25JMXYxUS1wZl9pUE1OWTdIaEJpSE5qOVlLM1poZ3JNVkQzREg2QmQ5NjlNWV9DY3dlVVZiZnlQb3dCTE1qdnZEYjNQa3BITmJqWTI4QVZnUjl1LUV0M0kyNDBOMkg0OGFZQnk2OWFvMU5DM0Y2WWpKQUx1WG0xSThaOGpCNlhScWdSeGVjcm9HZmZVb1N5cHZpOEtoWUdiaEx4QmdqdGRhN0U3aGdHWTl6b3U0MkVfRHF1Sm5PWQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 12 Mar 2026 03:33:45 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829616+00:00"
   },
   {
     "id": "bc7a2e469645",
@@ -207,7 +217,7 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2VrNHVRNEpLQmIxNHc4eGkzVURYWWcwWDNUTWRfYi1rSnh6OWtZQTJWOWJYLU5OWDM0ZWduaXlYSXdlYUhFWFBaNnNxTXVBUTJPU203SUJtWnRObjA3d3RlU1FqSGJXVmpUOTVvd19qV09YS0k4VG01amVRWE1Xb3NSREYxNGF0d0ZJMGNNWHZVb1RPU05ZeGFFbDdQRUNJZkVCNm93?oc=5",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 11:55:16 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714895+00:00"
+    "fetched_at": "2026-03-12T05:08:29.829649+00:00"
   },
   {
     "id": "de170f4a1119",
@@ -217,17 +227,17 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDJua1R2VHFSb242SDFneFZ3X3RFeWpRaUVaYWZzVGJzdGNraU5kTmpNejM5S043YXI4RXV3T1dPUVd3VTd3dGVSNkMtdU9ZUGpSM01PNDUzVEVNSjV6QUhRbkhYRGZrcnVRUGxkTEdScUF2SUprMTl4a1U1UVI0TDY4Rl9ieE54bkRIVDBFM1NfbWdpWXJMVUVxSDhrVXlRaVY2dDAtTG5rbnZKblR4MTZodDFfMEVDZ0tLQzE0STk2Y2JfcF8xYVlyNEI1SmNyNGtJQmVvMVDSAd4BQVVfeXFMTjdzOG5BOExmdDY4a1N1c1cyRFdHTFp0NWJkMmtaeVNHdmdmaTgzR21WYndfcXBrWGtZbFRfbG5haHV5amhqbHBEcmNIaHF5M0pGSHlzYVZSSHRTcDhPVG9rUUNmaE9YQkt0SGpneDZlbGxjSDg2VHh5aHlBMDNoT0NzMjFtc29jZnhlYk83blRzRFhsSEJaZHB6MzdiTEIxaFd0ZlQtSWVpMm4zY2E4Ykowbk41WmdIbzdVZHl6bGg3ZUpESUsyVENiZlFsUWZiaDdmWGJEYkFtbkIzRGd3?oc=5",
     "image": "",
     "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714930+00:00"
+    "fetched_at": "2026-03-12T05:08:29.829671+00:00"
   },
   {
-    "id": "996d0d447a5d",
-    "title": "Indian urea producers shut plants as Iran war cuts LNG flows",
-    "source": "The Economic Times",
-    "summary": "Indian urea producers shut plants as Iran war cuts LNG flows&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcUItVVVxdHRudXBNOF9QMjNQZmExa3RlS2ZHeW9CR0JBdW9rZUlQZ0VaU0x2TWkwUjMtRkIwdE1SSTlSazdNMHBmZG41RFROeHB0OXJXQ0dwR2cwd295LWpXOHFIeVBtY2F0Nm9RWW5LdjJLSTF2MTJ0RFUyX2JfT0RTb3V2SHpHbzNBenVmWHV6RVdaNTJrMldJTFpaTkNVTnVvdU8zZ1BKbFRWU2VQSEZQOWtJUVY4LUVLc3J6RWxNMThoenJrbjgwVEFsdzhId184TVFSYUkya0ZIckU3dlk2a3lJamZNRURUd29R0gHzAUFVX3lxTE51djVTU1pQQmxRdFNtOThmRU5tQjE5Q2l2dFUzYzhpT05aYU1CZTQxRjZjVEJqajNUUWJDRWVkTS1UaXJJeFpKcG1nTl9iNFg5c25ndDgtQmk0MVlUaWRGanQ1N3Mxc2VETmdzY3dkWUstSVVia0tVc2dLZjdyQ01NUzNGX19wY3FXeHlQa0xBbHJyWFBhUE9sZEctbEEyOFN6N0trN2V0Qk1wbnZha2NXQU5SNkpDemlIbXQtR3h0UU1mY2l4VHJRVG9uVzQ1TXdlQTFVbFJrZzZwcGNweVh4MTltbHFrZDhqTjJfRGdXSWRqOA?oc=5",
+    "id": "ed41cd877275",
+    "title": "India Relaxes FDI Rules for Neighboring Countries, Allowing Minority Investments via Automatic Route",
+    "source": "India Briefing",
+    "summary": "India Relaxes FDI Rules for Neighboring Countries, Allowing Minority Investments via Automatic Route&nbsp;&nbsp;India Briefing",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUNxTWNkdWN0ekx2VFNPeFg0eUJDNUpBOVNhQmg1QnBSVXczd2Y0NDNfbFdXUjdKSkJBTVBwS3ozY3NOM3IzNXlIU0t0SlZkR1BUeXN4QWIxdEVFYkZfWXIxZl9aR1I0NlZQM2prbUdRalR4X3VKRWZadm84ZE9CY05yTTAtVlpoaWQ0RTN1X25kZmY2bXBFZUVn?oc=5",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 05:29:45 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714951+00:00"
+    "published_at": "Wed, 11 Mar 2026 06:30:48 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829689+00:00"
   },
   {
     "id": "5455a213cd31",
@@ -237,37 +247,17 @@
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zN3BjS2c1djZDUFFHdGRmSzRoUHJ0dUNsNjg1VnZ0NDlaTXBDT2xFMlAwdnZVaG1TTnNiOEJsMlhyMEFPd3pEbVR6WHdpT1NmUXZFdEtoRnd5aEpkRE90SzBrRHRYR1hSLTJoNTN2ZmY3Y3dKWUR1VXpn?oc=5",
     "image": "",
     "published_at": "Fri, 01 Aug 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714965+00:00"
+    "fetched_at": "2026-03-12T05:08:29.829702+00:00"
   },
   {
-    "id": "92f7b2aa9304",
-    "title": "Best Tobacco Stocks in India 2026",
-    "source": "Groww",
-    "summary": "Best Tobacco Stocks in India 2026&nbsp;&nbsp;Groww",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6cFR1TWQzOEw2c05hMlFfVjRDR0NyTEFSQ3NUbzBaNVZUWUJKUEVXTVdKeTVPQ0Z5OFVSNzZyRUJRWEFTWGRkQWh1Z2ZLMHZvUk5KMUkxVlpGVGVOTTB3?oc=5",
+    "id": "4adb20f6c853",
+    "title": "Industry 4.0 in Welding and the next phase of Indian manufacturing",
+    "source": "Machine Maker",
+    "summary": "Industry 4.0 in Welding and the next phase of Indian manufacturing&nbsp;&nbsp;Machine Maker",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNalo3dGhLZUtwV3ZMWktCbW1lY0x1X1VSZzZIX1hIYTZ5WUNPT2JOZGt6am41c3R2UDhiTUxsUGJjWko3Nmo2cjNBWVlMaGVsR3FuRlJqU2tNZXY1c1FiMk84QnNSZXFxSmZZYmpUNGVsSDZHTzNUQ2FUTmFIRGZvRmZkNi1aMTF4akExRllnMndqU2hCQ0xYYWVvaw?oc=5",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 10:03:29 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714976+00:00"
-  },
-  {
-    "id": "46c7234f353c",
-    "title": "Hotels, restaurants across India grapple with gas shortage as West Asia conflict prolongs",
-    "source": "The Hindu",
-    "summary": "Hotels, restaurants across India grapple with gas shortage as West Asia conflict prolongs&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWpUUXdhZWJPLXJVN2dEOGdSdDZ4aUVJUHdxbnBiTk9lWEZrSFlqcHVSa2h1QlFkd3I2NlJ4SmFxMVQzeDQzVFhhNlNwWjcyanVxUmtqMDJUWFQ5MFBuMF9WcXhSVV9PQVZ3a2FfYlhYRzROWXcxRVJfWW9ETHZXX05yRkdtVDVrNlVHb0tEVk5JVFFnRkY3bkEwWVBjdDc3SGVMZmxaSGtJU2VidEN5S05kT3E4UHcybW9JT2V6UFBpWTVvUlNibA?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 06:34:00 GMT",
-    "fetched_at": "2026-03-11T23:53:59.714992+00:00"
-  },
-  {
-    "id": "7934723288e0",
-    "title": "Indian IT industry likely to emerge stronger despite Gen-AI disruption: Nuvama",
-    "source": "The Tribune",
-    "summary": "Indian IT industry likely to emerge stronger despite Gen-AI disruption: Nuvama&nbsp;&nbsp;The Tribune",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc1ZzQkdUVGQtbkJCLXNaeGhRMDlnNThab1pNc3MwT3dycUFXQmpueUwxTm1qQUs1cmZINzZLQlpkTTE5V2tIMGVUSzUzV0I1TmlOQXpCWDZJazFOQmF3TWdiaGlod2pIUEJuV3p3YnRfWDZHd1FMN2xGOUdxV2VUeTVIXzVaaV9PVXF4RktqTHVkNGdjaGJwZ0NaQndfQW43ak8tOTBJMjFzQjZ5TDlzbEtRT25tLVF1d3hrVlhOMk9Ya3Z3cWRuc0dvOUk1Y1NsN2dyR2hGMUYtckUzRGfSAd4BQVVfeXFMTXNWc0JHVFRkLW5CQi1zWnhoUTA5ZzU4Wm9aTXNzME93cnFBV0JqbnlMMU5takFLNXJmSDc2S0JaZE0xOVdrSDBlVEs1M1dCNU5pTkF6Qlg2SWsxTkJhd01nYmhpaHdqSFBCbld6d2J0X1g2R3dRTDdsRjlHcVdlVHk1SF81WmlfT1VxeEZLakx1ZDRnY2hicGdDWkJ3X0FuN2pPLTkwSTIxc0I2eUw5c2xLUU9ubS1RdXd4a1ZYTjJPWGt2d3FkbnNHbzlJNWNTbDdnckdoRjFGLXJFM0Rn?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 08:50:39 GMT",
-    "fetched_at": "2026-03-11T23:53:59.715006+00:00"
+    "published_at": "Wed, 11 Mar 2026 15:27:43 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829716+00:00"
   },
   {
     "id": "87f2ec59493f",
@@ -277,27 +267,37 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQU9CaHVKQWExajl3ZW1MZG9ydzZ3UWhvWmNhemlpRFdUdUl2TFJpUDFFSUl1Rjl2bEx4WEw1WnZUampUWkpTVEFwbE1hM2Y0SEdPNWZoc2tQMHN0U3AtOFB2NzZWMkF5dTNCYXVQX25GODhZbHZBQzJtaGZYdnFDbmhrVTNKY1VwTHdXLVNhcTJCeFZQX3pfalJocm04bk8yMjMybHJPc18ySm1BZlRHRnhzaHR0c0QyZlcwMjdzMkpILXRWaUhLMjNIQmNuTVp0VERlaHpWTnhGaWVD0gHjAUFVX3lxTFBIRzB5b0JySktzYXgtcGpuemFzbV9kcWRpaW1WNkR0TVdwdnFmR1NwUzhIQmhWc2J1MGQ2cGttVmVSR1dFbzRITVFiNHdJbVhUY21lTVRpWDRPUG41MzRRRlRrV3N4UnYwdHFuUjJGeV9keUs5bmhXVFBHekxiMm5PNWlZVllEWWpJVmpIWjFfOVJLZEpIX2Iycjk0aWtGS1JIczVnWHhuam5yOHU4emNkR1U0bkJhWER6RVNXcFRzdjVCd0VMVEhmU29YZHJaOUpVbVpVY2tOM3dUWFJ3MTIwWXBv?oc=5",
     "image": "",
     "published_at": "Mon, 09 Mar 2026 11:16:49 GMT",
-    "fetched_at": "2026-03-11T23:53:59.715021+00:00"
+    "fetched_at": "2026-03-12T05:08:29.829730+00:00"
   },
   {
-    "id": "5f8919297dc1",
-    "title": "The Paradox of the Indian Hemp Industry",
-    "source": "SCC Online",
-    "summary": "The Paradox of the Indian Hemp Industry&nbsp;&nbsp;SCC Online",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEFUWmltRzJIRzlBdHF3Nk50MGxKd0pkRFJTVUpUbUU5ejR6VE9KTkxGVWkyeVRvSkM5UlVpQk04VW5iajhmNUt2VS1mRjRibVFJQjRERlpMQWJNTGZScUp1akE5QlhkaVhFaUl4empGT0R1cFNwejY2VmpSTjZFNnJYalhNQV9NNlE0dGdOa2Q1ZlFUVFhPbjVR?oc=5",
+    "id": "624f65513553",
+    "title": "India File: Iran war reverberates from farmlands to diamond vaults",
+    "source": "Reuters",
+    "summary": "India File: Iran war reverberates from farmlands to diamond vaults&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2tMUVZkdkdVOXQzTFZWZjRyOWltTzYyTHVJekd2U3I3NE5kNHNXdzFNNVdyZzk2OFdKZlRsQkhTbkdCZXNGRnRVYm5vS1pGSTJXMDFyTjFYZVFoWGZXR0F5ZUJuVXNtZHRsTnJUS2dRcHdkZ3hfbjN5bXJBRS1FMFFwbmptMkZ5Y0hvNkZGTXdFT1hhaldQemJQNjZKbGtINHNyQUs1TFY?oc=5",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 03:30:23 GMT",
-    "fetched_at": "2026-03-11T23:53:59.715032+00:00"
+    "published_at": "Tue, 10 Mar 2026 05:30:00 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829743+00:00"
   },
   {
-    "id": "042584ffd643",
-    "title": "Indian Electronics Supply Chain Under Pressure As West Asia Turmoil Grows",
-    "source": "Electronics For You BUSINESS",
-    "summary": "Indian Electronics Supply Chain Under Pressure As West Asia Turmoil Grows&nbsp;&nbsp;Electronics For You BUSINESS",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOURoMXNMa2d6TTF6Q0xUVkJIdjE0S2NGUGJIQTZyZWJKRjVCUklJQ1Noakd2bGhnTWJLRXVNVG1xMWJnSEpLY09TalVFeEJoUGRqNWZDN0h0eERJdDVTM0NWUllsT0podzU5dUZWd3ZSbW5KRENPcmZMdGhlOUkzelF6bktEenRVMllMR0xPQXE1cnFuaGJoSE9vU21aSHp1N24zWjd3a1ZWcTN1VmE2N0Z5VXE2TWRmU3ZYM3F2WQ?oc=5",
+    "id": "7934723288e0",
+    "title": "Indian IT industry likely to emerge stronger despite Gen-AI disruption: Nuvama",
+    "source": "The Tribune",
+    "summary": "Indian IT industry likely to emerge stronger despite Gen-AI disruption: Nuvama&nbsp;&nbsp;The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc1ZzQkdUVGQtbkJCLXNaeGhRMDlnNThab1pNc3MwT3dycUFXQmpueUwxTm1qQUs1cmZINzZLQlpkTTE5V2tIMGVUSzUzV0I1TmlOQXpCWDZJazFOQmF3TWdiaGlod2pIUEJuV3p3YnRfWDZHd1FMN2xGOUdxV2VUeTVIXzVaaV9PVXF4RktqTHVkNGdjaGJwZ0NaQndfQW43ak8tOTBJMjFzQjZ5TDlzbEtRT25tLVF1d3hrVlhOMk9Ya3Z3cWRuc0dvOUk1Y1NsN2dyR2hGMUYtckUzRGfSAd4BQVVfeXFMTXNWc0JHVFRkLW5CQi1zWnhoUTA5ZzU4Wm9aTXNzME93cnFBV0JqbnlMMU5takFLNXJmSDc2S0JaZE0xOVdrSDBlVEs1M1dCNU5pTkF6Qlg2SWsxTkJhd01nYmhpaHdqSFBCbld6d2J0X1g2R3dRTDdsRjlHcVdlVHk1SF81WmlfT1VxeEZLakx1ZDRnY2hicGdDWkJ3X0FuN2pPLTkwSTIxc0I2eUw5c2xLUU9ubS1RdXd4a1ZYTjJPWGt2d3FkbnNHbzlJNWNTbDdnckdoRjFGLXJFM0Rn?oc=5",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 07:52:18 GMT",
-    "fetched_at": "2026-03-11T23:53:59.715047+00:00"
+    "published_at": "Wed, 11 Mar 2026 08:50:39 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829758+00:00"
+  },
+  {
+    "id": "996d0d447a5d",
+    "title": "Indian urea producers shut plants as Iran war cuts LNG flows",
+    "source": "The Economic Times",
+    "summary": "Indian urea producers shut plants as Iran war cuts LNG flows&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcUItVVVxdHRudXBNOF9QMjNQZmExa3RlS2ZHeW9CR0JBdW9rZUlQZ0VaU0x2TWkwUjMtRkIwdE1SSTlSazdNMHBmZG41RFROeHB0OXJXQ0dwR2cwd295LWpXOHFIeVBtY2F0Nm9RWW5LdjJLSTF2MTJ0RFUyX2JfT0RTb3V2SHpHbzNBenVmWHV6RVdaNTJrMldJTFpaTkNVTnVvdU8zZ1BKbFRWU2VQSEZQOWtJUVY4LUVLc3J6RWxNMThoenJrbjgwVEFsdzhId184TVFSYUkya0ZIckU3dlk2a3lJamZNRURUd29R0gHzAUFVX3lxTE51djVTU1pQQmxRdFNtOThmRU5tQjE5Q2l2dFUzYzhpT05aYU1CZTQxRjZjVEJqajNUUWJDRWVkTS1UaXJJeFpKcG1nTl9iNFg5c25ndDgtQmk0MVlUaWRGanQ1N3Mxc2VETmdzY3dkWUstSVVia0tVc2dLZjdyQ01NUzNGX19wY3FXeHlQa0xBbHJyWFBhUE9sZEctbEEyOFN6N0trN2V0Qk1wbnZha2NXQU5SNkpDemlIbXQtR3h0UU1mY2l4VHJRVG9uVzQ1TXdlQTFVbFJrZzZwcGNweVh4MTltbHFrZDhqTjJfRGdXSWRqOA?oc=5",
+    "image": "",
+    "published_at": "Wed, 11 Mar 2026 05:29:45 GMT",
+    "fetched_at": "2026-03-12T05:08:29.829773+00:00"
   },
   {
     "id": "feafb3a1eadd",
@@ -307,7 +307,7 @@
     "url": "https://www.livemint.com/technology/tech-news/adobe-adds-ai-assistant-to-photoshop-upgrades-firefly-with-new-generative-tools-11773225938595.html",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 17:47:27 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584033+00:00"
+    "fetched_at": "2026-03-12T05:08:34.678952+00:00"
   },
   {
     "id": "8f144874512a",
@@ -317,7 +317,7 @@
     "url": "https://www.livemint.com/technology/tech-news/google-chrome-becomes-ai-browser-with-gemini-support-in-india-top-features-how-to-use-and-more-11773214220175.html",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 13:46:43 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584086+00:00"
+    "fetched_at": "2026-03-12T05:08:34.678986+00:00"
   },
   {
     "id": "5e92bad9d533",
@@ -327,7 +327,7 @@
     "url": "https://www.livemint.com/technology/gadgets/xiaomi-17-xiaomi-17-ultra-with-leica-camera-setup-launched-in-india-price-specs-launch-offers-and-more-11773209865678.html",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 12:12:47 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584111+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679008+00:00"
   },
   {
     "id": "8b5a19f36973",
@@ -337,7 +337,7 @@
     "url": "https://www.livemint.com/technology/tech-news/instagram-down-hundreds-report-issues-accessing-social-media-platform-11773200139000.html",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 09:11:31 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584130+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679026+00:00"
   },
   {
     "id": "5934b9949946",
@@ -347,7 +347,7 @@
     "url": "https://www.livemint.com/technology/tech-news/made-in-india-laptops-share-rises-pli-scheme-11773135445691.html",
     "image": "",
     "published_at": "Wed, 11 Mar 2026 06:00:57 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584148+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679044+00:00"
   },
   {
     "id": "c11520e5fbf9",
@@ -357,7 +357,7 @@
     "url": "https://www.livemint.com/technology/tech-news/oracle-openai-abandon-texas-ai-data-centre-expansion-tied-to-500-billion-stargate-project-report-11773158722386.html",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 21:55:55 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584167+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679063+00:00"
   },
   {
     "id": "7e4f2806e952",
@@ -367,7 +367,7 @@
     "url": "https://www.livemint.com/technology/gadgets/iphone-fold-leaks-expected-price-release-date-specifications-and-more-11773140252782.html",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 17:27:13 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584183+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679079+00:00"
   },
   {
     "id": "9bf6c3b47184",
@@ -377,7 +377,7 @@
     "url": "https://www.livemint.com/technology/tech-news/russiabacked-hackers-targetting-signal-and-whatsapp-accounts-how-are-attacker-gaining-access-how-to-stay-safe-and-mor-11773132089162.html",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 15:35:24 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584203+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679098+00:00"
   },
   {
     "id": "d559883a0898",
@@ -387,7 +387,7 @@
     "url": "https://www.livemint.com/technology/gadgets/xiaomi-pad-8-with-snapdragon-8s-gen-4-processor-9-200mah-battery-launched-in-india-price-specs-and-more-11773125296287.html",
     "image": "",
     "published_at": "Tue, 10 Mar 2026 12:32:53 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584222+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679117+00:00"
   },
   {
     "id": "ee59e9b8a32e",
@@ -397,106 +397,106 @@
     "url": "https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-launching-this-year-expected-price-specs-and-more-11773048981362.html",
     "image": "",
     "published_at": "Mon, 09 Mar 2026 17:27:49 +0530",
-    "fetched_at": "2026-03-11T23:54:04.584239+00:00"
+    "fetched_at": "2026-03-12T05:08:34.679134+00:00"
   },
   {
-    "id": "3cecb6dc4981",
-    "title": "Google completes $32-billion acquisition of cloud security startup Wiz",
+    "id": "580006919b76",
+    "title": "Anthropic launches 'Anthropic Institute', expands public policy team",
     "source": "Economic Times",
-    "summary": "Google announced the all-cash deal in 2025, as it seeks to strengthen its cloud computing business in the AI era. It is the largest ever transaction sought by Google or its parent Alphabet. As part of the deal, Wiz will operate as a distinct product line within Google Cloud and retain its brand, whi",
-    "url": "https://economictimes.indiatimes.com/tech/technology/google-completes-32-billion-acquisition-of-cloud-security-startup-wiz/articleshow/129476026.cms",
+    "summary": "Anthropic launched the Anthropic Institute to study AI’s societal impact, led by cofounder Jack Clark. The institute will research economic, social, security and governance challenges, including job displacement and cybersecurity risks. It aims to share insights, partner with external groups, and ex",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-anthropic-institute-expands-public-policy-team/articleshow/129492041.cms",
     "image": "",
-    "published_at": "Thu, 12 Mar 2026 00:04:45 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663258+00:00"
+    "published_at": "Thu, 12 Mar 2026 10:18:44 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750828+00:00"
   },
   {
-    "id": "a489190b0da0",
-    "title": "Revolut gets full UK banking licence after years-long wait",
+    "id": "50d492b5b685",
+    "title": "Sarvam partners EkStep, AI4Bharat to deploy multilingual voice AI agents across India",
     "source": "Economic Times",
-    "summary": "Revolut has received regulatory approval to launch a British bank, allowing it to compete head-to-head with high street lenders in areas such as current accounts and consumer lending. Revolut ​said in a statement on Wednesday that the Bank of England's Prudential Regulation Authority had allowed it ",
-    "url": "https://economictimes.indiatimes.com/tech/startups/revolut-gets-full-uk-banking-licence-after-years-long-wait/articleshow/129474094.cms",
+    "summary": "AI startup Sarvam AI partnered with EkStep Foundation and AI4Bharat to launch “Listen at Scale”, using multilingual voice agents for two-way conversations in local languages. The programme reached about 50 lakh users in 31 days across healthcare, agriculture and governance, helping verification, fee",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-partners-ekstep-ai4bharat-to-deploy-multilingual-voice-ai-agents-across-india/articleshow/129491540.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 23:17:50 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663301+00:00"
+    "published_at": "Thu, 12 Mar 2026 10:04:30 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750863+00:00"
   },
   {
-    "id": "37f7a674bead",
-    "title": "AI-controlled toys serious threat for safety of children, action being taken: Union minister Ashwini Vaishnaw",
+    "id": "1a4c0e94ff50",
+    "title": "How the Anthropic-Pentagon dispute over AI safeguards escalated",
     "source": "Economic Times",
-    "summary": "During the Question Hour in the Lok Sabha, the minister said that the government has made provisions under the Digital Personal Data Protection Act 2023 to ensure children's safety.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-controlled-toys-serious-threat-for-safety-of-children-action-being-taken-union-minister-ashwini-vaishnaw/articleshow/129474025.cms",
+    "summary": "A dispute erupted after Anthropic refused to loosen AI safety safeguards for the Pentagon. The U.S. Defense Department labelled the Claude maker a “supply-chain risk”, threatening government contracts. Anthropic plans a court challenge, warning the move could cut billions from 2026 revenue, while in",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-the-anthropic-pentagon-dispute-over-ai-safeguards-escalated/articleshow/129490706.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 23:11:11 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663321+00:00"
+    "published_at": "Thu, 12 Mar 2026 09:24:17 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750888+00:00"
   },
   {
-    "id": "c27fd3833e54",
-    "title": "Synopsys rolls out new software tools for designing AI chips",
+    "id": "14345a32ff68",
+    "title": "AI startup Cursor in talks for $50 billion valuation: Bloomberg",
     "source": "Economic Times",
-    "summary": "Synopsys on Wednesday rolled out new ​software tools to handle ​the fast-increasing complexity of designing artificial intelligence chips, ​the first wave of new offerings after its $35 billion buyout of engineering software firm Ansys.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-rolls-out-new-software-tools-for-designing-ai-chips/articleshow/129473889.cms",
+    "summary": "Code-generation startup Cursor is discussing a new funding round with investors that could value the company at about $50 billion, Bloomberg News reported. That would be a sharp rise from its $29.3 billion valuation after raising $2.3 billion in the previous round in November.",
+    "url": "https://economictimes.indiatimes.com/tech/funding/code-gen-startup-cursor-in-talks-for-50-billion-valuation-bloomberg/articleshow/129489968.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 23:08:30 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663341+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:56:29 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750909+00:00"
   },
   {
-    "id": "c79ff7cac72e",
-    "title": "Bring food from home, Infosys advises Pune employees as LPG crisis burns its kitchen",
+    "id": "d8c0a7f6b6fa",
+    "title": "Anthropic in talks with private equity firms on AI joint venture, The Information reports",
     "source": "Economic Times",
-    "summary": "Infosys on Wednesday announced that the food courts at its campuses in Pune, Bengaluru and Chennai may be able to offer only a limited menu, underscoring the gravity of the situation arising out of non-availability of commercial LPG to hotel industry.",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/bring-food-from-home-infosys-advises-pune-employees-as-lpg-crisis-burns-its-kitchen/articleshow/129473189.cms",
+    "summary": "The recent conflict ​between the ​US government and Anthropic ⁠temporarily affected discussions over the joint venture, but talks are ongoing, according to The Information report. If finalised, the partnership would adopt a Palantir-style model to ​offer consulting services to help ⁠companies integr",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-private-equity-firms-on-ai-joint-venture-the-information-reports/articleshow/129489867.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 22:56:46 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663360+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:52:42 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750933+00:00"
   },
   {
-    "id": "f57433a761c3",
-    "title": "Infosys tightens overseas travel approvals amid Middle East crisis",
+    "id": "c976dd6ec00d",
+    "title": "Oracle's stake in TikTok US joint venture is worth roughly $2 billion, filing shows",
     "source": "Economic Times",
-    "summary": "In an internal communication sent to employees on Wednesday and reviewed by ET, the company said only critical travel would be permitted for the time being. Group meetings, events, offsites, conferences and similar gatherings have been restricted until further notice.",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-tightens-overseas-travel-approvals-amid-middle-east-crisis/articleshow/129473247.cms",
+    "summary": "Oracle’s stake in TikTok’s U.S. operations is valued at about $2 billion after ByteDance created a majority-owned American joint venture to avoid a ban. US and global investors hold 80.1% while Oracle, Silver Lake and MGX each own 15%. Meanwhile, Oracle said the AI data centre boom could lift revenu",
+    "url": "https://economictimes.indiatimes.com/tech/technology/oracles-stake-in-tiktok-us-joint-venture-is-worth-roughly-2-billion-filing-shows/articleshow/129489616.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 22:53:00 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663378+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:42:17 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750957+00:00"
   },
   {
-    "id": "47620a26ebc4",
-    "title": "Skyroot Aerospace bets on ‘space taxi’ model as Vikram-1 launch nears",
+    "id": "72d0c696253a",
+    "title": "SoftBank's PayPay prices IPO below range at $16 a share",
     "source": "Economic Times",
-    "summary": "In the run up to its maiden launch, the startup’s chief executive Pawan Kumar Chandana called it a “space taxi,” as it is a small rocket that places satellites in unique orbits through customised missions rather than rideshare launches on larger rockets.",
-    "url": "https://economictimes.indiatimes.com/tech/startups/skyroot-aerospace-bets-on-space-taxi-model-as-vikram-1-launch-nears/articleshow/129471056.cms",
+    "summary": "PayPay on Wednesday priced ​its US initial public offering ​at $16 per share, below its targeted price range, as the US-Israeli war with ​Iran weighed on market sentiment. The IPO raised about $880 million based on 55 million American depositary receipts sold, valuing the Japanese digital wallet pro",
+    "url": "https://economictimes.indiatimes.com/tech/technology/softbanks-paypay-prices-ipo-below-range-at-16-a-share/articleshow/129489228.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 21:46:20 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663399+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:29:01 +0530",
+    "fetched_at": "2026-03-12T05:08:34.750982+00:00"
   },
   {
-    "id": "f66b1cc87bbb",
-    "title": "Neobank Fi Money shuts down banking services",
+    "id": "a36d1760276c",
+    "title": "Atlassian to cut roughly 10% jobs in pivot to AI affecting 16% of Indian employees",
     "source": "Economic Times",
-    "summary": "The neobanking startup, which is backed by Peak XV Partners and Alpha Wave Capital, was offering banking services in partnership with Kerala-based Federal Bank. The move is part of a business realignment, and customers can continue to operate their savings accounts through Federal Bank’s official ch",
-    "url": "https://economictimes.indiatimes.com/tech/technology/neobank-fi-money-shuts-down-banking-services/articleshow/129470782.cms",
+    "summary": "The company said 40% of affected employees are in North America, followed by 30% in Australia and 16% in India. It expects to incur about $225 million to $236 million in charges related ​to the layoffs and office space reductions.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/atlassian-to-cut-roughly-10-jobs-in-pivot-to-ai-affecting-16-of-indian-employees/articleshow/129489110.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 21:41:11 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663422+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:25:45 +0530",
+    "fetched_at": "2026-03-12T05:08:34.751003+00:00"
   },
   {
-    "id": "0585ed065626",
-    "title": "Spain to deploy tool to track social media hate speech",
+    "id": "124ec2e238c6",
+    "title": "Samsung Display CEO warns of higher costs due to Middle East conflict, media say",
     "source": "Economic Times",
-    "summary": "Spanish Prime Minister Pedro Sanchez on Wednesday announced the creation of a tool to track hate speech on social media and hold them accountable, in his latest measure targeting tech giants. The tool \"will make it possible to systematically measure the presence, evolution and reach of hate speech o",
-    "url": "https://economictimes.indiatimes.com/tech/internet/spain-to-deploy-tool-to-track-social-media-hate-speech/articleshow/129469109.cms",
+    "summary": "​Samsung ​Display's chief executive said on ‌Thursday ⁠the ⁠war ​in the Middle ​East threatens to ​drive ⁠up costs ‌of ​energy ​and ⁠raw materials needed ​for the flat ​screens used in ‌mobile phones ​and ​other ⁠electronic devices, media reported.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/samsung-display-ceo-warns-of-higher-costs-due-to-middle-east-conflict-media-say/articleshow/129489023.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 20:53:46 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663445+00:00"
+    "published_at": "Thu, 12 Mar 2026 08:21:25 +0530",
+    "fetched_at": "2026-03-12T05:08:34.751026+00:00"
   },
   {
-    "id": "7eddc52f7fe5",
-    "title": "WhatsApp launches parent-managed accounts for pre-teens amid safety concerns",
+    "id": "024e7c3ed0fd",
+    "title": "Pentagon opens door to exempt Anthropic use beyond 6-month ramp-down, memo says",
     "source": "Economic Times",
-    "summary": "WhatsApp is introducing parent-managed accounts for children under 13. This move comes amid growing global worries about social media's impact on young minds. Parents will control who contacts their children and which groups they join. They can also review message requests and manage privacy setting",
-    "url": "https://economictimes.indiatimes.com/tech/internet/whatsapp-launches-parent-managed-accounts-for-pre-teens-amid-safety-concerns/articleshow/129468499.cms",
+    "summary": "The memo comes after a ‌heated weeks-long dispute over technology guardrails on the use of Anthropic's AI tools by the military that culminated in Defense Secretary Pete ​Hegseth labelling ​the firm a supply ⁠chain risk and banning its use by the Pentagon and its contractors.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/pentagon-opens-door-to-exempt-anthropic-use-beyond-6-month-ramp-down-memo-says/articleshow/129488415.cms",
     "image": "",
-    "published_at": "Wed, 11 Mar 2026 20:35:54 +0530",
-    "fetched_at": "2026-03-11T23:54:04.663466+00:00"
+    "published_at": "Thu, 12 Mar 2026 07:54:17 +0530",
+    "fetched_at": "2026-03-12T05:08:34.751049+00:00"
   }
 ]
