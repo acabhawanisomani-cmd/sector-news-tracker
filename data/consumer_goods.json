@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEQzQ29vY1VyS0Vabktqcm5nYVJjQXFJMXFFWHpfU2J6OE5mVmRxWndlbDZvQk9vSkFVbGtKLWd6ZFZpUU1ZSEtjLVJYdTZpbm5RT2J6MDBCbTd3X0hCdEIzay1HY2tNTnF5RnlrNmlYVUNIMUNKWFM4bDEwVWlJWUFtcVgxblczRkRDektB?oc=5",
     "image": "",
     "published_at": "Fri, 13 Mar 2026 15:52:48 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686702+00:00"
+    "fetched_at": "2026-03-14T19:18:49.165756+00:00"
   },
   {
     "id": "7ec9b44337e2",
@@ -17,17 +17,17 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PYy1ZaC1LY2FZNVJzZDY0cW8wZjZjUVVGZUdOaXJYSmRJNEpRUzYzOHhnYTZncVBLdVFrU2NIcVEtcmJUdDFuN0Z5RUUweEZpV3g3UDhlcjF3N2E2OWk1dHVvM3pEWFNXYm9RX29zOE55akk?oc=5",
     "image": "",
     "published_at": "Mon, 08 Dec 2025 21:23:14 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686732+00:00"
+    "fetched_at": "2026-03-14T19:18:49.165785+00:00"
   },
   {
-    "id": "0e843212a417",
-    "title": "FMCG sales enjoy satisfying 2025",
-    "source": "People's Daily",
-    "summary": "FMCG sales enjoy satisfying 2025&nbsp;&nbsp;People's Daily",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eTdWcFNNZWpMOHc1a0FTM2hPczZRWUtYS3h3bTc3U1kzSjVWRWNRdVNWTkVQUVgtRDFQdEc3OW1ER3dOWTl2NzlIbmIzUHZyZ1ZTTnM0OHdIa3hFSGJiMi0yS1M?oc=5",
+    "id": "d3aaad52bae0",
+    "title": "Consumer packaged goods industry",
+    "source": "Siemens",
+    "summary": "Consumer packaged goods industry&nbsp;&nbsp;Siemens",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wRjVLRXhUR3JuN1E4RkNORXdLSmsyT3gxLTFpZEFPRmRNVnFGZEtzUVhqbzFYYk9GMmZiaEJoVFVxclBuWXRGekhxOHlsNGxfSlNpRTVLcHZqRjZ0eGhQMk5uN19LUl91ZzVXeE9XZEhKbm8?oc=5",
     "image": "",
-    "published_at": "Wed, 25 Feb 2026 06:22:00 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686745+00:00"
+    "published_at": "Fri, 13 Feb 2026 13:25:46 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165797+00:00"
   },
   {
     "id": "f551be52c039",
@@ -37,7 +37,167 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUZqdWlFYUdxMmZBamlDeUJyLTNleHgydkpZTGxhT0FFbFhxV2dsaUFldUVybmNZQjBLNUpSYWlsX2FWZVVzcnV0bU9tYUZjRGlSNkVFZmNNQVNpZ2JNR1FTRHczNlVCY2hwVmZBb1VDYk9kNE9Fa3V2aXlqMnFMUzBqY3h1RXloam9rRUFTdzdZRDBIWlB3Mlc0TF9RM3AtUC15TWVFUk5wdw?oc=5",
     "image": "",
     "published_at": "Thu, 08 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686758+00:00"
+    "fetched_at": "2026-03-14T19:18:49.165811+00:00"
+  },
+  {
+    "id": "0e843212a417",
+    "title": "FMCG sales enjoy satisfying 2025",
+    "source": "People's Daily",
+    "summary": "FMCG sales enjoy satisfying 2025&nbsp;&nbsp;People's Daily",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eTdWcFNNZWpMOHc1a0FTM2hPczZRWUtYS3h3bTc3U1kzSjVWRWNRdVNWTkVQUVgtRDFQdEc3OW1ER3dOWTl2NzlIbmIzUHZyZ1ZTTnM0OHdIa3hFSGJiMi0yS1M?oc=5",
+    "image": "",
+    "published_at": "Wed, 25 Feb 2026 06:22:00 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165823+00:00"
+  },
+  {
+    "id": "f388739e81b6",
+    "title": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence",
+    "source": "YouGov",
+    "summary": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence&nbsp;&nbsp;YouGov",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkV4ZzMzQ0JNdy16ZWdTdjM4WGhyckd2bEFYa24tdEJHaEx4TUlhblpDZUgyd1NvWVdGajEzTVEtcWoyaTVPNnB2R1gyTkZFYnBBSEUzN21YSUc3MU9SWUJIUU5sSi1ETTlaZUg0Z0xNeGhpcG40bmc5ZnktT2twNFNJS09KRFhPMC11RjB2ZFdlZ0QtV3JnWWt4LTRLTHYyc2tXeGEydms1RG1BN1ZwY1AwdXFlamYyaXc0aw?oc=5",
+    "image": "",
+    "published_at": "Tue, 11 Nov 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165838+00:00"
+  },
+  {
+    "id": "524b728af390",
+    "title": "Early signs of stabilization in FMCG sales - China Daily",
+    "source": "Global Edition",
+    "summary": "Early signs of stabilization in FMCG sales&nbsp;&nbsp;China Daily - Global Edition",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFZjMGdHR0RScjVZaTR2WHlveUZ5WlhxbU5jS3V5SzYtbTEycFdJMjBiUjdXRTFkcXlIMVVXMy1HSEY3cnptd2JodDdKc0VEdFRnN0RjQUxMbmZxNXpYODl4dkEtMTlPcTFTOEhJS1pYNnlBSHlSbUMybDRFaUF2ZG53?oc=5",
+    "image": "",
+    "published_at": "Sat, 13 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165852+00:00"
+  },
+  {
+    "id": "9d18d91d0c52",
+    "title": "Asia-Pacific Consumer Products Report 2025",
+    "source": "Bain & Company",
+    "summary": "Asia-Pacific Consumer Products Report 2025&nbsp;&nbsp;Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jM0Z4WFZlTHZ1QTE5dllxNnhYTGJURk9feFVLcDh5RjE0cGxPb1B4WGRMVFIyMXZrbHh6Z1p5NUhkUUZHLVhpOFFGMWxJRjUwOGtiR29aRVJRaEx4X0wxWE5nNHRMRk5BcFpsNWk0VU5NcS00a1FLM3R4d2t0UQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 13 Nov 2025 22:06:08 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165864+00:00"
+  },
+  {
+    "id": "58d49a8e39c3",
+    "title": "Innovation and Regional Trade Expanding the Market for FMCG in Southern Africa",
+    "source": "Maersk",
+    "summary": "Innovation and Regional Trade Expanding the Market for FMCG in Southern Africa&nbsp;&nbsp;Maersk",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazM0MFBfM3E1YzNqZHEybHk2MDB1RDd6Rmg2d1lvVGNmLWpoWnBEYXgzMDFGcWhhODBCWFpFenJ4VTdxOThfQU5kVHFCU0JZN3NLWHlXYm5PSFdSUDlKLW1aSFBrS1NjWGRLZ05tT0J1WUd5b3hpcndMVWswWDFhU2JsalZZY1dZR09Zb09hWk9sSnAtUXMtU1ppZXJUX3FmTmxLd3VsbnlJUQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Oct 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165879+00:00"
+  },
+  {
+    "id": "64be335de595",
+    "title": "Germany Fast Moving Consumer Goods Market – Europe’s FMCG Outlook",
+    "source": "Circana",
+    "summary": "Germany Fast Moving Consumer Goods Market – Europe’s FMCG Outlook&nbsp;&nbsp;Circana",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHZBSDZleGNacnlGalludWZrR0JvWlpIN19jWXdvT3daTEVOZ2hKWDlRRWZCMklTbXl3Z3VWZ1FGOC1kTk5aazlOV2VOSC11dDRRemZFa0s0UGpueWVkdjNaUWRIaVFscXdRZzNGYVBvRWVtUDFkQUl1WFc4eWZyS3VyR1ZualMwUlV0VVYwMHNjVzZNcVVzV21JRTBXaENnLVNrZGU4MlowMTY2RS1jNWZab285a1JYa1lpeHUtOWhial9HS2c?oc=5",
+    "image": "",
+    "published_at": "Thu, 08 May 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:49.165900+00:00"
+  },
+  {
+    "id": "e17192ae8381",
+    "title": "Turkish e‑commerce industry sees strong sales in March",
+    "source": "Hürriyet Daily News",
+    "summary": "Turkish e‑commerce industry sees strong sales in March&nbsp;&nbsp;Hürriyet Daily News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3dwRkVpc0pyVlVWTFJnMk1zWUdXVmZJMk02Q0otNnZZb1JyOHBucjRfb0VNUXhEY1U2MHQtd0VWN2VaY083WlJveWl3VDEwSUtSUUFQYTExdkltdzR4dVN1NVdNQnZnMlp0SF85Y3ZkcmNwWlN6dHE1WUZZR3I0TXdETnpvOW15UXJaLWhYMnUwUW9EOWJOVkVLY9IBoAFBVV95cUxPRkZOYVptenBfQTYySjliRVVscmk4ZmJsSFRlYTBRNjloRDNvd3NFWTdQM1VVYjRycHJOejFqMmRDRUtjMGctNVplM2Fkc0xIZDhxeEtsU01QSlZBMFdLdllSYUxpbS1ZOU9OcVJiS0lEdFJuTVA3SEd0VzVSMFk4eGdmelk5b1pTMDk0c1FrTWF0REFLdm1aRFB1ME5RMWhp?oc=5",
+    "image": "",
+    "published_at": "Sat, 14 Mar 2026 03:59:07 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079455+00:00"
+  },
+  {
+    "id": "9e6b3e7a565d",
+    "title": "Best E-Commerce Stocks for 2026 and How to Invest in Them",
+    "source": "The Motley Fool",
+    "summary": "Best E-Commerce Stocks for 2026 and How to Invest in Them&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEI4QnRLcGx5clhSclVTU2wxRTVFZW9UZGlVMlZTV3kwb294WU1lN21BdFNGUGNFQzNaOGR5WnpjM0dpSEpVWTJrUk1weFBhOHdFeWZoeFgxYy1kdGVmVUJCaUZPdTdZVG9UUFRoQktEYzlWaUc3MFQ0dHR0R0ZlbWlNejhfVzZwakF6VF8tX2U0cU5UVENnYzBObmQ0azdaSEgxT2lkOHlGUQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 10 Mar 2026 21:23:00 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079486+00:00"
+  },
+  {
+    "id": "77b04d0c4701",
+    "title": "35 Top E-Commerce Statistics",
+    "source": "Forbes",
+    "summary": "35 Top E-Commerce Statistics&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+    "image": "",
+    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079500+00:00"
+  },
+  {
+    "id": "d033a5bc1806",
+    "title": "South Africa E-commerce Market Size & Forecast 2026–2034: Digital Retail Revolution Accelerates",
+    "source": "vocal.media",
+    "summary": "South Africa E-commerce Market Size & Forecast 2026–2034: Digital Retail Revolution Accelerates&nbsp;&nbsp;vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWo2Rjk5cEEzZE5FX1NJV1dDNjhEaDNmRW04TUVpUTRWYlM2SW5SU2RXaXJSVDlQbFlwVjBlUGVrVWpHSTZqNDYyeDZmbldsUGdGek51UlRpYmZ2VE9Pbm9CazBqQkN0QnZlYnRVVEZCQ0lYc0tZY3lxNU1aejhWNUMtOHdqNkpZcTNNTXFEQTR1UFFrVGNNOUphZzUyQ1FkUXZhekRDbXMtZlh5eGhDNHBrX2hMQXFEbHhVZjc3LU8?oc=5",
+    "image": "",
+    "published_at": "Tue, 10 Mar 2026 11:43:06 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079519+00:00"
+  },
+  {
+    "id": "f1341668e5fe",
+    "title": "Revenue of the e-commerce industry in the United States from 2017 to 2029",
+    "source": "Statista",
+    "summary": "Revenue of the e-commerce industry in the United States from 2017 to 2029&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnFqdkVJSlNaSXZJQ1I5OTNqS1NPZldQNjBpaEhVNmxZTV9kVTltdXhwU0dsX05wZDJOVkI1clpQM0ZEWWVMc3RIVkwtTkhWQXN1dFJtRi1zMkI0YmhZcmFZYTFuT0lVa2RKWEJiUlBGUzZlN0FkU2NHdlFmWGVsQ1FtWjJYZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079536+00:00"
+  },
+  {
+    "id": "091393c6e67f",
+    "title": "Print and Apply Systems Market Forecast Points Higher Toward 2035, Driven by E-Commerce and Automation",
+    "source": "IndexBox",
+    "summary": "Print and Apply Systems Market Forecast Points Higher Toward 2035, Driven by E-Commerce and Automation&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHBROGhKVnN4RmMtUGljMnpDejd2azhzYTR0Ujl4aUROQ3I5VzFVNGhRRFRQbmctWGw0bkFCNG5EV1AtenNfLUV1cWVKaGhycm5qU29kMVBaS2lQd1BLWnQ0Q0ZkTHVJZ1FSdWlydDF3WEFFNWFIemxwcm83MHAxQ0FlOHdISk9IYnA2U21tNndjOE1TQmF5cElQWGtXQW8tTGUwR3hNbUJIZ3F3ckZidUtGSFRTamFPSWxwOUVmcDMxdHB6bVV4bWFoaw?oc=5",
+    "image": "",
+    "published_at": "Fri, 13 Mar 2026 20:30:25 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079553+00:00"
+  },
+  {
+    "id": "aa55f738f2b3",
+    "title": "Africa E-Commerce Market Size to Reach USD 1,017.0 Billion by 2033 | Grow CAGR by 13.8%",
+    "source": "openPR.com",
+    "summary": "Africa E-Commerce Market Size to Reach USD 1,017.0 Billion by 2033 | Grow CAGR by 13.8%&nbsp;&nbsp;openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb19FcjhJMFpib2lMczI5MFg2VXppX3pSdmxOakxuMWhpMC1ZSGdGVW1wOWRxMnE4RDN0NHJfZ3BEeDJXbkdHNFUxZ2tqOGlkVEV2YjRQcFpydUo4MkRpV0htWFBseUo3SDNzWWN6ZjRDcGI0OENoT1VFbGJYWXM4M2ViZ3duVWVILXNlN0ZYT2VHd2NteUFrdndR?oc=5",
+    "image": "",
+    "published_at": "Fri, 13 Mar 2026 07:25:55 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079570+00:00"
+  },
+  {
+    "id": "893ca0fd1aa4",
+    "title": "Agentic commerce: industry professionals face revolution on as-yet-unknown scale",
+    "source": "FashionNetwork USA",
+    "summary": "Agentic commerce: industry professionals face revolution on as-yet-unknown scale&nbsp;&nbsp;FashionNetwork USA",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHlQQ1ZHUzdfYy1tcGtvNmlmU1dZVkVUQjZIWFVYR2d6WEtfUUdjTWpxRTNPS1hoZjZPSTFWaFFHeGtOQ1I3RTEtMHB5bHNPdi16MHk2aFZ3VGc1V3V2S0JwTGVHU2VFcmZ6cDhJVWxYVkVpSFV4S1FjLXdMTzJFR1h6aFV6SVFUN1g5cE5jcHN5d3Z3dTNWNzZZU2dUWFdKc2ttbVdnMm5aSWZ2Xy0xQ3lFUnhGVzRtRDBTSW00blhNS2V6bHc?oc=5",
+    "image": "",
+    "published_at": "Wed, 11 Mar 2026 01:31:49 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079599+00:00"
+  },
+  {
+    "id": "5b6a3017f869",
+    "title": "How ECDB is bringing transaction-level transparency to global e-commerce trends",
+    "source": "Inside Retail Asia",
+    "summary": "How ECDB is bringing transaction-level transparency to global e-commerce trends&nbsp;&nbsp;Inside Retail Asia",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU9kRXQ0MUVmT29WcjRFQjg4djJ6blhjaTkycDVyRjFoa2I4dkZhYXpMUUpPVVJYeXJRUm9VbHBFMDlKMlZzWlN5dWdudjlKUmxSYmJmTlRnN1dESEZZRE5Sb0xQSlVDSzFfTk1YTTQtN19JRHh4TGxKUWtfaGdkSmkyS2tCdVc4YmV3ZFNjRk5CcjNPQ0N4VU1xRWw0U1dxeXBVRFh3RDRKTWZTQk1fb2hSUVRWaG1S?oc=5",
+    "image": "",
+    "published_at": "Fri, 13 Mar 2026 01:23:49 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079614+00:00"
+  },
+  {
+    "id": "0dc309e785f8",
+    "title": "U.S. e-commerce market nears $1.4T, trails one country",
+    "source": "Chain Store Age",
+    "summary": "U.S. e-commerce market nears $1.4T, trails one country&nbsp;&nbsp;Chain Store Age",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjVUSWJpZEZBTFdVUGNKZEZLSEhzaVFWQzJLTERBLWNCS2tYWFJtaTRQUkZQMjJoVUVSNHpmblEyWjdtVTlKOVVJX0w5eklQeklxdUtpSnlGQ2oweEtPdk9KOE4xN2pWVjVxaHg5OUVvTkYtcks2SEZFMGlVMTBjdg?oc=5",
+    "image": "",
+    "published_at": "Thu, 26 Feb 2026 15:06:37 GMT",
+    "fetched_at": "2026-03-14T19:18:50.079628+00:00"
   },
   {
     "id": "a3eba3710215",
@@ -50,26 +210,6 @@
     "fetched_at": "2026-03-14T17:03:37.686773+00:00"
   },
   {
-    "id": "f388739e81b6",
-    "title": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence",
-    "source": "YouGov",
-    "summary": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence&nbsp;&nbsp;YouGov",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkV4ZzMzQ0JNdy16ZWdTdjM4WGhyckd2bEFYa24tdEJHaEx4TUlhblpDZUgyd1NvWVdGajEzTVEtcWoyaTVPNnB2R1gyTkZFYnBBSEUzN21YSUc3MU9SWUJIUU5sSi1ETTlaZUg0Z0xNeGhpcG40bmc5ZnktT2twNFNJS09KRFhPMC11RjB2ZFdlZ0QtV3JnWWt4LTRLTHYyc2tXeGEydms1RG1BN1ZwY1AwdXFlamYyaXc0aw?oc=5",
-    "image": "",
-    "published_at": "Tue, 11 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686789+00:00"
-  },
-  {
-    "id": "58d49a8e39c3",
-    "title": "Innovation and Regional Trade Expanding the Market for FMCG in Southern Africa",
-    "source": "Maersk",
-    "summary": "Innovation and Regional Trade Expanding the Market for FMCG in Southern Africa&nbsp;&nbsp;Maersk",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazM0MFBfM3E1YzNqZHEybHk2MDB1RDd6Rmg2d1lvVGNmLWpoWnBEYXgzMDFGcWhhODBCWFpFenJ4VTdxOThfQU5kVHFCU0JZN3NLWHlXYm5PSFdSUDlKLW1aSFBrS1NjWGRLZ05tT0J1WUd5b3hpcndMVWswWDFhU2JsalZZY1dZR09Zb09hWk9sSnAtUXMtU1ppZXJUX3FmTmxLd3VsbnlJUQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 31 Oct 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686804+00:00"
-  },
-  {
     "id": "5e592eba9b05",
     "title": "Consumer Outlook: Guide to 2026",
     "source": "NIQ",
@@ -78,16 +218,6 @@
     "image": "",
     "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
     "fetched_at": "2026-03-14T17:03:37.686816+00:00"
-  },
-  {
-    "id": "9d18d91d0c52",
-    "title": "Asia-Pacific Consumer Products Report 2025",
-    "source": "Bain & Company",
-    "summary": "Asia-Pacific Consumer Products Report 2025&nbsp;&nbsp;Bain & Company",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jM0Z4WFZlTHZ1QTE5dllxNnhYTGJURk9feFVLcDh5RjE0cGxPb1B4WGRMVFIyMXZrbHh6Z1p5NUhkUUZHLVhpOFFGMWxJRjUwOGtiR29aRVJRaEx4X0wxWE5nNHRMRk5BcFpsNWk0VU5NcS00a1FLM3R4d2t0UQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 13 Nov 2025 22:06:08 GMT",
-    "fetched_at": "2026-03-14T17:03:37.686828+00:00"
   },
   {
     "id": "c6e5ac957b23",
@@ -100,56 +230,6 @@
     "fetched_at": "2026-03-14T17:03:37.686849+00:00"
   },
   {
-    "id": "e17192ae8381",
-    "title": "Turkish e‑commerce industry sees strong sales in March",
-    "source": "Hürriyet Daily News",
-    "summary": "Turkish e‑commerce industry sees strong sales in March&nbsp;&nbsp;Hürriyet Daily News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3dwRkVpc0pyVlVWTFJnMk1zWUdXVmZJMk02Q0otNnZZb1JyOHBucjRfb0VNUXhEY1U2MHQtd0VWN2VaY083WlJveWl3VDEwSUtSUUFQYTExdkltdzR4dVN1NVdNQnZnMlp0SF85Y3ZkcmNwWlN6dHE1WUZZR3I0TXdETnpvOW15UXJaLWhYMnUwUW9EOWJOVkVLY9IBoAFBVV95cUxPRkZOYVptenBfQTYySjliRVVscmk4ZmJsSFRlYTBRNjloRDNvd3NFWTdQM1VVYjRycHJOejFqMmRDRUtjMGctNVplM2Fkc0xIZDhxeEtsU01QSlZBMFdLdllSYUxpbS1ZOU9OcVJiS0lEdFJuTVA3SEd0VzVSMFk4eGdmelk5b1pTMDk0c1FrTWF0REFLdm1aRFB1ME5RMWhp?oc=5",
-    "image": "",
-    "published_at": "Sat, 14 Mar 2026 03:59:07 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738615+00:00"
-  },
-  {
-    "id": "9e6b3e7a565d",
-    "title": "Best E-Commerce Stocks for 2026 and How to Invest in Them",
-    "source": "The Motley Fool",
-    "summary": "Best E-Commerce Stocks for 2026 and How to Invest in Them&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEI4QnRLcGx5clhSclVTU2wxRTVFZW9UZGlVMlZTV3kwb294WU1lN21BdFNGUGNFQzNaOGR5WnpjM0dpSEpVWTJrUk1weFBhOHdFeWZoeFgxYy1kdGVmVUJCaUZPdTdZVG9UUFRoQktEYzlWaUc3MFQ0dHR0R0ZlbWlNejhfVzZwakF6VF8tX2U0cU5UVENnYzBObmQ0azdaSEgxT2lkOHlGUQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 10 Mar 2026 21:23:00 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738650+00:00"
-  },
-  {
-    "id": "77b04d0c4701",
-    "title": "35 Top E-Commerce Statistics",
-    "source": "Forbes",
-    "summary": "35 Top E-Commerce Statistics&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-    "image": "",
-    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738664+00:00"
-  },
-  {
-    "id": "091393c6e67f",
-    "title": "Print and Apply Systems Market Forecast Points Higher Toward 2035, Driven by E-Commerce and Automation",
-    "source": "IndexBox",
-    "summary": "Print and Apply Systems Market Forecast Points Higher Toward 2035, Driven by E-Commerce and Automation&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHBROGhKVnN4RmMtUGljMnpDejd2azhzYTR0Ujl4aUROQ3I5VzFVNGhRRFRQbmctWGw0bkFCNG5EV1AtenNfLUV1cWVKaGhycm5qU29kMVBaS2lQd1BLWnQ0Q0ZkTHVJZ1FSdWlydDF3WEFFNWFIemxwcm83MHAxQ0FlOHdISk9IYnA2U21tNndjOE1TQmF5cElQWGtXQW8tTGUwR3hNbUJIZ3F3ckZidUtGSFRTamFPSWxwOUVmcDMxdHB6bVV4bWFoaw?oc=5",
-    "image": "",
-    "published_at": "Fri, 13 Mar 2026 20:30:25 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738681+00:00"
-  },
-  {
-    "id": "d033a5bc1806",
-    "title": "South Africa E-commerce Market Size & Forecast 2026–2034: Digital Retail Revolution Accelerates",
-    "source": "vocal.media",
-    "summary": "South Africa E-commerce Market Size & Forecast 2026–2034: Digital Retail Revolution Accelerates&nbsp;&nbsp;vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWo2Rjk5cEEzZE5FX1NJV1dDNjhEaDNmRW04TUVpUTRWYlM2SW5SU2RXaXJSVDlQbFlwVjBlUGVrVWpHSTZqNDYyeDZmbldsUGdGek51UlRpYmZ2VE9Pbm9CazBqQkN0QnZlYnRVVEZCQ0lYc0tZY3lxNU1aejhWNUMtOHdqNkpZcTNNTXFEQTR1UFFrVGNNOUphZzUyQ1FkUXZhekRDbXMtZlh5eGhDNHBrX2hMQXFEbHhVZjc3LU8?oc=5",
-    "image": "",
-    "published_at": "Tue, 10 Mar 2026 11:43:06 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738701+00:00"
-  },
-  {
     "id": "a757758f74a2",
     "title": "E-Commerce Content Marketing Market SWOT Analysis (2026-2033)",
     "source": "openPR.com",
@@ -160,56 +240,6 @@
     "fetched_at": "2026-03-14T17:03:38.738715+00:00"
   },
   {
-    "id": "f1341668e5fe",
-    "title": "Revenue of the e-commerce industry in the United States from 2017 to 2029",
-    "source": "Statista",
-    "summary": "Revenue of the e-commerce industry in the United States from 2017 to 2029&nbsp;&nbsp;Statista",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnFqdkVJSlNaSXZJQ1I5OTNqS1NPZldQNjBpaEhVNmxZTV9kVTltdXhwU0dsX05wZDJOVkI1clpQM0ZEWWVMc3RIVkwtTkhWQXN1dFJtRi1zMkI0YmhZcmFZYTFuT0lVa2RKWEJiUlBGUzZlN0FkU2NHdlFmWGVsQ1FtWjJYZw?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738731+00:00"
-  },
-  {
-    "id": "893ca0fd1aa4",
-    "title": "Agentic commerce: industry professionals face revolution on as-yet-unknown scale",
-    "source": "FashionNetwork USA",
-    "summary": "Agentic commerce: industry professionals face revolution on as-yet-unknown scale&nbsp;&nbsp;FashionNetwork USA",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHlQQ1ZHUzdfYy1tcGtvNmlmU1dZVkVUQjZIWFVYR2d6WEtfUUdjTWpxRTNPS1hoZjZPSTFWaFFHeGtOQ1I3RTEtMHB5bHNPdi16MHk2aFZ3VGc1V3V2S0JwTGVHU2VFcmZ6cDhJVWxYVkVpSFV4S1FjLXdMTzJFR1h6aFV6SVFUN1g5cE5jcHN5d3Z3dTNWNzZZU2dUWFdKc2ttbVdnMm5aSWZ2Xy0xQ3lFUnhGVzRtRDBTSW00blhNS2V6bHc?oc=5",
-    "image": "",
-    "published_at": "Wed, 11 Mar 2026 01:31:49 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738746+00:00"
-  },
-  {
-    "id": "5b6a3017f869",
-    "title": "How ECDB is bringing transaction-level transparency to global e-commerce trends",
-    "source": "Inside Retail Asia",
-    "summary": "How ECDB is bringing transaction-level transparency to global e-commerce trends&nbsp;&nbsp;Inside Retail Asia",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU9kRXQ0MUVmT29WcjRFQjg4djJ6blhjaTkycDVyRjFoa2I4dkZhYXpMUUpPVVJYeXJRUm9VbHBFMDlKMlZzWlN5dWdudjlKUmxSYmJmTlRnN1dESEZZRE5Sb0xQSlVDSzFfTk1YTTQtN19JRHh4TGxKUWtfaGdkSmkyS2tCdVc4YmV3ZFNjRk5CcjNPQ0N4VU1xRWw0U1dxeXBVRFh3RDRKTWZTQk1fb2hSUVRWaG1S?oc=5",
-    "image": "",
-    "published_at": "Fri, 13 Mar 2026 01:23:49 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738760+00:00"
-  },
-  {
-    "id": "0dc309e785f8",
-    "title": "U.S. e-commerce market nears $1.4T, trails one country",
-    "source": "Chain Store Age",
-    "summary": "U.S. e-commerce market nears $1.4T, trails one country&nbsp;&nbsp;Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjVUSWJpZEZBTFdVUGNKZEZLSEhzaVFWQzJLTERBLWNCS2tYWFJtaTRQUkZQMjJoVUVSNHpmblEyWjdtVTlKOVVJX0w5eklQeklxdUtpSnlGQ2oweEtPdk9KOE4xN2pWVjVxaHg5OUVvTkYtcks2SEZFMGlVMTBjdg?oc=5",
-    "image": "",
-    "published_at": "Thu, 26 Feb 2026 15:06:37 GMT",
-    "fetched_at": "2026-03-14T17:03:38.738773+00:00"
-  },
-  {
-    "id": "64be335de595",
-    "title": "Germany Fast Moving Consumer Goods Market – Europe’s FMCG Outlook",
-    "source": "Circana",
-    "summary": "Germany Fast Moving Consumer Goods Market – Europe’s FMCG Outlook&nbsp;&nbsp;Circana",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHZBSDZleGNacnlGalludWZrR0JvWlpIN19jWXdvT3daTEVOZ2hKWDlRRWZCMklTbXl3Z3VWZ1FGOC1kTk5aazlOV2VOSC11dDRRemZFa0s0UGpueWVkdjNaUWRIaVFscXdRZzNGYVBvRWVtUDFkQUl1WFc4eWZyS3VyR1ZualMwUlV0VVYwMHNjVzZNcVVzV21JRTBXaENnLVNrZGU4MlowMTY2RS1jNWZab285a1JYa1lpeHUtOWhial9HS2c?oc=5",
-    "image": "",
-    "published_at": "Thu, 08 May 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-14T15:55:14.374998+00:00"
-  },
-  {
     "id": "58cac81cffd1",
     "title": "Biggest FMCG companies worldwide by revenue 2024",
     "source": "Statista",
@@ -218,16 +248,6 @@
     "image": "",
     "published_at": "Wed, 04 Mar 2026 08:00:00 GMT",
     "fetched_at": "2026-03-14T15:01:19.927994+00:00"
-  },
-  {
-    "id": "524b728af390",
-    "title": "Early signs of stabilization in FMCG sales",
-    "source": "China Daily",
-    "summary": "Early signs of stabilization in FMCG sales&nbsp;&nbsp;China Daily",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFZjMGdHR0RScjVZaTR2WHlveUZ5WlhxbU5jS3V5SzYtbTEycFdJMjBiUjdXRTFkcXlIMVVXMy1HSEY3cnptd2JodDdKc0VEdFRnN0RjQUxMbmZxNXpYODl4dkEtMTlPcTFTOEhJS1pYNnlBSHlSbUMybDRFaUF2ZG53?oc=5",
-    "image": "",
-    "published_at": "Sat, 13 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-14T15:01:19.928083+00:00"
   },
   {
     "id": "692404ad363c",
@@ -258,16 +278,6 @@
     "image": "",
     "published_at": "Fri, 13 Mar 2026 10:06:05 GMT",
     "fetched_at": "2026-03-14T07:53:02.414964+00:00"
-  },
-  {
-    "id": "aa55f738f2b3",
-    "title": "Africa E-Commerce Market Size to Reach USD 1,017.0 Billion by 2033 | Grow CAGR by 13.8%",
-    "source": "openPR.com",
-    "summary": "Africa E-Commerce Market Size to Reach USD 1,017.0 Billion by 2033 | Grow CAGR by 13.8%&nbsp;&nbsp;openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb19FcjhJMFpib2lMczI5MFg2VXppX3pSdmxOakxuMWhpMC1ZSGdGVW1wOWRxMnE4RDN0NHJfZ3BEeDJXbkdHNFUxZ2tqOGlkVEV2YjRQcFpydUo4MkRpV0htWFBseUo3SDNzWWN6ZjRDcGI0OENoT1VFbGJYWXM4M2ViZ3duVWVILXNlN0ZYT2VHd2NteUFrdndR?oc=5",
-    "image": "",
-    "published_at": "Fri, 13 Mar 2026 07:25:55 GMT",
-    "fetched_at": "2026-03-14T07:53:02.414978+00:00"
   },
   {
     "id": "a35757e6fb1e",
@@ -358,16 +368,6 @@
     "image": "",
     "published_at": "Fri, 13 Mar 2026 05:49:28 GMT",
     "fetched_at": "2026-03-13T14:32:08.521906+00:00"
-  },
-  {
-    "id": "d3aaad52bae0",
-    "title": "Consumer packaged goods industry",
-    "source": "Siemens",
-    "summary": "Consumer packaged goods industry&nbsp;&nbsp;Siemens",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wRjVLRXhUR3JuN1E4RkNORXdLSmsyT3gxLTFpZEFPRmRNVnFGZEtzUVhqbzFYYk9GMmZiaEJoVFVxclBuWXRGekhxOHlsNGxfSlNpRTVLcHZqRjZ0eGhQMk5uN19LUl91ZzVXeE9XZEhKbm8?oc=5",
-    "image": "",
-    "published_at": "Fri, 13 Feb 2026 13:25:46 GMT",
-    "fetched_at": "2026-03-13T11:04:34.942847+00:00"
   },
   {
     "id": "32f41fd935c1",
