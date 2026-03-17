@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaENTbng5RjRnbnNpRV9tUExtbFVwZXZkVzRNODZGQ0hrbjVmUHRyckxoWnctejNQNVJ6b1FDT1NqRjMyQ2lEYUZFbFhCUXlsQnRfWXVNNjc4NVJYbDJFSFdlZ1FESThxcHg0NVozV0NKVXNPaVVGUDVKdHhOMVNnSGM2VW5RbzByTjZzQXoyaEwzRThjTmxRcjlfM0NVNHBRSnZoR2dvMzZvMndpQWtZczdZc0FMU1VnMzdjVWdPRzVyVEN5eGRWa3ZQcHBnV3o3bWRhNExJSERYaU5DUms3VA?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 14:34:15 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891584+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643710+00:00"
   },
   {
     "id": "1cb0e5f6cc59",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeTMxcnpQYW5nN2FjSmVXbEREVi1rTlowT3Exd2tocXRNR0xlZVJrMUEyb0RzejNMV21tX1JRUnlEX0NsQ1BGYndESnk1UW85MVlkUHFCNk5hZHIzT1JhQnZDQUdSR3B4bGE2emVUSHMwaUEwYV80eXpwdzdYbWw2bmFnWUVRY3paZ29FUmR2bDQwQV9ZeHdWN1RTOElNQkp1Mm9nU3Znc0FWU1oxVWtfRm1mYVVYcHp4SHFMRlhEMFBiMU9wX3loSVBuaGxrLVpscGpOdHk2N1FsRnNub1FMMm82aHTSAeoBQVVfeXFMTVdMM2pfSU1mSHFxSkJ2WWFPdWpCeWsxWUp6NXZZdjZjazQ4UnZxRlBka0hucFgwY1FpdzFheEN6dHo3QU00UVZvWGZwdVBFeG5UTWctaU52d3JPMllQc3ZFV2hQTFhzTWMyYW5CaWRkMXFoTnFiVERoSEVrQldWa1lnNTlYUFRjU29iRGViazZsYkZoNVF4YTFUUHU4OHlOdjZvUV9LdDdTNDkydkQ1QjgzeWxpT0RENkh4eHVVUS05MEdVZFhBZWZrS1RwTUN2R3N4dHBnUl83Rk9JRXp3NXZGQlBsMkpkTVJR?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 10:05:34 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891627+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643741+00:00"
   },
   {
     "id": "6bcf7d681631",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZWJHanpBM3dXZXJUdGlLX0xoQkNvYllRb1luM0hoQVF3ZWhORkY1anN3NnRma0NQeFJvZWRSSmFJS0U1MTc3UTY0QkdlMkJ2RTN6VzQxWmFkck5SMU1UcTdUakxRUXhhZlE?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 11:06:15 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891642+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643757+00:00"
   },
   {
     "id": "1d1b1c33772e",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDJ6SzBBMUFNeVRpS0FURlpROVFjbGMwbjRMalFLblkyVmZyTW9EQ09hcURadFhRV0xiRVVrVHZjT3BLU1RDR2hXLTFLb3huZkhJLVlCeHU4dkE4a29IcUdybUNTdE9qVGVXVXEwSmpIbEkzeHAxUUxibHFOWkFVUW96NmZXVDV2S0puNTJlT0ZTN0JFZ0hhdmRwUlh0SmcxM2VEQ19hY29hcDVKTXFtX2hB?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 10:38:37 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891655+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643772+00:00"
   },
   {
     "id": "80c0542140c2",
@@ -47,17 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXhlOHNMaDNQUGtOM3RlSERuMWJBVTB3WjNBNUlZTTdXZ19NN1hTa295TnNWQUpaNEliTnFUQzFLUUVxRmczNDNlRi1iTnVzOFA3YVpnd0kzLS1GMHNuOXZlbFpiY3F1eWlCbTNHTTAyUnppZ1ktNkY0Y3lROUxURnN3YmZfSl9aU1RzZGhwOU9tTVI3Qkg5eVl3TTA1VkhHM3V1U2s5UC0tWTJQd05UaEJSY0hhaEEtVUs3NUpzMkIzTVl2bXF3cFJRclM2QkVzOWdGREVKOE0xYzNzdmZLWDlRWFRfc2vSAewBQVVfeXFMT0w2cUxNWHRFTDROT1VsNHVTeXJQTXJjWUthNDh3QzBtZ1ZIZFhIT2l5TDBpWC1UTXVhRnhGZDZ3Y2t5M3M2TUJ5ZjYwX0ItSGtnVnRjNE5pODVNNkhFLW1sWmdYelJxWU55a1BibXdKREtGeFFUUWFFZGZ1Q1FDM211REtJMEZqZkJqZjNOM0IwUVJpZGNZMDVaVHZORUJxQVJTd1lrMjYwRGFnLUlLdzNtUGxiVnlLbHVWNXVQVEcwUFF0ZXpTRjQ5RkVtQ3U2R1ZOOXQ2LUxBLUNLdHVSSzE1RGVFTHJHQTc3T20?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 17:17:00 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891671+00:00"
-  },
-  {
-    "id": "097030b106f0",
-    "title": "India’s Manufacturing Momentum: Performance and Policy",
-    "source": "PIB",
-    "summary": "India’s Manufacturing Momentum: Performance and Policy&nbsp;&nbsp;PIB",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jd1VXSE4zS2JQa1pOSEdlLVZwUk5nV010MUlfSUxiTUlUd2dyU1pHYkJ3TFBtMmFwbHVvUDRUeVZzbi16UHozTXJ0U3JTSDNkZGdyVk93ZjZVVU9oTzFEZGdnbnlBVmxS?oc=5",
-    "image": "",
-    "published_at": "Fri, 19 Sep 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891685+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643787+00:00"
   },
   {
     "id": "114242826ab6",
@@ -67,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa21HM2NMblNXRGNUbmE5eUJGTVFQOUp2czlacnhXWjNRa1B0Rnppdm53VlVFMWc2SC13WFV6c09pWEg4bDM0a3ZYdVhxZko5b01pMkg1ajlHck95bGt1eW0zbUI2WHBrMjBzdjNIY2l0bWRFbUp3VHh1MmJXNVFCNkUxUnVRUDBMSDNGNFd2Nm9CbHBGWUFURUFuUnlwNjBsQTVUVk5vYURQRFEyS0NLZGFmNmdyWlJiQWNtcG16aXR2UGphRkhKQnU2Y19GWUwzeElOY1NkRzNFVVZVdDJjSXEtanBLVTlGd1k3d2xB0gH0AUFVX3lxTFB2Z19BWHJyc0F1ZTVjODZxdkoxN2w1VnNQdnFUODg4M1V5ajN0dU1XT0t5Wm9KYXdYclhjUWIyMFVPVEJ3QlNLZ0RvMU5Rc2NQUS1fU1JGbTdIMnFOQS1pVmsxTUp2MmMtSTZRdUNKcU14TGpPRHJEUlVCMXR5NHNFU3pYY2Vla0tlOXV4azUxaVA1bGo2eVppanNBZ0FFSi12RkZKMUUxUXBsVEdKYUNZdTFBVEY4Z0lVUHk0R0VkRVNGdF93eEFnRHE4QjZvdlhWaDdrRzNWc1Z0alFUX0VDWk9tNEN1cjNfTkt0dEdxWUw3VEQ?oc=5",
     "image": "",
     "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891701+00:00"
+    "fetched_at": "2026-03-17T23:49:26.643803+00:00"
+  },
+  {
+    "id": "097030b106f0",
+    "title": "India’s Manufacturing Momentum: Performance and Policy",
+    "source": "PIB",
+    "summary": "India’s Manufacturing Momentum: Performance and Policy&nbsp;&nbsp;PIB",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jd1VXSE4zS2JQa1pOSEdlLVZwUk5nV010MUlfSUxiTUlUd2dyU1pHYkJ3TFBtMmFwbHVvUDRUeVZzbi16UHozTXJ0U3JTSDNkZGdyVk93ZjZVVU9oTzFEZGdnbnlBVmxS?oc=5",
+    "image": "",
+    "published_at": "Fri, 19 Sep 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-17T23:49:26.643817+00:00"
+  },
+  {
+    "id": "3c44213f1664",
+    "title": "The Rise of Indian Manufacturing Sector",
+    "source": "Drishti IAS",
+    "summary": "The Rise of Indian Manufacturing Sector&nbsp;&nbsp;Drishti IAS",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzVGLXdDWmpNZEw0UnIzTVpOUWtxSGRXQVdZcGJRaUp3a20zRW1hQkUtc0NHX2FlWDRMTHA3Z2tqMWxZUzVoeG1oRFZCanE4UjktVE5obWhwUzJiNUE2SW0zOURYX1NQdUt4aWdGejZKLS1maTVGTmNRUUdvWFQ5T2FQU05EZ01BWDhac3NMeWZoSEJ2NGhlX3B3Mmw1b09UeHpURg?oc=5",
+    "image": "",
+    "published_at": "Tue, 23 Sep 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-17T23:49:26.643829+00:00"
+  },
+  {
+    "id": "0a1dea7c356f",
+    "title": "Gopalan Metals bets big on copper for India’s growth",
+    "source": "Manufacturing Today India",
+    "summary": "Gopalan Metals bets big on copper for India’s growth&nbsp;&nbsp;Manufacturing Today India",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zVFJQV3NhdVdRNW9rZFNWWGt4R2p5RG5WTUVwSk5EVEpRdHh5cms5RE5zSmN6UzRlTG1ubDZkSjc5Ukd5RDZlbUhLSHhVWUVzLU1JVGdySGVOSTNCNHRFZFBKMzhtODJVdnlVdnVTYXRYZWR5TTBZS043NHRCUQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 11:34:15 GMT",
+    "fetched_at": "2026-03-17T23:49:26.643844+00:00"
+  },
+  {
+    "id": "c37f9884a735",
+    "title": "Can India become the next global hub for LED display manufacturing? - ET Edge Insights",
+    "source": "ET Edge Insights",
+    "summary": "Can India become the next global hub for LED display manufacturing? - ET Edge Insights&nbsp;&nbsp;ET Edge Insights",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOam9sZ3NRUVUwZ19OaV9WTmNYeWpSNWlXQVhkSWJIN2dOeDVpUDMzcmd1NGp2UDVfc0x0TU9fOG9od1FBc2JqV1pSMEtKV042ZUd1elhPWWZmRmFVdzZvaGV1N2dWME5xdko5azg4Y0dlazc3Q1N6Z1ozemV1MjhweWIyOFk2WTV1VGI3cUJNbUpvcThBc3FwRWJtNzNGWHZ2b04zRWV4R213RU95Q2F3VWpwX09tLXdMSkHSAb8BQVVfeXFMUEs0WGVyenEwMERXN2RjR1JMNHdEd3FKdW56X2tKU2F0ZFpXeVIteWYzaWhRc2F2WkRqdGpnejI4NEpzMnRLYmZ1R0RoVHA1T1NwZWk4alplS1pJMmkwT2RFd1A3XzRWdkVZYTZ3ZFpydWNFUDlxZ3lwR1F4dlhON214cUZaek5xT0JWRVNUT0pfWEZaOTF3ZWtRSVlULUE4S056SGpHeXZKQnh4V2MyeUZHLW1YY2JJX3VtaXgxR0U?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 04:07:30 GMT",
+    "fetched_at": "2026-03-17T23:49:26.643860+00:00"
+  },
+  {
+    "id": "90c22864b62b",
+    "title": "Indian Railways completes over 1,900 km of key infrastructure projects to boost connectivity",
+    "source": "DD News",
+    "summary": "Indian Railways completes over 1,900 km of key infrastructure projects to boost connectivity&nbsp;&nbsp;DD News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnV3dHpOemltNi04YTJ0OTY2eHV1Z2JUQjk3OG5OOHZxdmd4WWRPU21NRUctWTJ6MDlJVm5vV19yNGc2ZHd4UTFjbGpFdzR1SzY3NC03enVYOXNBM3lIT3Rad21Xem5GZFIxSllXZ1hZeVBnOEJZSjlfVjJ0WHl6Y0M2SWFLaTJkbThYZl96akpWRjlsc3FOQm1TalduTml3dmhFczN2Q0NyaU9lYWNGTGF1bzd2NVRk?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 21:23:32 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745265+00:00"
+  },
+  {
+    "id": "0f314801ae9b",
+    "title": "Maharashtra to contribute $1.5 trillion to Indian economy: Eknath Shinde",
+    "source": "Construction Week Online India",
+    "summary": "Maharashtra to contribute $1.5 trillion to Indian economy: Eknath Shinde&nbsp;&nbsp;Construction Week Online India",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlNiUFB5VWRrd2NYZHo5NktkeTJXT1lWYWF4a2E4aDJTbVBXVVpROG5vZ1ZuRnZtNGpkaEswTTNTOUlCM2RuSmtqaV80RU5EaFF3Y01nOGlvZWdZc0E3OUJrQVpudGJRRThaV3BLcHZxdTVLSHR5NWhNVWxYbEFWM1paeHhxZ05neUxRZGxldjZ1Z0NTTGJlUnVleHVmNkdTaUxQNlFUM0Q4NjR4RG5JT1pwWQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 07:08:02 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745294+00:00"
+  },
+  {
+    "id": "19e5b10f697f",
+    "title": "The many firsts associated with Noida Airport",
+    "source": "ET Infra",
+    "summary": "The many firsts associated with Noida Airport&nbsp;&nbsp;ET Infra",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcUxOcjB1cTJrS2hsMkVIWG93bUVvdmhmUm1vaEczaHdiZi1Cc0xlZ1ZGVGt1WEVaTV96Y1dJSll6SkRpc21PcTRTb0dQTVRIelZEX1NaMUdsM2YxRkF0bUs0Zk9vT2QyV29nNXR6MDFQVlNPRFZkOTZKZ1pobnJySGtLUnMwTjFIbTNqSkRzU3VPWVV2NHFvakFwMUlkYmZ0YjdiWU5UV29PRmNvTjVZcUhUc2dYU25KRkF6NVZkUWloRW1HWnRwVFZKbkg4dkc0S1lTanNGRFZidHg1Z2FMMFpiY2pjbDREc2IwUjNCekZQOUpLekt1bW5scVlDWk4yWVZtRtIBigJBVV95cUxNVHhGcGd6ODRGYktkRGlkcVlXRE9wVl9yVFByTjBmU0kyUngwbEh6NG9UMFVSR3dHNDhyQi1jNmhGbzdvT1BvSVIxV0Q0NG43WHpqTHZwRERveFdhSnE0c25UNzlOSHpXZG5TY1NXTWw0T0JoejEwVERnUnRFUmVmRjdjM2hQUzhlV0Mya0ZmeHpaR0Fud3RlMElpUk8ybjNQeThQZmpMbVZUSkpvZjZrSWNjSFJLcE5uQVpSZUFjQlFRSm1zWEhPTUo2UW9WOUlFOVBUb3duWFNKd0hGV3dvUUlZNEpla2FPRUZpN1Zxa1lreWV1eVlsZ1k5RzdyUzZ5OThad2tnS0R1Zw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 06:32:04 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745308+00:00"
+  },
+  {
+    "id": "4af7f8c1d16d",
+    "title": "India’s Most Iconic Infrastructure Projects That Opened in 2025",
+    "source": "The CSR Journal",
+    "summary": "India’s Most Iconic Infrastructure Projects That Opened in 2025&nbsp;&nbsp;The CSR Journal",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGd1b183dEdXMmVIM1NsNE5Kd1dHNHExQU12LTJPM0RlM2tGRUFfVHZ1TENjUHN4eGtNeExDNnlSQlhtTlg2b1VGVmhOWUEyR2VlNDVrWXpfY004bW4xbmxYVHlVc2U1bGwxTXZBMENXYm96clNsSGs1c1ZFbEZhaVVKVzFuM3dxSEFfTnhCRlh0dw?oc=5",
+    "image": "",
+    "published_at": "Thu, 25 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745330+00:00"
+  },
+  {
+    "id": "96171dcd14e5",
+    "title": "10 Indian mega projects that are redefining infrastructure in 2025",
+    "source": "Invest India",
+    "summary": "10 Indian mega projects that are redefining infrastructure in 2025&nbsp;&nbsp;Invest India",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORDRiYTBFZEFwLVhiZTZndlplS0xPdy1JTmtTUzBNeVlnUXQtQnFCcjlKXzVQY29HWHhxczE3cG9fcUswZ3FoUDZnUnNIZmgxTzZrZmRfRmNBRl9qM3pPZnFpeGR5NTZUUllXYXFpVnpRTUl5Q3dIN3YybzVjLWVoU0VTSjdycVB5VU0wV3p5Nmk4cUxJQThkRzVIc3J0OEF1aHpKY01FMF9HZw?oc=5",
+    "image": "",
+    "published_at": "Wed, 25 Jun 2025 07:00:00 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745344+00:00"
+  },
+  {
+    "id": "358af4d2e21d",
+    "title": "RITES Showcases Infrastructure Expertise at 2nd India–South Africa Business Conclave in Pretoria",
+    "source": "PSU Connect",
+    "summary": "RITES Showcases Infrastructure Expertise at 2nd India–South Africa Business Conclave in Pretoria&nbsp;&nbsp;PSU Connect",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1VsN2otRS16Q0VQeGlGLVNuZlc5UXhRbUpWRU1TYTRhdm5XMHUyc2Y3RUREdUE0XzZ5WXBTWjU1VG84bE44UmZJeFI2aUNUTnljRFVfLWp2QVNqbGZYM0lWdGxGX1d0OF80MWVOdE1RRmZkVXJsVlYxSFVJaDlmOFFOSmdaZzA4bU5sbWJzcU1NaUxPSUNHQmwwVVNxUDlBZ1JmaE42YUh2Z2FSQjFHQk5ZYlZDVFpmUGNqMnY5bHEyTnB0akVsc0Z0NA?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 10:10:00 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745378+00:00"
+  },
+  {
+    "id": "3397c23e92d8",
+    "title": "Domestic fundamentals to drive Indian equities despite global tensions",
+    "source": "The Hans India",
+    "summary": "Domestic fundamentals to drive Indian equities despite global tensions&nbsp;&nbsp;The Hans India",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWJieW1LMDJuRm5MaklfYTc2amVHaDRrMnFDTl8ydGw5a3o5Zm12RFNwNUFPOWdTanI2MFludWc1c0N2d0toQ0ViZ3J6OGRHdE5SSUpjX0dIQzY5NVlRRzFCQk1SSkphS0ZSX2xjeENjX01MZUdidHR4bnJnOEszUmVXQU9yTFljR3FPc0ZibG4taTRlS05BNEkza1lvN1V5VUdhRUx6VVRjTUJmTm5pWVRRVHUyWjDSAbwBQVVfeXFMT3VvU01oOFItMTF2QjBpdWlLZ29xNzh1SVo0UGpOZ0dPX09lVkpvV051cWNzaGNxaHdnNUJ5Z0Y3R09MTXcwdU5meDQ1QjRmbFZpcjVqNkJheXdpV3N5bU8tbWtJMWQzMFktZHZkM2FQVzgyZ0NhUXJxYzRaY0NBYWdyU0R0RzVLcmhVdWNrbUxRRFlrZTliajRzQmQxS3p1X3kxSjRxb1V2eGNCMFdYczVEX1hNVnBmbHpvSmc?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 10:30:01 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745393+00:00"
+  },
+  {
+    "id": "4cb9c441cad5",
+    "title": "C-DAC Expands R&D Infrastructure in Northeast India on Foundation Day",
+    "source": "The News Mill",
+    "summary": "C-DAC Expands R&D Infrastructure in Northeast India on Foundation Day&nbsp;&nbsp;The News Mill",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnEwNVRrUlpSRzBOV21pYVB1MC0waTdNSjVKcVoyLWVJNFhmOHB3czFCT1NRYndwUUtKdk9DWGhETElPZnBhR3NBNHBvQnBYZS1HdGJnaWxQR2w2S2Q3Y2RVN1g2M3MxckI5SmtDMm82S01BcmhQRmpJUWJhaFdxVHRLZ1JmcEpKNVJfSnh5d01uUEZrZXRV?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 14:14:32 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745407+00:00"
+  },
+  {
+    "id": "054c985beb94",
+    "title": "NBCC Joins Hands with Odisha Universities for Major PM-USHA Infrastructure Projects",
+    "source": "Indian Masterminds",
+    "summary": "NBCC Joins Hands with Odisha Universities for Major PM-USHA Infrastructure Projects&nbsp;&nbsp;Indian Masterminds",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEw5cVhoTF8zWU1VYnQ0RGtVYmlHMzRZS1E3ME92YTUweUxha2tvbllwN25OU0hZT3ZENGlLcWdRZnplb0lwM2xUOFNtbnlXUUUySElpZkhfMDFVQjRhZjdmc1FpVWRCcVY3Wm04bnBGRTRJVFJJMzlwUURHS1ZUMEtlZjhXQlFWRC1VdG1iQkI3ZVd6Yjg2NmtJR1IyQ2pX?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 15:29:15 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745421+00:00"
+  },
+  {
+    "id": "79e424cb9e18",
+    "title": "C-DAC Marks 39th Foundation Day with Major R&D Expansion Plans for Northeast India",
+    "source": "CXOToday.com",
+    "summary": "C-DAC Marks 39th Foundation Day with Major R&D Expansion Plans for Northeast India&nbsp;&nbsp;CXOToday.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0hPdnk2SnVuTzVPSEpFLVhJZzdPWUh4dHFILWprQ3Z5RlRfek41VGxrZmNReE9QQUZwVkxVOEcyem5rQWF3X0EyWVpQYzhNNkNjMzZhQ0lBOG1YWlJrQUNvTWVVSnVFYjRqMzFBMG1KOWFndmpFdHpwNnB4ZEl3Rm5GZXVGM2NXc3l1YU9jdkVocDBVZE16N3NYUmV1Y2hnaW9EZ0kxMHVxQk56VTEtTmxOVXN2Smh0R2c?oc=5",
+    "image": "",
+    "published_at": "Tue, 17 Mar 2026 19:49:11 GMT",
+    "fetched_at": "2026-03-17T23:49:27.745435+00:00"
   },
   {
     "id": "2d88a819e9a2",
@@ -80,16 +210,6 @@
     "fetched_at": "2026-03-17T21:59:25.891715+00:00"
   },
   {
-    "id": "c37f9884a735",
-    "title": "Can India become the next global hub for LED display manufacturing? - ET Edge Insights",
-    "source": "ET Edge Insights",
-    "summary": "Can India become the next global hub for LED display manufacturing? - ET Edge Insights&nbsp;&nbsp;ET Edge Insights",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOam9sZ3NRUVUwZ19OaV9WTmNYeWpSNWlXQVhkSWJIN2dOeDVpUDMzcmd1NGp2UDVfc0x0TU9fOG9od1FBc2JqV1pSMEtKV042ZUd1elhPWWZmRmFVdzZvaGV1N2dWME5xdko5azg4Y0dlazc3Q1N6Z1ozemV1MjhweWIyOFk2WTV1VGI3cUJNbUpvcThBc3FwRWJtNzNGWHZ2b04zRWV4R213RU95Q2F3VWpwX09tLXdMSkHSAb8BQVVfeXFMUEs0WGVyenEwMERXN2RjR1JMNHdEd3FKdW56X2tKU2F0ZFpXeVIteWYzaWhRc2F2WkRqdGpnejI4NEpzMnRLYmZ1R0RoVHA1T1NwZWk4alplS1pJMmkwT2RFd1A3XzRWdkVZYTZ3ZFpydWNFUDlxZ3lwR1F4dlhON214cUZaek5xT0JWRVNUT0pfWEZaOTF3ZWtRSVlULUE4S056SGpHeXZKQnh4V2MyeUZHLW1YY2JJX3VtaXgxR0U?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 04:07:30 GMT",
-    "fetched_at": "2026-03-17T21:59:25.891730+00:00"
-  },
-  {
     "id": "121c511b5096",
     "title": "India Manufacturing Tracker: 2024-25",
     "source": "India Briefing",
@@ -100,16 +220,6 @@
     "fetched_at": "2026-03-17T21:59:25.891742+00:00"
   },
   {
-    "id": "90c22864b62b",
-    "title": "Indian Railways completes over 1,900 km of key infrastructure projects to boost connectivity",
-    "source": "DD News",
-    "summary": "Indian Railways completes over 1,900 km of key infrastructure projects to boost connectivity&nbsp;&nbsp;DD News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnV3dHpOemltNi04YTJ0OTY2eHV1Z2JUQjk3OG5OOHZxdmd4WWRPU21NRUctWTJ6MDlJVm5vV19yNGc2ZHd4UTFjbGpFdzR1SzY3NC03enVYOXNBM3lIT3Rad21Xem5GZFIxSllXZ1hZeVBnOEJZSjlfVjJ0WHl6Y0M2SWFLaTJkbThYZl96akpWRjlsc3FOQm1TalduTml3dmhFczN2Q0NyaU9lYWNGTGF1bzd2NVRk?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Mar 2026 21:23:32 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015506+00:00"
-  },
-  {
     "id": "3a23df9db63d",
     "title": "The many firsts associated with Noida Airport",
     "source": "ET Infra",
@@ -118,66 +228,6 @@
     "image": "",
     "published_at": "Mon, 16 Mar 2026 06:32:04 GMT",
     "fetched_at": "2026-03-17T21:59:27.015540+00:00"
-  },
-  {
-    "id": "0f314801ae9b",
-    "title": "Maharashtra to contribute $1.5 trillion to Indian economy: Eknath Shinde",
-    "source": "Construction Week India",
-    "summary": "Maharashtra to contribute $1.5 trillion to Indian economy: Eknath Shinde&nbsp;&nbsp;Construction Week India",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlNiUFB5VWRrd2NYZHo5NktkeTJXT1lWYWF4a2E4aDJTbVBXVVpROG5vZ1ZuRnZtNGpkaEswTTNTOUlCM2RuSmtqaV80RU5EaFF3Y01nOGlvZWdZc0E3OUJrQVpudGJRRThaV3BLcHZxdTVLSHR5NWhNVWxYbEFWM1paeHhxZ05neUxRZGxldjZ1Z0NTTGJlUnVleHVmNkdTaUxQNlFUM0Q4NjR4RG5JT1pwWQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 07:08:02 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015554+00:00"
-  },
-  {
-    "id": "3397c23e92d8",
-    "title": "Domestic fundamentals to drive Indian equities despite global tensions",
-    "source": "The Hans India",
-    "summary": "Domestic fundamentals to drive Indian equities despite global tensions&nbsp;&nbsp;The Hans India",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWJieW1LMDJuRm5MaklfYTc2amVHaDRrMnFDTl8ydGw5a3o5Zm12RFNwNUFPOWdTanI2MFludWc1c0N2d0toQ0ViZ3J6OGRHdE5SSUpjX0dIQzY5NVlRRzFCQk1SSkphS0ZSX2xjeENjX01MZUdidHR4bnJnOEszUmVXQU9yTFljR3FPc0ZibG4taTRlS05BNEkza1lvN1V5VUdhRUx6VVRjTUJmTm5pWVRRVHUyWjDSAbwBQVVfeXFMT3VvU01oOFItMTF2QjBpdWlLZ29xNzh1SVo0UGpOZ0dPX09lVkpvV051cWNzaGNxaHdnNUJ5Z0Y3R09MTXcwdU5meDQ1QjRmbFZpcjVqNkJheXdpV3N5bU8tbWtJMWQzMFktZHZkM2FQVzgyZ0NhUXJxYzRaY0NBYWdyU0R0RzVLcmhVdWNrbUxRRFlrZTliajRzQmQxS3p1X3kxSjRxb1V2eGNCMFdYczVEX1hNVnBmbHpvSmc?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 10:30:01 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015569+00:00"
-  },
-  {
-    "id": "4cb9c441cad5",
-    "title": "C-DAC Expands R&D Infrastructure in Northeast India on Foundation Day",
-    "source": "The News Mill",
-    "summary": "C-DAC Expands R&D Infrastructure in Northeast India on Foundation Day&nbsp;&nbsp;The News Mill",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnEwNVRrUlpSRzBOV21pYVB1MC0waTdNSjVKcVoyLWVJNFhmOHB3czFCT1NRYndwUUtKdk9DWGhETElPZnBhR3NBNHBvQnBYZS1HdGJnaWxQR2w2S2Q3Y2RVN1g2M3MxckI5SmtDMm82S01BcmhQRmpJUWJhaFdxVHRLZ1JmcEpKNVJfSnh5d01uUEZrZXRV?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 14:14:32 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015583+00:00"
-  },
-  {
-    "id": "358af4d2e21d",
-    "title": "RITES Showcases Infrastructure Expertise at 2nd India–South Africa Business Conclave in Pretoria",
-    "source": "PSU Connect",
-    "summary": "RITES Showcases Infrastructure Expertise at 2nd India–South Africa Business Conclave in Pretoria&nbsp;&nbsp;PSU Connect",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1VsN2otRS16Q0VQeGlGLVNuZlc5UXhRbUpWRU1TYTRhdm5XMHUyc2Y3RUREdUE0XzZ5WXBTWjU1VG84bE44UmZJeFI2aUNUTnljRFVfLWp2QVNqbGZYM0lWdGxGX1d0OF80MWVOdE1RRmZkVXJsVlYxSFVJaDlmOFFOSmdaZzA4bU5sbWJzcU1NaUxPSUNHQmwwVVNxUDlBZ1JmaE42YUh2Z2FSQjFHQk5ZYlZDVFpmUGNqMnY5bHEyTnB0akVsc0Z0NA?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Mar 2026 10:10:00 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015607+00:00"
-  },
-  {
-    "id": "054c985beb94",
-    "title": "NBCC Joins Hands with Odisha Universities for Major PM-USHA Infrastructure Projects",
-    "source": "Indian Masterminds",
-    "summary": "NBCC Joins Hands with Odisha Universities for Major PM-USHA Infrastructure Projects&nbsp;&nbsp;Indian Masterminds",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEw5cVhoTF8zWU1VYnQ0RGtVYmlHMzRZS1E3ME92YTUweUxha2tvbllwN25OU0hZT3ZENGlLcWdRZnplb0lwM2xUOFNtbnlXUUUySElpZkhfMDFVQjRhZjdmc1FpVWRCcVY3Wm04bnBGRTRJVFJJMzlwUURHS1ZUMEtlZjhXQlFWRC1VdG1iQkI3ZVd6Yjg2NmtJR1IyQ2pX?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 15:29:15 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015622+00:00"
-  },
-  {
-    "id": "79e424cb9e18",
-    "title": "C-DAC Marks 39th Foundation Day with Major R&D Expansion Plans for Northeast India",
-    "source": "CXOToday.com",
-    "summary": "C-DAC Marks 39th Foundation Day with Major R&D Expansion Plans for Northeast India&nbsp;&nbsp;CXOToday.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0hPdnk2SnVuTzVPSEpFLVhJZzdPWUh4dHFILWprQ3Z5RlRfek41VGxrZmNReE9QQUZwVkxVOEcyem5rQWF3X0EyWVpQYzhNNkNjMzZhQ0lBOG1YWlJrQUNvTWVVSnVFYjRqMzFBMG1KOWFndmpFdHpwNnB4ZEl3Rm5GZXVGM2NXc3l1YU9jdkVocDBVZE16N3NYUmV1Y2hnaW9EZ0kxMHVxQk56VTEtTmxOVXN2Smh0R2c?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 19:49:11 GMT",
-    "fetched_at": "2026-03-17T21:59:27.015637+00:00"
   },
   {
     "id": "8a91bf7e8ff2",
@@ -200,16 +250,6 @@
     "fetched_at": "2026-03-17T21:59:27.015669+00:00"
   },
   {
-    "id": "0a1dea7c356f",
-    "title": "Gopalan Metals bets big on copper for India’s growth",
-    "source": "Manufacturing Today India",
-    "summary": "Gopalan Metals bets big on copper for India’s growth&nbsp;&nbsp;Manufacturing Today India",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zVFJQV3NhdVdRNW9rZFNWWGt4R2p5RG5WTUVwSk5EVEpRdHh5cms5RE5zSmN6UzRlTG1ubDZkSjc5Ukd5RDZlbUhLSHhVWUVzLU1JVGdySGVOSTNCNHRFZFBKMzhtODJVdnlVdnVTYXRYZWR5TTBZS043NHRCUQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 17 Mar 2026 11:34:15 GMT",
-    "fetched_at": "2026-03-17T19:40:32.002734+00:00"
-  },
-  {
     "id": "01217029c3dd",
     "title": "Easier PN3 rules to clear $10-20 bn investments in India",
     "source": "The New Indian Express",
@@ -220,36 +260,6 @@
     "fetched_at": "2026-03-17T19:40:32.002748+00:00"
   },
   {
-    "id": "19e5b10f697f",
-    "title": "The many firsts associated with Noida Airport",
-    "source": "ET Infra",
-    "summary": "The many firsts associated with Noida Airport&nbsp;&nbsp;ET Infra",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcUxOcjB1cTJrS2hsMkVIWG93bUVvdmhmUm1vaEczaHdiZi1Cc0xlZ1ZGVGt1WEVaTV96Y1dJSll6SkRpc21PcTRTb0dQTVRIelZEX1NaMUdsM2YxRkF0bUs0Zk9vT2QyV29nNXR6MDFQVlNPRFZkOTZKZ1pobnJySGtLUnMwTjFIbTNqSkRzU3VPWVV2NHFvakFwMUlkYmZ0YjdiWU5UV29PRmNvTjVZcUhUc2dYU25KRkF6NVZkUWloRW1HWnRwVFZKbkg4dkc0S1lTanNGRFZidHg1Z2FMMFpiY2pjbDREc2IwUjNCekZQOUpLekt1bW5scVlDWk4yWVZtRtIBigJBVV95cUxNVHhGcGd6ODRGYktkRGlkcVlXRE9wVl9yVFByTjBmU0kyUngwbEh6NG9UMFVSR3dHNDhyQi1jNmhGbzdvT1BvSVIxV0Q0NG43WHpqTHZwRERveFdhSnE0c25UNzlOSHpXZG5TY1NXTWw0T0JoejEwVERnUnRFUmVmRjdjM2hQUzhlV0Mya0ZmeHpaR0Fud3RlMElpUk8ybjNQeThQZmpMbVZUSkpvZjZrSWNjSFJLcE5uQVpSZUFjQlFRSm1zWEhPTUo2UW9WOUlFOVBUb3duWFNKd0hGV3dvUUlZNEpla2FPRUZpN1Zxa1lreWV1eVlsZ1k5RzdyUzZ5OThad2tnS0R1Zw?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Mar 2026 06:32:04 GMT",
-    "fetched_at": "2026-03-17T19:40:33.072873+00:00"
-  },
-  {
-    "id": "4af7f8c1d16d",
-    "title": "India’s Most Iconic Infrastructure Projects That Opened in 2025",
-    "source": "The CSR Journal",
-    "summary": "India’s Most Iconic Infrastructure Projects That Opened in 2025&nbsp;&nbsp;The CSR Journal",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGd1b183dEdXMmVIM1NsNE5Kd1dHNHExQU12LTJPM0RlM2tGRUFfVHZ1TENjUHN4eGtNeExDNnlSQlhtTlg2b1VGVmhOWUEyR2VlNDVrWXpfY004bW4xbmxYVHlVc2U1bGwxTXZBMENXYm96clNsSGs1c1ZFbEZhaVVKVzFuM3dxSEFfTnhCRlh0dw?oc=5",
-    "image": "",
-    "published_at": "Thu, 25 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-17T19:40:33.072929+00:00"
-  },
-  {
-    "id": "96171dcd14e5",
-    "title": "10 Indian mega projects that are redefining infrastructure in 2025",
-    "source": "Invest India",
-    "summary": "10 Indian mega projects that are redefining infrastructure in 2025&nbsp;&nbsp;Invest India",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORDRiYTBFZEFwLVhiZTZndlplS0xPdy1JTmtTUzBNeVlnUXQtQnFCcjlKXzVQY29HWHhxczE3cG9fcUswZ3FoUDZnUnNIZmgxTzZrZmRfRmNBRl9qM3pPZnFpeGR5NTZUUllXYXFpVnpRTUl5Q3dIN3YybzVjLWVoU0VTSjdycVB5VU0wV3p5Nmk4cUxJQThkRzVIc3J0OEF1aHpKY01FMF9HZw?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Jun 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-17T19:40:33.072983+00:00"
-  },
-  {
     "id": "59dad6337793",
     "title": "Govt making efforts to boost aerospace manufacturing activities, global collaborations: Naidu",
     "source": "ET Infra",
@@ -258,16 +268,6 @@
     "image": "",
     "published_at": "Tue, 17 Mar 2026 08:15:40 GMT",
     "fetched_at": "2026-03-17T15:45:29.777207+00:00"
-  },
-  {
-    "id": "3c44213f1664",
-    "title": "The Rise of Indian Manufacturing Sector",
-    "source": "Drishti IAS",
-    "summary": "The Rise of Indian Manufacturing Sector&nbsp;&nbsp;Drishti IAS",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzVGLXdDWmpNZEw0UnIzTVpOUWtxSGRXQVdZcGJRaUp3a20zRW1hQkUtc0NHX2FlWDRMTHA3Z2tqMWxZUzVoeG1oRFZCanE4UjktVE5obWhwUzJiNUE2SW0zOURYX1NQdUt4aWdGejZKLS1maTVGTmNRUUdvWFQ5T2FQU05EZ01BWDhac3NMeWZoSEJ2NGhlX3B3Mmw1b09UeHpURg?oc=5",
-    "image": "",
-    "published_at": "Tue, 23 Sep 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-17T15:45:29.777297+00:00"
   },
   {
     "id": "f2420c08c4c5",
