@@ -1,15 +1,5 @@
 [
   {
-    "id": "32cd16f397c4",
-    "title": "Value share of private label FMCG in Europe 2025",
-    "source": "Statista",
-    "summary": "Value share of private label FMCG in Europe 2025&nbsp;&nbsp;Statista",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXNSdnBobkQ5cURwUTZKZ1MyZmh3MjBHblFmcWhMcUljS2g1ZXlDekFUak91dUw5OXlfSC00QWVNLV9vajJXZ1ZpR1FicnMxZlVkRDdhVlVBRlh1MzdON0xidG80VHVOMENiUEZteS1teVJUZkhPaThudEJrdV92dTRLOFpiODhadVE?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047238+00:00"
-  },
-  {
     "id": "7ec9b44337e2",
     "title": "Adapting to Channel Evolution: Opportunities and Challenges for FMCG",
     "source": "Bain & Company",
@@ -17,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PYy1ZaC1LY2FZNVJzZDY0cW8wZjZjUVVGZUdOaXJYSmRJNEpRUzYzOHhnYTZncVBLdVFrU2NIcVEtcmJUdDFuN0Z5RUUweEZpV3g3UDhlcjF3N2E2OWk1dHVvM3pEWFNXYm9RX29zOE55akk?oc=5",
     "image": "",
     "published_at": "Mon, 08 Dec 2025 21:23:14 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047262+00:00"
+    "fetched_at": "2026-03-30T21:52:34.004459+00:00"
   },
   {
     "id": "f551be52c039",
@@ -27,7 +17,17 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUZqdWlFYUdxMmZBamlDeUJyLTNleHgydkpZTGxhT0FFbFhxV2dsaUFldUVybmNZQjBLNUpSYWlsX2FWZVVzcnV0bU9tYUZjRGlSNkVFZmNNQVNpZ2JNR1FTRHczNlVCY2hwVmZBb1VDYk9kNE9Fa3V2aXlqMnFMUzBqY3h1RXloam9rRUFTdzdZRDBIWlB3Mlc0TF9RM3AtUC15TWVFUk5wdw?oc=5",
     "image": "",
     "published_at": "Thu, 08 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047276+00:00"
+    "fetched_at": "2026-03-30T21:52:34.004484+00:00"
+  },
+  {
+    "id": "ba4b8d9bff45",
+    "title": "FMCG private label value share in Europe",
+    "source": "Statista",
+    "summary": "FMCG private label value share in Europe&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2RPb1h5QnJQdENsSTVReWxKZEo4MUNnQi03UHdmbUZHZlgxQjhTdmNJd0h3UkduMXc4TkphVFBSS2stNkE4X0dfTklWN0NoNEtQQmlPbXYyNGlxYXYwdkZ4ZWRVQ1dVQUFaeFpqRUZCVmFHZEdjQlpFTjdxUkVnODRIY3FoTVp3NElKT0dxc1VYRlhrT204bGxWcGg3LWsx?oc=5",
+    "image": "",
+    "published_at": "Tue, 25 Nov 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004498+00:00"
   },
   {
     "id": "0e843212a417",
@@ -37,37 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eTdWcFNNZWpMOHc1a0FTM2hPczZRWUtYS3h3bTc3U1kzSjVWRWNRdVNWTkVQUVgtRDFQdEc3OW1ER3dOWTl2NzlIbmIzUHZyZ1ZTTnM0OHdIa3hFSGJiMi0yS1M?oc=5",
     "image": "",
     "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047289+00:00"
-  },
-  {
-    "id": "bcd2defaaa0f",
-    "title": "FMCG Sales Dip as Rains, Inflation Send Input Costs Soaring",
-    "source": "Whalesbook",
-    "summary": "FMCG Sales Dip as Rains, Inflation Send Input Costs Soaring&nbsp;&nbsp;Whalesbook",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTc4Y01acGZ2dnZhclRfSE9MM1A5ZHBDYkNQcEYwcHNpVTVUa2Y1aUVEQXdIRlkwZnhqSzF4X0lfX1NBV1RjLTNrZm9ESG9xWkQxYW5PaU5lZTBsVV9mLUFlV3Y4YlJzZ0ZOTVloaFR3dXZ6allidnc2bmEyS0pRNHVnd0N5S0hoak1mcWtFeXZCcnNqdlN4dDNJN1dTSlJyQlhuOFZBUzU5RmhzcEp4QlU2Z0Q2MkNxNnNYYjhDQnVzVGQyMFJRd0x5Ynlqb0pPeEU3Ql9lSXU?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Mar 2026 20:18:10 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047303+00:00"
-  },
-  {
-    "id": "f388739e81b6",
-    "title": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence",
-    "source": "yougov.com",
-    "summary": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence&nbsp;&nbsp;yougov.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkV4ZzMzQ0JNdy16ZWdTdjM4WGhyckd2bEFYa24tdEJHaEx4TUlhblpDZUgyd1NvWVdGajEzTVEtcWoyaTVPNnB2R1gyTkZFYnBBSEUzN21YSUc3MU9SWUJIUU5sSi1ETTlaZUg0Z0xNeGhpcG40bmc5ZnktT2twNFNJS09KRFhPMC11RjB2ZFdlZ0QtV3JnWWt4LTRLTHYyc2tXeGEydms1RG1BN1ZwY1AwdXFlamYyaXc0aw?oc=5",
-    "image": "",
-    "published_at": "Tue, 11 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047317+00:00"
-  },
-  {
-    "id": "32f41fd935c1",
-    "title": "Consumer goods companies making sure sales don't cool off this summer",
-    "source": "The Economic Times",
-    "summary": "Consumer goods companies making sure sales don't cool off this summer&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcnY0LTluTXNYSWRuUXMxTVZSYWtIMHNmV2lqaThVOHFibzJha256M0V5Qy1ibncwZ1BCV0tGZlZGVDM5VFdPbnJxdHZ0X3JhQkc5OEhLQ0ZLcjE2Y3VGUlVaWlhuclkzY2oteE55dGRRM2RUX0lVdTZrYllPaDFQbHVsQ2kxVXV2NjF1UHpENngyMkVNTUswWUlUa1FfVUR3LWIteDlOd011WG8yS01IRkE0TV9FSDd0bXFXMWdoQVJ1Ungtckpwa2NuckdUbkU5ZV9zWlBMaWZuVTB0YnpjYldHaDDSAeoBQVVfeXFMTzhkdzVMcTd2RmN5ZGI3amJ5ZXhMdUZxZGtvZmR5T0J2MXN4WkpjQ2g4aHV5UEZDZDdBUWx0ZHFnUGNTUGs4Z1R5ZndIN21VZXFNWXBORzgycVd5M0d3SlpiWExZNUVBdEhYYmlzdHVERXc2WWwweGNBUU5VQWNNTzVvaUhCcEFYbFF5UFA3M1RicmlqTkFDU3FVMmZWaWI2a045ZnQ0SEt0NThoblpzOHgxMHpQY1FUYVotVTVTSWdXZzJwcjJuVFpBSnFldVlkQm44OThseTJkQ0tXemhGdzg5RUw3NmdYcDRn?oc=5",
-    "image": "",
-    "published_at": "Sun, 25 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047333+00:00"
+    "fetched_at": "2026-03-30T21:52:34.004510+00:00"
   },
   {
     "id": "58d49a8e39c3",
@@ -77,7 +47,167 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazM0MFBfM3E1YzNqZHEybHk2MDB1RDd6Rmg2d1lvVGNmLWpoWnBEYXgzMDFGcWhhODBCWFpFenJ4VTdxOThfQU5kVHFCU0JZN3NLWHlXYm5PSFdSUDlKLW1aSFBrS1NjWGRLZ05tT0J1WUd5b3hpcndMVWswWDFhU2JsalZZY1dZR09Zb09hWk9sSnAtUXMtU1ppZXJUX3FmTmxLd3VsbnlJUQ?oc=5",
     "image": "",
     "published_at": "Fri, 31 Oct 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:43.047347+00:00"
+    "fetched_at": "2026-03-30T21:52:34.004524+00:00"
+  },
+  {
+    "id": "f388739e81b6",
+    "title": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence",
+    "source": "YouGov",
+    "summary": "YouGov Norway launches real-time next-gen consumer panel for FMCG shopper intelligence&nbsp;&nbsp;YouGov",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkV4ZzMzQ0JNdy16ZWdTdjM4WGhyckd2bEFYa24tdEJHaEx4TUlhblpDZUgyd1NvWVdGajEzTVEtcWoyaTVPNnB2R1gyTkZFYnBBSEUzN21YSUc3MU9SWUJIUU5sSi1ETTlaZUg0Z0xNeGhpcG40bmc5ZnktT2twNFNJS09KRFhPMC11RjB2ZFdlZ0QtV3JnWWt4LTRLTHYyc2tXeGEydms1RG1BN1ZwY1AwdXFlamYyaXc0aw?oc=5",
+    "image": "",
+    "published_at": "Tue, 11 Nov 2025 08:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004538+00:00"
+  },
+  {
+    "id": "c6e5ac957b23",
+    "title": "Beyond the basket: understanding Uganda’s FMCG contrasts and opportunities",
+    "source": "Kantar",
+    "summary": "Beyond the basket: understanding Uganda’s FMCG contrasts and opportunities&nbsp;&nbsp;Kantar",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc215SkZHYmpwcW40VXE0REdfU2FxaEM1RzU0WGc0ZW9PQnlObEVQYURkeHBlbTRLYVJDdFJrQnNfTjVBNHJSell4aUFBQUp0VHl2cS1OWDQyX0ZtMkRGLVpHamU5VVNzWVltOGlDUHFRZ05RXy1ra3hTRlFEY2ZTWWROUm9QTkUySmxoekZqcXhjc0VPQktVQ1d1SWhnR1NZdW9rS0dNWFQ4cmw5OE5ZOXJn?oc=5",
+    "image": "",
+    "published_at": "Wed, 21 May 2025 15:55:47 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004559+00:00"
+  },
+  {
+    "id": "32f41fd935c1",
+    "title": "Consumer goods companies making sure sales don't cool off this summer",
+    "source": "The Economic Times",
+    "summary": "Consumer goods companies making sure sales don't cool off this summer&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcnY0LTluTXNYSWRuUXMxTVZSYWtIMHNmV2lqaThVOHFibzJha256M0V5Qy1ibncwZ1BCV0tGZlZGVDM5VFdPbnJxdHZ0X3JhQkc5OEhLQ0ZLcjE2Y3VGUlVaWlhuclkzY2oteE55dGRRM2RUX0lVdTZrYllPaDFQbHVsQ2kxVXV2NjF1UHpENngyMkVNTUswWUlUa1FfVUR3LWIteDlOd011WG8yS01IRkE0TV9FSDd0bXFXMWdoQVJ1Ungtckpwa2NuckdUbkU5ZV9zWlBMaWZuVTB0YnpjYldHaDDSAeoBQVVfeXFMTzhkdzVMcTd2RmN5ZGI3amJ5ZXhMdUZxZGtvZmR5T0J2MXN4WkpjQ2g4aHV5UEZDZDdBUWx0ZHFnUGNTUGs4Z1R5ZndIN21VZXFNWXBORzgycVd5M0d3SlpiWExZNUVBdEhYYmlzdHVERXc2WWwweGNBUU5VQWNNTzVvaUhCcEFYbFF5UFA3M1RicmlqTkFDU3FVMmZWaWI2a045ZnQ0SEt0NThoblpzOHgxMHpQY1FUYVotVTVTSWdXZzJwcjJuVFpBSnFldVlkQm44OThseTJkQ0tXemhGdzg5RUw3NmdYcDRn?oc=5",
+    "image": "",
+    "published_at": "Sun, 25 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004575+00:00"
+  },
+  {
+    "id": "bcd2defaaa0f",
+    "title": "FMCG Sales Dip as Rains, Inflation Send Input Costs Soaring",
+    "source": "Whalesbook",
+    "summary": "FMCG Sales Dip as Rains, Inflation Send Input Costs Soaring&nbsp;&nbsp;Whalesbook",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTc4Y01acGZ2dnZhclRfSE9MM1A5ZHBDYkNQcEYwcHNpVTVUa2Y1aUVEQXdIRlkwZnhqSzF4X0lfX1NBV1RjLTNrZm9ESG9xWkQxYW5PaU5lZTBsVV9mLUFlV3Y4YlJzZ0ZOTVloaFR3dXZ6allidnc2bmEyS0pRNHVnd0N5S0hoak1mcWtFeXZCcnNqdlN4dDNJN1dTSlJyQlhuOFZBUzU5RmhzcEp4QlU2Z0Q2MkNxNnNYYjhDQnVzVGQyMFJRd0x5Ynlqb0pPeEU3Ql9lSXU?oc=5",
+    "image": "",
+    "published_at": "Wed, 25 Mar 2026 20:18:10 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004588+00:00"
+  },
+  {
+    "id": "9d18d91d0c52",
+    "title": "Asia-Pacific Consumer Products Report 2025",
+    "source": "Bain & Company",
+    "summary": "Asia-Pacific Consumer Products Report 2025&nbsp;&nbsp;Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jM0Z4WFZlTHZ1QTE5dllxNnhYTGJURk9feFVLcDh5RjE0cGxPb1B4WGRMVFIyMXZrbHh6Z1p5NUhkUUZHLVhpOFFGMWxJRjUwOGtiR29aRVJRaEx4X0wxWE5nNHRMRk5BcFpsNWk0VU5NcS00a1FLM3R4d2t0UQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 13 Nov 2025 22:06:08 GMT",
+    "fetched_at": "2026-03-30T21:52:34.004600+00:00"
+  },
+  {
+    "id": "7270e1c4909c",
+    "title": "Supplement industry trends: Growth, social commerce and trust",
+    "source": "New Hope Network",
+    "summary": "Supplement industry trends: Growth, social commerce and trust&nbsp;&nbsp;New Hope Network",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnptNThzX3QxRFdWTWZPTnpBWkhjRkNhbXFVNE82OFYwNDNSdDRHdk13M0ZLUlJjYno2RlZMbFRvRVVLdlNjbUQ1eHJjR1lUVndZNldJOGhCLTl5di15Vm5peE16cWNTQkFjUVo0dzJEOC1vZlV3X3paWGtoelpPaTFPNGtlQldSRmFGZ2lyWm5EM0R5Q2V4SUo4QXBRNExvWU1XMDV6RUxUbEE?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 19:36:39 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968781+00:00"
+  },
+  {
+    "id": "221f8d3cd7f5",
+    "title": "Label Adhesive and Ink Systems Market Demand to Accelerate by 2035 Amid Sustainability and Digitalization Shifts - News and Statistics",
+    "source": "IndexBox",
+    "summary": "Label Adhesive and Ink Systems Market Demand to Accelerate by 2035 Amid Sustainability and Digitalization Shifts - News and Statistics&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS21VQWZyQXhrblRRZ0ZDc2pHMDBhR1F3WWhfNzZ6WnZPRk5lV3A2SWprS01wLWV5bERCTWFYbkh5ZTJnbWdyY09ybFRvb2JyMHNadFA0TjUzMmNYS3R3WFpGNVNWT2tHTW5YTzNhLUdWNE5OcGwybFNEQXdpMXFEbzNYZGlYUVdvOVJSb1UwaTZpRnpKMnR5SzVIekdwSUQ1UlF3bjdYYzNEdzlnUldoSFgxcFdIQ25QZjBYdjhmNGUyQnJzbVgwLVZZWWtDUm5wODhKWmZkaTNqd3M?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 15:46:04 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968813+00:00"
+  },
+  {
+    "id": "550165bb6dfb",
+    "title": "Global social commerce share of online retail 2018-2030",
+    "source": "Statista",
+    "summary": "Global social commerce share of online retail 2018-2030&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3FuZzV5NGR1dV9QXzlyU3NOM2VIbms5UUNLV1ZmY2NmX2ZjNExhNVBKZnAzdUJQN1NGdUZFblhKLUhZX1ZhSnEtY3hGcldjWWxrQ3dJNE9BZl9DVmNCXzdlZWhCNXBwRDBpZm94VTBUeGR3aEwzekpiZGxuOF9FcmFR?oc=5",
+    "image": "",
+    "published_at": "Wed, 25 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968827+00:00"
+  },
+  {
+    "id": "537de5ee67d8",
+    "title": "2026 News items - Members adopt a pathway to bring E‑Commerce Agreement into force via interim arrangements",
+    "source": "wto.org",
+    "summary": "2026 News items - Members adopt a pathway to bring E‑Commerce Agreement into force via interim arrangements&nbsp;&nbsp;wto.org",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQVdoQUszcWs5bElNS0pXZWpuM1BWUk96aXRDejZJU19iZi11NjJNRmtvR0ZqaVFQYy1UR3JIcmd6OWFwcGlKY1ZmMF90VDhhcGloOWRPalkzMERESkw2M1M2WUstYzlLZ29MTWsyck1GTGpw?oc=5",
+    "image": "",
+    "published_at": "Sat, 28 Mar 2026 12:33:01 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968852+00:00"
+  },
+  {
+    "id": "8362633f9bce",
+    "title": "Barclays says this e-commerce stock is one of the 'more compelling' in industry, sees nearly 80% upside",
+    "source": "CNBC",
+    "summary": "Barclays says this e-commerce stock is one of the 'more compelling' in industry, sees nearly 80% upside&nbsp;&nbsp;CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2E3NkFyU2hWZExSN3ZPLThPSkJyTkc4MnNQZE55QkdtN3RFSFgwZ3dQN01OaU1fcTM1VVBaMmcyNGY2clFQQkloTlk5SUptMEJWRDlRdHlHSVhTV3ZTQ2FMbUJiUUdDQzJUMng4aWh4LTJEZHVXMjh2YjRTbU1IQVVqRkhneEQ2cHQ3dkw1N3hoamhaLS1VRmNuRC1GZjlQeEVCckZXVkM?oc=5",
+    "image": "",
+    "published_at": "Fri, 27 Mar 2026 10:43:36 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968869+00:00"
+  },
+  {
+    "id": "77b04d0c4701",
+    "title": "35 Top E-Commerce Statistics",
+    "source": "Forbes",
+    "summary": "35 Top E-Commerce Statistics&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+    "image": "",
+    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968880+00:00"
+  },
+  {
+    "id": "1fdbe336fafa",
+    "title": "China's chatbot industry is fiercely competing for customers. Cue the freebies",
+    "source": "WUFT",
+    "summary": "China's chatbot industry is fiercely competing for customers. Cue the freebies&nbsp;&nbsp;WUFT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWMweGd0NWstdlI1UXkyRXNsa0VFYy0zeTcxYnlEWU4xQVl4c3NyOTNCZWtTRVNfOERpMk45NkdnTWw5Z3F2RUJmck5tNV8yYjNSQTZfQmc2R3hsNjJBT2xON1dxbjc1c2xzWEg1S3dqdGRCVmgtSDRud0NkUXFyMGNiUzBGMmI0QVh1eVBEaUNscGdyZGpyTTcxZ2lqUTFYVndES0k5RUhmUElX?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 09:00:00 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968894+00:00"
+  },
+  {
+    "id": "0dc309e785f8",
+    "title": "U.S. e-commerce market nears $1.4T, trails one country",
+    "source": "Chain Store Age",
+    "summary": "U.S. e-commerce market nears $1.4T, trails one country&nbsp;&nbsp;Chain Store Age",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjVUSWJpZEZBTFdVUGNKZEZLSEhzaVFWQzJLTERBLWNCS2tYWFJtaTRQUkZQMjJoVUVSNHpmblEyWjdtVTlKOVVJX0w5eklQeklxdUtpSnlGQ2oweEtPdk9KOE4xN2pWVjVxaHg5OUVvTkYtcks2SEZFMGlVMTBjdg?oc=5",
+    "image": "",
+    "published_at": "Thu, 26 Feb 2026 15:06:37 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968907+00:00"
+  },
+  {
+    "id": "6d598f89c896",
+    "title": "Cropink addresses a growing creative challenge in e-commerce advertising",
+    "source": "Barchart.com",
+    "summary": "Cropink addresses a growing creative challenge in e-commerce advertising&nbsp;&nbsp;Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldzQ1V3MXVENWVnR2pzdkVudkd6WVRiTXplSW0tVjZiZW9jSXcxUUtNQTRnQlBDamxIc0Y1cnJ3RjRZblBudlpTaXY0dEM3Rm4tdnM3YlZncUdZTzJRY1ZtbDQ5U21ZelRXTV9sRHhXSTlTNjFyeS1oZFBBQi16UzhjYkduTThtSWZoVUxaQnBJUXpIaWNmSFhxRTVHTG9HSUVmWkQ3c2ZYLWhJN25NTVVBLWNlMUE?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 17:00:10 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968919+00:00"
+  },
+  {
+    "id": "991d1cf731a5",
+    "title": "Flexible Protective Packaging Market To 2035: Growth Fueled by E-Commerce Expansion and Demand for Lightweight, Protective Solutions - News and Statistics",
+    "source": "IndexBox",
+    "summary": "Flexible Protective Packaging Market To 2035: Growth Fueled by E-Commerce Expansion and Demand for Lightweight, Protective Solutions - News and Statistics&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUItNkZpU2VOemFjTEdkckVQdnZRN2RnWjIxNjY2QXhyMjVRY0J3MXc1OGtjS2lIZjRDSXRvSVViWVFuMi13blA2TGkwQ3lsWTF0aDhLY2NkQ1Y0QW1HQ09pNFI0cFhLTmRCRVNZektPZUJ5TC1IaWd3VTBWa2lBeVFSeldweUpXUDMxZWIxdkVCOUJuY1ZhUnFWVXN3TTFfRHUyNTMwTkZjMEtveUVITUcyUWJWdnp0VDcwb3Njb29nRWJmclJuQjRuZ21hNnlwdlpGN0QyOV9VRFBVbnVmYmRWMGZfZmI0X3ZV?oc=5",
+    "image": "",
+    "published_at": "Sun, 29 Mar 2026 12:46:05 GMT",
+    "fetched_at": "2026-03-30T21:52:34.968938+00:00"
+  },
+  {
+    "id": "32cd16f397c4",
+    "title": "Value share of private label FMCG in Europe 2025",
+    "source": "Statista",
+    "summary": "Value share of private label FMCG in Europe 2025&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXNSdnBobkQ5cURwUTZKZ1MyZmh3MjBHblFmcWhMcUljS2g1ZXlDekFUak91dUw5OXlfSC00QWVNLV9vajJXZ1ZpR1FicnMxZlVkRDdhVlVBRlh1MzdON0xidG80VHVOMENiUEZteS1teVJUZkhPaThudEJrdV92dTRLOFpiODhadVE?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-03-30T20:56:43.047238+00:00"
   },
   {
     "id": "b5bc6aa3da2b",
@@ -98,106 +228,6 @@
     "image": "",
     "published_at": "Wed, 04 Mar 2026 08:00:00 GMT",
     "fetched_at": "2026-03-30T20:56:43.047371+00:00"
-  },
-  {
-    "id": "7270e1c4909c",
-    "title": "Supplement industry trends: Growth, social commerce and trust",
-    "source": "New Hope Network",
-    "summary": "Supplement industry trends: Growth, social commerce and trust&nbsp;&nbsp;New Hope Network",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnptNThzX3QxRFdWTWZPTnpBWkhjRkNhbXFVNE82OFYwNDNSdDRHdk13M0ZLUlJjYno2RlZMbFRvRVVLdlNjbUQ1eHJjR1lUVndZNldJOGhCLTl5di15Vm5peE16cWNTQkFjUVo0dzJEOC1vZlV3X3paWGtoelpPaTFPNGtlQldSRmFGZ2lyWm5EM0R5Q2V4SUo4QXBRNExvWU1XMDV6RUxUbEE?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 19:36:39 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160883+00:00"
-  },
-  {
-    "id": "221f8d3cd7f5",
-    "title": "Label Adhesive and Ink Systems Market Demand to Accelerate by 2035 Amid Sustainability and Digitalization Shifts - News and Statistics",
-    "source": "IndexBox",
-    "summary": "Label Adhesive and Ink Systems Market Demand to Accelerate by 2035 Amid Sustainability and Digitalization Shifts - News and Statistics&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS21VQWZyQXhrblRRZ0ZDc2pHMDBhR1F3WWhfNzZ6WnZPRk5lV3A2SWprS01wLWV5bERCTWFYbkh5ZTJnbWdyY09ybFRvb2JyMHNadFA0TjUzMmNYS3R3WFpGNVNWT2tHTW5YTzNhLUdWNE5OcGwybFNEQXdpMXFEbzNYZGlYUVdvOVJSb1UwaTZpRnpKMnR5SzVIekdwSUQ1UlF3bjdYYzNEdzlnUldoSFgxcFdIQ25QZjBYdjhmNGUyQnJzbVgwLVZZWWtDUm5wODhKWmZkaTNqd3M?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 15:46:04 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160914+00:00"
-  },
-  {
-    "id": "550165bb6dfb",
-    "title": "Global social commerce share of online retail 2018-2030",
-    "source": "Statista",
-    "summary": "Global social commerce share of online retail 2018-2030&nbsp;&nbsp;Statista",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3FuZzV5NGR1dV9QXzlyU3NOM2VIbms5UUNLV1ZmY2NmX2ZjNExhNVBKZnAzdUJQN1NGdUZFblhKLUhZX1ZhSnEtY3hGcldjWWxrQ3dJNE9BZl9DVmNCXzdlZWhCNXBwRDBpZm94VTBUeGR3aEwzekpiZGxuOF9FcmFR?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160928+00:00"
-  },
-  {
-    "id": "537de5ee67d8",
-    "title": "2026 News items - Members adopt a pathway to bring E‑Commerce Agreement into force via interim arrangements",
-    "source": "World Trade Organization",
-    "summary": "2026 News items - Members adopt a pathway to bring E‑Commerce Agreement into force via interim arrangements&nbsp;&nbsp;World Trade Organization",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQVdoQUszcWs5bElNS0pXZWpuM1BWUk96aXRDejZJU19iZi11NjJNRmtvR0ZqaVFQYy1UR3JIcmd6OWFwcGlKY1ZmMF90VDhhcGloOWRPalkzMERESkw2M1M2WUstYzlLZ29MTWsyck1GTGpw?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Mar 2026 12:33:01 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160953+00:00"
-  },
-  {
-    "id": "8362633f9bce",
-    "title": "Barclays says this e-commerce stock is one of the 'more compelling' in industry, sees nearly 80% upside",
-    "source": "CNBC",
-    "summary": "Barclays says this e-commerce stock is one of the 'more compelling' in industry, sees nearly 80% upside&nbsp;&nbsp;CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2E3NkFyU2hWZExSN3ZPLThPSkJyTkc4MnNQZE55QkdtN3RFSFgwZ3dQN01OaU1fcTM1VVBaMmcyNGY2clFQQkloTlk5SUptMEJWRDlRdHlHSVhTV3ZTQ2FMbUJiUUdDQzJUMng4aWh4LTJEZHVXMjh2YjRTbU1IQVVqRkhneEQ2cHQ3dkw1N3hoamhaLS1VRmNuRC1GZjlQeEVCckZXVkM?oc=5",
-    "image": "",
-    "published_at": "Fri, 27 Mar 2026 10:43:36 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160971+00:00"
-  },
-  {
-    "id": "77b04d0c4701",
-    "title": "35 Top E-Commerce Statistics",
-    "source": "Forbes",
-    "summary": "35 Top E-Commerce Statistics&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-    "image": "",
-    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160982+00:00"
-  },
-  {
-    "id": "1fdbe336fafa",
-    "title": "China's chatbot industry is fiercely competing for customers. Cue the freebies",
-    "source": "WUFT",
-    "summary": "China's chatbot industry is fiercely competing for customers. Cue the freebies&nbsp;&nbsp;WUFT",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWMweGd0NWstdlI1UXkyRXNsa0VFYy0zeTcxYnlEWU4xQVl4c3NyOTNCZWtTRVNfOERpMk45NkdnTWw5Z3F2RUJmck5tNV8yYjNSQTZfQmc2R3hsNjJBT2xON1dxbjc1c2xzWEg1S3dqdGRCVmgtSDRud0NkUXFyMGNiUzBGMmI0QVh1eVBEaUNscGdyZGpyTTcxZ2lqUTFYVndES0k5RUhmUElX?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 09:00:00 GMT",
-    "fetched_at": "2026-03-30T20:56:44.160996+00:00"
-  },
-  {
-    "id": "6d598f89c896",
-    "title": "Cropink addresses a growing creative challenge in e-commerce advertising",
-    "source": "Barchart.com",
-    "summary": "Cropink addresses a growing creative challenge in e-commerce advertising&nbsp;&nbsp;Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldzQ1V3MXVENWVnR2pzdkVudkd6WVRiTXplSW0tVjZiZW9jSXcxUUtNQTRnQlBDamxIc0Y1cnJ3RjRZblBudlpTaXY0dEM3Rm4tdnM3YlZncUdZTzJRY1ZtbDQ5U21ZelRXTV9sRHhXSTlTNjFyeS1oZFBBQi16UzhjYkduTThtSWZoVUxaQnBJUXpIaWNmSFhxRTVHTG9HSUVmWkQ3c2ZYLWhJN25NTVVBLWNlMUE?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 17:00:10 GMT",
-    "fetched_at": "2026-03-30T20:56:44.161009+00:00"
-  },
-  {
-    "id": "0dc309e785f8",
-    "title": "U.S. e-commerce market nears $1.4T, trails one country",
-    "source": "Chain Store Age",
-    "summary": "U.S. e-commerce market nears $1.4T, trails one country&nbsp;&nbsp;Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjVUSWJpZEZBTFdVUGNKZEZLSEhzaVFWQzJLTERBLWNCS2tYWFJtaTRQUkZQMjJoVUVSNHpmblEyWjdtVTlKOVVJX0w5eklQeklxdUtpSnlGQ2oweEtPdk9KOE4xN2pWVjVxaHg5OUVvTkYtcks2SEZFMGlVMTBjdg?oc=5",
-    "image": "",
-    "published_at": "Thu, 26 Feb 2026 15:06:37 GMT",
-    "fetched_at": "2026-03-30T20:56:44.161021+00:00"
-  },
-  {
-    "id": "991d1cf731a5",
-    "title": "Flexible Protective Packaging Market To 2035: Growth Fueled by E-Commerce Expansion and Demand for Lightweight, Protective Solutions - News and Statistics",
-    "source": "IndexBox",
-    "summary": "Flexible Protective Packaging Market To 2035: Growth Fueled by E-Commerce Expansion and Demand for Lightweight, Protective Solutions - News and Statistics&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUItNkZpU2VOemFjTEdkckVQdnZRN2RnWjIxNjY2QXhyMjVRY0J3MXc1OGtjS2lIZjRDSXRvSVViWVFuMi13blA2TGkwQ3lsWTF0aDhLY2NkQ1Y0QW1HQ09pNFI0cFhLTmRCRVNZektPZUJ5TC1IaWd3VTBWa2lBeVFSeldweUpXUDMxZWIxdkVCOUJuY1ZhUnFWVXN3TTFfRHUyNTMwTkZjMEtveUVITUcyUWJWdnp0VDcwb3Njb29nRWJmclJuQjRuZ21hNnlwdlpGN0QyOV9VRFBVbnVmYmRWMGZfZmI0X3ZV?oc=5",
-    "image": "",
-    "published_at": "Sun, 29 Mar 2026 12:46:05 GMT",
-    "fetched_at": "2026-03-30T20:56:44.161040+00:00"
   },
   {
     "id": "4e23879943fe",
@@ -350,16 +380,6 @@
     "fetched_at": "2026-03-30T06:03:41.317447+00:00"
   },
   {
-    "id": "ba4b8d9bff45",
-    "title": "FMCG private label value share in Europe",
-    "source": "Statista",
-    "summary": "FMCG private label value share in Europe&nbsp;&nbsp;Statista",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2RPb1h5QnJQdENsSTVReWxKZEo4MUNnQi03UHdmbUZHZlgxQjhTdmNJd0h3UkduMXc4TkphVFBSS2stNkE4X0dfTklWN0NoNEtQQmlPbXYyNGlxYXYwdkZ4ZWRVQ1dVQUFaeFpqRUZCVmFHZEdjQlpFTjdxUkVnODRIY3FoTVp3NElKT0dxc1VYRlhrT204bGxWcGg3LWsx?oc=5",
-    "image": "",
-    "published_at": "Tue, 25 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-29T23:42:43.058730+00:00"
-  },
-  {
     "id": "d17430c63f32",
     "title": "FMCG Last Mile 2.0: Turning India’s 14 mn stores into intelligent platforms",
     "source": "Exchange4Media",
@@ -368,26 +388,6 @@
     "image": "",
     "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
     "fetched_at": "2026-03-29T23:42:43.058839+00:00"
-  },
-  {
-    "id": "c6e5ac957b23",
-    "title": "Beyond the basket: understanding Uganda’s FMCG contrasts and opportunities",
-    "source": "Kantar",
-    "summary": "Beyond the basket: understanding Uganda’s FMCG contrasts and opportunities&nbsp;&nbsp;Kantar",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc215SkZHYmpwcW40VXE0REdfU2FxaEM1RzU0WGc0ZW9PQnlObEVQYURkeHBlbTRLYVJDdFJrQnNfTjVBNHJSell4aUFBQUp0VHl2cS1OWDQyX0ZtMkRGLVpHamU5VVNzWVltOGlDUHFRZ05RXy1ra3hTRlFEY2ZTWWROUm9QTkUySmxoekZqcXhjc0VPQktVQ1d1SWhnR1NZdW9rS0dNWFQ4cmw5OE5ZOXJn?oc=5",
-    "image": "",
-    "published_at": "Wed, 21 May 2025 15:55:47 GMT",
-    "fetched_at": "2026-03-29T22:40:19.667645+00:00"
-  },
-  {
-    "id": "9d18d91d0c52",
-    "title": "Asia-Pacific Consumer Products Report 2025",
-    "source": "Bain & Company",
-    "summary": "Asia-Pacific Consumer Products Report 2025&nbsp;&nbsp;Bain & Company",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jM0Z4WFZlTHZ1QTE5dllxNnhYTGJURk9feFVLcDh5RjE0cGxPb1B4WGRMVFIyMXZrbHh6Z1p5NUhkUUZHLVhpOFFGMWxJRjUwOGtiR29aRVJRaEx4X0wxWE5nNHRMRk5BcFpsNWk0VU5NcS00a1FLM3R4d2t0UQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 13 Nov 2025 22:06:08 GMT",
-    "fetched_at": "2026-03-29T22:40:19.667673+00:00"
   },
   {
     "id": "cf1166c8a8e5",
