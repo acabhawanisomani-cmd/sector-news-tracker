@@ -7,17 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmkteFRJNkE3OThvVW5HT0RjY1ZJUE9UWFF5YVBzSTBwR3YyTkQzMEh2aTZpdWZQX0hLR2xWb0FLWkRTTjJkZTJabVE5Ym5jNEcxVXdockpZZ2dQZzZGUTJFS2ZoVXpBVFE5c2tIYjdiYm1XdUlucHd6Y1FjNUkzc0hReFQ1UjV4Zi1FSVVaZjBDRGRFNlNR0gGeAUFVX3lxTE9Ic3VCYjI3YWdKUG9wZDhsVVVXcnZuT1lBTktSaE5uVXhaaHRfYnZiMG5RenQ5dUl4S3U4UTI3V1BHTmMzYjBRakV1czlMYmVuaXQzaFBJM2x5TXVaYXkwUkZTYnhjVzllSUZmWi0yMzRIaHNmRjJuVWtXVnBBeldwVDA3NVdQa2J0VFNzdmZUc24yNmxnUUJiT281R3h3?oc=5",
     "image": "",
     "published_at": "Mon, 30 Mar 2026 11:41:38 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135875+00:00"
-  },
-  {
-    "id": "eeab8ce5eee6",
-    "title": "India's industrial production rises 5.2 per cent in February as manufacturing sector gains momentum",
-    "source": "Udayavani",
-    "summary": "India's industrial production rises 5.2 per cent in February as manufacturing sector gains momentum&nbsp;&nbsp;Udayavani",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlQtX2VXME1jLWJNVEJsWFB4YXdJYk9scTdBd205ZVZ4Ukk5eXBVUGhvRUlld01KVDlWaG0tQnV1em1uMnMxNHByY3liWkZsQ0k5aC1DTmVFTE12N0kwWjhKejF2RmQxSDlieWl3cjQxYjl4TFd5UGZxbUpWcFdXeWN4YWstcTBXQmZGdnp4aDJnZVRkRkltb0xMZWJaQ1VoS3A4R2x3Rll6OWdsVWpGV3hrdUF5SG1xRmRiRURRdkQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 13:51:19 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135905+00:00"
+    "fetched_at": "2026-03-31T05:48:39.821551+00:00"
   },
   {
     "id": "1b5e0ed9e116",
@@ -27,7 +17,17 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUm5UWXE1QTRPX3VreGVaZEctUWgwYVcwdVVVOWh5VnlwNkVvbGpNWUpXd0pHc0dfYjBaOGZOQnpHV3BvN05PbGpaLXNYZ0R2eTYwQzYzb1JHN1h5WUQ3OVNPdU5ud29neXBQblF6emxZNDhQVThTWFY2ZmE2aDAzakdjMjhsMlFPNHdMSFk4YkhSazFpQWNXRWU0TDA1SjFNdG1sWjRkejlvNVpZUkZWcFhqc1hkdlFRcFU3NlRsRHBoVXNqMnUwNXlTWHV0NTQtQzQxUnhQOEM0dW9sWTlMN2dZYnVZUQ?oc=5",
     "image": "",
     "published_at": "Thu, 26 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135922+00:00"
+    "fetched_at": "2026-03-31T05:48:39.821580+00:00"
+  },
+  {
+    "id": "eeab8ce5eee6",
+    "title": "India's industrial production rises 5.2 per cent in February as manufacturing sector gains momentum",
+    "source": "Udayavani",
+    "summary": "India's industrial production rises 5.2 per cent in February as manufacturing sector gains momentum&nbsp;&nbsp;Udayavani",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlQtX2VXME1jLWJNVEJsWFB4YXdJYk9scTdBd205ZVZ4Ukk5eXBVUGhvRUlld01KVDlWaG0tQnV1em1uMnMxNHByY3liWkZsQ0k5aC1DTmVFTE12N0kwWjhKejF2RmQxSDlieWl3cjQxYjl4TFd5UGZxbUpWcFdXeWN4YWstcTBXQmZGdnp4aDJnZVRkRkltb0xMZWJaQ1VoS3A4R2x3Rll6OWdsVWpGV3hrdUF5SG1xRmRiRURRdkQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 13:51:19 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821596+00:00"
   },
   {
     "id": "91b7eb12bc56",
@@ -37,7 +37,167 @@
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnItUEZJaU5QZlRNTFBUdXI4a0tQbVRGSFF6azJ5OGdrQjhaVkpEUE1nR1pOYWhPTU4wWGkyNlk3b3hCLWRsN3YxaG80R0lqZnlVZndFMG5QSERlcElFa2FGTzdqVlFhRldCa0x1djdjTk0xZWI5ckstWDBNZVNVN24wU0M3U1VBNno4TDljcWVYYzIyaGtPeDI4MUthb2dyLTZOT3dMWThEb0RwNEpBbVVaWERPTkNldlZnNzZxTmtVU2UyZU1WM0t6RC1OUW52eGtLLVBvc1QyRjh4WVFBWV930gHnAUFVX3lxTFBDRFMtSHpPRVotZnZjd0tjSzJqbDV2NlZYX3hLRG16cEdiUjVGbWlTQW83Y0JKejJXdmY2bE9HMUNuZXVjY0RsbHdsQjZaV1kySmFKWUJwaW1oLW9pbjhFY29YUk1VMEFjbFdUVlM4cC03OTdTaDQ2ZE1QQzZaNjd1Qmd5S2FYTFFDQnAxaDB1TTVQSV9zWS1MY2VhSUV0M1o0Vm9aSjdTVVZ0QjJHTzhLV2hPbVVJV2lsV3lmeGFRVER3ZWlhcElUYTd2R1RBdjNkTU1PbkwycU9BYk9VNmpIWVBDZ2N6cw?oc=5",
     "image": "",
     "published_at": "Tue, 31 Mar 2026 01:48:00 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135937+00:00"
+    "fetched_at": "2026-03-31T05:48:39.821611+00:00"
+  },
+  {
+    "id": "6452fbb0256e",
+    "title": "India’s industrial output grows 5.2% in February, led by manufacturing",
+    "source": "Fortune India",
+    "summary": "India’s industrial output grows 5.2% in February, led by manufacturing&nbsp;&nbsp;Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0gyQjBBOFhLb3daXy1aZEtSZXJqT3IzcDQwVHlFZmJYYkpHM0N0UHdRVUFiTmdjWTdnSUlfRHVxWENkTnpuT0hkcUE4dEJTMzBtTlNpZUlvRUNtbnItVGRVM0RraDMtY3RWRElRZEdLRTh6eThjWDdfX0pKZi04V2JhZXNlSzU5MGh6WWV6bV9oVmdZcmRpX0NjNm1pSUkzN2ExbE9XdVNDcWRJNDFB0gG8AUFVX3lxTE03Z01lWjVjRGVCX3NjUHNqWHV1ek9NdmRBc2JkUUdEZHhqOVZSVXltWnR5dU9rNVQ0WFI1VkJ4ckRsNFg1eW1CNEVxaWVEbGViYjZpOHpVUHZxWkNpOGc2ekNERFNYemNrX2hrdUJFOS1aQUprQnRYT1BWU0JYaDIySk94MkxOVDBUSTlPWURzMmt2YUhPM2JrTFBHbUk0OXRWSktLa2Y3NVVRSkRFalNWVERORExDQktGbG5I?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 12:03:39 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821633+00:00"
+  },
+  {
+    "id": "4a8feac8477d",
+    "title": "India’s industrial output grows 5.2% in February, driven by manufacturing surge",
+    "source": "PGurus",
+    "summary": "India’s industrial output grows 5.2% in February, driven by manufacturing surge&nbsp;&nbsp;PGurus",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUVSLUpZVGpiNlRBN1RCdWtsRTNqY2hqLUpla0RaT0p5RG05RzNOVDN4enJ4WDlmUWZNQTlEOTRTNm5STWxsWDRJVTBYM0JQOXQyckduQzhuWWRVaWNld0FoTzBnNlNyRDJoalEzYlgzMWZoektGVV9GdDMwZ3lPcFNqc05qMURnRlZXX2FhRGNOYk90UWw0SzRJcThWQm5qckE?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 12:20:22 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821648+00:00"
+  },
+  {
+    "id": "13f4d61dfd8f",
+    "title": "Manufacturing push keeps India’s industrial growth steady at 5.2%",
+    "source": "Awaz The Voice",
+    "summary": "Manufacturing push keeps India’s industrial growth steady at 5.2%&nbsp;&nbsp;Awaz The Voice",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzdJSzFueENSbkZGSlFrUmYxVUQtWUtJQUVvN292dlNPbVBUOHkxMFRLTGF2aGtjcHJkUzNKaWI0akxWTW5DcDlXaHA5X2FxZ2R3aDhPZXVwZnRtUVpJNnRfSlEwX0JnS1k5dXFKQ1hwMmlMUDVrSXowWDh4VXJTaTMzYkEwTVlVSHFESi1GbnRKbWJnVVFidmtveVltbVZtX1JDcmh4WGNLMzVHXzJNTmhTSQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 11:36:23 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821664+00:00"
+  },
+  {
+    "id": "c754db223929",
+    "title": "From incentives to accountability: Why Six Sigma is back in focus for India’s electronics manufacturing...",
+    "source": "Moneycontrol.com",
+    "summary": "From incentives to accountability: Why Six Sigma is back in focus for India’s electronics manufacturing...&nbsp;&nbsp;Moneycontrol.com",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzJQOHNDR1hJUDFhc3NMVjdvVTNsWXhUVEtvNmNTUW5ZRDZReGRTQ19EMndzVUtlZ0RvUVE3RXpyeTBrcDQ1ZnBvVzdob0NnZEMwMHZMTXVZdktMYTB6dDFvb2plMkdrMzJlT0lnTGd2clZsbWN2UV94cmN3YjVxS0lSU0E5R3BMSUp4TGZSSmcxVjZEMkFDaGhVT1JYZnZ2YkQ2UUV4aG1rNVhBNzhsUDhZbjBsaGZ6bmRKZm1mQ0xQSGd2NjJDazdhZjJpelI2LUU4VTNkdk9lTU9XY0VmUlBmYVRUajFOelNPSE11RlR1ZjBCQUJIZEo0cnAxWG9QU0dV0gGIAkFVX3lxTE5oTmdQcUxFTzJteWVjYTVXQ25LU1RyYi0taHJaLVpiTkhPbnltYzJhNDc2RmtBTjBJM0ppc1VSeW56REZwQUxoYU1DTTdSOUVYa0JOcEN1cVVHZlBGVVd2MTlmM3pkWlp4WnhnNXhDQnVlb1kzS01wVGp3TEtoLVg3czRMVzJPalFzY1Q2aGhJVnZzMzI3UktYSHZfSWhVeEcyUllidFBtRlVSVHlPalp1TUkwZlRyYmtSNXJpWFc5bzlMdUtGb2RjSUJkSTc0VDZvc0dhaUd2Qnh6ZmNURUZVLWRSbE5MdDBDaWNTeDdzTXNyTWxvS1R6ck1SLXlwbWs3U1hwbnlxWQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 05:40:57 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821683+00:00"
+  },
+  {
+    "id": "c4876ed48638",
+    "title": "India’s Industrial Output Growth Edges Up To 5.2 Per Cent In February As Manufacturing And Capital Goods Gain Momentum",
+    "source": "Swarajyamag",
+    "summary": "India’s Industrial Output Growth Edges Up To 5.2 Per Cent In February As Manufacturing And Capital Goods Gain Momentum&nbsp;&nbsp;Swarajyamag",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0U0anpCTzlmSGVZNk12V2tWYWhfLUR3dXdhYTBKTzdwcjN3cU45Q1FYdkQzUV8xc1RCTW5UWUZ5blQzX1dwMjFEQ1BlX2dLa0xrSDJLV0lCQnVUNG5CWlhtaVZDcDY5RUQ0UUg0WXAyRm93RXVIWWdieE5rNU5KVXBPVlNvalJYM3hTWWZUREd4R2tQUjlpU0Fwd1ZlakJRUTBOYjR4WDg2c0h4Z3NmYXA5NlNqQTRtaUxabDJmWVNFdzdXMUxXUm5vOEJod0VpcVBJaWdPZm5veGRmME03VWpPNzZqUdIB9gFBVV95cUxPQUNmN29WUXdybExpS1hQYW9KSHBDVmVtOC1Pc01IN1FOeDlDLVpYRUk3bExVYnNLUTlqbDRTMTVlalRtcGM5VFpxcHIxUGpXSGNvdXpGaWZ6X1EtSlFkQ056YzJ5MkZhNTAzdUwwX3dTZmo4TWJFNTJxcWhlRTVZYWM0cW5BU2k2YmNsR3dsUmNuU3N3YUFZdFBjdWVMblhmbHpOM3Y0ek9FRk9ESWhjUmlGLThibW9HQWN4S0EyQ285SlMtUk1mMlMwMnZXcGVqM3BTeFNjc0VYRDhUTERZTWVMWENJX2hBNWRwQzRCYndaWjVPZWc?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 14:51:18 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821704+00:00"
+  },
+  {
+    "id": "5bcc3a5c3e2c",
+    "title": "India approves over $750 million in projects for electronic component manufacturing",
+    "source": "Reuters",
+    "summary": "India approves over $750 million in projects for electronic component manufacturing&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXpwNWpGbGRjcnpQcHVQYXhoUGZ3TTIyR09QcE9HSk9LRzNnR0x0U0JQcF9UWFVic2ZiZG9yNkZiNEhsSm5oVjhlTUpNQi1TTzRGMDlBTVpDVDRmZTRvRzRBaWpfMW9sM2tUbnlVUnl0eW0zVnlMVUo3TWVuOGkySlRDOXFpdWNiWWtNM3dLY25DalpBM3A1cEF6SElZc0JVRnY0VFk0alpKbUZKRVdYUlhOZW1tdTNhRG1GblU3MFI?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 14:29:44 GMT",
+    "fetched_at": "2026-03-31T05:48:39.821718+00:00"
+  },
+  {
+    "id": "c0186dc88637",
+    "title": "Smart Planning: Infrastructure development in the era of AI and analytics",
+    "source": "Indian Infrastructure Magazine",
+    "summary": "Smart Planning: Infrastructure development in the era of AI and analytics&nbsp;&nbsp;Indian Infrastructure Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1dONlZnQnl4TldFbXlyMVhvcS1SdGFyVlNpeWFZVTZva0F3NW1RUnpEUGhybzc5SXcxaFB6OGIxdHZzV3libEZUTWZCSnpJbFlUb3VQdkduVVlBU1RvaEtKMkdWVUU5aEZNNVA1S2pNZDV0MG1vUHdPYjJvY082bHFWREViYnlRUGxFaUlrVVRSalAzdFJyUmx0dzdXenVkMkl6NW9DQkxtQ2c2UUR6LWh4QmNKYnB4?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 03:57:57 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896068+00:00"
+  },
+  {
+    "id": "82166aeb1488",
+    "title": "Integrating Digital Infrastructure for Smarter and Future-Ready Urban Developments in India",
+    "source": "Energetica India Magazine",
+    "summary": "Integrating Digital Infrastructure for Smarter and Future-Ready Urban Developments in India&nbsp;&nbsp;Energetica India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1R4X0I1MGhUSG1CWng1c1ZsVXMxZzNXdWhzOTZQZ3RoM0VBX3FDQ3d5M01WRF9IXzVmMndPamdxRno1V3VJM1N5NzJmWmVqbVlxRmxmYml4TWhnZl9MQ1J1TzdoVjRrTDR0TGFCbVoySkM4RTJrRURueFlJLVA2TUJSdFhpeExrVDJVNkRpWFhfS2VSOVViSVJLZ0lMYUxFV1JhU09wNXhXTXFpMUhZWmNINGt2N0Z4U2ZkZHBjZUhNcXdPY0ZacmFZa3BWZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 05:22:49 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896100+00:00"
+  },
+  {
+    "id": "a318f003c6ca",
+    "title": "Connectivity and Infrastructure Development in Manipur",
+    "source": "India Narrative",
+    "summary": "Connectivity and Infrastructure Development in Manipur&nbsp;&nbsp;India Narrative",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDQ5N3doMkQ0bzZQU3k4ekNpcWhuay04aXFGanRPcy1rRG5mVzl0SkwxUVdzYnVFUDNnVmpyZlAxUl9hQkhJZFdUTVFYeDAwWEhlcFloMjdTUEl1RzA2QVg4dHREWlI1OEZuRy1jQTUxMFBZSjUzc1JfV1dXTWJuQWVGVktLT0NqemJ6ZW9XYWowUEI0aEpUakxpdko?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 00:30:00 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896116+00:00"
+  },
+  {
+    "id": "a1689e5f8393",
+    "title": "Why land monetisation is emerging as a core funding model for infrastructure",
+    "source": "ET Infra",
+    "summary": "Why land monetisation is emerging as a core funding model for infrastructure&nbsp;&nbsp;ET Infra",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdW1MUGtYRl93Uy13WnpRRXdEdzgyVDJmTEVUV2pMcDNWV0FPczhTZjlBbHRjVjM0WXJMRms2SWdFVnRoUDBLWmsxVEY5dmw4ZDhQam9JTjlhTW9hS2VGTldaSVVOZVd3Vkw1R1JRZEZiY3ltb01YbmhYcnhjZTVyTHFVcE5Kd1BGVmpfWXBmRkFlcGxJQ2pUUVdGSnJBcUg5STg2TVhJN1ZOMXVDbWRiX1BTMUFLT2ZuaFotbi02Z0NJblc5OVVQMV9KcVhwX2taYjlqdnJZVzFneTI3MFNRTW42ZW0yYmlT0gHuAUFVX3lxTE1zWThvYzRaTmp2elhKeGVwaHNpY1JmaUh0RFBnaksyWE9QWE1PeE5QRHNiUkRESDV4YloxZC1DUC1PVUJpeUpNRW1fZ1IyY0FHVjVCekhDbktiTUR6LVdHMFdnTnVSUWplRzd1d0hmcDYtZ0FMNzZ1V2M5ZndsS3BmTTVBXzI1WWI0RFJDaTdtV2o3WE5ZS2s4cEoxMlpta3dINFB1LUluN3hmYWRZSEJpS2dwbXc5QWxXTjdDYlJ2Sm94MGpNY3VuSlUyeDFERG14U05wZDllRXIxSDk2dVB3dVlqUFJUQVozNTNJS2c?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 11:51:44 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896134+00:00"
+  },
+  {
+    "id": "64fba572bc90",
+    "title": "India's Infrastructure Financing",
+    "source": "Drishti IAS",
+    "summary": "India's Infrastructure Financing&nbsp;&nbsp;Drishti IAS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDh5cnBNUWRhRC1xd0JSSlhWc294NVlObVFwWlRlbnJaLVJURDJncHRoSWhqekRyR1NXNlFuQTlyNDYtWGZENktHVmdtN19tREd2THdYby1Mcm1JTFhVOVRKQXduQ1g1MVNqSDM2clZJR2FxLUsyaGNfVTlSMTktNjRLMzk5b2xjWWR1ejJCSDBfT295b25J?oc=5",
+    "image": "",
+    "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896147+00:00"
+  },
+  {
+    "id": "7ccd3ac939cc",
+    "title": "Good roads, safer lives: Telangana pushes for infrastructure-driven growth",
+    "source": "The Hans India",
+    "summary": "Good roads, safer lives: Telangana pushes for infrastructure-driven growth&nbsp;&nbsp;The Hans India",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlQ5ekhkb05wVF9WTjNJVmotZWI3VUJFYndJX1FVOVVEQWVtN3RUeXIyWW9pNTF2VXp3SENybWlDVjdBbVRHbUl5OTZCUGY3ZlNCOEpTRWxJRkUwQnRHdjc4akpHV3BvZkJOc3hrcUFiRHJnX0Z2Y3YxY2s0UW5vTmI2MHpyU3JRTTR6VVc1Vm9qQUx1QnRMRW5MbjQyYWYydWdCYXRtNGhmUmpnU0ltdlZfNGtEN0hNckdfTDY1ODVVVDEwdXE1LXJXNmFyUWEwU3fSAdcBQVVfeXFMT0dOM00zQ3R1eUpueWtsZTlSLXJqejJUSTVKbUIzMnpLeU9xOFp5ejFGNVdjbnFsanVZUU12Unhwalo2WXNlMHRmS1JXT2hPZHJUTFVlbEVSN2R4c2FFeEwtLS1CWE1GeVhqOE1nYmg5OHlTUGZjTTVKVGphc0Jib016Vk5WdTJiS0h3ZXZHTFZUdzNsdHg4WVZpYmhjRUFRX1h0Qk5fTUNpTll0NU5oN2lZVEppTDg4V0ktZDBRZHlQd1ItakRRdlczYmt5ejA0SE5BNFRKcTQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 02:49:20 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896164+00:00"
+  },
+  {
+    "id": "6fd3d4f69ccb",
+    "title": "Bihar infrastructure projects set to transform tourism growth",
+    "source": "TravelBiz Monitor",
+    "summary": "Bihar infrastructure projects set to transform tourism growth&nbsp;&nbsp;TravelBiz Monitor",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHdSYkJQNThYNnQ1bUtES1BKakk1RWpUX2h5X09pdTU1UUNrRXFnS0k4Ukpaek16bHMtQWhqTjREVGZsclQ0WE41TkRXXzJrWU5SRDdUQ09tazBHREtCTmNPWWxDbmdIQVd4dldESXJkNVBpUU1oay1nY1hCQnpOdU9GRjZWMkh2NUZfZHQ4UDFzZG4tblVyTk05bV9GV053cTF0b3Zn?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 14:00:03 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896180+00:00"
+  },
+  {
+    "id": "3aa7db601eb4",
+    "title": "Cost overruns hit infrastructure projects, but progress continues across sectors",
+    "source": "propnewstime.com",
+    "summary": "Cost overruns hit infrastructure projects, but progress continues across sectors&nbsp;&nbsp;propnewstime.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmZ3Qk9VMHJxVEVnQUxkamFBVllYdXE4OFBHM2daSXFWV2RBejlHamtSRHcwOVFKNXJDbWNPNTRNbnJDXzFNVTVkLVc3MlYtVWhUdUE3Y2xwVHdCLUlKbjF6Mi1felNZTjl1WXJldmUzS0xDaWRMX0VxOG00U081cDF3YklKeTlCZ0ZxLVhrNVN4c0ZTTVNTckR5Z0J6ZmxFZXhGcU12RE1tLTc5dXVWQlJscmZyYUN3c2RLVlBsX0FDUDhkdUFmcTVwcDFnQWZZ?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 05:02:55 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896195+00:00"
+  },
+  {
+    "id": "6b4941fd92d4",
+    "title": "From Vision To Velocity: Jewar Airport Signals India’s Infrastructure Leap",
+    "source": "Indian Aerospace and Defence Bulletin",
+    "summary": "From Vision To Velocity: Jewar Airport Signals India’s Infrastructure Leap&nbsp;&nbsp;Indian Aerospace and Defence Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlZOaUh1b3lsTER0VjV0ZDhVa2tfT2IwRkxiNlVoU3h4eHF6NFFwOFotc29tRVZjSmp4NFdRYThkOXdFWWJRcFZ5cDZOTU43OXNPYzllZkZ0LWhlcXlXRzFUWENhdW5pbVVUZTJyT09tSzh1VnhhbTlUaHZwUEEyeGhoUVY5NTRqQjlWNDZHU3pjV0ZmOHIwZkdqZ29XQVZBb016X0lkZw?oc=5",
+    "image": "",
+    "published_at": "Sun, 29 Mar 2026 03:37:44 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896221+00:00"
+  },
+  {
+    "id": "07e21440e797",
+    "title": "CM Bhagwant Singh Mann launches Rs 87 crore infrastructure projects in Patiala’s Sanaur",
+    "source": "The News Mill",
+    "summary": "CM Bhagwant Singh Mann launches Rs 87 crore infrastructure projects in Patiala’s Sanaur&nbsp;&nbsp;The News Mill",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ITlpaalpfM3lfMWJ6M2I4elpEeE56N2lkQkdVRjlITTV2X01vVlpnTDV6bGwtRnRrd29rVnRIdlQ1V3pNM1hySjBqVndBYlNnWFZueTdLRmpDQjB2X1M5Y2NrckE3TFdLXzlyQXJldlgzUHVhcGt6dnVfZW9DOHdkUlYxSUhCR0NFX2pHb3FiOE0yeWVteHNqak9OUE81bUFuYkt0LVpjYnJOODlCUDhCN3Bkcm9INVVj?oc=5",
+    "image": "",
+    "published_at": "Mon, 30 Mar 2026 16:12:29 GMT",
+    "fetched_at": "2026-03-31T05:48:40.896240+00:00"
   },
   {
     "id": "95ee38bbe94c",
@@ -50,36 +210,6 @@
     "fetched_at": "2026-03-31T03:17:51.135951+00:00"
   },
   {
-    "id": "6452fbb0256e",
-    "title": "India’s industrial output grows 5.2% in February, led by manufacturing",
-    "source": "Fortune India",
-    "summary": "India’s industrial output grows 5.2% in February, led by manufacturing&nbsp;&nbsp;Fortune India",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0gyQjBBOFhLb3daXy1aZEtSZXJqT3IzcDQwVHlFZmJYYkpHM0N0UHdRVUFiTmdjWTdnSUlfRHVxWENkTnpuT0hkcUE4dEJTMzBtTlNpZUlvRUNtbnItVGRVM0RraDMtY3RWRElRZEdLRTh6eThjWDdfX0pKZi04V2JhZXNlSzU5MGh6WWV6bV9oVmdZcmRpX0NjNm1pSUkzN2ExbE9XdVNDcWRJNDFB0gG8AUFVX3lxTE03Z01lWjVjRGVCX3NjUHNqWHV1ek9NdmRBc2JkUUdEZHhqOVZSVXltWnR5dU9rNVQ0WFI1VkJ4ckRsNFg1eW1CNEVxaWVEbGViYjZpOHpVUHZxWkNpOGc2ekNERFNYemNrX2hrdUJFOS1aQUprQnRYT1BWU0JYaDIySk94MkxOVDBUSTlPWURzMmt2YUhPM2JrTFBHbUk0OXRWSktLa2Y3NVVRSkRFalNWVERORExDQktGbG5I?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 12:03:39 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135973+00:00"
-  },
-  {
-    "id": "4a8feac8477d",
-    "title": "India’s industrial output grows 5.2% in February, driven by manufacturing surge",
-    "source": "PGurus",
-    "summary": "India’s industrial output grows 5.2% in February, driven by manufacturing surge&nbsp;&nbsp;PGurus",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUVSLUpZVGpiNlRBN1RCdWtsRTNqY2hqLUpla0RaT0p5RG05RzNOVDN4enJ4WDlmUWZNQTlEOTRTNm5STWxsWDRJVTBYM0JQOXQyckduQzhuWWRVaWNld0FoTzBnNlNyRDJoalEzYlgzMWZoektGVV9GdDMwZ3lPcFNqc05qMURnRlZXX2FhRGNOYk90UWw0SzRJcThWQm5qckE?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 12:20:22 GMT",
-    "fetched_at": "2026-03-31T03:17:51.135990+00:00"
-  },
-  {
-    "id": "13f4d61dfd8f",
-    "title": "Manufacturing push keeps India’s industrial growth steady at 5.2%",
-    "source": "awazthevoice.in",
-    "summary": "Manufacturing push keeps India’s industrial growth steady at 5.2%&nbsp;&nbsp;awazthevoice.in",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzdJSzFueENSbkZGSlFrUmYxVUQtWUtJQUVvN292dlNPbVBUOHkxMFRLTGF2aGtjcHJkUzNKaWI0akxWTW5DcDlXaHA5X2FxZ2R3aDhPZXVwZnRtUVpJNnRfSlEwX0JnS1k5dXFKQ1hwMmlMUDVrSXowWDh4VXJTaTMzYkEwTVlVSHFESi1GbnRKbWJnVVFidmtveVltbVZtX1JDcmh4WGNLMzVHXzJNTmhTSQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 11:36:23 GMT",
-    "fetched_at": "2026-03-31T03:17:51.136006+00:00"
-  },
-  {
     "id": "c98e396a3467",
     "title": "Government approves 29 more proposals under the Electronics Component Manufacturing Scheme (ECMS)",
     "source": "PIB",
@@ -88,96 +218,6 @@
     "image": "",
     "published_at": "Mon, 30 Mar 2026 13:47:00 GMT",
     "fetched_at": "2026-03-31T03:17:51.136022+00:00"
-  },
-  {
-    "id": "c4876ed48638",
-    "title": "India’s Industrial Output Growth Edges Up To 5.2 Per Cent In February As Manufacturing And Capital Goods Gain Momentum",
-    "source": "Swarajyamag",
-    "summary": "India’s Industrial Output Growth Edges Up To 5.2 Per Cent In February As Manufacturing And Capital Goods Gain Momentum&nbsp;&nbsp;Swarajyamag",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0U0anpCTzlmSGVZNk12V2tWYWhfLUR3dXdhYTBKTzdwcjN3cU45Q1FYdkQzUV8xc1RCTW5UWUZ5blQzX1dwMjFEQ1BlX2dLa0xrSDJLV0lCQnVUNG5CWlhtaVZDcDY5RUQ0UUg0WXAyRm93RXVIWWdieE5rNU5KVXBPVlNvalJYM3hTWWZUREd4R2tQUjlpU0Fwd1ZlakJRUTBOYjR4WDg2c0h4Z3NmYXA5NlNqQTRtaUxabDJmWVNFdzdXMUxXUm5vOEJod0VpcVBJaWdPZm5veGRmME03VWpPNzZqUdIB9gFBVV95cUxPQUNmN29WUXdybExpS1hQYW9KSHBDVmVtOC1Pc01IN1FOeDlDLVpYRUk3bExVYnNLUTlqbDRTMTVlalRtcGM5VFpxcHIxUGpXSGNvdXpGaWZ6X1EtSlFkQ056YzJ5MkZhNTAzdUwwX3dTZmo4TWJFNTJxcWhlRTVZYWM0cW5BU2k2YmNsR3dsUmNuU3N3YUFZdFBjdWVMblhmbHpOM3Y0ek9FRk9ESWhjUmlGLThibW9HQWN4S0EyQ285SlMtUk1mMlMwMnZXcGVqM3BTeFNjc0VYRDhUTERZTWVMWENJX2hBNWRwQzRCYndaWjVPZWc?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 14:51:18 GMT",
-    "fetched_at": "2026-03-31T03:17:51.136043+00:00"
-  },
-  {
-    "id": "a1689e5f8393",
-    "title": "Why land monetisation is emerging as a core funding model for infrastructure",
-    "source": "ET Infra",
-    "summary": "Why land monetisation is emerging as a core funding model for infrastructure&nbsp;&nbsp;ET Infra",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdW1MUGtYRl93Uy13WnpRRXdEdzgyVDJmTEVUV2pMcDNWV0FPczhTZjlBbHRjVjM0WXJMRms2SWdFVnRoUDBLWmsxVEY5dmw4ZDhQam9JTjlhTW9hS2VGTldaSVVOZVd3Vkw1R1JRZEZiY3ltb01YbmhYcnhjZTVyTHFVcE5Kd1BGVmpfWXBmRkFlcGxJQ2pUUVdGSnJBcUg5STg2TVhJN1ZOMXVDbWRiX1BTMUFLT2ZuaFotbi02Z0NJblc5OVVQMV9KcVhwX2taYjlqdnJZVzFneTI3MFNRTW42ZW0yYmlT0gHuAUFVX3lxTE1zWThvYzRaTmp2elhKeGVwaHNpY1JmaUh0RFBnaksyWE9QWE1PeE5QRHNiUkRESDV4YloxZC1DUC1PVUJpeUpNRW1fZ1IyY0FHVjVCekhDbktiTUR6LVdHMFdnTnVSUWplRzd1d0hmcDYtZ0FMNzZ1V2M5ZndsS3BmTTVBXzI1WWI0RFJDaTdtV2o3WE5ZS2s4cEoxMlpta3dINFB1LUluN3hmYWRZSEJpS2dwbXc5QWxXTjdDYlJ2Sm94MGpNY3VuSlUyeDFERG14U05wZDllRXIxSDk2dVB3dVlqUFJUQVozNTNJS2c?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 11:51:44 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146452+00:00"
-  },
-  {
-    "id": "a318f003c6ca",
-    "title": "Connectivity and Infrastructure Development in Manipur",
-    "source": "indianarrative.com",
-    "summary": "Connectivity and Infrastructure Development in Manipur&nbsp;&nbsp;indianarrative.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDQ5N3doMkQ0bzZQU3k4ekNpcWhuay04aXFGanRPcy1rRG5mVzl0SkwxUVdzYnVFUDNnVmpyZlAxUl9hQkhJZFdUTVFYeDAwWEhlcFloMjdTUEl1RzA2QVg4dHREWlI1OEZuRy1jQTUxMFBZSjUzc1JfV1dXTWJuQWVGVktLT0NqemJ6ZW9XYWowUEI0aEpUakxpdko?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 00:30:00 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146479+00:00"
-  },
-  {
-    "id": "64fba572bc90",
-    "title": "India's Infrastructure Financing",
-    "source": "Drishti IAS",
-    "summary": "India's Infrastructure Financing&nbsp;&nbsp;Drishti IAS",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDh5cnBNUWRhRC1xd0JSSlhWc294NVlObVFwWlRlbnJaLVJURDJncHRoSWhqekRyR1NXNlFuQTlyNDYtWGZENktHVmdtN19tREd2THdYby1Mcm1JTFhVOVRKQXduQ1g1MVNqSDM2clZJR2FxLUsyaGNfVTlSMTktNjRLMzk5b2xjWWR1ejJCSDBfT295b25J?oc=5",
-    "image": "",
-    "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146492+00:00"
-  },
-  {
-    "id": "7ccd3ac939cc",
-    "title": "Good roads, safer lives: Telangana pushes for infrastructure-driven growth",
-    "source": "The Hans India",
-    "summary": "Good roads, safer lives: Telangana pushes for infrastructure-driven growth&nbsp;&nbsp;The Hans India",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlQ5ekhkb05wVF9WTjNJVmotZWI3VUJFYndJX1FVOVVEQWVtN3RUeXIyWW9pNTF2VXp3SENybWlDVjdBbVRHbUl5OTZCUGY3ZlNCOEpTRWxJRkUwQnRHdjc4akpHV3BvZkJOc3hrcUFiRHJnX0Z2Y3YxY2s0UW5vTmI2MHpyU3JRTTR6VVc1Vm9qQUx1QnRMRW5MbjQyYWYydWdCYXRtNGhmUmpnU0ltdlZfNGtEN0hNckdfTDY1ODVVVDEwdXE1LXJXNmFyUWEwU3fSAdcBQVVfeXFMT0dOM00zQ3R1eUpueWtsZTlSLXJqejJUSTVKbUIzMnpLeU9xOFp5ejFGNVdjbnFsanVZUU12Unhwalo2WXNlMHRmS1JXT2hPZHJUTFVlbEVSN2R4c2FFeEwtLS1CWE1GeVhqOE1nYmg5OHlTUGZjTTVKVGphc0Jib016Vk5WdTJiS0h3ZXZHTFZUdzNsdHg4WVZpYmhjRUFRX1h0Qk5fTUNpTll0NU5oN2lZVEppTDg4V0ktZDBRZHlQd1ItakRRdlczYmt5ejA0SE5BNFRKcTQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 02:49:20 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146507+00:00"
-  },
-  {
-    "id": "6fd3d4f69ccb",
-    "title": "Bihar infrastructure projects set to transform tourism growth",
-    "source": "TravelBiz Monitor",
-    "summary": "Bihar infrastructure projects set to transform tourism growth&nbsp;&nbsp;TravelBiz Monitor",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHdSYkJQNThYNnQ1bUtES1BKakk1RWpUX2h5X09pdTU1UUNrRXFnS0k4Ukpaek16bHMtQWhqTjREVGZsclQ0WE41TkRXXzJrWU5SRDdUQ09tazBHREtCTmNPWWxDbmdIQVd4dldESXJkNVBpUU1oay1nY1hCQnpOdU9GRjZWMkh2NUZfZHQ4UDFzZG4tblVyTk05bV9GV053cTF0b3Zn?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 14:00:03 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146521+00:00"
-  },
-  {
-    "id": "3aa7db601eb4",
-    "title": "Cost overruns hit infrastructure projects, but progress continues across sectors",
-    "source": "Prop News Time",
-    "summary": "Cost overruns hit infrastructure projects, but progress continues across sectors&nbsp;&nbsp;Prop News Time",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmZ3Qk9VMHJxVEVnQUxkamFBVllYdXE4OFBHM2daSXFWV2RBejlHamtSRHcwOVFKNXJDbWNPNTRNbnJDXzFNVTVkLVc3MlYtVWhUdUE3Y2xwVHdCLUlKbjF6Mi1felNZTjl1WXJldmUzS0xDaWRMX0VxOG00U081cDF3YklKeTlCZ0ZxLVhrNVN4c0ZTTVNTckR5Z0J6ZmxFZXhGcU12RE1tLTc5dXVWQlJscmZyYUN3c2RLVlBsX0FDUDhkdUFmcTVwcDFnQWZZ?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 05:02:55 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146536+00:00"
-  },
-  {
-    "id": "07e21440e797",
-    "title": "CM Bhagwant Singh Mann launches Rs 87 crore infrastructure projects in Patiala’s Sanaur",
-    "source": "The News Mill",
-    "summary": "CM Bhagwant Singh Mann launches Rs 87 crore infrastructure projects in Patiala’s Sanaur&nbsp;&nbsp;The News Mill",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ITlpaalpfM3lfMWJ6M2I4elpEeE56N2lkQkdVRjlITTV2X01vVlpnTDV6bGwtRnRrd29rVnRIdlQ1V3pNM1hySjBqVndBYlNnWFZueTdLRmpDQjB2X1M5Y2NrckE3TFdLXzlyQXJldlgzUHVhcGt6dnVfZW9DOHdkUlYxSUhCR0NFX2pHb3FiOE0yeWVteHNqak9OUE81bUFuYkt0LVpjYnJOODlCUDhCN3Bkcm9INVVj?oc=5",
-    "image": "",
-    "published_at": "Mon, 30 Mar 2026 16:12:29 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146559+00:00"
-  },
-  {
-    "id": "6b4941fd92d4",
-    "title": "From Vision To Velocity: Jewar Airport Signals India’s Infrastructure Leap",
-    "source": "iadb.in",
-    "summary": "From Vision To Velocity: Jewar Airport Signals India’s Infrastructure Leap&nbsp;&nbsp;iadb.in",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlZOaUh1b3lsTER0VjV0ZDhVa2tfT2IwRkxiNlVoU3h4eHF6NFFwOFotc29tRVZjSmp4NFdRYThkOXdFWWJRcFZ5cDZOTU43OXNPYzllZkZ0LWhlcXlXRzFUWENhdW5pbVVUZTJyT09tSzh1VnhhbTlUaHZwUEEyeGhoUVY5NTRqQjlWNDZHU3pjV0ZmOHIwZkdqZ29XQVZBb016X0lkZw?oc=5",
-    "image": "",
-    "published_at": "Sun, 29 Mar 2026 03:37:44 GMT",
-    "fetched_at": "2026-03-31T03:17:52.146575+00:00"
   },
   {
     "id": "ed3457463aa0",
@@ -458,45 +498,5 @@
     "image": "",
     "published_at": "Sun, 29 Mar 2026 13:35:44 GMT",
     "fetched_at": "2026-03-30T10:24:44.302957+00:00"
-  },
-  {
-    "id": "470f53d61746",
-    "title": "India’s Manufacturing Leap: Government Disburses ₹15,554 Crore in PLI Incentives for Electronics",
-    "source": "Bisinfotech",
-    "summary": "India’s Manufacturing Leap: Government Disburses ₹15,554 Crore in PLI Incentives for Electronics&nbsp;&nbsp;Bisinfotech",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmVKQTVHNjg0NFNaWm82Mk1zdXAwQ05FYldZT1AwVi1EN3c2YTV1OE5ycEVWckx0SEJ6S0VjbHlzTnF0LTF1Nms5SXhUZ2hSVGlfbEtGUWhkR1ZqT252ZmlrVWpLcG8wRXVOMVVLbFRPYk9LdXVSZjNyRThPMTl5ZjcwanNya1loUnNNSzNBdjhMMFJlLUNPQjBxOGJUUU9Fek5OaU50djlkMzRPZG52MV9ydGtRa1NwOE1TMEdERFQ?oc=5",
-    "image": "",
-    "published_at": "Sat, 28 Mar 2026 09:26:25 GMT",
-    "fetched_at": "2026-03-30T10:24:44.302975+00:00"
-  },
-  {
-    "id": "96171dcd14e5",
-    "title": "10 Indian mega projects that are redefining infrastructure in 2025",
-    "source": "Invest India",
-    "summary": "10 Indian mega projects that are redefining infrastructure in 2025&nbsp;&nbsp;Invest India",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORDRiYTBFZEFwLVhiZTZndlplS0xPdy1JTmtTUzBNeVlnUXQtQnFCcjlKXzVQY29HWHhxczE3cG9fcUswZ3FoUDZnUnNIZmgxTzZrZmRfRmNBRl9qM3pPZnFpeGR5NTZUUllXYXFpVnpRTUl5Q3dIN3YybzVjLWVoU0VTSjdycVB5VU0wV3p5Nmk4cUxJQThkRzVIc3J0OEF1aHpKY01FMF9HZw?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Jun 2025 07:00:00 GMT",
-    "fetched_at": "2026-03-30T10:24:45.303064+00:00"
-  },
-  {
-    "id": "7f49459391ec",
-    "title": "From build-out to scale-up: India’s infrastructure moves from projects to platforms in 2025",
-    "source": "The Times of India",
-    "summary": "From build-out to scale-up: India’s infrastructure moves from projects to platforms in 2025&nbsp;&nbsp;The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQTZxcHE2ejd3Vkpjbnhqb0w4elVSQy0wYmNMdmc4ZVExV1pLQUx4X25kY29ITHA0T0pJbTE2UVp0R2MwZzFxc19hakRieU5ndFFjQW1Ra3oyTzFTdjU1aThkUTlXcHdYbUo0ZkRuRDJLRmFpM2JtRTFLU19nTXl1X2x1Rm5oVGdWdkJzRnRLNUJ2dzAyRGFRN0hXR25ZWUl1dHhCbVBwLXd6MU1oZmRNelZmR1ZPUENQNDJKTk9BQ0J6a1YxMDcyd0tTX01uYjdud2M1NWF5QWJtWWY5cEdNVHMzZUNXbTlIS0JHa2RTT2x0dGMxVlV5S2ZlcHFoQ1cxMWRpLXBn0gGLAkFVX3lxTE16b3NPRC1URkQ4bW9ib0dnMHZzVkJYaFpvVVFsbmZtOWJWam9jZTUycElybDFuVlY1MUhnb3BQZUNBckxsak5EbHZBTnNfZlRPSXFqUDdPcGI1dVMyeDgyMGx5Z3QteUljLUhpUGZXZ2dFZThVcTQ1ZzJNeXVSX2pxT2FtR1JyNGZLMWl2dm9YUzZKZ3VUZGxXR2FNcGlTM1BpTnFkdXBfT1BrMnVsb0twajRoaERiUkFqSUFDY2ZERUpQT2w4UEpzaWlNUjlrdjdzdGdfVUpsOGRvTWRTWVZLdVlRSUVxdWo1Y0dxUDlsVmZnR3IwSnR2eXJISUV0S3pyaFNKbm1tczkyNA?oc=5",
-    "image": "",
-    "published_at": "Tue, 06 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-03-30T10:24:45.303171+00:00"
-  },
-  {
-    "id": "4af7f8c1d16d",
-    "title": "India’s Most Iconic Infrastructure Projects That Opened in 2025",
-    "source": "The CSR Journal",
-    "summary": "India’s Most Iconic Infrastructure Projects That Opened in 2025&nbsp;&nbsp;The CSR Journal",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGd1b183dEdXMmVIM1NsNE5Kd1dHNHExQU12LTJPM0RlM2tGRUFfVHZ1TENjUHN4eGtNeExDNnlSQlhtTlg2b1VGVmhOWUEyR2VlNDVrWXpfY004bW4xbmxYVHlVc2U1bGwxTXZBMENXYm96clNsSGs1c1ZFbEZhaVVKVzFuM3dxSEFfTnhCRlh0dw?oc=5",
-    "image": "",
-    "published_at": "Thu, 25 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-03-30T10:24:45.303186+00:00"
   }
 ]
