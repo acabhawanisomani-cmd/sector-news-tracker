@@ -1,5 +1,35 @@
 [
   {
+    "id": "54024eb350d7",
+    "title": "SBA announces new loan guarantee to boost manufacturing sector",
+    "source": "ROI-NJ",
+    "summary": "SBA announces new loan guarantee to boost manufacturing sector&nbsp;&nbsp;ROI-NJ",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGt1cmZ1ZFpiamRPVWpUMkx1VXYzbFNKdHIxS2FRZ0p0WjNfZ1pBY2NzR1hNQ1ZPd3h2a1NIS2NJRk03akJ2a3N2akIwcTlTSzZTd3hxM3Exb2w1OWhWV0U2UE0tWnhUYTlQcVhQZ1JaOWluQ3gydHVzaHllUll5cUUwME5TVTlPMFVGOU1YcURsT2JkcmFlRmNKVC1CRUJlWDZNMjN3YUVzQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 11:00:07 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520126+00:00"
+  },
+  {
+    "id": "6894260c8e14",
+    "title": "Future-fit manufacturing: Is the next industrial revolution here?",
+    "source": "DPA Magazine",
+    "summary": "Future-fit manufacturing: Is the next industrial revolution here?&nbsp;&nbsp;DPA Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1dvWGZON2cwSXBhMVAzU2F5LUJLTGZkc1RBQnFlMEY0dlpKeUx3bjQ3aTFXM2oySnZRRjJtbEJ3VTZQeF9PSVgwaTdFUDc2enpKRWZkTG9WMmZBSE9sTjJYQjNEZDI2WGl0NVFYQ0hsOWFzSVhRM3p5cW9nUWRMS2VheGQwSV9oLV80Q1RhbVBkaVNmaE5JX01BVmJnbk1KaTRZNXNNWDBXUE1CNGxTSDFaNA?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 13:41:19 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520154+00:00"
+  },
+  {
+    "id": "0c01ee54a038",
+    "title": "10 Top Manufacturing Companies in San Diego",
+    "source": "builtin.com",
+    "summary": "10 Top Manufacturing Companies in San Diego&nbsp;&nbsp;builtin.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTaE9FRmZHbUtJcmFUQ1FqQ21QV0FPcVNib3NaY2l0a2RGa3JCcGlWdkNTLUpkbnRhWUdRMzR2NDQyQnRiZXhGdFplZjZHSl91S3VvT1Z1dmZuZ3RLTmFGQTNsRDdBOEhRT3hoeS1ydw?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 13:06:07 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520168+00:00"
+  },
+  {
     "id": "15e29b3a0193",
     "title": "Does a legacy in manufacturing preclude a future in it?",
     "source": "Economic Innovation Group",
@@ -7,17 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Wb0FWMHhiSUViM2pwNGlZV3daUXYtQlBRZktPdUJfVEswRnR1bXNZWjhzcXhtMUZveUYyT3RMT3BSelRrYjl0QTlDSkFTeVBQTWRTYTJXWVZtS003YVY4QzBneVAwei13dVkzVzZQMkpNTlJUYllwYlV2UQ?oc=5",
     "image": "",
     "published_at": "Mon, 30 Mar 2026 13:58:35 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567846+00:00"
-  },
-  {
-    "id": "4cbd3da8e350",
-    "title": "Manufacturing was poised for a supercycle. Then reality hit.",
-    "source": "The Business Journals",
-    "summary": "Manufacturing was poised for a supercycle. Then reality hit.&nbsp;&nbsp;The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGNkYWgzTXBUR3huc2dOeVhoQTEwZEZXcjRmVjFRaW1HS0xwZ2NXSWltaGk5anFUV1l5V2x2c3Q2LTVMUGFXQWdLTmZkdGlRTnVabG5HMUdhRVVKa05kdGgxTnhsRUhnNjNHOHBWQ2g3MlZNa1p6Q0ZOMmtYMVFPMWRuakhIbHZCY3NuZUN4VkdQRnVsYTdjU0NoNA?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 04:11:00 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567875+00:00"
+    "fetched_at": "2026-04-01T13:54:46.520184+00:00"
   },
   {
     "id": "da89398a3f3f",
@@ -27,7 +47,17 @@
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZWN0Z2JCRnRTVHZXeHEweU5tQ0RXTFU0a3hpQTFuTExEUEI2amhONTVsY3NEaTk2SEs4T2lCZmtKTTJJcjVtRG9HR1pLQ3IzSDVLdVRIQmxxX2ZFYUNYWXJWc29ta0I0NlV6cmZJYmxGRVVMSC1YV19VTXpNU3FBS1VneE8zVmlGVEt1ZW1LMlhfZFpuckJLUkZSUXo4TW1ubU5wZ0plT0xuS3VJSTNwWTFuSDNhaDNJdlBjeU1XM0NIYUgtVGl4WkdDUWtaWTc3UGR2a1RVUGhWcER2c0xWa0VQMWN2djlOVlBXWWtESWpOVTZveUE?oc=5",
     "image": "",
     "published_at": "Tue, 31 Mar 2026 21:35:00 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567894+00:00"
+    "fetched_at": "2026-04-01T13:54:46.520199+00:00"
+  },
+  {
+    "id": "4cbd3da8e350",
+    "title": "Manufacturing was poised for a supercycle. Then reality hit.",
+    "source": "The Business Journals",
+    "summary": "Manufacturing was poised for a supercycle. Then reality hit.&nbsp;&nbsp;The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGNkYWgzTXBUR3huc2dOeVhoQTEwZEZXcjRmVjFRaW1HS0xwZ2NXSWltaGk5anFUV1l5V2x2c3Q2LTVMUGFXQWdLTmZkdGlRTnVabG5HMUdhRVVKa05kdGgxTnhsRUhnNjNHOHBWQ2g3MlZNa1p6Q0ZOMmtYMVFPMWRuakhIbHZCY3NuZUN4VkdQRnVsYTdjU0NoNA?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 04:11:00 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520213+00:00"
   },
   {
     "id": "6667d6caea82",
@@ -37,7 +67,137 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHdfZmJNWXpmNzZEUlpYRHNfUVlMNWN2MkpfemdjckgxRjdBU1RHV0Q2RWNFWFlKcEZJVHNLLWE2a3FWSC04aFA3dVFsSHZKNWUzNDR0eE1DQ0FPcUZXRzlUeXJIMVFpY3VkUnhLTDlrQWZpeV9Ld0EtTTNUdVotcThMLVU4UVBpUXFkLWVMQ1EwMU41cWV4THdhbW54Ml9VbkF3X0R2cHpRcnEtNlBtYzVyU24ySzZDemIwU2tDTm12SVJ6a3M0VlZTRmdoRVVTVFo3VEVR?oc=5",
     "image": "",
     "published_at": "Tue, 17 Mar 2026 00:59:57 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567911+00:00"
+    "fetched_at": "2026-04-01T13:54:46.520228+00:00"
+  },
+  {
+    "id": "ab4b3e10fd30",
+    "title": "World Styrene Compartment Boxes - Market Analysis, Forecast, Size, Trends and Insights",
+    "source": "indexbox.io",
+    "summary": "World Styrene Compartment Boxes - Market Analysis, Forecast, Size, Trends and Insights&nbsp;&nbsp;indexbox.io",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ3lhSXlqVVNrTk1Qb0xSNVV3ZV9BcG50U2RRLXFfQUJTZ0R3VzhaTmZQQVo3c3ZKRklsTXhvQ2NIU1N3VEYweUJsaFZzRXdMT05BSVZMWUVJSW8tbjdQV3FRNUdaODVHdFh3YnVoREpvVC1GRmxRU09iS1NFRGxFSEdwYWtoMUJkQTNKUG1zaHZWMDFoWVE5dHdURGkyNFZwblB5cXNsaDFCYnVQTlh3RVJWRnViY2xzakpnUkFGVVMzbXhNNEgzNGtNckxqVjAwcHdV?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 11:46:05 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520243+00:00"
+  },
+  {
+    "id": "0cbfd60a633e",
+    "title": "Northern Michigan Manufacturing Summit to host industry leaders at NMC in April",
+    "source": "910news.com",
+    "summary": "Northern Michigan Manufacturing Summit to host industry leaders at NMC in April&nbsp;&nbsp;910news.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFkwMUphX1JmNV9mbjFTVEtPd2xKN0lnNmQ5MU5IbUZpQl8ySGl1b2dQSUN1cVhseHJLUEY3dmRUN3d4ZXJaTm95QU9wdGV3eng1NEsxSXR3T00xdDdxZjBRSzJNMjBCVXFGLVlGQmkzSno0MjFudlB3RGd2Y0lraGhNdG9JWS1sSFFPNWFzT1BFU0JuZ1lsWDF1dTFlV1pjaER3VDdoUXpoT2RxOVQyU3pIWi1NX0NJU1E?oc=5",
+    "image": "",
+    "published_at": "Sun, 29 Mar 2026 14:38:11 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520258+00:00"
+  },
+  {
+    "id": "e33228e658dc",
+    "title": "Resilient by design: The agentic supply chain",
+    "source": "Deloitte",
+    "summary": "Resilient by design: The agentic supply chain&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDJ6MnZWMS1WVmZleXE2bHFrS0NzczJ4ajVXQl9KQ0Y1X2xvZnYydEtFajBkZ2VRbzlTa01CSWxCbExNV1pNODhWTzhzdllsTFdRWWtzV2FsdU1uM0hObjJXZkRGSmZ1djJFZWlpZHlBQnZGdWNuRWZPeld2YVlJYzNJQWxhSlk3T0V2UXVTUXBfcUJHZFNKekFyYTYwbndlcFBvR1JIMnpudjlhWjJLVC1GZGE0a0hUNno4ZjQ5Qlp1LXRXTjk2SkgwRTV1YzB1cFhyRFM1V0hRN1ZNWnpF?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 11:12:30 GMT",
+    "fetched_at": "2026-04-01T13:54:46.520270+00:00"
+  },
+  {
+    "id": "42131005ad24",
+    "title": "Q1 2026 Supply Chain Trends: Costs Rise, AI Moves Into Execution",
+    "source": "Logistics Viewpoints",
+    "summary": "Q1 2026 Supply Chain Trends: Costs Rise, AI Moves Into Execution&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXFuN2Y5ZmdmVlVPWHBUZVhxTlYwLWZ2TXVTTjJDMWhyNmxPQjI3Smg3ejZBcFZSQUdNdGdmNnBuUkNhVTRraS1fS3VfTVFmR3cycHI4LUtsMFl4ZjhubHF2OTZOT2VGS1lOYVpnblA4bFNMdnZqT185SUZMVUpCVG50U0UzbjUwdVVKaHg0eW85NnJRNHpQQ21VaTNyd0lPQmxoVHdBZ21DUQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 11:17:51 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437513+00:00"
+  },
+  {
+    "id": "3a9736b81280",
+    "title": "Top 10: Cold Chain Logistics in Healthcare",
+    "source": "Healthcare Digital",
+    "summary": "Top 10: Cold Chain Logistics in Healthcare&nbsp;&nbsp;Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5WEtQa2tGZjkxRF9JWG84d2N3MlgxZ1ZoaFBHdkN5dDduWHl3dTJWUHI0a0w4bG9PWTVQUElrbE5lZkJtOFF6eVZnUFV1NzR5WWtocV9jTmkwUUVlejY1ZzU4aURlLWZiSXQtajNoMWhPaTBVbVhNQmV1dzV4TEFSOXU?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 10:52:02 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437539+00:00"
+  },
+  {
+    "id": "3054f4e52473",
+    "title": "Scaling Cold Chain Precision Logistics for the Future of Advanced Therapeutics",
+    "source": "Marken",
+    "summary": "Scaling Cold Chain Precision Logistics for the Future of Advanced Therapeutics&nbsp;&nbsp;Marken",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JSjlnVlNjVU14RnlReHJZWnpPNkQ3dDJMclN0UWpWUmdGSmhpSEw2RFY0cWFpSUpvd2d1bThQSVUxcFJ3NDNiZl9LQjZ0ck1XSTBrRWhkVVVvR2xDT2didG9JVUNuSFRtT3NTUW9xbldqczZPRFE?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 17:13:39 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437555+00:00"
+  },
+  {
+    "id": "e7a623178d74",
+    "title": "Mexico Supply Chain Management Software Market Size to Worth USD 702.48 Million by 2034",
+    "source": "vocal.media",
+    "summary": "Mexico Supply Chain Management Software Market Size to Worth USD 702.48 Million by 2034&nbsp;&nbsp;vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW9IdUVFT0g4a1FUSnYtb01EaklRYWtMR01DcTItZzBKWWRLS3JMZ2dPemY1RUJqWVFKdlJ0cWZRUEN1Rm8yYm1HN3FJQzl6bjRBNnB1eVoxbGxsNC1zOU9TcGNJbnZySWd3QXhQN2M1Z29QNWZ4ZHpmX1pPRkxld3h5M0R4MGg3ZzVoeVhPVnpNRk9oQUs2bWE0bVF3aDdMbUMycGdmMGpUZ3IzcFNucmlSRWM?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 09:45:04 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437571+00:00"
+  },
+  {
+    "id": "98743419bb29",
+    "title": "Army previews apps that put supply chain power into Soldier’s hands",
+    "source": "army.mil",
+    "summary": "Army previews apps that put supply chain power into Soldier’s hands&nbsp;&nbsp;army.mil",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUx1X09ORXhub0VLV1pkZUtYS21aTmJMdExSVlVmOWM0ZGFBdVlCdXpCeVBmMjhTTmM2RDhNOWlrSENYVGU2YVlncHpBdm1PdHllUzgyWGE1NHk5OVFpLS1RVFNPZjh2ZmdvVFNkdEFkUXpYbjBkdVBDdEQ3VzNVMTB2LXhGdmowbThHSkVVZHNyOVZzTFJzVmVRZ1AxaFRieGlVQtIBqgFBVV95cUxPSG9TcndyOWlzMjdRUHdtT1dIZDVCaUlUY0s4VGRjVWphUk9fSzJuQUUtdW9GU3F0T2VaRExhY0h5aXljVlBSVXhTNUpDSk5sVUhrUmVrUUI1aElVbnJjZjMwaG4zZDg3dlBnaFhrYVUtdWNqT3lUTUZwcnA0MFJGeHpTTzdySnQ0Rm5fRVdqcFZYS3N5VE1LVlcySHZOeTdadWVBUkxvUjJqdw?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 22:59:33 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437593+00:00"
+  },
+  {
+    "id": "a94f750d7078",
+    "title": "Salary Survey 2026: Rising responsibility, greater rewards",
+    "source": "logisticsmgmt.com",
+    "summary": "Salary Survey 2026: Rising responsibility, greater rewards&nbsp;&nbsp;logisticsmgmt.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3FJTmk3VE9zMkUyVmlTV2REWkVaN3NrbnB6UnBvRlpBYVJqM3QzRTdRb2Foa0lxd3A4RmRwd0QtUjI5YTlUWDRHemQ2a0U1Zm5LTmgybTZvYmF4Yi1HX1YtV1dyYnVyN2VENzFYVEJTdGc2OTZmOV96QW4tVTRFanR0QVNaYXJlbWZYc0l0YTZKSG1ENUE1SG1qTQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 12:43:36 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437607+00:00"
+  },
+  {
+    "id": "0f9bb72b2998",
+    "title": "Top 10: Automated Warehouses",
+    "source": "Supply Chain Digital Magazine",
+    "summary": "Top 10: Automated Warehouses&nbsp;&nbsp;Supply Chain Digital Magazine",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VRXdzRzczbng1X09PY09JRTZLWngzbXluMDNyWkMtRkpyUFBQSGQxdFVjY3BhcXN2dUE3eUJiM3hmMGQyXzBwRFp6cVk5YXBuQU1Ja1ducTQ2b2kzTWZER3JLcFJLcG5vYVpxbnV2d3Zja0hwV3E0Wg?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 08:55:29 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437636+00:00"
+  },
+  {
+    "id": "40bfc775114e",
+    "title": "Middle East Conflict Disrupts Materials and Logistics",
+    "source": "Institute for Supply Management",
+    "summary": "Middle East Conflict Disrupts Materials and Logistics&nbsp;&nbsp;Institute for Supply Management",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2dCQUVGNXRFWnl3a2ROMDdabG9aY2RERmdzX2RldmVlWk82VjlJUmRpbjdLdDlyc3J0SjBhYldmV0Z0aHFhRzl3R0F4WlV2bUt4bm9LdFJqeThPYWNSWE5pWUs3alJfb1ZoLXdvWkhoVUtxVTF6T3M0a2lBRVpLSC02QXpJNzM5UXdHTGpFMHo1SU9WSGNRZm96WnBjakpYYTl2R1BzVXY4SFZxTkZiV0t2RjgxcEpWTExidG9OeWs2RmtHcFV6UG9JSkdsQXZfUjNfNVRIWVhTQVAzTHhnYnlSOVk1V1FaWjZwVzl1V2dFUnRkdHBOX0RBUUl1S3QydjNSME1ONF9GX2ZKcUp0Y2NR?oc=5",
+    "image": "",
+    "published_at": "Tue, 31 Mar 2026 16:44:32 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437651+00:00"
+  },
+  {
+    "id": "d44de746cb15",
+    "title": "Above the Fold: Supply Chain Logistics News (March 27, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (March 27, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEhVQWl6aTFmRGhmVExXdDQ2T1NoODUwbGgwaDl4THdZSS1DbGVRWGtGbHIxaW8tVXlLOTU4ZDVwSV9NQjlDS0hHNnBUSWY0QkllZGtKdDFzTzl1TjdHc0wyeUM2WUpBb1FGZEw1ZzBJN0NSTW8zR2xRYlpscHRVd1FDbzFqZTRjSnppUDhRUWZBV2ZiMWdUdFpBd19qZw?oc=5",
+    "image": "",
+    "published_at": "Fri, 27 Mar 2026 14:39:07 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437665+00:00"
+  },
+  {
+    "id": "79005e6079b6",
+    "title": "The Shifting Tariffs Landscape: Impact on Small Business, Manufacturing, and Supply Chains",
+    "source": "Quality Magazine",
+    "summary": "The Shifting Tariffs Landscape: Impact on Small Business, Manufacturing, and Supply Chains&nbsp;&nbsp;Quality Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOci0yVUl5Y1VuelliYmZZZ2M3NU53alRIekNQSE9qaEt3MnNMdFptaE5mY1VUU2tLOGItQUhBTDNMUXgwOS1NVzU1V1h3TVFEcUV3WUdmcl9BY1dNc2dEV1dQNU9YR2IzaGttejFRTEVBeExEdGpJYU9UWC04cTM5U2VlRkp1d3V1MDh6WUNCbnZCMHh2eTlFbkJaVUExdTVZaXB4c1h5LTlVYmxBQ09pNFo2eUQ5Y3ktUUxjYl9uWTZtNC1sWTQ4Sg?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 04:00:00 GMT",
+    "fetched_at": "2026-04-01T13:54:47.437680+00:00"
   },
   {
     "id": "ba162158868e",
@@ -48,16 +208,6 @@
     "image": "",
     "published_at": "Wed, 01 Apr 2026 07:59:53 GMT",
     "fetched_at": "2026-04-01T11:06:45.567927+00:00"
-  },
-  {
-    "id": "0cbfd60a633e",
-    "title": "Northern Michigan Manufacturing Summit to host industry leaders at NMC in April",
-    "source": "910news.com",
-    "summary": "Northern Michigan Manufacturing Summit to host industry leaders at NMC in April&nbsp;&nbsp;910news.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFkwMUphX1JmNV9mbjFTVEtPd2xKN0lnNmQ5MU5IbUZpQl8ySGl1b2dQSUN1cVhseHJLUEY3dmRUN3d4ZXJaTm95QU9wdGV3eng1NEsxSXR3T00xdDdxZjBRSzJNMjBCVXFGLVlGQmkzSno0MjFudlB3RGd2Y0lraGhNdG9JWS1sSFFPNWFzT1BFU0JuZ1lsWDF1dTFlV1pjaER3VDdoUXpoT2RxOVQyU3pIWi1NX0NJU1E?oc=5",
-    "image": "",
-    "published_at": "Sun, 29 Mar 2026 14:38:11 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567941+00:00"
   },
   {
     "id": "4606dbe3be9c",
@@ -80,16 +230,6 @@
     "fetched_at": "2026-04-01T11:06:45.567969+00:00"
   },
   {
-    "id": "e33228e658dc",
-    "title": "Resilient by design: The agentic supply chain",
-    "source": "Deloitte",
-    "summary": "Resilient by design: The agentic supply chain&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDJ6MnZWMS1WVmZleXE2bHFrS0NzczJ4ajVXQl9KQ0Y1X2xvZnYydEtFajBkZ2VRbzlTa01CSWxCbExNV1pNODhWTzhzdllsTFdRWWtzV2FsdU1uM0hObjJXZkRGSmZ1djJFZWlpZHlBQnZGdWNuRWZPeld2YVlJYzNJQWxhSlk3T0V2UXVTUXBfcUJHZFNKekFyYTYwbndlcFBvR1JIMnpudjlhWjJLVC1GZGE0a0hUNno4ZjQ5Qlp1LXRXTjk2SkgwRTV1YzB1cFhyRFM1V0hRN1ZNWnpF?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 11:12:30 GMT",
-    "fetched_at": "2026-04-01T11:06:45.567980+00:00"
-  },
-  {
     "id": "add67adb5614",
     "title": "A year into tariffs, US businesses see declining sales, plan price increases: KPMG survey",
     "source": "Manufacturing Dive",
@@ -100,66 +240,6 @@
     "fetched_at": "2026-04-01T11:06:45.567996+00:00"
   },
   {
-    "id": "3a9736b81280",
-    "title": "Top 10: Cold Chain Logistics in Healthcare",
-    "source": "Healthcare Digital",
-    "summary": "Top 10: Cold Chain Logistics in Healthcare&nbsp;&nbsp;Healthcare Digital",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1J5WEtQa2tGZjkxRF9JWG84d2N3MlgxZ1ZoaFBHdkN5dDduWHl3dTJWUHI0a0w4bG9PWTVQUElrbE5lZkJtOFF6eVZnUFV1NzR5WWtocV9jTmkwUUVlejY1ZzU4aURlLWZiSXQtajNoMWhPaTBVbVhNQmV1dzV4TEFSOXU?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 10:52:02 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669409+00:00"
-  },
-  {
-    "id": "e7a623178d74",
-    "title": "Mexico Supply Chain Management Software Market Size to Worth USD 702.48 Million by 2034",
-    "source": "vocal.media",
-    "summary": "Mexico Supply Chain Management Software Market Size to Worth USD 702.48 Million by 2034&nbsp;&nbsp;vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW9IdUVFT0g4a1FUSnYtb01EaklRYWtMR01DcTItZzBKWWRLS3JMZ2dPemY1RUJqWVFKdlJ0cWZRUEN1Rm8yYm1HN3FJQzl6bjRBNnB1eVoxbGxsNC1zOU9TcGNJbnZySWd3QXhQN2M1Z29QNWZ4ZHpmX1pPRkxld3h5M0R4MGg3ZzVoeVhPVnpNRk9oQUs2bWE0bVF3aDdMbUMycGdmMGpUZ3IzcFNucmlSRWM?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 09:45:04 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669439+00:00"
-  },
-  {
-    "id": "98743419bb29",
-    "title": "Army previews apps that put supply chain power into Soldier’s hands",
-    "source": "army.mil",
-    "summary": "Army previews apps that put supply chain power into Soldier’s hands&nbsp;&nbsp;army.mil",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUx1X09ORXhub0VLV1pkZUtYS21aTmJMdExSVlVmOWM0ZGFBdVlCdXpCeVBmMjhTTmM2RDhNOWlrSENYVGU2YVlncHpBdm1PdHllUzgyWGE1NHk5OVFpLS1RVFNPZjh2ZmdvVFNkdEFkUXpYbjBkdVBDdEQ3VzNVMTB2LXhGdmowbThHSkVVZHNyOVZzTFJzVmVRZ1AxaFRieGlVQtIBqgFBVV95cUxPSG9TcndyOWlzMjdRUHdtT1dIZDVCaUlUY0s4VGRjVWphUk9fSzJuQUUtdW9GU3F0T2VaRExhY0h5aXljVlBSVXhTNUpDSk5sVUhrUmVrUUI1aElVbnJjZjMwaG4zZDg3dlBnaFhrYVUtdWNqT3lUTUZwcnA0MFJGeHpTTzdySnQ0Rm5fRVdqcFZYS3N5VE1LVlcySHZOeTdadWVBUkxvUjJqdw?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 22:59:33 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669463+00:00"
-  },
-  {
-    "id": "40bfc775114e",
-    "title": "Middle East Conflict Disrupts Materials and Logistics",
-    "source": "Institute for Supply Management",
-    "summary": "Middle East Conflict Disrupts Materials and Logistics&nbsp;&nbsp;Institute for Supply Management",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2dCQUVGNXRFWnl3a2ROMDdabG9aY2RERmdzX2RldmVlWk82VjlJUmRpbjdLdDlyc3J0SjBhYldmV0Z0aHFhRzl3R0F4WlV2bUt4bm9LdFJqeThPYWNSWE5pWUs3alJfb1ZoLXdvWkhoVUtxVTF6T3M0a2lBRVpLSC02QXpJNzM5UXdHTGpFMHo1SU9WSGNRZm96WnBjakpYYTl2R1BzVXY4SFZxTkZiV0t2RjgxcEpWTExidG9OeWs2RmtHcFV6UG9JSkdsQXZfUjNfNVRIWVhTQVAzTHhnYnlSOVk1V1FaWjZwVzl1V2dFUnRkdHBOX0RBUUl1S3QydjNSME1ONF9GX2ZKcUp0Y2NR?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 16:44:32 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669478+00:00"
-  },
-  {
-    "id": "0f9bb72b2998",
-    "title": "Top 10: Automated Warehouses",
-    "source": "Supply Chain Digital Magazine",
-    "summary": "Top 10: Automated Warehouses&nbsp;&nbsp;Supply Chain Digital Magazine",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VRXdzRzczbng1X09PY09JRTZLWngzbXluMDNyWkMtRkpyUFBQSGQxdFVjY3BhcXN2dUE3eUJiM3hmMGQyXzBwRFp6cVk5YXBuQU1Ja1ducTQ2b2kzTWZER3JLcFJLcG5vYVpxbnV2d3Zja0hwV3E0Wg?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 08:55:29 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669490+00:00"
-  },
-  {
-    "id": "79005e6079b6",
-    "title": "The Shifting Tariffs Landscape: Impact on Small Business, Manufacturing, and Supply Chains",
-    "source": "Quality Magazine",
-    "summary": "The Shifting Tariffs Landscape: Impact on Small Business, Manufacturing, and Supply Chains&nbsp;&nbsp;Quality Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOci0yVUl5Y1VuelliYmZZZ2M3NU53alRIekNQSE9qaEt3MnNMdFptaE5mY1VUU2tLOGItQUhBTDNMUXgwOS1NVzU1V1h3TVFEcUV3WUdmcl9BY1dNc2dEV1dQNU9YR2IzaGttejFRTEVBeExEdGpJYU9UWC04cTM5U2VlRkp1d3V1MDh6WUNCbnZCMHh2eTlFbkJaVUExdTVZaXB4c1h5LTlVYmxBQ09pNFo2eUQ5Y3ktUUxjYl9uWTZtNC1sWTQ4Sg?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 04:00:00 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669505+00:00"
-  },
-  {
     "id": "8df934558c82",
     "title": "Nissan Logistics Hub In Mexico Puts Focus On Supply Chain Efficiency",
     "source": "finance.yahoo.com",
@@ -168,16 +248,6 @@
     "image": "",
     "published_at": "Tue, 31 Mar 2026 22:07:27 GMT",
     "fetched_at": "2026-04-01T11:06:46.669519+00:00"
-  },
-  {
-    "id": "d44de746cb15",
-    "title": "Above the Fold: Supply Chain Logistics News (March 27, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (March 27, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEhVQWl6aTFmRGhmVExXdDQ2T1NoODUwbGgwaDl4THdZSS1DbGVRWGtGbHIxaW8tVXlLOTU4ZDVwSV9NQjlDS0hHNnBUSWY0QkllZGtKdDFzTzl1TjdHc0wyeUM2WUpBb1FGZEw1ZzBJN0NSTW8zR2xRYlpscHRVd1FDbzFqZTRjSnppUDhRUWZBV2ZiMWdUdFpBd19qZw?oc=5",
-    "image": "",
-    "published_at": "Fri, 27 Mar 2026 14:39:07 GMT",
-    "fetched_at": "2026-04-01T11:06:46.669533+00:00"
   },
   {
     "id": "efa2dcb1721c",
@@ -410,16 +480,6 @@
     "fetched_at": "2026-03-31T23:41:53.153865+00:00"
   },
   {
-    "id": "3054f4e52473",
-    "title": "Scaling Cold Chain Precision Logistics for the Future of Advanced Therapeutics",
-    "source": "Marken",
-    "summary": "Scaling Cold Chain Precision Logistics for the Future of Advanced Therapeutics&nbsp;&nbsp;Marken",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JSjlnVlNjVU14RnlReHJZWnpPNkQ3dDJMclN0UWpWUmdGSmhpSEw2RFY0cWFpSUpvd2d1bThQSVUxcFJ3NDNiZl9LQjZ0ck1XSTBrRWhkVVVvR2xDT2didG9JVUNuSFRtT3NTUW9xbldqczZPRFE?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 17:13:39 GMT",
-    "fetched_at": "2026-03-31T23:41:54.224617+00:00"
-  },
-  {
     "id": "5efd24ee48bc",
     "title": "Mexico Supply Chain Management Software Market Size Size to Worth USD 702.48 Million by 2034",
     "source": "vocal.media",
@@ -438,65 +498,5 @@
     "image": "",
     "published_at": "Tue, 31 Mar 2026 13:49:36 GMT",
     "fetched_at": "2026-03-31T22:42:48.324070+00:00"
-  },
-  {
-    "id": "f7d5a20ba8f2",
-    "title": "Supply Chain News Roundup: AI and Automation Will Change Disruption Management",
-    "source": "Institute for Supply Management",
-    "summary": "Supply Chain News Roundup: AI and Automation Will Change Disruption Management&nbsp;&nbsp;Institute for Supply Management",
-    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOOU5RZ0FJQ1BxcnRMdHdwMThfdnZLWk1UZ0V5cmhvU3cxQUI3eHJaZGlieG54X1VFOUVHbjk0blB6b1RqVDFHdnhBVldtWmxnRW9VTm5KSWp1NDgwUTg2R2hidVZNWlBWaWNfQ3pUYXVHNUVMMWpPYkkxLTR1b1N1cmdPb0o3aXU1ZFNiOHJVblJyRUo1aEtYVjlYN1BsWTAwdFYzXzU0MVphZ3pSQ09BMVJra1Z5VVhKaDlMdFhrMW00REFpbmgyODNPZlJBRmgtYnYxZ28yYUdKQUQ0Z1Rtd2lCWUt0Q0JINHpjdTloWVlqT1dHR3BDOUFqWGNFV1BCZ0lLTUpab3MxdDNDZlRuanlyX09LUGJ2REZ4blR0bDJlcUtwZDJFTWJnLUZoek1iNFE?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 17:04:32 GMT",
-    "fetched_at": "2026-03-31T22:42:49.290992+00:00"
-  },
-  {
-    "id": "ccbff7142b5a",
-    "title": "Why Supply Chain Leaders Should Attend Coupa Inspire",
-    "source": "Procurement Magazine",
-    "summary": "Why Supply Chain Leaders Should Attend Coupa Inspire&nbsp;&nbsp;Procurement Magazine",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3aGlFbGlmNmlVRnN6Q2NveUp0OGtXVjNfZ1ZjTWxRRV9WZWRlZGZYWjl2WjNYTjNTakVCdVVUblNaSmM0VlVVOWk1SFJ0cWVvMVhqMnk2dWI4WkR1emlpNXpCLU5rdkxsOUtwWm9oNnpkc0Zw?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 07:05:17 GMT",
-    "fetched_at": "2026-03-31T22:42:49.291100+00:00"
-  },
-  {
-    "id": "344a33dfbeae",
-    "title": "Rhenus drives Britax Römer’s supply chain transformation with unified cross‑business‑unit solution",
-    "source": "American Journal of Transportation",
-    "summary": "Rhenus drives Britax Römer’s supply chain transformation with unified cross‑business‑unit solution&nbsp;&nbsp;American Journal of Transportation",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1dBZFdqcTl5cmVHTDJ6TW1teEV0dzRydjFBcU8wdGxXUGJXT3E5RmdCSWJPVHRjTjdaM0VKSFFFZWg1M1huYjNjV083NGdqLVNrbXlYTkgzRVdrTXhJNC04VXd4UHdpam5zelMzY2Y2QWpzUGpnakxLNl85dHVvdElSckFNRGgwRFJlUzZFUXZPSl93eG1jNWttVG4xam1sVVpNeTlpOVJHRUlQSVFxYXY5Tzl2NTQwOGEwVmtIdTk?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 16:37:00 GMT",
-    "fetched_at": "2026-03-31T22:42:49.291121+00:00"
-  },
-  {
-    "id": "f7094ba73a0e",
-    "title": "Beyond Semiconductors: VMS Solutions Unveils MOZART 3.0, Bringing High-Tech Precision to Global Manufacturing",
-    "source": "PR Newswire",
-    "summary": "Beyond Semiconductors: VMS Solutions Unveils MOZART 3.0, Bringing High-Tech Precision to Global Manufacturing&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQmxac09KZVl6eFB4bkxDUFJ6MTRIZXRhdHlsNFlTU1RxOG44Z2MzWS1XVWlmVnlIcVFLdnEwS3g3cVZyZGhJVUFUVlF2SEZCeGdlc0MtblBiWFpSaDJKOFp0SG83YWhsV0VyY2M2cjBRZ3VjTnhNeXNjYjhzOUVSUi15V21peG9SNWx3NGRVZC1yOHUyekFONURLNTJxMWNhR3RKelVTODZyTnBVZHYwaTNUZndXaFlYWlJCQmp6MGx6WGlkREtxVDRRbHVDNW9NNUJlUXByZnVSaVRSa3h6VF85ZGpJVjZZLVZoaWFoOTBwelZZX1N3?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 13:11:00 GMT",
-    "fetched_at": "2026-03-31T19:13:36.953025+00:00"
-  },
-  {
-    "id": "d1113260ac88",
-    "title": "How European Manufacturers can face the Challenge of Chinese Competition",
-    "source": "Deloitte",
-    "summary": "How European Manufacturers can face the Challenge of Chinese Competition&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnc1UWo3QXNONUtlNWh5bXlia2dJS2JjRWxMSF9Mc2I2X1NLN1pBSmVlSUdsMHhwTU1HNTBXbDVYQjlObURfYUVwTTF1cldLMlAxODlpR1pyQWV3eW1jVy1xM2k1NWdkUkhHeEdOdEY3RVQzOGJvVE5JYjV2cWRGQzh2Rm1zTXNnZ29GalJwb2J3d0tuVU05WDJoUElpSFZSbkVGOGt0aWQtZDJ5aU9fVy0zRFREMXU4Mi11Wm9xM1k4QXl6UlpvQUZJaWJ0YllOamwySVFfN1MyZHR0NUxSRWdkTFFaTHdZZ2FEdg?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 12:12:28 GMT",
-    "fetched_at": "2026-03-31T19:13:36.953039+00:00"
-  },
-  {
-    "id": "5d6fc603b2fe",
-    "title": "Manufacturing Leaders Converged in Nashville for The Manufacturing & Automation eXchange (MAX)",
-    "source": "Voice of Alexandria",
-    "summary": "Manufacturing Leaders Converged in Nashville for The Manufacturing & Automation eXchange (MAX)&nbsp;&nbsp;Voice of Alexandria",
-    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRnZ4THcydnRkOUFpM2tHRGFXWFZxenF0YUVsQkplc2laZ1hKamFzZ1pnSVRUM21DQzNWS0tGcFRueUdnTmdod3dFMjg5N3FqaWVnY2tPRlRPS1BuVFFXX0hHT3phMFNvbnNJNWhTRW5IYmxObTRYRWxQYVYyV0lyVFVOODlJd1dJTmNzMEx6XzV3ZmxjZFRxR3FsZFlCNjY0bHJycWVtQWhsNEREUTdibWYySjhXOUhkUmZHZnVLNThvczdrcFJ0MTRkLUV2X2Nhb1ZXWFh0X2xXeFVWOHpjcUZtZVNHeHdDT1cya3N3em1SRU96YUdtMmJCY2RfMVhYMmRWc2ZfODJYZGNLWEtodlpUaFRnUldBOFl3cW5lZjVXNEZ4OE41QXRn?oc=5",
-    "image": "",
-    "published_at": "Tue, 31 Mar 2026 13:16:59 GMT",
-    "fetched_at": "2026-03-31T17:09:11.939930+00:00"
   }
 ]
