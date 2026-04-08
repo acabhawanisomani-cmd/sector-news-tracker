@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDbkZSODMzYmdsSjE1RGltTHlRQUVVS3JDWTFjdWw0U0ViVTFxWHNfMWx6dGFtbTdlanBFV2dqeVlsZHQ2LW8yaFVpRUlwbXdHZlM4OGdVSEJfZDhUbXZOdE1EWG9ubk5vMnhqTDkwMlRSUFU2SlU0X3FqX1VVUQ?oc=5",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 07:51:09 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071120+00:00"
+    "fetched_at": "2026-04-08T11:07:29.376932+00:00"
   },
   {
     "id": "d4923eea74ab",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjkyTG01SGY2X1c5X1g1dEw0OVBqVGpFcFNYZk1Kck5LMjNfLW9GYmY0Q2xPTDFKUXRDTkJ5WG50bDRRcmlvWHR1cnljTy1MOGowUzBZRVFfUUFVUGlfM1pVMnVZZFVKSTJtMHlYWFJHUGZjWHFxSlBKRUZBV3I5NFJQLVBNV3B6R0k0aVFqLTBTRGR4TmR3SXo4SE9HVlA5amc0WmFHZEQ?oc=5",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 07:29:52 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071185+00:00"
+    "fetched_at": "2026-04-08T11:07:29.376996+00:00"
   },
   {
     "id": "bae00e1624d0",
@@ -27,7 +27,27 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2tmNXB3SVhIZmFPNWNtY3R2U2lfWVNVeUlGd0pDWlMtY2xaanFCbW9XLWtKY01iVmh6NFFWWGQtZThTS1RmT2l3VHNLazBfaVhVQWdKQmJnbUtURm9OcTRITEROaDcwQVJwMDV0VEMtMHhEYnhfQkctR2pMbFc1dmhMMktQNjE1UnJpVDViRm5ROTRKVUE?oc=5",
     "image": "",
     "published_at": "Tue, 07 Apr 2026 09:25:19 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071222+00:00"
+    "fetched_at": "2026-04-08T11:07:29.377032+00:00"
+  },
+  {
+    "id": "075e6167b8a1",
+    "title": "GLP-1 Agonists Lower Complications and Mortality in Pancreatitis",
+    "source": "European Medical Journal",
+    "summary": "GLP-1 Agonists Lower Complications and Mortality in Pancreatitis&nbsp;&nbsp;European Medical Journal",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUlXb01kTl8wSzVDOC1pbHJEcmp4c2FmdWVpZUtEbUJrS0N1OVRBS3ZEZWI2UkdXVHpSenNCRzlKel9pVm9sLWN4VTBMNXlFNV91bW1sNnRneHFfTGszRXR2clZaN1NtSnlzSkhrcy03cExyeXY2eFlCaGpIWXVZRmJMeFRIQjFZWGZMckV6NldyY2NTaEN0YmJOTF9rTk5GWU9wMmRDRkxPaUE5MnJ6cHdTWWY?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 10:46:19 GMT",
+    "fetched_at": "2026-04-08T11:07:29.377046+00:00"
+  },
+  {
+    "id": "51bf74371ef4",
+    "title": "Paediatric Autoimmune Hepatitis Cases Rise in Denmark",
+    "source": "European Medical Journal",
+    "summary": "Paediatric Autoimmune Hepatitis Cases Rise in Denmark&nbsp;&nbsp;European Medical Journal",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDJxUllWeG5ZRVBoWjhDb0lldlpRSVJqSzl3VDdxMDd0S0ZUSHlQc3ltY2pfZDVEQkZtVll4NDAxZzdWLXFRTnJYaVNMOWNEUm1PQ1hPbnFiU3picV9rNEdSUHR3c2VZQW5Gd0VHUzNSLUYxbG03NmhwZ3FuNjhKMmtZQjdvekJxRnpndlZGTTN4TkNXckFlSlpKVS1Ndw?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 09:05:50 GMT",
+    "fetched_at": "2026-04-08T11:07:29.377059+00:00"
   },
   {
     "id": "54b17394b7ed",
@@ -37,17 +57,237 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3EwOGFRbkVzcmhLVzM4MHh2SmNaN2lEYjhaWGZHWjl5QXdRV3F4b2kxaVZlRGRYbzFDLWhWeW13RXFSNEFsbzFZczB3ZEhDbWlSb203VTl0dExaNzZ4WVZtbjBFTXBDNU5hV0N6a000aGVkS1lQWGh0bEVVOVRfeDNoUEtmTTRyWm9XRHgtRm5BVkdSamNxQWFsU1RTX3JuUVpwZ0pydzlwUEw5TFFJTHAzY9IBwAFBVV95cUxNOV9aVXpTRkZaVGRQLUd0bzdZZWJfbDU5NVdsWmZSMmpMV0R0QkZXYUZGRVFXTVFnWDV2TmxmVjJsYVNIQ1BBTkV6cmpUZEF0YkJrU2pOV1RPR05mVHRtOTVFQjlfZjgxSnFmQkI0YVJOTnhvOTNoOHJma2g4M2s0dlE4eEVTTHd1dnNyTGgtZThsd0xzTHkzc1VobWp1YVBnaGEzczQyU1N0MFRNc1NEcUtYOTMwZi1FNS13NUJ1SWI?oc=5",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 02:46:36 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071261+00:00"
+    "fetched_at": "2026-04-08T11:07:29.377097+00:00"
   },
   {
     "id": "2629030ca3f5",
     "title": "Bacterial breakthrough offers new route to early detection of noma",
     "source": "Labmate Online",
-    "summary": "Bacterial breakthrough offers new route to early detection of noma&nbsp;&nbsp;Labmate OnlineNoma Study Reveals Key Bacteria Driving Deadly Childhood Disease&nbsp;&nbsp;European Medical JournalChildhood noma cases linked to distinct bacterial patterns: All you need to know&nbsp;&nbsp;thehealthsite.co",
+    "summary": "Bacterial breakthrough offers new route to early detection of noma&nbsp;&nbsp;Labmate OnlineNoma Study Reveals Key Bacteria Driving Deadly Childhood Disease&nbsp;&nbsp;European Medical JournalChildhood noma cases linked to distinct bacterial patterns: All you need to know&nbsp;&nbsp;TheHealthSiteNew",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUElGN1VIdjZVbTAtb21qOVZTTXFfSlBvRUdoQWZidUFVTmJDV1AxUE9hNUdpNlpKbnVsbjIwT3JWVGxoVnJrVWJGWFp5Sk1HYmNETXZLT2hpeUpMZzVHd1NnT3R4eTRNYzdFN0psbXh0enlzbXMzcnNsdVJicnhnTGRGbjdZRGVJMjl3QnI4b0FLOElxRFFGbDJxeUdVTUVCN3l4dzFtVmNrcmdKQ2tpR2l0dlVPam1FOThHRENUbGdrSzFIaU1LVmFONDJES1RSNEtObmxJc3FEU1oyWklQZXBMTlNENG5BQjZpeWhsaTU2UkJKdWhqZnYwTERBSGVsVGZIMjhR?oc=5",
     "image": "",
     "published_at": "Tue, 07 Apr 2026 18:01:09 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071293+00:00"
+    "fetched_at": "2026-04-08T11:07:29.377128+00:00"
+  },
+  {
+    "id": "d7edfe1e4fcc",
+    "title": "Cardiologist with 20 years of experience shares 3 things women need to know about heart attacks: ‘No. 1 cause of death…’ | Health",
+    "source": "Hindustan Times",
+    "summary": "Cardiologist with 20 years of experience shares 3 things women need to know about heart attacks: ‘No. 1 cause of death…’ | Health&nbsp;&nbsp;Hindustan TimesDelays in diagnosis of women’s cardiological issues in the spotlight on World Health Day&nbsp;&nbsp;The Times of IndiaEarly Signs of Heart Disea",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ3NhWjRjd3NWT25CcDJTYWFKYURUMzI2TlhNZ2pCWl9ZSlhvRnBtQ3hlT2JZNk1ncll4MW4yYjBHOWNpRFNMVy1NbjViYzBPREIzOWIybUkza1JPLVROdDBrV01XYXc3Tl9xeGVDb1FYamtFT0pTdGZxcjlVMFpZUDBPQy1Ed2ZuckpVZHRkeW1XQWQ3SjduTFNtcVhYV1ZBZ1RHb1FyMGRoUVg0UVZuSHNReGlXd204YjhQbExCQ2JZaHgyWXlza0pKbUliT051MmRXTVlpeE5qaDY4ZVFTSUlFYVNZcnktTHZaY1BrWWRkMmRLeno2dlBKcVEyeTh0X19fczFNOWQzU2NZNGczazBn0gGXAkFVX3lxTE5HWTIzZWlFRHZLZVplX2pNQXZqM1BpcUN5RnFBWWZobkZJdG9BVUVlT1JtMnNvbVdOb21JU3VCNE5kcVNOVDhJeDRzNHVMRTBjNUpoZmZCaTFWOXdGS1RKQXlNUWxhZDMtNXFxVzFPVDR1TzFwWWdsWHNSTHdCZ1dDOUEwQktzaENvVkk3NWIzZHQzeTlJQlg1VVlCcWhUbXNRdnN0Z21RU2pmY2t5MFRFMXVETmxES0lkQUZTZmp5cGhXME9PSHdfWXpkZ2RENWZGUUZQTDNhRFp2dnVfX2hHaUVyeENKYlZoNi1LaW83QU1UMFlFcGRZaG5ldU8ySmw0YjZPTDV2SFBHeW1zVUtOX3V3ZFozZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 06:03:38 GMT",
+    "fetched_at": "2026-04-08T11:07:29.377176+00:00"
+  },
+  {
+    "id": "66ed26589018",
+    "title": "Scientifically Speaking: The Plastic Pharmacy | India News",
+    "source": "Hindustan Times",
+    "summary": "Scientifically Speaking: The Plastic Pharmacy | India News&nbsp;&nbsp;Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUdNN0wyel96LWxuSkd0bmpZT01JejF1dWxIQjYxYlZkbUNZSFI4SGhhcDJmLUNIQWkwMlB4c1hFUTFMa29GbW1vRjVwNzIySGQ1R2taTl9qMXVCZ2pISjIyQnZFMzZjLWFISFl3bDFPMFluTlRLNF9sSVNSRXZfMk1lNFVXNmZPMXB5b25DdUVBZHpEUFFkaG9scWswWXgwWEdaSjNfY2VGV1XSAbABQVVfeXFMT2kyMS03NHA5NHhTVjM1WVdCYmtFTG9iRC1OcGpBdkRqZm8xM0QzMVNfNlB4Wk13WGRFU1U3N0FuMnpuRVZ4ZlUtbFM3MlNRekRYeTM0MllYaWp5aEh0WUpmTExmRi0zUGFvYWlRdFhsa1V2YmRKYTZ2NXdSVl9VZzkzX1Fra08xQkR4RDd3N3VFUFpVcjJ6ZGU3bURDQUJ1VHQ0clFhdnpvYlJiUWpmdzQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 09:41:16 GMT",
+    "fetched_at": "2026-04-08T11:07:29.377191+00:00"
+  },
+  {
+    "id": "9581eb99f0d0",
+    "title": "High-fat diet speeds up breast cancer growth, study shows",
+    "source": "India Today",
+    "summary": "High-fat diet speeds up breast cancer growth, study shows&nbsp;&nbsp;India TodayPrinceton Researchers Identify New Links Between High-Fat Diets and Aggressive Breast Cancer&nbsp;&nbsp;Medical DialoguesLab grown tumor samples (IMAGE)&nbsp;&nbsp;EurekAlert!High-fat diets could lead to aggressive breas",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5RZUdJOXQzUnZRSUc0bUNzU25UczRTWFk0OWJPTFlna3BwRzNoWGdWUmF1eVdPR3k0SGVHYlA5QTFxWXBmUXA0a20zQ2YxaXRNNzV4ZmtCWmpQb1l2MjhtT3RvY1FDYlhOeWs1VHZSR2VIZVFMaDBiTTh1NW1oQ2FEQklOQy1lTFo4eXF6RDNCalZuVlZ1eHdQcm1lbFJValh6ZTBlVzN1c3dFQTlsN1hBUlMxdDN0Rkc5SUxUVHVOd9IBxwFBVV95cUxQUGtEczItM19GTjkyY2RCXzBjckwxWkR0OW83SzV4Zl9rY3BINUdiM2c5Um9JSDhyOWc5alZBZDlIWlpyZDdMX28yTFhtbHNHelVScHZkakQxZDF2ZWM4TW9SaHVQTUgya0tjMHRGa185a1VsOHhXdHJPNnZJaDBvaEdiQXRpRGF0Q3N0c2RhWHNITlRya25UV1VWS1Vza2xMa1dVZG1wa28wM0pCTzRZQlJqcUYxeFVsQVUzOW9WRlE1bjZiME80?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 08:46:59 GMT",
+    "fetched_at": "2026-04-08T11:07:29.377219+00:00"
+  },
+  {
+    "id": "06d3b27812d0",
+    "title": "India’s healthcare sector records cumulative deal value of over INR 10,000 crore in Q2 FY26: EY Parthenon Report",
+    "source": "EY",
+    "summary": "India’s healthcare sector records cumulative deal value of over INR 10,000 crore in Q2 FY26: EY Parthenon Report&nbsp;&nbsp;EY",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMklnUjVTSFNJUFFOVjk2eUkweUFRZkM5ODhDS2hRSkVSOU51Smg1M2JCLS1NZ1VMUWZpaEtlTWY0VGhpR3BsQ20xZlFQNEtoZ2poZFIxdHRwVkdIWmRvaEJESkFkQTlsWjEwSGhUaEZNMmRHZHhRaWd2akdHSjMwNmU5em1TVEhRRmwxdnJYXzZjU0R5SHNnYk1XVkRkN0VZVkhFemJYa3pxSXVmekhGSExEWDNpRUNNNVUwYWVLRENETm1BcXhIODh4TUhxZ3F6amFjN3BCd3lEckpGUUlKRWRnakNzNUstd3c?oc=5",
+    "image": "",
+    "published_at": "Thu, 15 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860534+00:00"
+  },
+  {
+    "id": "73d76961b37a",
+    "title": "Government Initiatives Boosting the Healthcare Industry in India",
+    "source": "IBEF",
+    "summary": "Government Initiatives Boosting the Healthcare Industry in India&nbsp;&nbsp;IBEF",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0pBVmcyNVZBNVU3YnFLNXZCOE1iNjlvalQ3Z2dpSFNMX3lpX08yYWVDTTNfc2dUN1M2YVV0OFZYenhKWXBoeG1XcmwzT3B6MUxPaXptR25rS3VXOE5pVG9sSWJKTHJ0UWVTQk12TnlxTGprblJtalFPOTVUR2tNRmUtVFZTd3VmUkxoN0kyalp3VlBtM1E?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860567+00:00"
+  },
+  {
+    "id": "a8f649fbec87",
+    "title": "Size of healthcare market in India FY 2024-2029, by sector",
+    "source": "Statista",
+    "summary": "Size of healthcare market in India FY 2024-2029, by sector&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3B2cEd5WC0xcWRMTjdIcGpHLXdUYzZRM1pJeTZtX19Jd1RJdTQtem5NNURRYnlJREw5WVZWQWhCWnNrTTgyei1aRkVkaXBYLVg2a2RPNDNPQ0JVMkU3eTFWLWNEMThMcHk4ZnlCOEEtY0JPQmU0clE5enJFcTNjbFd2blgydnNvTFYw?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860583+00:00"
+  },
+  {
+    "id": "a91c26059ac8",
+    "title": "India’s healthcare, pharma sectors to witness 30–35% hiring uptick",
+    "source": "medicalbuyer.co.in",
+    "summary": "India’s healthcare, pharma sectors to witness 30–35% hiring uptick&nbsp;&nbsp;medicalbuyer.co.in",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWdnVWdTMC1BQmJVaWtPbnBrSmVNb3hHWndSV0gxMnhpemVOTUM3STVWR0tjWUFIdmROUWVLYzUwZVBiVmdoR2hwRVN6TUdCVXEzdEJGeE5BR0tGTnFsc19ETXJqMmRpUHhvbm9wNkltM1ZUblJjV0FER01wZkNwWGNEV0xteEFwNGw4TWh0N1JmWVlDX1E?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 12:07:05 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860601+00:00"
+  },
+  {
+    "id": "4f3ffc3284f4",
+    "title": "India’s healthcare sector seeing a fundamental digital transformation: Report",
+    "source": "The Times of India",
+    "summary": "India’s healthcare sector seeing a fundamental digital transformation: Report&nbsp;&nbsp;The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON1RsT3R6WU9hbWhyQjNib3pkVnZTbUJIT0xSbUNnOFVPMUNJQVYyUUc2Z1FFSW1xRktFaVhXdzdDWTdWemljajdGMUNsSkN0WHNrMU56ZFVuQlNwZldFZG5uWEVKczNxTkp0SEMwVFpqMHI1LUd0NmVaSHhpNFIzQi1PLWpZblktcjUyQTdfeS1maWdQdnJ5bTg0TU1sbjBjTTl6S2VUZHhOa2lMWUxZcGNWMWFScFFyS0NNTW4taU1jOTFpdnFUS1FKVWJISXp6VmxUQ0ZKWkM1VTZaZXdtNDRzZnRUb0NFN2kzN2JxeS1LUTDSAfgBQVVfeXFMTUhMZUFwamJDY051a3pYSWN5MUJaQjM0aHZoNUwyNVNyRkhRd0ZLbVp1UHh2TG8zRng5eF9yRFBqc3VrMnZNRHJ4c015cm5TR3UweG1LbEFmcWdrdEdRWTEzNjVtREJKWmltcHlNYlZ3bmxrOXgxZERHSl9MYndKTHZ2OERYR2JBS3V0QTRsZEttWWgxT202eHF4aEU4N0lUV0c5dG43TTg5YjR5SnEtdDREaW9lTkRudWNfaVFPUTcwRVFOX01xODZkS0FqS2NFX212b2N0cjRyT0lXbmxnRVhiOG5TODJtc2tJek9PQk1Gd2tXMkROYkI?oc=5",
+    "image": "",
+    "published_at": "Tue, 10 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860620+00:00"
+  },
+  {
+    "id": "694377044cc1",
+    "title": "Roadmap: Transforming Indian healthcare, one specialty at a time",
+    "source": "Bessemer Venture Partners",
+    "summary": "Roadmap: Transforming Indian healthcare, one specialty at a time&nbsp;&nbsp;Bessemer Venture Partners",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3BFcWpKV1NvYmVVZG5ISElpWFg2anN5aHl0UV83ZXpRTkRKajNoNjQ4UE8zVGpITHVYeFp5dDhHWmpuUFl6blpVekhjWkZuYU1iZDh0eHhLVGRNSmsyTzctczN6OHhEV0Q0Wjhub2d0WE1iQ1Y1bU5GYTFCakdwMTBVTklLVzlxV1BvclhvVGdCZw?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860635+00:00"
+  },
+  {
+    "id": "44f64ed7f2ad",
+    "title": "India's Pharma Opportunity: Expanding Global Reach In A Changing Healthcare Landscape",
+    "source": "NDTV",
+    "summary": "India's Pharma Opportunity: Expanding Global Reach In A Changing Healthcare Landscape&nbsp;&nbsp;NDTV",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWsyN0FfVXlPcGJyXzJ3azZXR3B1ZnMwdEFYd09sVjFOMDlyVUFvZnlrSER3MDhZbjE0Ni1VajhfaEJvUl9lNmdnWkhYSVFlNVJZaTVBZUxNWkJMamZOZUx3VzNNQ2tlRmRkZDZUNERXUHpmWEhXUWNNVGZ2ZzlBTmZLQkZLQ2t5M2VLOTVwVzJaaFdYWjc0dU1uaUFNVGRKQzVpWVB0TjJqRHF5VkNWLW9hYkVfM1I5ODBqM9IBxAFBVV95cUxOckpKeFlRUDJvQ0QxN1YxMWgzVmpnd3QwdjJfbF96QmVzaHlybkREUDRsbjNGSG9pOE1ZSVhSVUw0UXdhalRyd2VoSUF3cUlicnZqYnhnYzZCRld0QmdFeUtVZ09IVjdQby1SbnBWV05jNlZfc3dmRUs5RGFfWlpWSk9MLW1UYVRmY2pJMHdFeEV3VENhdElsUkYwWV9PUjRSZXNmdDZpWm5iMnVJM0xMcEJfbkdnWUxjX2YwcjNnYnhNSTlu?oc=5",
+    "image": "",
+    "published_at": "Sat, 04 Apr 2026 07:42:10 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860651+00:00"
+  },
+  {
+    "id": "1b344efb093d",
+    "title": "India healthcare, pharma sectors to create 2-2.5 million jobs by 2030, says consultancy Adecco",
+    "source": "Fortune India",
+    "summary": "India healthcare, pharma sectors to create 2-2.5 million jobs by 2030, says consultancy Adecco&nbsp;&nbsp;Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRU90bm1sWFhsQWh4d190TVdoMnlweUtrcDRzckNIQUNrYy1yMVZPM3J1NjZXU0g5VDlIa2JFN2hCUVpWb2sxRktYa054M0FibENjU1B1Y0lYRUZsVXM4b0hEWDJVUkxETS1wdW5UQjl6cEQwTHpSU2cyUFd5cVJaTXZzM0dyUV9ueU5XLV9fZ1VXU21PSFZtTWRSSjlmWDBfWTlKell4eGtxNTI2aE9NaVpLUU5FWVNpQ2NuU2NhY2FlVG82Q0ZXdG0xVTU4RFJadXRfZWN4VETSAeYBQVVfeXFMT3FpdDBJVmZHX3NmZHEtQXNYeGdIYXFvUkt2TmJ4Ynllc0VmSG5sTl83dHlzLWVqaF9vMkh1SFg0aGhWSG5HUDFyZ3VHczQ0bzRXVjBRU2IxMGRta0xvaXJZUmhQMHN5YzYtMnMxdXhEMnJtcHFOaWxJWElFMDByQ1BpbXpRZkJoNW9rWVVsM0d5T0QwelpJMmJEVFBrQlhMTGJmc2hXT0xWSG1yNjRUb0lnYXJHc1pDRTVJN1dORy1RNkRsNzNqTG5SX0t2b1JhUXIwX3ZDWmtGdmNLRlRVSVNfb2E4TGc?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 09:40:30 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860667+00:00"
+  },
+  {
+    "id": "7d8ffc4a8f9d",
+    "title": "India’s transformation of the hospital sector: Looking back in 2025 and a route to the USD 200 billion healthcare market",
+    "source": "expresshealthcare.in",
+    "summary": "India’s transformation of the hospital sector: Looking back in 2025 and a route to the USD 200 billion healthcare market&nbsp;&nbsp;expresshealthcare.in",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMnVwSUtKLXdMNlI1RnQ0WHdFSWZLXzZKcEN6N213TVNKM215OTN1OUdwdXpMVTc0cnVwWnZ2aW1scThrSFIyLWVtSl8tQ050ZDNYMEd4Z3pHUHAzUHFlbWpRbzVrS2pXbFN5Q2pWOV9Wb3FzMzdyc2puR2JpNzZLLUJDSmNKTVJpR1N0cTVkVktzaHIwS1NoSEpWdlhVNFhtMHMxbjVybjVTMEEyZUoyVUdwem9pNXlldnhudnJUbmpQSFF5QTlubW8wZWFYdU10ejg3THNHUlpvdTk2SWhJVDNBNkFCek5TVW83aGFsZjFuTTF1eHQ40gH8AUFVX3lxTFB3SE5tYUJ0U0dsRWRoUjd4U1Q4UXFuM3ZHNzVTVndYT1hZQWl5UzBMbFc3Wi1LaFBoSHpZNTZ3WF84d0hJQ0JHM1pTWHdCNzlYU2VmUURCNVNBY0xpSWtsQzdBbWZ2UnJCeGNjR1BNcXMzVFNOeXd2cWpLRUdUaHBHYkptZE04MHVBOEhaMERHZEFCV2FPOEtXMEN4bUJKb0d0V0YtbzdNRkNBaXZJLVhWRkU2XzlPU3Zyc1luQ2Z1VGhaekdRMjZMMUMxbW5FLS1kVWxGM1dfTlFyZ0VPU2dnbzJVREdldGg0T054ZmZOb2cwZUdwNHFRVnpIeA?oc=5",
+    "image": "",
+    "published_at": "Wed, 31 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860689+00:00"
+  },
+  {
+    "id": "e0829bf490a9",
+    "title": "India’s healthcare set to top $1.5 trillion by 2030, but gaps in access and rising disease burden persist",
+    "source": "The New Indian Express",
+    "summary": "India’s healthcare set to top $1.5 trillion by 2030, but gaps in access and rising disease burden persist&nbsp;&nbsp;The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd1NUVEJyNHJFT1BKeWJpWGdFQlJCbk0tVXlsMll2SEZHZmcySFVtdWpBa1pwR1pIVFFoZEVvNmdxRlhMbWUzOXAwOW85bW9ZV09qRnNLSlRjblhRUXRILV81TFk2ZkVLaUthS0diWjRDU2w1MEhtam9va1lIeUNQakFKOWhsdVdHa1dWRjhvVU9NMWttSGs2aE9kcTJ6U3pxRTBzUFJJa2NXeWc2OVFzRUdTYU9fX0tHQ1R4NEFKSjZFRTY4bHZoOTlVRDNiUHAtdEVrVFo0WDNtUXlOMjN6OGdvX294alRj0gH2AUFVX3lxTE5FaW9YQzBGaDZLTmFjd2djZktGSmxBTm1IajM2YkViZ1gxaWxsVDgwanF6ODlMdEJTeDdZWVZoNUNDVnpqOVBweFBDTDVYMmR4QzY3OURjMzhZeXA0YnBUYUh1aHJILXMtTmk1eTlCd2JpbGM3TWFYdERWOWdGVjhGQVNmel9HOF85eEd2QmtBREUtNWRvWThDc0xwbWRUZGJkUnhQZE5ZdUhpcFNyME4tX3g5bnJsS25VcDh2MUc0SWhTVHE4T3FRWjFNYjFPWFBMUUlQX0ZrV183ejNJNzNIcEI4VkN3dU0xNTN0ZHF1LWF3cEgyQQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Oct 2025 07:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:29.860710+00:00"
+  },
+  {
+    "id": "1851a24234ec",
+    "title": "Upcoming Pharma Conference in India 2026: Key Event Shaping the Future of Pharma & Lifesciences Industry",
+    "source": "eHealth Magazine",
+    "summary": "Upcoming Pharma Conference in India 2026: Key Event Shaping the Future of Pharma & Lifesciences Industry&nbsp;&nbsp;eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHlGbHVKUU1nLUthRHlJN2czdEtabnZwSlFlLVF0YkZyLUVWb1lQcFBuUTFibW1SX0hONmNUM3JsSkJpdDRVVmNmbmpVdXE4ODZPaGhsc1NYY2h3YXFxZEVCVWg1RGVwc0JuVjdCX3hxcXU3Zm1rTk5Fc2xPSzFVdlNrQnJWY3oyNmJ0UnlQeURtVGQ4Y1hZRWtaUnBEOS1QaWhYdWxjS0JLS2xhaXZxNjNlRU1hS091Q1BvSy1EWHM3OEJ0a3NKdll0dDdpUGxoR0JpaExfdmdCZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 22:26:03 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926068+00:00"
+  },
+  {
+    "id": "5565c8e2e530",
+    "title": "Industrial AI in Pharma Manufacturing: Why India’s Generics Industry is Entering a New Phase of Complexity",
+    "source": "ARC Advisory",
+    "summary": "Industrial AI in Pharma Manufacturing: Why India’s Generics Industry is Entering a New Phase of Complexity&nbsp;&nbsp;ARC Advisory",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2t1cF9pY1J4ejVxWkM1a3FpTWNPajEyYmM5c21mV3VaTUpCOUNDcU82ZVQxdnphaWR3TGl2dlNDZnFOUU8wcE9tNnAyVFpSNlEtVXdCSHlXMF96SEI2UWlfaGhUQ1dlaW1pWDNFTGtMdVJuRUpWakVQUVpueGNseno0MGNjYzV4enNPalNWV0l6Z3c1WmhXNGdxdjZZR1VVNmdfQll6RnlXS2VhRjV2YVhKZU40M0NuTFpMM1J3?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 12:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926095+00:00"
+  },
+  {
+    "id": "7d2ca8f3e585",
+    "title": "How the West Asia War could impact India’s pharma sector?",
+    "source": "The Hindu",
+    "summary": "How the West Asia War could impact India’s pharma sector?&nbsp;&nbsp;The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUJ6bnhsNGw1cDdMZEF0SVFFRXJSN19LdVpIdmg5U25sNl9ZLU85d2xJRTlLT1A5WlpoQWtpVXB0b1ZJUjFFbGktMWE3T1dqZjl1NTR5Q0dNR0hIYnlGaXhKRkdjdVRPUmVTTnFHY0NPYlBxWDZzbk9EVGxXc2dadndXc3BBc0dvdlVVVnhMT2t3TU1fUl95cDFzRDktRFUzOE9fSGxsYW1YSHfSAbIBQVVfeXFMUDZBWGJqeXB6RmRPQmktVFV0bmEwV1pYT3ZULW0wZGFsLUdHYkp6RzlMcGFiamNhZktna0dwbUV4aXBGTW12ZV9DR05SOHNORzdTVUlTTHlfWUVCMG13M29wOFVVSzhGS1RvajNqaDZtYUNrY1BYNnNjYkNVRVR0X2M0eXhZVDFtVTFQUXhhdnByU3B3TVZYMzVLX2xDLWVRdzF4T0M0Y2RqTS1BdG5oS0xUQQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 13:02:10 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926114+00:00"
+  },
+  {
+    "id": "d7f30ca22d3a",
+    "title": "IPM growth at 10.5% marks 5-qtr high on steady pricing, volume recovery",
+    "source": "Business Standard",
+    "summary": "IPM growth at 10.5% marks 5-qtr high on steady pricing, volume recovery&nbsp;&nbsp;Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0trWjhKU1hwSng2ZHRIeWo4ZGhWUmpjSER6N0lQN0JQemd3UUlfdUF6MlUwc19VaEdUT2hNWE5lMGo0TFVHb3dBbTBSenZGSHB5cFdGMkNxbk03SmxURlZOck84ZWJXWllJMFVYb0dtbHNSa0lDcG1GVU52VnhQaEx4MlQ1ZnRTSWVQSTRkMVRGamI4UkNmbUh0NndrTG9tbDBYUndaTXBKd2kzZGdSZGxfbDNWX0I4YUg4TGNKTXVuN1FiM0NfZWRFVzJDVHBIX3VR0gHYAUFVX3lxTE5FdTBOMEVxS292NkpSLUpBYzdtU2VtZG52eEtTVVNad3RMSUo2Q2NwMXhTQ2VybVk2c1pvTUNvNEN5cDRUV21BNVFTM2V5TmwzQm8yRlpPc29HT09oejA3ck5hT1k4WmZyRnVqcDRaRUQ1cDFwb1FNTUVwb0RmRUZfOGQ3OENWU2RkVW5YUEFqMW96LUZiM3NhWVlGRVhHM2wtcHppYXo4eUg3SW5Rb0w1TEdQNFJyeHZqNm9OZnNpalZNV192OGRkOGFTaExLNTF4Zi02SDIwdg?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 09:09:23 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926130+00:00"
+  },
+  {
+    "id": "64df24543aba",
+    "title": "Patent expiries ahead, is India Pharma Inc ready?",
+    "source": "Express Pharma",
+    "summary": "Patent expiries ahead, is India Pharma Inc ready?&nbsp;&nbsp;Express Pharma",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzRTdmh4U18zeW1wWl9wbHY2NVQ5NkUtUVB3TTR3T3NnVXBOeGRCQ3BwT2lxcnBUXzB1RlhlSFB2bWpvQXR3ZGc2X2V5ZXFrc2RtNFdmQ3JubEFhenR3X2haVG1TNnhRN1BoeGRtcS1qcF9QUmFfMm8yMm1fSWdWTXRFONIBiAFBVV95cUxPWURNb3J5OFFLM3VuU09HcnRRZTlCQi1mMXo4WHNPRjJIV0drZ0pKUk15QzBvUl9TWVpUc0k0UVdaMWpTNGl5R0ZJYks2VHQ5c0FBaU8zUUdmTHd2NEZvaUpfZXk3aElPME80VjlRQXNJQTUyZUNBUGVwdVF2bS1YVUhMWndvMjc2?oc=5",
+    "image": "",
+    "published_at": "Fri, 03 Apr 2026 09:02:55 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926144+00:00"
+  },
+  {
+    "id": "e1fa8e88710e",
+    "title": "India pharma exports ~$30b; CRDMOs & GCCs fuel innovation | EY - India",
+    "source": "EY",
+    "summary": "India pharma exports ~$30b; CRDMOs & GCCs fuel innovation | EY - India&nbsp;&nbsp;EY",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObFJma1JkNGFDSXMxQU5UZUs0TlFrVmNYZ1FqdXNKTlM3ckJGVGdoZ21mQ2wzTGdYclRKWnZEUkFuejhSd3NQUnZEUG95WG1GZktKeVA1OXJybHcxQVRrUm1HY0ZpaDBPcDdoMmJpOVNlSm5Ka1lDZUVXYzVvV3BvNWJmOWtmbUkxSzh3bnZoZEZtRHh2SVVWVWItdVRUbmJXRDZPMG02MlM1VlNaZzJHc1pSS3I0SE9lQjVySHFUc1R6SFZoT2tlQUU0MFJDbllhQXBBcmtob0p2c0dwRjZHYlY2cEhRdWowN21yRjNteXl1UTItSnVNZThKOEtDZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Nov 2025 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926159+00:00"
+  },
+  {
+    "id": "f2fcab80484e",
+    "title": "India pharma’s growth markets",
+    "source": "McKinsey & Company",
+    "summary": "India pharma’s growth markets&nbsp;&nbsp;McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0Jtb1lhOUFCR1BQbzVmcDA1TVlHWWNMNUQ2QWpBUTl2bFQ5RkVpUnFJbmh2VHdyWjEtR1VHem9Pb3BEbXRlaENzYWRoNlpjRU90b3ptUDBwUXpteVJYWTE0Z3lhY2dpNVVCLThxdUpIWlJFbTVxWFc4T2RnS0ZCQThPMXdIeThIdGdOY0ZuSQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 10 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926173+00:00"
+  },
+  {
+    "id": "d75868359a18",
+    "title": "Indian pharma sector faces supply risk amid West Asia conflict despite duty waiver",
+    "source": "The Economic Times",
+    "summary": "Indian pharma sector faces supply risk amid West Asia conflict despite duty waiver&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWV9jWVE4ek1ZdURHRC1CRXQ5X1llWHFQNjNnZGZMdmpFNGhVTkVWQ056czJFYjU1cHdOb2NCZUppRVl2UkZFMVFKdjFXczJYZ1ZBSGR2Y3h6QkVEV2c1T2JmakY1alc2SVg1MmE2bU55X0xZWjFtVWpYNnppZ2xyMWNTSV9wcDNUSWdTaGxMWkR5OG9hTkJYMVQ2VmVBYnM1RU5kZFB5S3hDd2gycnNoU0l4c1pzaHcwTEI1RGhJblJ0VTFEaVRZa04xUWEwckNla0ZRaEpmOTNQSlpiZzJuc0UwTm1pVi1iSTRTX0Y0MFR2X2tYYUZRVGR0WldGZ1Y1QndnWDRWLWEwYXpZ0gGSAkFVX3lxTFBIR01xd19Vd0Q0SHM0MFlFeUNzcnRZamM5em1KYkRxVU4yYWFoVi1Fdl9lTjFzUlcxekJhRkUxV1VwN1dydC1ZQXo1NzBsdHFfc0ZqNl9NejU1WnNoQU5SVzZvdWtmQ0tpa1hsSDVtR2U4YWhTZTlpQmd4bFctQU1Ra0I1aDdqOE1VbktTVERaU2xhTkpOMTZZZWdXR0hvTHZ3aDlDUG1RR2ltMG9FelVxb2tFc0FsZ1pOa1JDU3BTT20xRVZqek1BM3NtTFR6cWtEZ2ZOS3M0aXNBZEZTdWRDS1ZNTFJJWm1kR1hOUmlFME9FeVdIcHJLaFBybF91UnAwcmdkbHN6b1VjUHBxbkNyV0E?oc=5",
+    "image": "",
+    "published_at": "Thu, 02 Apr 2026 17:36:51 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926189+00:00"
+  },
+  {
+    "id": "c1a4344db159",
+    "title": "US and India Forge AI, Pharma Alliance to Strengthen Supply Chains",
+    "source": "Whalesbook",
+    "summary": "US and India Forge AI, Pharma Alliance to Strengthen Supply Chains&nbsp;&nbsp;Whalesbook",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjlsVlROc09nYkJ1dnpIemdNcGo3aTg4VWpQcWdqSjlPZTJaX3dZcjBkdFhpTjcxTE5DNnVqdDdpYUdWN3dTWFcwZEhNSkF6c0F1bjJuSE94b0JVSXhzZHNYOEo0X0VxdTRBa1FDTWg0U0liVDlYWExRWnBKNER5RGJvcW1fZ3VGcjhPeE9udEJ0dERGaUJJRVJBMHFuSWNHb3JkeU9LSmhfVU1XWnpUN3l6Y2dQSTZERlN3YVZ0RzJyYjVTbzUwUjNsTHBkalU4dlgwNzdvRHF2WjFtXzVycmtoZw?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Apr 2026 03:01:35 GMT",
+    "fetched_at": "2026-04-08T11:07:30.926203+00:00"
   },
   {
     "id": "f14fcd4c6803",
@@ -70,16 +310,6 @@
     "fetched_at": "2026-04-08T09:13:07.071405+00:00"
   },
   {
-    "id": "9581eb99f0d0",
-    "title": "High-fat diet speeds up breast cancer growth, study shows",
-    "source": "India Today",
-    "summary": "High-fat diet speeds up breast cancer growth, study shows&nbsp;&nbsp;India TodayPrinceton Researchers Identify New Links Between High-Fat Diets and Aggressive Breast Cancer&nbsp;&nbsp;Medical DialoguesLab grown tumor samples (IMAGE)&nbsp;&nbsp;EurekAlert!High-fat diets could lead to aggressive breas",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5RZUdJOXQzUnZRSUc0bUNzU25UczRTWFk0OWJPTFlna3BwRzNoWGdWUmF1eVdPR3k0SGVHYlA5QTFxWXBmUXA0a20zQ2YxaXRNNzV4ZmtCWmpQb1l2MjhtT3RvY1FDYlhOeWs1VHZSR2VIZVFMaDBiTTh1NW1oQ2FEQklOQy1lTFo4eXF6RDNCalZuVlZ1eHdQcm1lbFJValh6ZTBlVzN1c3dFQTlsN1hBUlMxdDN0Rkc5SUxUVHVOd9IBxwFBVV95cUxQUGtEczItM19GTjkyY2RCXzBjckwxWkR0OW83SzV4Zl9rY3BINUdiM2c5Um9JSDhyOWc5alZBZDlIWlpyZDdMX28yTFhtbHNHelVScHZkakQxZDF2ZWM4TW9SaHVQTUgya0tjMHRGa185a1VsOHhXdHJPNnZJaDBvaEdiQXRpRGF0Q3N0c2RhWHNITlRya25UV1VWS1Vza2xMa1dVZG1wa28wM0pCTzRZQlJqcUYxeFVsQVUzOW9WRlE1bjZiME80?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Apr 2026 08:46:59 GMT",
-    "fetched_at": "2026-04-08T09:13:07.071435+00:00"
-  },
-  {
     "id": "e1de0df3bdd5",
     "title": "How Everyday Diet Choices Impact Women’s Energy, Immunity and Long-Term Wellness",
     "source": "expressnews.asia",
@@ -98,176 +328,6 @@
     "image": "",
     "published_at": "Tue, 07 Apr 2026 16:58:46 GMT",
     "fetched_at": "2026-04-08T09:13:07.071470+00:00"
-  },
-  {
-    "id": "06d3b27812d0",
-    "title": "India’s healthcare sector records cumulative deal value of over INR 10,000 crore in Q2 FY26: EY Parthenon Report",
-    "source": "EY",
-    "summary": "India’s healthcare sector records cumulative deal value of over INR 10,000 crore in Q2 FY26: EY Parthenon Report&nbsp;&nbsp;EY",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMklnUjVTSFNJUFFOVjk2eUkweUFRZkM5ODhDS2hRSkVSOU51Smg1M2JCLS1NZ1VMUWZpaEtlTWY0VGhpR3BsQ20xZlFQNEtoZ2poZFIxdHRwVkdIWmRvaEJESkFkQTlsWjEwSGhUaEZNMmRHZHhRaWd2akdHSjMwNmU5em1TVEhRRmwxdnJYXzZjU0R5SHNnYk1XVkRkN0VZVkhFemJYa3pxSXVmekhGSExEWDNpRUNNNVUwYWVLRENETm1BcXhIODh4TUhxZ3F6amFjN3BCd3lEckpGUUlKRWRnakNzNUstd3c?oc=5",
-    "image": "",
-    "published_at": "Thu, 15 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675186+00:00"
-  },
-  {
-    "id": "73d76961b37a",
-    "title": "Government Initiatives Boosting the Healthcare Industry in India",
-    "source": "IBEF",
-    "summary": "Government Initiatives Boosting the Healthcare Industry in India&nbsp;&nbsp;IBEF",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0pBVmcyNVZBNVU3YnFLNXZCOE1iNjlvalQ3Z2dpSFNMX3lpX08yYWVDTTNfc2dUN1M2YVV0OFZYenhKWXBoeG1XcmwzT3B6MUxPaXptR25rS3VXOE5pVG9sSWJKTHJ0UWVTQk12TnlxTGprblJtalFPOTVUR2tNRmUtVFZTd3VmUkxoN0kyalp3VlBtM1E?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675216+00:00"
-  },
-  {
-    "id": "a91c26059ac8",
-    "title": "India’s healthcare, pharma sectors to witness 30–35% hiring uptick",
-    "source": "Medical Buyer",
-    "summary": "India’s healthcare, pharma sectors to witness 30–35% hiring uptick&nbsp;&nbsp;Medical Buyer",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWdnVWdTMC1BQmJVaWtPbnBrSmVNb3hHWndSV0gxMnhpemVOTUM3STVWR0tjWUFIdmROUWVLYzUwZVBiVmdoR2hwRVN6TUdCVXEzdEJGeE5BR0tGTnFsc19ETXJqMmRpUHhvbm9wNkltM1ZUblJjV0FER01wZkNwWGNEV0xteEFwNGw4TWh0N1JmWVlDX1E?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 12:07:05 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675236+00:00"
-  },
-  {
-    "id": "a8f649fbec87",
-    "title": "Size of healthcare market in India FY 2024-2029, by sector",
-    "source": "Statista",
-    "summary": "Size of healthcare market in India FY 2024-2029, by sector&nbsp;&nbsp;Statista",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3B2cEd5WC0xcWRMTjdIcGpHLXdUYzZRM1pJeTZtX19Jd1RJdTQtem5NNURRYnlJREw5WVZWQWhCWnNrTTgyei1aRkVkaXBYLVg2a2RPNDNPQ0JVMkU3eTFWLWNEMThMcHk4ZnlCOEEtY0JPQmU0clE5enJFcTNjbFd2blgydnNvTFYw?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675251+00:00"
-  },
-  {
-    "id": "4f3ffc3284f4",
-    "title": "India’s healthcare sector seeing a fundamental digital transformation: Report",
-    "source": "The Times of India",
-    "summary": "India’s healthcare sector seeing a fundamental digital transformation: Report&nbsp;&nbsp;The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON1RsT3R6WU9hbWhyQjNib3pkVnZTbUJIT0xSbUNnOFVPMUNJQVYyUUc2Z1FFSW1xRktFaVhXdzdDWTdWemljajdGMUNsSkN0WHNrMU56ZFVuQlNwZldFZG5uWEVKczNxTkp0SEMwVFpqMHI1LUd0NmVaSHhpNFIzQi1PLWpZblktcjUyQTdfeS1maWdQdnJ5bTg0TU1sbjBjTTl6S2VUZHhOa2lMWUxZcGNWMWFScFFyS0NNTW4taU1jOTFpdnFUS1FKVWJISXp6VmxUQ0ZKWkM1VTZaZXdtNDRzZnRUb0NFN2kzN2JxeS1LUTDSAfgBQVVfeXFMTUhMZUFwamJDY051a3pYSWN5MUJaQjM0aHZoNUwyNVNyRkhRd0ZLbVp1UHh2TG8zRng5eF9yRFBqc3VrMnZNRHJ4c015cm5TR3UweG1LbEFmcWdrdEdRWTEzNjVtREJKWmltcHlNYlZ3bmxrOXgxZERHSl9MYndKTHZ2OERYR2JBS3V0QTRsZEttWWgxT202eHF4aEU4N0lUV0c5dG43TTg5YjR5SnEtdDREaW9lTkRudWNfaVFPUTcwRVFOX01xODZkS0FqS2NFX212b2N0cjRyT0lXbmxnRVhiOG5TODJtc2tJek9PQk1Gd2tXMkROYkI?oc=5",
-    "image": "",
-    "published_at": "Tue, 10 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675270+00:00"
-  },
-  {
-    "id": "694377044cc1",
-    "title": "Roadmap: Transforming Indian healthcare, one specialty at a time",
-    "source": "Bessemer Venture Partners",
-    "summary": "Roadmap: Transforming Indian healthcare, one specialty at a time&nbsp;&nbsp;Bessemer Venture Partners",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3BFcWpKV1NvYmVVZG5ISElpWFg2anN5aHl0UV83ZXpRTkRKajNoNjQ4UE8zVGpITHVYeFp5dDhHWmpuUFl6blpVekhjWkZuYU1iZDh0eHhLVGRNSmsyTzctczN6OHhEV0Q0Wjhub2d0WE1iQ1Y1bU5GYTFCakdwMTBVTklLVzlxV1BvclhvVGdCZw?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675285+00:00"
-  },
-  {
-    "id": "44f64ed7f2ad",
-    "title": "India's Pharma Opportunity: Expanding Global Reach In A Changing Healthcare Landscape",
-    "source": "NDTV",
-    "summary": "India's Pharma Opportunity: Expanding Global Reach In A Changing Healthcare Landscape&nbsp;&nbsp;NDTV",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWsyN0FfVXlPcGJyXzJ3azZXR3B1ZnMwdEFYd09sVjFOMDlyVUFvZnlrSER3MDhZbjE0Ni1VajhfaEJvUl9lNmdnWkhYSVFlNVJZaTVBZUxNWkJMamZOZUx3VzNNQ2tlRmRkZDZUNERXUHpmWEhXUWNNVGZ2ZzlBTmZLQkZLQ2t5M2VLOTVwVzJaaFdYWjc0dU1uaUFNVGRKQzVpWVB0TjJqRHF5VkNWLW9hYkVfM1I5ODBqM9IBxAFBVV95cUxOckpKeFlRUDJvQ0QxN1YxMWgzVmpnd3QwdjJfbF96QmVzaHlybkREUDRsbjNGSG9pOE1ZSVhSVUw0UXdhalRyd2VoSUF3cUlicnZqYnhnYzZCRld0QmdFeUtVZ09IVjdQby1SbnBWV05jNlZfc3dmRUs5RGFfWlpWSk9MLW1UYVRmY2pJMHdFeEV3VENhdElsUkYwWV9PUjRSZXNmdDZpWm5iMnVJM0xMcEJfbkdnWUxjX2YwcjNnYnhNSTlu?oc=5",
-    "image": "",
-    "published_at": "Sat, 04 Apr 2026 07:42:10 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675300+00:00"
-  },
-  {
-    "id": "1b344efb093d",
-    "title": "India healthcare, pharma sectors to create 2-2.5 million jobs by 2030, says consultancy Adecco",
-    "source": "Fortune India",
-    "summary": "India healthcare, pharma sectors to create 2-2.5 million jobs by 2030, says consultancy Adecco&nbsp;&nbsp;Fortune India",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRU90bm1sWFhsQWh4d190TVdoMnlweUtrcDRzckNIQUNrYy1yMVZPM3J1NjZXU0g5VDlIa2JFN2hCUVpWb2sxRktYa054M0FibENjU1B1Y0lYRUZsVXM4b0hEWDJVUkxETS1wdW5UQjl6cEQwTHpSU2cyUFd5cVJaTXZzM0dyUV9ueU5XLV9fZ1VXU21PSFZtTWRSSjlmWDBfWTlKell4eGtxNTI2aE9NaVpLUU5FWVNpQ2NuU2NhY2FlVG82Q0ZXdG0xVTU4RFJadXRfZWN4VETSAeYBQVVfeXFMT3FpdDBJVmZHX3NmZHEtQXNYeGdIYXFvUkt2TmJ4Ynllc0VmSG5sTl83dHlzLWVqaF9vMkh1SFg0aGhWSG5HUDFyZ3VHczQ0bzRXVjBRU2IxMGRta0xvaXJZUmhQMHN5YzYtMnMxdXhEMnJtcHFOaWxJWElFMDByQ1BpbXpRZkJoNW9rWVVsM0d5T0QwelpJMmJEVFBrQlhMTGJmc2hXT0xWSG1yNjRUb0lnYXJHc1pDRTVJN1dORy1RNkRsNzNqTG5SX0t2b1JhUXIwX3ZDWmtGdmNLRlRVSVNfb2E4TGc?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 09:40:30 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675332+00:00"
-  },
-  {
-    "id": "7d8ffc4a8f9d",
-    "title": "India’s transformation of the hospital sector: Looking back in 2025 and a route to the USD 200 billion healthcare market",
-    "source": "expresshealthcare.in",
-    "summary": "India’s transformation of the hospital sector: Looking back in 2025 and a route to the USD 200 billion healthcare market&nbsp;&nbsp;expresshealthcare.in",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMnVwSUtKLXdMNlI1RnQ0WHdFSWZLXzZKcEN6N213TVNKM215OTN1OUdwdXpMVTc0cnVwWnZ2aW1scThrSFIyLWVtSl8tQ050ZDNYMEd4Z3pHUHAzUHFlbWpRbzVrS2pXbFN5Q2pWOV9Wb3FzMzdyc2puR2JpNzZLLUJDSmNKTVJpR1N0cTVkVktzaHIwS1NoSEpWdlhVNFhtMHMxbjVybjVTMEEyZUoyVUdwem9pNXlldnhudnJUbmpQSFF5QTlubW8wZWFYdU10ejg3THNHUlpvdTk2SWhJVDNBNkFCek5TVW83aGFsZjFuTTF1eHQ40gH8AUFVX3lxTFB3SE5tYUJ0U0dsRWRoUjd4U1Q4UXFuM3ZHNzVTVndYT1hZQWl5UzBMbFc3Wi1LaFBoSHpZNTZ3WF84d0hJQ0JHM1pTWHdCNzlYU2VmUURCNVNBY0xpSWtsQzdBbWZ2UnJCeGNjR1BNcXMzVFNOeXd2cWpLRUdUaHBHYkptZE04MHVBOEhaMERHZEFCV2FPOEtXMEN4bUJKb0d0V0YtbzdNRkNBaXZJLVhWRkU2XzlPU3Zyc1luQ2Z1VGhaekdRMjZMMUMxbW5FLS1kVWxGM1dfTlFyZ0VPU2dnbzJVREdldGg0T054ZmZOb2cwZUdwNHFRVnpIeA?oc=5",
-    "image": "",
-    "published_at": "Wed, 31 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675358+00:00"
-  },
-  {
-    "id": "e0829bf490a9",
-    "title": "India’s healthcare set to top $1.5 trillion by 2030, but gaps in access and rising disease burden persist",
-    "source": "The New Indian Express",
-    "summary": "India’s healthcare set to top $1.5 trillion by 2030, but gaps in access and rising disease burden persist&nbsp;&nbsp;The New Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd1NUVEJyNHJFT1BKeWJpWGdFQlJCbk0tVXlsMll2SEZHZmcySFVtdWpBa1pwR1pIVFFoZEVvNmdxRlhMbWUzOXAwOW85bW9ZV09qRnNLSlRjblhRUXRILV81TFk2ZkVLaUthS0diWjRDU2w1MEhtam9va1lIeUNQakFKOWhsdVdHa1dWRjhvVU9NMWttSGs2aE9kcTJ6U3pxRTBzUFJJa2NXeWc2OVFzRUdTYU9fX0tHQ1R4NEFKSjZFRTY4bHZoOTlVRDNiUHAtdEVrVFo0WDNtUXlOMjN6OGdvX294alRj0gH2AUFVX3lxTE5FaW9YQzBGaDZLTmFjd2djZktGSmxBTm1IajM2YkViZ1gxaWxsVDgwanF6ODlMdEJTeDdZWVZoNUNDVnpqOVBweFBDTDVYMmR4QzY3OURjMzhZeXA0YnBUYUh1aHJILXMtTmk1eTlCd2JpbGM3TWFYdERWOWdGVjhGQVNmel9HOF85eEd2QmtBREUtNWRvWThDc0xwbWRUZGJkUnhQZE5ZdUhpcFNyME4tX3g5bnJsS25VcDh2MUc0SWhTVHE4T3FRWjFNYjFPWFBMUUlQX0ZrV183ejNJNzNIcEI4VkN3dU0xNTN0ZHF1LWF3cEgyQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Oct 2025 07:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:07.675380+00:00"
-  },
-  {
-    "id": "5565c8e2e530",
-    "title": "Industrial AI in Pharma Manufacturing: Why India’s Generics Industry is Entering a New Phase of Complexity",
-    "source": "ARC Advisory",
-    "summary": "Industrial AI in Pharma Manufacturing: Why India’s Generics Industry is Entering a New Phase of Complexity&nbsp;&nbsp;ARC Advisory",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2t1cF9pY1J4ejVxWkM1a3FpTWNPajEyYmM5c21mV3VaTUpCOUNDcU82ZVQxdnphaWR3TGl2dlNDZnFOUU8wcE9tNnAyVFpSNlEtVXdCSHlXMF96SEI2UWlfaGhUQ1dlaW1pWDNFTGtMdVJuRUpWakVQUVpueGNseno0MGNjYzV4enNPalNWV0l6Z3c1WmhXNGdxdjZZR1VVNmdfQll6RnlXS2VhRjV2YVhKZU40M0NuTFpMM1J3?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 12:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627369+00:00"
-  },
-  {
-    "id": "1851a24234ec",
-    "title": "Upcoming Pharma Conference in India 2026: Key Event Shaping the Future of Pharma & Lifesciences Industry",
-    "source": "eHealth Magazine",
-    "summary": "Upcoming Pharma Conference in India 2026: Key Event Shaping the Future of Pharma & Lifesciences Industry&nbsp;&nbsp;eHealth Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHlGbHVKUU1nLUthRHlJN2czdEtabnZwSlFlLVF0YkZyLUVWb1lQcFBuUTFibW1SX0hONmNUM3JsSkJpdDRVVmNmbmpVdXE4ODZPaGhsc1NYY2h3YXFxZEVCVWg1RGVwc0JuVjdCX3hxcXU3Zm1rTk5Fc2xPSzFVdlNrQnJWY3oyNmJ0UnlQeURtVGQ4Y1hZRWtaUnBEOS1QaWhYdWxjS0JLS2xhaXZxNjNlRU1hS091Q1BvSy1EWHM3OEJ0a3NKdll0dDdpUGxoR0JpaExfdmdCZw?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 22:26:03 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627391+00:00"
-  },
-  {
-    "id": "7d2ca8f3e585",
-    "title": "How the West Asia War could impact India’s pharma sector?",
-    "source": "The Hindu",
-    "summary": "How the West Asia War could impact India’s pharma sector?&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUJ6bnhsNGw1cDdMZEF0SVFFRXJSN19LdVpIdmg5U25sNl9ZLU85d2xJRTlLT1A5WlpoQWtpVXB0b1ZJUjFFbGktMWE3T1dqZjl1NTR5Q0dNR0hIYnlGaXhKRkdjdVRPUmVTTnFHY0NPYlBxWDZzbk9EVGxXc2dadndXc3BBc0dvdlVVVnhMT2t3TU1fUl95cDFzRDktRFUzOE9fSGxsYW1YSHfSAbIBQVVfeXFMUDZBWGJqeXB6RmRPQmktVFV0bmEwV1pYT3ZULW0wZGFsLUdHYkp6RzlMcGFiamNhZktna0dwbUV4aXBGTW12ZV9DR05SOHNORzdTVUlTTHlfWUVCMG13M29wOFVVSzhGS1RvajNqaDZtYUNrY1BYNnNjYkNVRVR0X2M0eXhZVDFtVTFQUXhhdnByU3B3TVZYMzVLX2xDLWVRdzF4T0M0Y2RqTS1BdG5oS0xUQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 13:02:10 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627410+00:00"
-  },
-  {
-    "id": "e1fa8e88710e",
-    "title": "India pharma exports ~$30b; CRDMOs & GCCs fuel innovation | EY - India",
-    "source": "EY",
-    "summary": "India pharma exports ~$30b; CRDMOs & GCCs fuel innovation | EY - India&nbsp;&nbsp;EY",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObFJma1JkNGFDSXMxQU5UZUs0TlFrVmNYZ1FqdXNKTlM3ckJGVGdoZ21mQ2wzTGdYclRKWnZEUkFuejhSd3NQUnZEUG95WG1GZktKeVA1OXJybHcxQVRrUm1HY0ZpaDBPcDdoMmJpOVNlSm5Ka1lDZUVXYzVvV3BvNWJmOWtmbUkxSzh3bnZoZEZtRHh2SVVWVWItdVRUbmJXRDZPMG02MlM1VlNaZzJHc1pSS3I0SE9lQjVySHFUc1R6SFZoT2tlQUU0MFJDbllhQXBBcmtob0p2c0dwRjZHYlY2cEhRdWowN21yRjNteXl1UTItSnVNZThKOEtDZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Nov 2025 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627427+00:00"
-  },
-  {
-    "id": "f2fcab80484e",
-    "title": "India pharma’s growth markets",
-    "source": "McKinsey & Company",
-    "summary": "India pharma’s growth markets&nbsp;&nbsp;McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0Jtb1lhOUFCR1BQbzVmcDA1TVlHWWNMNUQ2QWpBUTl2bFQ5RkVpUnFJbmh2VHdyWjEtR1VHem9Pb3BEbXRlaENzYWRoNlpjRU90b3ptUDBwUXpteVJYWTE0Z3lhY2dpNVVCLThxdUpIWlJFbTVxWFc4T2RnS0ZCQThPMXdIeThIdGdOY0ZuSQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 10 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627442+00:00"
-  },
-  {
-    "id": "c1a4344db159",
-    "title": "US and India Forge AI, Pharma Alliance to Strengthen Supply Chains",
-    "source": "Whalesbook",
-    "summary": "US and India Forge AI, Pharma Alliance to Strengthen Supply Chains&nbsp;&nbsp;Whalesbook",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjlsVlROc09nYkJ1dnpIemdNcGo3aTg4VWpQcWdqSjlPZTJaX3dZcjBkdFhpTjcxTE5DNnVqdDdpYUdWN3dTWFcwZEhNSkF6c0F1bjJuSE94b0JVSXhzZHNYOEo0X0VxdTRBa1FDTWg0U0liVDlYWExRWnBKNER5RGJvcW1fZ3VGcjhPeE9udEJ0dERGaUJJRVJBMHFuSWNHb3JkeU9LSmhfVU1XWnpUN3l6Y2dQSTZERlN3YVZ0RzJyYjVTbzUwUjNsTHBkalU4dlgwNzdvRHF2WjFtXzVycmtoZw?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Apr 2026 03:01:35 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627457+00:00"
-  },
-  {
-    "id": "d75868359a18",
-    "title": "Indian pharma sector faces supply risk amid West Asia conflict despite duty waiver",
-    "source": "The Economic Times",
-    "summary": "Indian pharma sector faces supply risk amid West Asia conflict despite duty waiver&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWV9jWVE4ek1ZdURHRC1CRXQ5X1llWHFQNjNnZGZMdmpFNGhVTkVWQ056czJFYjU1cHdOb2NCZUppRVl2UkZFMVFKdjFXczJYZ1ZBSGR2Y3h6QkVEV2c1T2JmakY1alc2SVg1MmE2bU55X0xZWjFtVWpYNnppZ2xyMWNTSV9wcDNUSWdTaGxMWkR5OG9hTkJYMVQ2VmVBYnM1RU5kZFB5S3hDd2gycnNoU0l4c1pzaHcwTEI1RGhJblJ0VTFEaVRZa04xUWEwckNla0ZRaEpmOTNQSlpiZzJuc0UwTm1pVi1iSTRTX0Y0MFR2X2tYYUZRVGR0WldGZ1Y1QndnWDRWLWEwYXpZ0gGSAkFVX3lxTFBIR01xd19Vd0Q0SHM0MFlFeUNzcnRZamM5em1KYkRxVU4yYWFoVi1Fdl9lTjFzUlcxekJhRkUxV1VwN1dydC1ZQXo1NzBsdHFfc0ZqNl9NejU1WnNoQU5SVzZvdWtmQ0tpa1hsSDVtR2U4YWhTZTlpQmd4bFctQU1Ra0I1aDdqOE1VbktTVERaU2xhTkpOMTZZZWdXR0hvTHZ3aDlDUG1RR2ltMG9FelVxb2tFc0FsZ1pOa1JDU3BTT20xRVZqek1BM3NtTFR6cWtEZ2ZOS3M0aXNBZEZTdWRDS1ZNTFJJWm1kR1hOUmlFME9FeVdIcHJLaFBybF91UnAwcmdkbHN6b1VjUHBxbkNyV0E?oc=5",
-    "image": "",
-    "published_at": "Thu, 02 Apr 2026 17:36:51 GMT",
-    "fetched_at": "2026-04-08T09:13:08.627476+00:00"
   },
   {
     "id": "89c77f3e1229",
@@ -340,16 +400,6 @@
     "fetched_at": "2026-04-08T05:51:37.633933+00:00"
   },
   {
-    "id": "d7edfe1e4fcc",
-    "title": "Cardiologist with 20 years of experience shares 3 things women need to know about heart attacks: ‘No. 1 cause of death…’ | Health",
-    "source": "Hindustan Times",
-    "summary": "Cardiologist with 20 years of experience shares 3 things women need to know about heart attacks: ‘No. 1 cause of death…’ | Health&nbsp;&nbsp;Hindustan TimesDelays in diagnosis of women’s cardiological issues in the spotlight on World Health Day&nbsp;&nbsp;The Times of IndiaEarly Signs of Heart Disea",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZ3NhWjRjd3NWT25CcDJTYWFKYURUMzI2TlhNZ2pCWl9ZSlhvRnBtQ3hlT2JZNk1ncll4MW4yYjBHOWNpRFNMVy1NbjViYzBPREIzOWIybUkza1JPLVROdDBrV01XYXc3Tl9xeGVDb1FYamtFT0pTdGZxcjlVMFpZUDBPQy1Ed2ZuckpVZHRkeW1XQWQ3SjduTFNtcVhYV1ZBZ1RHb1FyMGRoUVg0UVZuSHNReGlXd204YjhQbExCQ2JZaHgyWXlza0pKbUliT051MmRXTVlpeE5qaDY4ZVFTSUlFYVNZcnktTHZaY1BrWWRkMmRLeno2dlBKcVEyeTh0X19fczFNOWQzU2NZNGczazBn0gGXAkFVX3lxTE5HWTIzZWlFRHZLZVplX2pNQXZqM1BpcUN5RnFBWWZobkZJdG9BVUVlT1JtMnNvbVdOb21JU3VCNE5kcVNOVDhJeDRzNHVMRTBjNUpoZmZCaTFWOXdGS1RKQXlNUWxhZDMtNXFxVzFPVDR1TzFwWWdsWHNSTHdCZ1dDOUEwQktzaENvVkk3NWIzZHQzeTlJQlg1VVlCcWhUbXNRdnN0Z21RU2pmY2t5MFRFMXVETmxES0lkQUZTZmp5cGhXME9PSHdfWXpkZ2RENWZGUUZQTDNhRFp2dnVfX2hHaUVyeENKYlZoNi1LaW83QU1UMFlFcGRZaG5ldU8ySmw0YjZPTDV2SFBHeW1zVUtOX3V3ZFozZw?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 06:03:38 GMT",
-    "fetched_at": "2026-04-08T05:51:37.634115+00:00"
-  },
-  {
     "id": "b8f0dd8d9b17",
     "title": "Nearly half of working population have prediabetes or diabetes: Apollo Hospitals’ report",
     "source": "BusinessLine",
@@ -378,16 +428,6 @@
     "image": "",
     "published_at": "Mon, 06 Apr 2026 14:26:18 GMT",
     "fetched_at": "2026-04-08T05:51:38.238075+00:00"
-  },
-  {
-    "id": "64df24543aba",
-    "title": "Patent expiries ahead, is India Pharma Inc ready?",
-    "source": "Express Pharma",
-    "summary": "Patent expiries ahead, is India Pharma Inc ready?&nbsp;&nbsp;Express Pharma",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzRTdmh4U18zeW1wWl9wbHY2NVQ5NkUtUVB3TTR3T3NnVXBOeGRCQ3BwT2lxcnBUXzB1RlhlSFB2bWpvQXR3ZGc2X2V5ZXFrc2RtNFdmQ3JubEFhenR3X2haVG1TNnhRN1BoeGRtcS1qcF9QUmFfMm8yMm1fSWdWTXRFONIBiAFBVV95cUxPWURNb3J5OFFLM3VuU09HcnRRZTlCQi1mMXo4WHNPRjJIV0drZ0pKUk15QzBvUl9TWVpUc0k0UVdaMWpTNGl5R0ZJYks2VHQ5c0FBaU8zUUdmTHd2NEZvaUpfZXk3aElPME80VjlRQXNJQTUyZUNBUGVwdVF2bS1YVUhMWndvMjc2?oc=5",
-    "image": "",
-    "published_at": "Fri, 03 Apr 2026 09:02:55 GMT",
-    "fetched_at": "2026-04-08T05:51:39.329567+00:00"
   },
   {
     "id": "ad90bfd0ed96",
@@ -458,45 +498,5 @@
     "image": "",
     "published_at": "Tue, 07 Apr 2026 15:22:14 GMT",
     "fetched_at": "2026-04-08T03:20:16.039382+00:00"
-  },
-  {
-    "id": "46a159a72da6",
-    "title": "Diet-Linked Metabolites May Influence Knee Osteoarthritis Risk",
-    "source": "European Medical Journal",
-    "summary": "Diet-Linked Metabolites May Influence Knee Osteoarthritis Risk&nbsp;&nbsp;European Medical Journal",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT3ljMkFOVEJVWmY2TjJsNFVVUGo5Z1VBd1pCNHAwT1IwZW92Qm5rVnZXS2xybXpCTW9RVWZ6enJWaTFrZnA5bHlBNDBpY29GYm9WRnhvSGd4RDdRSW9XcnJDcGl5X253bzhBZDdNVnRUSlBqNjF5Q1oybnVxZC1raTZkdGFXSEdVT3d6bjVtRnFHRnJsbnJEUHRrWW52dEduQzZCM1c5MFV3N2py?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 12:24:39 GMT",
-    "fetched_at": "2026-04-07T23:47:02.601692+00:00"
-  },
-  {
-    "id": "537929968400",
-    "title": "Higher BMI May Protect Against Cardiovascular Events in CKD",
-    "source": "European Medical Journal",
-    "summary": "Higher BMI May Protect Against Cardiovascular Events in CKD&nbsp;&nbsp;European Medical Journal",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2NnSkVqcEppckgzNXlwSnpzby1tb2RFYVhyZjlyWE5pUlhNeG5wR1V5YkNFdFM5TGZNX2pHUnZMdzBZbElncnFsZUIzMHNubHZCSU96VVBrbG5TaUYtQk4wcXFSR0EtNXNQUjFldEgxdXJ0SEJuVjAzSlkxUHBrU1p0Yk9waWlRcEM4bThVLTlMaHI5Y1B3RVluWDZFVGZZMkM0TlJn?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 14:05:09 GMT",
-    "fetched_at": "2026-04-07T23:47:02.601798+00:00"
-  },
-  {
-    "id": "dfade4e7afc7",
-    "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children",
-    "source": "The News Minute",
-    "summary": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children&nbsp;&nbsp;The News MinuteMeasles: Why Bangladesh is seeing a deadly spike in cases&nbsp;&nbsp;BBCBangladesh Measles Outbreak: Will It Affect Indian Border States? Tips To Keep Yourself Protected&nbsp;&nbsp;n",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0RUS1FsY3B0MDBHMW5rMWdZUE5STTNha1RoTkNxOHI4YkYzaHB4N0VLVDBELUZBcldYY0gyeGFyNm15Z3k1bVNUU0ROTzh1R1BWQThJcVFyU3Y5TUEybGJIVTRwLXV4ZkF1cHg5a1ZMS2RLbTdJMWZzcjRUaTBGUzdsNjVGYnUwaHMtdEQyZm1yclJhR2k0RTMwVm9SSk5FZ3ZmR1VtSG1tR1J6SzlZLWl5ajctdnlqUlRvSV9TUzhScTNl0gHSAUFVX3lxTE1ya1dsS203YXFTY0c4U0JLWlpDb3Foak1TVDZ2V1NLQmJpT2xTRjlqbHZSNGNjVXlWd1dhUWhGMm5yOHlKdzlvd1Jaejd4SGtOUFYyUEc5ei1pQmJ4ZVB5R1REc0xrM0RoUFB4ZjZ1NDVxa3NaelBrNjg4dU5nYUg1Q3p4aXVYeXpIUThValBZSXEzdGtJSlNXNFdyVHlsR25fZDNSRnF3dUxmUnlwQTIwR2lXNFVGOXpsWThfWnlnWDBXSTRRNi14SU5XOGdXNHVuQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 05:22:46 GMT",
-    "fetched_at": "2026-04-07T22:49:24.474918+00:00"
-  },
-  {
-    "id": "4b99df65d46f",
-    "title": "Universal Lp(a) Testing Gains Support for Improved Risk Stratification",
-    "source": "The Cardiology Advisor",
-    "summary": "Universal Lp(a) Testing Gains Support for Improved Risk Stratification&nbsp;&nbsp;The Cardiology AdvisorMost heart attacks don’t come out of nowhere. A new tool shows why&nbsp;&nbsp;The Times of IndiaUS Cardiologists Have Just Published New Guidelines For Managing Cholesterol&nbsp;&nbsp;ScienceAlert",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRW92RVJaUURsanBIdE9ZeGt4TmtHbFhLTHNObWJzcE8wc3JqaHN3aE8zbDBzZmU0Z011RVlaM2RkbkdrQkxOaFRCa2VGM2IyU3pLYU1RNXI4N0sxUlVLcFNPNDlKMnVoaFJ2ZkxuYkwwSFdXMUVaN1IwX0pYZExqOQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 06 Apr 2026 04:00:00 GMT",
-    "fetched_at": "2026-04-07T22:49:24.474979+00:00"
   }
 ]
