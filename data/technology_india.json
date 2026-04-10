@@ -1,35 +1,5 @@
 [
   {
-    "id": "fc4b26ff53ae",
-    "title": "FBI Pulled Deleted Signal Messages From An iPhone Without Breaking Encryption",
-    "source": "Forbes",
-    "summary": "FBI Pulled Deleted Signal Messages From An iPhone Without Breaking Encryption&nbsp;&nbsp;ForbesFBI Extracts Suspect’s Deleted Signal Messages Saved in iPhone Notification Database&nbsp;&nbsp;404 MediaFBI recovers deleted chats from messaging app using iPhone notification data: What it means for user",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFRsQUd2MXNvUUdBQTJucElOTUthQXhaTFhBTzVQYUViS3VybjVOUXFDekJKbFpISUROZ1ZaVjhGUWhiaTRUUlgwTXNhSTM1U014X3JEbjJTR2RpbU93M2o2WXRyU1FHRk5JQ3JhWVBRaXV2M09FeTVoMW5NZndneXd6WXNjaFd6MGxFTUdSajZfdFAzYWFfNkRURmxJTTJ2SjdwazRyanVBOWpBaHZKb1RtVmh1WFpYMTVlOHRQT3VoWVNRSENNZQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 13:00:07 GMT",
-    "fetched_at": "2026-04-10T13:27:15.394870+00:00"
-  },
-  {
-    "id": "2835c5365778",
-    "title": "Google Gemini's new Notebooks feature lets you sync chats, files, and research with NotebookLM: Here’s ho",
-    "source": "The Times of India",
-    "summary": "Google Gemini's new Notebooks feature lets you sync chats, files, and research with NotebookLM: Here’s ho&nbsp;&nbsp;The Times of IndiaTry notebooks in Gemini to easily keep track of projects&nbsp;&nbsp;blog.googleGoogle expands Gemini capabilities with notebook integration for better productivity&n",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOOEZrMkg4eTJ3Qjg3M0YzbWFXbmxtblZYS0hUWDMtS2RwZFlld1ExLTM3Yld4VW0xMzlzT2xCdENYZnE4aEU3V3dVeVhhNmlyeF9zanJXQUdpUWltRC1jQnBWUUlqbDNQZVNSQ0Z4NjdCM1V0eVkwd3RnSTkxVXdSY21ramlNbzc0ZDg3ZEFXNXhCUEc0ajZaRnl4LWVaNUJtcmZFVHZYRFJGem9YZ2FwZzBPTHlGS2ttcXNkWnhISWNzMldFWmNEZ0FxZ29MenZZRzFBSDh1XzZidUtod1pzemloNm8ybHp6Qzl3TFhPRm8wNC1fa3NmVU4yQUxZMElVQ1pOeXYweEgtbjU1enpCeGR4YTVhYkdWX0h4cW5n0gGjAkFVX3lxTE1jeFZzb2RtR0tXa2lhY3VncDZXSnhPblM2ZjhZMUV1aUZuYmh3OTZkWXBUdnVhLVlfdlVEbUFYdDJkd3p6cFE3OWFzNXF6cmV2Q01MSXg2dDR1cTNEamVwcUtiWXljaXViNE9tVmtMQXN6b0lBSmwyZFl5ejNfaDlFZjRDaG9EWXFqRVQxaUhyenBJcFNEZk5qZ1dYSGdOQWx6SDRtRHpNZndacGRidjhqRmZZN0pONTRPeVBFb2dmQWw1elBsamtuRWpqb2x6N0sxOF9MZVJmWUc1S3dhNTgxOXhnQl90QWpQclJPcllDZUVnYUh0Umg3MEViTnN3Z2RPdUFmOXMyZUpVSWh2eUFhVldJTGlGV2FNSEl2NHVweEh1bw?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Apr 2026 07:56:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.394927+00:00"
-  },
-  {
-    "id": "2136d2074404",
-    "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
-    "source": "The Verge",
-    "summary": "Microsoft starts removing Copilot buttons from Windows 11 apps&nbsp;&nbsp;The VergeMicrosoft begins removing Copilot from Windows 11, starting with Notepad, Snipping Tool, but not entirely&nbsp;&nbsp;Windows Latest\"The same playbook we’ve come to expect from Microsoft\": The company behind Firefox is",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEd3R2otbXRQUVVHUFBnOXhqWFh0UG14YXFxbHZMb1h6SXYwcjJRazNQRHVCNHh0clU2RVphOE9mRlVEVEtPd0plSWpYREJ5blpHZVA2RVo0ZWg1YlEyblZ1am8tOTlTb2lYMEY1bk5WQ1c5bEQ5dkdSV2Z1UXdYQlFjMzgxaE1kVnc?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 09:22:06 GMT",
-    "fetched_at": "2026-04-10T13:27:15.394970+00:00"
-  },
-  {
     "id": "9982364ac080",
     "title": "Chrome 148 Beta for Android adds Web Serial, SharedWorker support",
     "source": "Notebookcheck",
@@ -37,7 +7,27 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3pTUzY1anFWNFkxYUhBMDlBMzdQR2YtSmRMOTN2QTEwR3ZMdDdybFc1dnI1bWlpOWxwUlJfZlJKX0loU3UtYzRHZ0ZvdFlOZFg5bDJGRkh0YlE5cV82eDhVWHV3ZjVneE9hX004MEI3d3B6ZDN5SkRBV1ozbkI2MEVaQUZ5elpCQ1RhU3d2bGptTHpGWlEtVk9yekxpR2lBMG05Zi03QjIwV1JjR2c?oc=5",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 07:12:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.394996+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430509+00:00"
+  },
+  {
+    "id": "cd24b30cfc1e",
+    "title": "Spotify finally lets you turn off all video content on the platform",
+    "source": "Android Police",
+    "summary": "Spotify finally lets you turn off all video content on the platform&nbsp;&nbsp;Android PoliceSpotify Introduces New Video Controls for Listeners&nbsp;&nbsp;SpotifySpotify reinforces its audio-first identity with new video controls&nbsp;&nbsp;eMarketerSpotify will let you easily turn off video conten",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzR3lnRTV5T0UtbW9hbTdBTXdKdXdMVURWVS1jX2FieF9PTkpyQzRwd3hlYzI5dXd6VU9SQWNvWHF1Rkh1RDBxS0ZCVGtVbUwxeUlGTjdWNmlKTjF3RmdGWmtjU2dBcUl5OElwNG95QVBmdXBKbV9yVHpaQQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Apr 2026 14:44:33 GMT",
+    "fetched_at": "2026-04-10T14:56:31.430557+00:00"
+  },
+  {
+    "id": "8eeb99c24f31",
+    "title": "Google expands Gemini capabilities with notebook integration for better productivity",
+    "source": "Telangana Today",
+    "summary": "Google expands Gemini capabilities with notebook integration for better productivity&nbsp;&nbsp;Telangana TodayTry notebooks in Gemini to easily keep track of projects&nbsp;&nbsp;blog.googleGoogle Gemini's new Notebooks feature lets you sync chats, files, and research with NotebookLM: Here’s how it ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVUzN0Y2OXdWblV3WTN2QlhrUWQybjVnVU1VSmZmOHFpYzJUeHZIaFo0d053UnllTGZTRXFsWXI2RXY5YmZucFFTaWktRUo0T21YODNlWDN6dzE2NW9QZjJkdEpaeS1VYnlCY2FsN0FfT3BQYi1VZlh1MkVZcEZselhQdFJYYzJ6dEpUeWtPQWtPYVZET1pZb1U1Vm5wTl90NnFxV1plNWh5LUR5NTZPbQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 11:24:44 GMT",
+    "fetched_at": "2026-04-10T14:56:31.430604+00:00"
   },
   {
     "id": "a944528a8226",
@@ -47,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVk0Nno1Vlh0aFVVN2NqbElrNGoyOFE1X3YwWDJvNzRyekFReGpuN21JRnFTSFMzRUkyNlZMZG14VXRPUlVicUNtZkRpLWN6VHUwYkVxTjdraGY1SHdYUjh0V09wZjZGNkNONThRb0s0VENvMktTQTFpUHpPa0VmOC1IWlRPaDdVUzZtUnl3dVlKYUFTVEVsSTBTOFh5b2VkTlNZ?oc=5",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 13:22:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395032+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430644+00:00"
   },
   {
     "id": "74f0942e2f6e",
@@ -57,17 +47,27 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkxLR1FXTmpMN3hCUWtCRFcwTHVFUnlCZ1RPc2g0Y3dRekk0QU4tc1B2YjZ6TGFXblo0WE50aWpuVHhQRThjTENSdnZSMkM2TlpNSExQb0ZfTncxcDVsa2NKUUhnbDF2cm1qb0dfRU0yNVM1U0NQS19BeUlBX1BBMHQzMGZLMHRt?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 11:33:36 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395061+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430676+00:00"
   },
   {
     "id": "15e1a6d2ac0e",
     "title": "Google Pixel 11 may get Samsung's latest display tech before Apple iPhones",
     "source": "Business Standard",
-    "summary": "Google Pixel 11 may get Samsung's latest display tech before Apple iPhones&nbsp;&nbsp;Business StandardGoogle Pixel 11, iPhone 18 Pro, Apple’s Foldable Will Reportedly Feature OLED Panel Supplied By Samsung&nbsp;&nbsp;Gadgets 360Google Pixel 11: Big Leaks Reveal Tensor G6, Design Changes & Launch Ti",
+    "summary": "Google Pixel 11 may get Samsung's latest display tech before Apple iPhones&nbsp;&nbsp;Business StandardGoogle Pixel 11, iPhone 18 Pro, Apple’s Foldable Will Reportedly Feature OLED Panel Supplied By Samsung&nbsp;&nbsp;Gadgets 360Google Pixel 11 Pro may launch soon globally: From India price to specs",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk5zX0h1b1JObDJIdHZKbTFSbkRnSG5Td183YURSNi00ZjhXUDRtMTd4enVXUHdKUERLUW93bDdyRmppVDRHTXlCWDNnRDQtaGRpa0tzTGgtSnFGSWlUUmVGU1JEb3ZLdHFfZ1pZaHFlZFRSUVV1UFFVc2o2Sldpd3VGVXAtYVJEM1laZW9jZHExZmVBY3pZRHptZmlFR1ppTDZEQ0JYOGRYQlplS3UzYW5kQjVJcGY3dnBlcNIBwgFBVV95cUxNS1hJUlVNd3FuRUhfOGZUWm1SMnVoMEVJYVFoRWxZazZHdnlXb0Q3R1E4alVwTFY0RHZieGdjVjdwRVlXRHIteGhlVUtJVDJ5MTJxTXozWEt6amJuZzMwU3ZjRU82bzdwV2U4STdrXzRJOG9uMVZ3VzZlZDFmS0tSaGduM0ZhcHVwYzUtV0xuc2U4Y0hpRjlvbGNaTVpmbWdOT3JXZThhc3NiaGdHZ3cwYWFOYVNPWmFycTZpQWhuV3FsZw?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 10:49:34 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395114+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430731+00:00"
+  },
+  {
+    "id": "2e8b4b1fa41e",
+    "title": "Scientists Develop a New Metal Implant That Supports Healing While Slowly Degrading",
+    "source": "EIN Presswire",
+    "summary": "Scientists Develop a New Metal Implant That Supports Healing While Slowly Degrading&nbsp;&nbsp;EIN Presswire",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeThJXzBaLWN3UjlmbS10THpWVm1Ra0pteUh1VG9WZjQzU2lnS3NlSXBNMVpFaXU5YjFVMTNJdThtbTZqSHdqbGQtZDQ3anBPeWlFYXhVWDlIcm45dFBoS1BUZHh5SEhKN2NDcUw3c01MV3hfTEVqVnlsclg4OGJwMnZlUmg2dGh5bkpVMkh0R1l1Y0JiSHMwOGdhZVpMbDNiWDZOZ0NaOTFtdFBVeHE1ai15MndIMUM4OTcwTUZ2OG9OSXBoTExWUG9n?oc=5",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 13:36:00 GMT",
+    "fetched_at": "2026-04-10T14:56:31.430746+00:00"
   },
   {
     "id": "210da25a980c",
@@ -77,7 +77,17 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRjhNM2ZGbjZObmhYZElTSGVTZlpQR1NBRjFtZ3d3SkQzYUtOa0VBNnUxcEczWFI3YmpyTkx2WFMwcUlKNVpya2gwWnR6eFdFUEJkWkNSWGRIY3gtcnY2eFc0Nm9WTGs1dDkyR2RrNklBQ2ctMGp4LTAwT2hDRHNWQ0hFVzNZS05HOURsUUZHSThmUjRIeEJQNzhLUzAwd3ZSajBJY21Od1JHMzBEN2s4ZlBaLVFOSU9SakRUOEtzQ2RTczRqUUo2NGNGZzVSWi1PdHYweld30gHjAUFVX3lxTE10dWlnMVpyYURiODVJajgzZEU0aGxWMmY1ZWs5VndMZlpFMW1ySkNmM0hDVURrZm1hTW5fVVVRY2lwMm45UzVQU29JM3BCWENIWVIzRldsM2RKQm1XNUxON3ZkbjhZc1M1ZERhcGhBSGlBWmthMnJFX1R4UU9aRXVhRmFkUkc2YTJGOVJtQUNMTUt0djVXMjdfdk03ZmpTMkh3cldzMHNfRWkyRXNfc0lMeHJqUUZaS084X0IzZFJWdUE1dkw4NmRGc1oyd0JQWlFNWHdoSmxrTUpJRVhmS081c1Nn?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 09:39:09 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395145+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430780+00:00"
+  },
+  {
+    "id": "695a28f41dc9",
+    "title": "It might look retro, but this portable tape player has one modern skill",
+    "source": "What Hi-Fi?",
+    "summary": "It might look retro, but this portable tape player has one modern skill&nbsp;&nbsp;What Hi-Fi?Retro-style cassette player offers much more than a walk down memory lane&nbsp;&nbsp;New AtlasGadhouse launches Miko portable cassette recorder&nbsp;&nbsp;Notebookcheck'That retro-tech feel': this new casse",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW5meTFZdU5ERVh1Yzh1dnRpNTI4Uzl6bmxEd1MtWXlWVnI1YkZfTk5HbUN0ZXBhMmNzZS1tblZjakdLRGROdG1NaGhscWd1ejNoYmNTOXJPLXBnbFhWTVZLVEZQSVRPd213ek1GMFdaa2t2bmNwVTRXcHRPQW4xcFJLSUkzTWE1UkQ3V3VUTjZ3N0pyWF90dm51dFVGbnJCTDJqam9sbU94UGN0QnhwUURyc1RIQmVHM29SRnFEdE9KeWl0bHBj?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Apr 2026 23:05:00 GMT",
+    "fetched_at": "2026-04-10T14:56:31.430812+00:00"
   },
   {
     "id": "2552ea36e6d4",
@@ -87,17 +97,17 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnNnMHRWMVJ6WXhONDRfMk44MVdaXzVsSmY5V0U4Qm0tWllNa1pXUzNVMWljUEdzc1p5Mm1lci1EMzZhcndyVE1lV245X3BCUHdkd08xRVpCV29iYmFRZFl5bUhpY3BoOGdwb2dpc1FMUFpLbThRcnFqR3EydXJ3Y2hYdWJ2RVQzLUVjN2tkaFRfTkFFVklzQlhxcXc3a3ZsY0HSAZ4BQVVfeXFMTmszb3BORmdvOGFpOGJRUW5KLWp0blhSU2FnbG9nRFB5YlEtdnpyMlpjTnJLc1dpQ0xPd1g5aDk5Rkc4SFlieGF4TFBuOHAxbGtaV3cxbnM1QVJZQmFHbGt6Ymhna192ck1SUGdjT3NEQV81bzNuWkhEUUIxSXoyS0h1Y1VVeTdsNkVwNGNQRUpaOENzcUlZQ3Fwa1lQd0E?oc=5",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 20:02:03 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395176+00:00"
+    "fetched_at": "2026-04-10T14:56:31.430845+00:00"
   },
   {
-    "id": "453736031c4d",
-    "title": "Samsung expands One UI 8.5 beta to more Galaxy devices, adds enhanced file-sharing features",
-    "source": "Telangana Today",
-    "summary": "Samsung expands One UI 8.5 beta to more Galaxy devices, adds enhanced file-sharing features&nbsp;&nbsp;Telangana TodaySecond One UI 8.5 beta update for Galaxy S25 FE is now live&nbsp;&nbsp;SamMobileGalaxy S26’s Photo Assist and Log Video upgrades coming to older Samsung phones&nbsp;&nbsp;Sammy FansT",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNME9qUmxfNDQxenJkMFhkZG4xVWVUWEl5XzREM2xYVDI2bTM5U3BuV25wOWpQeWtLWklsTFVCWEVRZmViVnU2MGljWDg1SjFWWVhNRmJaLXJpelZhNC1FLXhDWlNJRzdLanhmMWIzRFlKT1NnbWNmOVZ2RkJuYjFmdXlZQlpkcjJxbF9ObGJYU00zTjE1ZVRuYW5kSXdkb05PX1NnYlBTcVJFbGZaOTZtdGJUYVA1ZjBk?oc=5",
+    "id": "66cf34e9660f",
+    "title": "Govt Has Introduced a New Portal for Tech MSMEs to Access US Market",
+    "source": "Analytics India Magazine",
+    "summary": "Govt Has Introduced a New Portal for Tech MSMEs to Access US Market&nbsp;&nbsp;Analytics India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnhrcG5wbkFRaUdIQi10eFVIUDRuY0xvamhXQk45MUlDeHhDTG9jVTlTbmtYdmZ4NHZ3UjA4YURMcGhReHpZbldYT2dmVmRSYnFpNFg5NlF5UzJlWEI5cHMwSkJSY05jNmI4Wl91LVpsVVJEOWVDcUNUdDFNREZDVzR6NHNKX1YxTU9JeTA4MUpRSWRhajlrYXJqeEEyc1pjWDFnaEJlZVU?oc=5",
     "image": "",
-    "published_at": "Fri, 10 Apr 2026 11:24:35 GMT",
-    "fetched_at": "2026-04-10T13:27:15.395213+00:00"
+    "published_at": "Fri, 10 Apr 2026 11:00:26 GMT",
+    "fetched_at": "2026-04-10T14:56:31.933827+00:00"
   },
   {
     "id": "1252cfcf4cba",
@@ -107,7 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNal9TQ3ItdXVtUW4xZ2pXenJqSUl4YXQ2M3F5ZFpzbWFPVGhyVnhPejVIZEJVSkRIZ1lDa3VwbmNUMGxscFNmZkdlNzdtZEQ4RVB2LURFdWs5MVozc1lLWEhGNDRYaktzazQ5eUVlQk94UzBpR2pNTlpzRzJZRVd0X2VkRzFNM3ZNbXIwX3d2T3F4dGh0QTdBX2ZzSFNKRXB4RmJQUWV0cE9wZWV6TUVoeHJLQ2V4VmxKZ1Y0MDFkLU5IaFZrbU1ZYXN4cTQ2d9IB0wFBVV95cUxPTC1TMGVnY0kzZms4TXFxSFc5YURPbTc4dTZyUnRmLXAxX1RiWW9pM2dSZjl1cnl0T3lnbjRoSmZNVTFDX2VqeEk2Sy1fWUF5M2NXeEF0elJpMmRHbHR5THZsTGlGeWV3cmFlQWdMZzVNcU1DSVg5bXl4c0RVUWlENWROMjBybFhaMmJYbzRySUNLN3BBMFFnUldEcHB2YXBoeWlxWE12UTNFRzBqWkRZSjNZSnpITkVpNEdsWHZxYkRXVDgxYzlWaDBtLU9RNHpVQjAw?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 04:52:19 GMT",
-    "fetched_at": "2026-04-10T13:27:15.923956+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933861+00:00"
   },
   {
     "id": "746b6b3fedc0",
@@ -117,17 +127,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmU0ZjRELXZKLS1YZFlnOHZiTUsySjEwZ19KeEhITmxPa0JuZy11Rk01S2FWa3R4bGlJbTJ3SWplbHB6eFRKVkxJdnpsaktlSEJwc29uVmVrNjVfejJuMEN3WkF4ZEllTVdqT2todDRVRTdMMW5pVWFQOWNHTV9LVFNZaGd3QTFJbVk2WjBGazZ1NERDNlg3S1lZZy01R2xFTVFzS1lzWFhlTXF6OHpVNw?oc=5",
     "image": "",
     "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.923994+00:00"
-  },
-  {
-    "id": "8b4850d54ca1",
-    "title": "India Tech’s Next Innings: Signals, Shifts and Considerations | BCG",
-    "source": "Boston Consulting Group",
-    "summary": "India Tech’s Next Innings: Signals, Shifts and Considerations | BCG&nbsp;&nbsp;Boston Consulting Group",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjN4M3l5MG1jTHFoWngwTDFSd205MWNFenhpSURfUkQ2WEp4RENlQmo2YTB6ellzWWxZM05qbUltLThXV183Z3JmUThJNTlYRjB5ak9Sd25PSjRRWXVDVEdpeHNmNTM2R1llRDFYWnlnV1U3cWNndFBseXJKRkY0SGVKQkNLMm5yZTNwcXlST1ByZXphejBRdTk0TUI?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924015+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933885+00:00"
   },
   {
     "id": "678926c4cad5",
@@ -137,7 +137,7 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDNRNVRPVUhNTEhqbnpjREhTZ1FqRFUxUHlSZnQzR01PMDU0eWlIMXNEU2hTc3c2aTc0VDE0dDV6YkpOcmFfaHN5X0JUZ2twTmlCc2p2VXAyNW1hcGU4TWp2YXhBaG9rODZiUG96anFYNUxzTFdobkt6RHVXSUlPbEpXTlRxMWRlTjQ3N1VJZVlZWDloby1WV0NZVHhiTVVCWlcxcW9MY1kzeVlpeEJhYzRZaHFtaGNPdElQUQ?oc=5",
     "image": "",
     "published_at": "Fri, 03 Apr 2026 04:42:37 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924031+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933903+00:00"
   },
   {
     "id": "87b843c5e0c1",
@@ -147,17 +147,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWkRhSnZ2NFJ2MGl2YVZEbkJNbFl4bTRaMXZ6YWpZVFJoOURSTnhadmlTLTdfTEQ5VVI1a2ZPcHdQRGNyNTBReXFkRDE5UUlZWFV4X3RFZnlieTZFNG9VdEw0NzlhQkh1ZlUzWVBJRHpRQ09zOGo2YkJScGpiajRyNEUtTnMtYWQzM2ZNZDNNOW1kVmFpMG5CbmR5WE5SVXJGY1ZTZkNxZ3ZraFZyUFpkQQ?oc=5",
     "image": "",
     "published_at": "Mon, 23 Jun 2025 07:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924047+00:00"
-  },
-  {
-    "id": "c36a960cd00f",
-    "title": "Technology for life is our vision, target to make India No 1 in global auto sector in next 7 years: Minister Gadkari",
-    "source": "Tribune India",
-    "summary": "Technology for life is our vision, target to make India No 1 in global auto sector in next 7 years: Minister Gadkari&nbsp;&nbsp;Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRkhWM3gtdVZwUEpmREJsVkxFY2tPS1hBVnpqZ3VYWU9MTmFHQUxkbFdSanEwVEVlclVsVmRSem5DSzhCSGxqb2Z6bk1rUFpJeFpQN2tCZUdjQVBwZ003T2xmcXNHakxVRVdWZy1OcUFVblpUY09JTFg1UzhIT1BjdmYtd0xIVTRuVHBnSlBiVzQ0YXQ5WkVYWGFkNi05T2U2Sm5keXByeERoOEY1dVFkbTAtZXY3NU5nM1gwNTFtTDRRWkU5ZWxZWUNXc2RoYWI0STdhUFE5bzdWejZNTXc0V0ZDNDBYNjFpZklXa0xsYw?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Apr 2026 14:30:32 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924065+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933918+00:00"
   },
   {
     "id": "a643eb0789d6",
@@ -167,17 +157,17 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnVfaHF1a0NYUTJkMFRLbTZhMDFNQ1p6VTVHV2g5NlRkSGUtZjJTN3EtNWVuZlp4a2Yxa000VUFodXhwWjJ4X05YdTJoaV9sMzF3dEpCaXFCUWswNW1qQTBqM09IQmtxRVV0cm9aTGk4Z2kyeHJmMW5NUF9EWDNxTXRLemIyR2ZsamdVTjBjLUliNS01U2pGdFNGSnRmdEJNTXFRNg?oc=5",
     "image": "",
     "published_at": "Mon, 06 Apr 2026 02:34:48 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924091+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933933+00:00"
   },
   {
-    "id": "5ed946c61495",
-    "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
-    "source": "BBC",
-    "summary": "India's outsourcing industry is worth $300bn. Can it survive AI?&nbsp;&nbsp;BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTHVnbzFpczd5Wk84XzJjRGZmX1JYX2I4M09UeDFtLXpDVUZYTTBvXzl3akhHLUpHWDFqN2RDMTRTLS01bWtnTktlYUFxZ2x5VlMyblRFY0lydw?oc=5",
+    "id": "c36a960cd00f",
+    "title": "Technology for life is our vision, target to make India No 1 in global auto sector in next 7 years: Minister Gadkari",
+    "source": "Tribune India",
+    "summary": "Technology for life is our vision, target to make India No 1 in global auto sector in next 7 years: Minister Gadkari&nbsp;&nbsp;Tribune India",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRkhWM3gtdVZwUEpmREJsVkxFY2tPS1hBVnpqZ3VYWU9MTmFHQUxkbFdSanEwVEVlclVsVmRSem5DSzhCSGxqb2Z6bk1rUFpJeFpQN2tCZUdjQVBwZ003T2xmcXNHakxVRVdWZy1OcUFVblpUY09JTFg1UzhIT1BjdmYtd0xIVTRuVHBnSlBiVzQ0YXQ5WkVYWGFkNi05T2U2Sm5keXByeERoOEY1dVFkbTAtZXY3NU5nM1gwNTFtTDRRWkU5ZWxZWUNXc2RoYWI0STdhUFE5bzdWejZNTXc0V0ZDNDBYNjFpZklXa0xsYw?oc=5",
     "image": "",
-    "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924104+00:00"
+    "published_at": "Thu, 09 Apr 2026 14:30:32 GMT",
+    "fetched_at": "2026-04-10T14:56:31.933951+00:00"
   },
   {
     "id": "547980ef1119",
@@ -187,7 +177,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ3FWVEpKRlpVSldzcHEtYzVmZHNqTTdBOEtEUjRpd3pVb2lpMDRQS2g5ZWU5YVN6RDlLMl82MG5hcVltRGlnYlNvRzhDMkNORW4xWUR3aC04TXZmZnRtRWVNQ3BVYUx2eXFUaV9QZHhjR2xUX0J6RGZwN3pFZzFieUhYVlBVeTFxblBCaExhX3dMZFpBbk80RmY1WDBobzluWjVycGh3bk56U1pLOWJVUXZTVXZWaFdkR2NBdGZaWkV6TFNxVkZ6VGFVcURCeTY5N2NSRWgwV1I5cjlLZE9YNnRyelFDNWfSAe4BQVVfeXFMT2FoRTcwbXRuMjkzdWdpd2RaMGlvZFlfSEFuaXZpYWdpQUJxaFJoRzU5M1dYOXBpdHlCbVFiLTVRdV9NekxUaU5OM2VkZW9CUW5MRFhEVDVsQldXWDV6bDZiSDZORndGZ09HVWVHOElWbWNORUNpWVhvVmE2bHVWNDlQLWczazBwNmtvc0RSV05lVlcwSUdmU19hNEdwdVFnRzNoT2JxdmVoVmFkeGFwM0wtYnp5NHZlVWxZeW8wd1JPbTdJNGY5ZXAzSTYyMWI5ZTZkRzJ4cjFLUV9kUTNkNmRidVd0OFQ3SEVIOWFZZw?oc=5",
     "image": "",
     "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924119+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933967+00:00"
   },
   {
     "id": "11ac4811ae53",
@@ -197,7 +187,17 @@
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUjAzSmtUc01DX1U2eE1yTDVyWjdZS3JPcWhoVFQtSUFsRVc0U0RMa0hfUk5lT2hYWmlZdC01ZXB1Z1FjZGhKQkF1NEZFazUwcmhydTBucXYxNG0xRVotdWJTSDRLOTl6Y2k4RVFQR3ljZnRGTWFpZGF5NnJ1R2g2TlJJRWxuOHFkcWMyN2lqMmNwTXFkeWRZR0JaQUtHWGRFNlFlSTJfUWJzMk84SWFwQnVLQVl5THBMM1g5TGlTaVpQbkVPb3c5Z1NhRkVlUm1feEFDaXZqNlFuWkxpSm9mbVFJbUJfZ0FuYWVEOXVMUXlfZ0RNMWRkYjdKRTnSAYICQVVfeXFMTTlISjRLSWV4NUY3Rk4tM3RyckF3bWxIMTVpdkU2WTdaTTJEM3YyTGF2SUprQmdDSzRwLWtEeTVlaldydFB1b2I3Y1dTTWtTbHJlWEhwMkRwemhUNzhuWXFHYVlSOEEzdE1HNTQ2b1RfWXZsdE0wQmkzSlhpNHZsa2pfWDBycXlJNFJGV0lpZzhhU3hJaXpOUHpwLTllcExRLWYxRzgwS25FZ054NTc0UXpUbENkREpvNjU3eTJCTlh0dXFvNGJuWjdLYTJ4Vk5YSHozRTdWenJVa0R4THl1YXc3SHJmTmxranlRVUtaNk1hNTBNclpZSDUyQ1hCeWgwMnh3?oc=5",
     "image": "",
     "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:15.924140+00:00"
+    "fetched_at": "2026-04-10T14:56:31.933989+00:00"
+  },
+  {
+    "id": "7ca0c38a0607",
+    "title": "Trade deals, tariffs, and talent: Why India’s technology sector could be the big winner in 2026",
+    "source": "ET Edge Insights",
+    "summary": "Trade deals, tariffs, and talent: Why India’s technology sector could be the big winner in 2026&nbsp;&nbsp;ET Edge Insights",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNW5rd1Jscm5BdHBhMG9TN0prYWZsN01EQVZiRGlRVkRBTVJ3bjZiNTAxU3RidjBHLVJVYlhmeU5qeHgzOWdNQlp5ZkpuSVRWRmNXWVAtMEhBdS16aFR3VkRvWnp5SU4zclpRUlVxOU1VUzItMlJuT0ZZNDk1OUNwdkQwWVp0VjgyMUhtd3J4X0ZtZHhqN0h0eDlKODFIUzBLck96UU90YkNfUWZZQzhmY1VqUTh4ZFV1Mlk0ZFNISHY1d3NFWkg1TnpaVdIBywFBVV95cUxQNW5rd1Jscm5BdHBhMG9TN0prYWZsN01EQVZiRGlRVkRBTVJ3bjZiNTAxU3RidjBHLVJVYlhmeU5qeHgzOWdNQlp5ZkpuSVRWRmNXWVAtMEhBdS16aFR3VkRvWnp5SU4zclpRUlVxOU1VUzItMlJuT0ZZNDk1OUNwdkQwWVp0VjgyMUhtd3J4X0ZtZHhqN0h0eDlKODFIUzBLck96UU90YkNfUWZZQzhmY1VqUTh4ZFV1Mlk0ZFNISHY1d3NFWkg1TnpaVQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 15 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-10T14:56:31.934009+00:00"
   },
   {
     "id": "98cad0454f37",
@@ -207,7 +207,7 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1VIU1FzY3NrTkxaUWFiQjRmU0IyZHJ6T2d5dVlOdkZVQ0UtQURrSi1rcW5iTnBfOUVuNjYxY09mQlFDY3JoUlJzR2pmTVRpZmk5VzlqekZaOW13RXJjUGRDLTB6UUdIdTBEajBSS2ltRG1GbTAxRGdRMWM0RU0xZ1NMUkd1bHh5Q2hYa2FaUkFWNU94THh1TjBBNlp0QmItZ09YallNbGxUbDcybUYxdV9YZ2lrSUNuLUxiMFhSVjVmbVctQXRaeVdFUUYwQQ?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 09:52:45 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948399+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014453+00:00"
   },
   {
     "id": "b66587d8390d",
@@ -217,7 +217,17 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVRpVURtaDhtOGp1Ulg1VTllMy1RQTQwTm9iSmFITTlCUkVZN1BWVHhvdFFLOFJBTmJPaWxYMmdPYm9jVncxOWJoWUpMSVZtWGNZcG11bGM3UFIyekhFcGV4YnEwZVVrakh6ajZfbzFKbnIwZV9qV0IzcVNuaTFwY0dVcHN3TVQtQU51UFIxcnBFY0k?oc=5",
     "image": "",
     "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948436+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014490+00:00"
+  },
+  {
+    "id": "5ed946c61495",
+    "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
+    "source": "BBC",
+    "summary": "India's outsourcing industry is worth $300bn. Can it survive AI?&nbsp;&nbsp;BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTHVnbzFpczd5Wk84XzJjRGZmX1JYX2I4M09UeDFtLXpDVUZYTTBvXzl3akhHLUpHWDFqN2RDMTRTLS01bWtnTktlYUFxZ2x5VlMyblRFY0lydw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-04-10T14:56:33.014506+00:00"
   },
   {
     "id": "a88507f869a1",
@@ -227,17 +237,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHV1S090dUdkczk4RXZCN1hDbzFrYUpxdjBMRVJRazNFSFBHS05mVUJkSUVUbUtENFEtaW84anR5RlhUOVdBTDY1WEZraTZDUmg5Z3MzNjJCSHY0N0FzUlVubXZkcWJ5ZVZ1WjF6NElaMXhhZUE4TWJRX2dLQWNrMkQtRmMtY2tpZ3B5SjY0OUVhRkd6WUxDeDdhZHUxT3d4ZWVQRlBDaEZyb0FKS1E?oc=5",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 11:23:48 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948468+00:00"
-  },
-  {
-    "id": "5611e674a7f3",
-    "title": "Protect jobs, invest strategically amid global volatility: Shaktikanta Das to Indian companies",
-    "source": "The Indian Express",
-    "summary": "Protect jobs, invest strategically amid global volatility: Shaktikanta Das to Indian companies&nbsp;&nbsp;The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEs3LTYxMjBvWDhaelMzcHB6MHdZa3RfLWkxYXBzZmhlWXVqQ3k5QUFrYkN0RXI0UkVpNzd6TlVqV2QyakpKVW1ZNndwNVpGN3NxU0RLNGphdy1UWkVsNG5uUFdjazloblVNOG50OGhTUmlaNEpDbUlEMkR0ZWpXSGw2cUgxTk1yVEVyTVU4Qkl6V2N4akpieWFBeUxyUGtaTkRUNkNfUjBxR1RwOWxKbDF30gG4AUFVX3lxTE03SVpDODY5SGg2bm8temZPVGJlZW5XdDJ5QW5QMzhvNnRtUTlfS1RFemE3T2VGdnVlek9yeWRIRjVuQmVtSmt2bGhIVzZZQjFQNksxMTIwdkpPU204WjlnOFJGdFlSVjRWWjJyQ1NkalM2Zl83TkdVZDhNd0xtUGQycGdRUEkyNEtWY1g0bkZYVUptM2hId3l6ZWI1eXhNaTN6NW5ma0s4OHk2MWY1dDJXV1BvR3lXcGc?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Apr 2026 13:52:21 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948485+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014522+00:00"
   },
   {
     "id": "41cd98a002de",
@@ -247,7 +247,17 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1cXFtdGJKWGRqZGFmYnlrUktxaVkyM0I5V1VNM01MR0RBeFJDNUVfN1h4VERTNGRMeExBWE91WGl0Ym9VVnJaSXdfSFQ1a2JDQjdMRWJJUlVpdTAxYlB1eGVUU3hZVE44X1Rqb2pxbkY?oc=5",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 04:50:07 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948498+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014536+00:00"
+  },
+  {
+    "id": "5611e674a7f3",
+    "title": "Protect jobs, invest strategically amid global volatility: Shaktikanta Das to Indian companies",
+    "source": "The Indian Express",
+    "summary": "Protect jobs, invest strategically amid global volatility: Shaktikanta Das to Indian companies&nbsp;&nbsp;The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEs3LTYxMjBvWDhaelMzcHB6MHdZa3RfLWkxYXBzZmhlWXVqQ3k5QUFrYkN0RXI0UkVpNzd6TlVqV2QyakpKVW1ZNndwNVpGN3NxU0RLNGphdy1UWkVsNG5uUFdjazloblVNOG50OGhTUmlaNEpDbUlEMkR0ZWpXSGw2cUgxTk1yVEVyTVU4Qkl6V2N4akpieWFBeUxyUGtaTkRUNkNfUjBxR1RwOWxKbDF30gG4AUFVX3lxTE03SVpDODY5SGg2bm8temZPVGJlZW5XdDJ5QW5QMzhvNnRtUTlfS1RFemE3T2VGdnVlek9yeWRIRjVuQmVtSmt2bGhIVzZZQjFQNksxMTIwdkpPU204WjlnOFJGdFlSVjRWWjJyQ1NkalM2Zl83TkdVZDhNd0xtUGQycGdRUEkyNEtWY1g0bkZYVUptM2hId3l6ZWI1eXhNaTN6NW5ma0s4OHk2MWY1dDJXV1BvR3lXcGc?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Apr 2026 13:52:21 GMT",
+    "fetched_at": "2026-04-10T14:56:33.014553+00:00"
   },
   {
     "id": "49bfbf311121",
@@ -257,27 +267,17 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOTZfWlhvYW84SVNSSjZ0QmcwcEx1NGZjc05CbG5kQVY4eXlNQzBqbVR0S0czdV9rSjhEMWMzNklnY1h5UGxfRjZJazJqSDFfNTkxcTFJMUxLN2JnLTBBYmgtUnF1OVg4Wml2MWNNbWlsV3hQV3FoSkZ4bGROSWZwbzN3amVfTElkcVpCOThyMzQ0dmc3MDdTaFd2ZEdTN3ZXX094UExHcw?oc=5",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 05:09:14 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948514+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014570+00:00"
   },
   {
-    "id": "8ecbd616321e",
-    "title": "Skoda Auto Volkswagen India aims to top industry growth in FY27",
-    "source": "The Economic Times",
-    "summary": "Skoda Auto Volkswagen India aims to top industry growth in FY27&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcHRXMGJOYV9xUnpfX0FGMExnR0RoUjk0YnA0cE9fTlhKam80Z2tMTUVLN0Fja3lzLWJpZVdBdXFIa2ZESkxuM1o5T3FnYmlhLUxVaUVTUTdjcnNwdktTb3IwRHdxOEdLc1Z3T21FUXBMckNrOWlkaVFvZjZuNjI1cHA0cnFGV0tKVzdxVXZDaEI0anByaU03QjRrRmU1RENuQWtjMW1vdDNVOGh4cnJwelRpY1RWbVdQbHM0eGlfdlhWeEI1S0dTYmlMX183Z1ViWUk0d09YaFPSAd4BQVVfeXFMTXBNM3RxVm5OTDF6S2Q0aHBHb0RwdzFzeFBoRGFCT0V0REFQTXp0M2szcVpWVzgtUVVON3lSOU1NU3QzdFh2Sl95YW9EYjlvOFlEYURhem9wSG13ZjV0T1hpOU1QbVZQR0xpLXpid3h5YVF4SUZ6SmVTTXRvNVRXTW1sZnBnY0JPYU1FYzZ2VWd6dzkyZVc0UURKWi1nQ2dqcllhN2dpZnp3a3E3SkEydjZtQ19yS2g0d3dOUVg5S1RVRVZ6OW4xSXh3Z2xCWTZkTG4tZ0ZFb2pSR3Jvd3ZB?oc=5",
+    "id": "d145e5b25f88",
+    "title": "EU trade deal set to change India’s wine industry",
+    "source": "Financial Times",
+    "summary": "EU trade deal set to change India’s wine industry&nbsp;&nbsp;Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEhtMkdvczdpVy1wUDJpZnloNWMwelViVzdWSXhNZzJDS2R1bEJ0UE5qV2tQWnFEQTJEWGNWa2JrX2lrR3lMRzJZM2ZMcU5Jak5mX1JESmpZRVVhUzFyaVdTeWpzbzYyZjh6RWVFcUNNV3BUZmwtOWEtdllpNVFFV1hGX2w?oc=5",
     "image": "",
-    "published_at": "Thu, 09 Apr 2026 19:26:20 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948530+00:00"
-  },
-  {
-    "id": "5a7f70b2ab4e",
-    "title": "Indian tile industry shifts from volume to value-driven growth",
-    "source": "InteriorDaily",
-    "summary": "Indian tile industry shifts from volume to value-driven growth&nbsp;&nbsp;InteriorDaily",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHNienVUMzhadGhSX2c1N21rNy1jbzUwYXR1dWFzR1RzLWdCSjVWOFUzQ2hLZmd5SkpfbEt1TzhyUTVkeWU4bl9BMGVjM0RLSkNXVkR1Zk96LUg0eDNWSEJyZzlFd19JS2w1WFoyS1I0eWdNcUhxcjJTZkJDd3BTcVIzZmw4VnZqdTY2b2VFN1FHQ1pIckZvN3dfYXNnejVlclBfY2lwSHVLbTdnRUE?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 09:07:47 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948543+00:00"
+    "published_at": "Thu, 09 Apr 2026 23:01:04 GMT",
+    "fetched_at": "2026-04-10T14:56:33.014585+00:00"
   },
   {
     "id": "ed136059bdb8",
@@ -287,7 +287,17 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHBwVkc1eGdMWDFfSmhqUERmc20tTXM2bGFCdXFHRXh0b084Q3dneEZwNW9XMk92cFZVUDltbk5QMnozaFdEaWthU3R0QzMzcHEzUklxZTMyVFBaanZIamVUcmZKWTJMNFZ2a1JzN1B5TVZKcXR4TW9GQ2FSYUpETWljTngtaFlwczM5cENzNGtZLXV1eUtkd05vYWQtdjF6OGNRdUJpQzdtdktXb0HSAbMBQVVfeXFMUEViTl9hTWRtOGMxUUF4bnp0Z3hhS3phZFdNR3Uwb2dTam5keDZjbEUzWEc3YXJoLWpGem4zRHdCSEdLZEtadWtCRWs4Q0hpdFJZLU9QNG52bWx6QkU3aFlXa295dEFGdFZRWTA0OU5vYzh1UlVNaVRkMEtFa3kyN0Voa2ItR1VTdU1rcUxrN2xmcG84Ym5KYVJtYkluZDF5NUU0ckE3cHBRamhkNXNON2FtMGM?oc=5",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 00:06:00 GMT",
-    "fetched_at": "2026-04-10T13:27:16.948558+00:00"
+    "fetched_at": "2026-04-10T14:56:33.014602+00:00"
+  },
+  {
+    "id": "8e6bf39148aa",
+    "title": "AI drives Indian IT companies to cut US jobs",
+    "source": "ETHRWorld.com",
+    "summary": "AI drives Indian IT companies to cut US jobs&nbsp;&nbsp;ETHRWorld.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenlEa2Z6RkhjTWVkVWd3ZW11eVZicmpnc1oyNVBlcFdUc0tjMnRPOHJDYktlOVZoRHhPV3VubThGN3cybGMzS0RURV9zU0JvVElfU2NFc3BhQ1hLbnlQZUpyVklYNkxIdkdIdDRPaDluV0MyZXVueEVHNGJxWjhEay01c3VGak00d0xiOER5MnhxUnAxdlVVUi0wVHFhaHlGQS1YLWZCLW5VWWw4T3VGT9IBtgFBVV95cUxQeUVlV2E4Mk80V200bVBLblE5MW5ONDdkUEdNUUIzUG1DRG9hRC13VHQ5QVowaHFITTRDMkpBWVl6eHZnZGVKTGJJY0VNS1pDeWx3cnlNV3NqNWtYSGRFMVdHSmcwN05reHlMWlRGVzV3dndSRWt3NU9laTRTSTRmeTV2LXp0V2ZEQl9HTlIwbzRhZHJKY0dwZDFrRDFVOGVOZUpKdktQMTJnLUZmdDRxbWJ1T2RqZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Apr 2026 02:36:18 GMT",
+    "fetched_at": "2026-04-10T14:56:33.014615+00:00"
   },
   {
     "id": "d7d8540fff61",
@@ -297,7 +307,7 @@
     "url": "https://www.livemint.com/technology/tech-news/how-to-edit-your-comments-on-instagram-check-step-by-step-guide-11775807668485.html",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 18:31:50 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732517+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786580+00:00"
   },
   {
     "id": "d0337d00085d",
@@ -307,7 +317,7 @@
     "url": "https://www.livemint.com/technology/tech-news/openai-vs-anthropic-chatgpt-maker-tells-investors-it-has-a-compute-advantage-predicts-reason-behind-claude-mythos-dela-11775799056604.html",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 12:56:57 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732549+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786615+00:00"
   },
   {
     "id": "3e98204fafd3",
@@ -317,7 +327,7 @@
     "url": "https://www.livemint.com/technology/tech-news/the-biggest-consumer-fraud-telegram-ceo-claims-whatsapp-is-secretly-reading-your-private-messages-11775795110768.html",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 10:16:22 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732572+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786641+00:00"
   },
   {
     "id": "040ba03359e7",
@@ -327,7 +337,7 @@
     "url": "https://www.livemint.com/technology/tech-news/openai-takes-on-anthropic-overhauls-chatgpt-pro-subscription-with-new-ai-plan-heres-what-you-need-to-know-11775785708245.html",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 08:55:39 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732590+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786662+00:00"
   },
   {
     "id": "8e624166e8ee",
@@ -337,7 +347,7 @@
     "url": "https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapps-end-to-end-encryption-cant-be-trusted-mark-zuckerbergs-company-calls-it-absurd-11775782805747.html",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 07:11:20 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732610+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786683+00:00"
   },
   {
     "id": "2612c73fd32b",
@@ -347,7 +357,7 @@
     "url": "https://www.livemint.com/technology/indias-5g-consumers-will-reach-over-a-billion-by-2030-jyotiraditya-m-scindia-11775724421118.html",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 14:17:00 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732628+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786704+00:00"
   },
   {
     "id": "7c41d8968792",
@@ -357,7 +367,7 @@
     "url": "https://www.livemint.com/technology/tech-news/anthropic-project-glasswing-ai-cybersecurity-claude-mythos-11775710292475.html",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 11:21:26 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732647+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786753+00:00"
   },
   {
     "id": "999d0f2f2d1a",
@@ -367,7 +377,7 @@
     "url": "https://www.livemint.com/technology/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration-11775694715987.html",
     "image": "",
     "published_at": "Thu, 09 Apr 2026 06:01:55 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732659+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786768+00:00"
   },
   {
     "id": "a9a54ed87331",
@@ -377,7 +387,7 @@
     "url": "https://www.livemint.com/technology/meta-unveils-first-ai-model-from-costly-superintelligence-team-11775665071090.html",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 21:47:50 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732674+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786786+00:00"
   },
   {
     "id": "a48f722a7108",
@@ -387,7 +397,47 @@
     "url": "https://www.livemint.com/technology/tech-news/how-to-use-google-geminis-new-ai-shopping-features-in-india-check-step-by-step-guide-11775576244400.html",
     "image": "",
     "published_at": "Wed, 08 Apr 2026 17:19:54 +0530",
-    "fetched_at": "2026-04-10T13:27:21.732691+00:00"
+    "fetched_at": "2026-04-10T14:56:37.786805+00:00"
+  },
+  {
+    "id": "b9d9f9241fe2",
+    "title": "Rainmatter has invested over Rs 1,500 crore in 160+ startups: Nithin Kamath",
+    "source": "Economic Times",
+    "summary": "Kamath said that Zerodha has invested 10% of what it earns in startups and another 10% in social development through Rainmatter, and added that it is not in the business of quick exits.",
+    "url": "https://economictimes.indiatimes.com/tech/funding/rainmatter-has-invested-over-rs-1500-crore-in-160-startups-nithin-kamath/articleshow/130171862.cms",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 19:21:30 +0530",
+    "fetched_at": "2026-04-10T14:56:37.928047+00:00"
+  },
+  {
+    "id": "4e3fb30f9011",
+    "title": "Snap unit to use Qualcomm chips for upcoming AI smart glasses",
+    "source": "Economic Times",
+    "summary": "Snap's new Specs unit has struck a major deal with Qualcomm. Upcoming smart glasses will feature Qualcomm's Snapdragon XR processor platform. This partnership aims to boost Snap's presence in the competitive AI gadget market. The move comes as Snap faces pressure to cut costs and streamline operatio",
+    "url": "https://economictimes.indiatimes.com/tech/technology/snap-unit-to-use-qualcomm-chips-for-upcoming-ai-smart-glasses/articleshow/130171512.cms",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 19:15:38 +0530",
+    "fetched_at": "2026-04-10T14:56:37.928088+00:00"
+  },
+  {
+    "id": "dceb4bcb56fb",
+    "title": "TCS Q4 drags down IT stocks; Swiggy cofounder exits",
+    "source": "Economic Times",
+    "summary": "Shares of IT companies declined on Friday as TCS earnings failed to lift investor sentiment. This and more in today’s ETtech Top 5.",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/tcs-q4-drags-down-it-stocks-swiggy-cofounder-exits/articleshow/130171293.cms",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 19:13:46 +0530",
+    "fetched_at": "2026-04-10T14:56:37.928109+00:00"
+  },
+  {
+    "id": "9d5290762764",
+    "title": "AI chatbots offer children harm as if it were help, says activist",
+    "source": "Economic Times",
+    "summary": "AI chatbots present grave risks, especially to children, offering personalised harm. A watchdog warns that these systems can exploit a child's loneliest moments. Reports indicate many chatbots assist in planning violent acts. Experts urge new laws to regulate AI, noting the urgency before similar is",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chatbots-offer-children-harm-as-if-it-were-help-says-activist/articleshow/130170750.cms",
+    "image": "",
+    "published_at": "Fri, 10 Apr 2026 18:36:18 +0530",
+    "fetched_at": "2026-04-10T14:56:37.928133+00:00"
   },
   {
     "id": "fc225db44d80",
@@ -397,7 +447,7 @@
     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise/articleshow/130170631.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 18:30:41 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815826+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928154+00:00"
   },
   {
     "id": "125a129ec88f",
@@ -407,17 +457,17 @@
     "url": "https://economictimes.indiatimes.com/tech/startups/winzo-case-hc-warns-ed-of-costs-if-challenge-to-nandas-bail-is-unnecessary/articleshow/130170137.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 18:10:23 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815866+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928179+00:00"
   },
   {
     "id": "ea21f9e20930",
     "title": "Swiggy cofounder Nandan Reddy to leave company",
     "source": "Economic Times",
-    "summary": "The company added that cofounder and chief growth officer Phani Kishan and chief financial officer Rahul Bothra will join its board of directors.",
+    "summary": "Swiggy cofounder and head of innovation Nandan Reddy will step down from his role and vacate his board seat. Reddy, who cofounded Swiggy with Majety and Rahul Jaimini, is leaving to start his own venture. Jaimini exited the company in May 2020. Addepalli, who previously led Swiggy’s quick commerce v",
     "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-cofounder-nandan-reddy-to-leave-company/articleshow/130168747.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 17:12:47 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815882+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928204+00:00"
   },
   {
     "id": "e9ead8262099",
@@ -427,7 +477,7 @@
     "url": "https://economictimes.indiatimes.com/tech/startups/the-unconventional-logic-behind-spacexs-1-75-trillion-price-tag/articleshow/130167806.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 16:37:57 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815905+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928226+00:00"
   },
   {
     "id": "ca17710fdca8",
@@ -437,7 +487,7 @@
     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/articleshow/130167681.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 16:36:30 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815929+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928249+00:00"
   },
   {
     "id": "3f45f6a83afc",
@@ -447,56 +497,6 @@
     "url": "https://economictimes.indiatimes.com/tech/tech-bytes/chennai-finance-and-people-leaders-scour-for-opportunities-in-the-emerging-world/articleshow/130167174.cms",
     "image": "",
     "published_at": "Fri, 10 Apr 2026 16:27:38 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815940+00:00"
-  },
-  {
-    "id": "04d51f5c0372",
-    "title": "Big Tech puts financial heft behind next-gen nuclear power as AI demand surges",
-    "source": "Economic Times",
-    "summary": "Big Tech companies are injecting funds into new nuclear technologies. This is to power energy-hungry AI data centers. Firms like Meta, Amazon, and Google are partnering with modular reactor developers. These deals offer funding and revenue certainty. This boosts the advanced nuclear sector. It faces",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-puts-financial-heft-behind-next-gen-nuclear-power-as-ai-demand-surges/articleshow/130167443.cms",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 16:26:05 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815962+00:00"
-  },
-  {
-    "id": "5ea39afdd262",
-    "title": "How the AI boom derailed clean‑air efforts in one of America's most polluted cities",
-    "source": "Economic Times",
-    "summary": "America's push for cleaner air faces a new challenge. The growing demand for electricity from data centers is reviving coal-fired power plants. This shift is reversing environmental regulations and impacting communities with poor air quality. Activists are concerned about the long-term health effect",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-the-ai-boom-derailed-cleanair-efforts-in-one-of-americas-most-polluted-cities/articleshow/130166841.cms",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 16:21:26 +0530",
-    "fetched_at": "2026-04-10T13:27:21.815985+00:00"
-  },
-  {
-    "id": "30fc442c2a96",
-    "title": "Apple leads global smartphone shipments in first quarter, Counterpoint says",
-    "source": "Economic Times",
-    "summary": "According to a report by Counterpoint ​Research ​, iPhone-maker ​Apple led ​smartphone shipments in ‌the ⁠first quarter, ⁠growing ​5% year-on-year, ​even as overall ​global ⁠shipments remained ‌under ​pressure ​due ⁠to a shortage ​of memory ​components and weak consumer ‌sentiment.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/apple-leads-global-smartphone-shipments-in-first-quarter-counterpoint-says/articleshow/130164906.cms",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 14:36:49 +0530",
-    "fetched_at": "2026-04-10T13:27:21.816008+00:00"
-  },
-  {
-    "id": "8dd445fac250",
-    "title": "Buildit: Eternal CEO Albinder Dhindsa turns author, pens book on Blinkit’s journey",
-    "source": "Economic Times",
-    "summary": "Albinder Dhindsa, Eternal CEO and Blinkit cofounder, is launching his book Buildit, announced book publisher HarperCollins. The book, priced at Rs 599, offers insights into building Blinkit and startup decision-making. Dhindsa's book follows an earlier book, Unseen, on Zomato’s journey, written by M",
-    "url": "https://economictimes.indiatimes.com/tech/technology/buildit-eternal-ceo-albinder-dhindsa-turns-author-pens-book-on-blinkits-journey/articleshow/130164455.cms",
-    "image": "",
-    "published_at": "Fri, 10 Apr 2026 14:23:07 +0530",
-    "fetched_at": "2026-04-10T13:27:21.816033+00:00"
-  },
-  {
-    "id": "695a28f41dc9",
-    "title": "It might look retro, but this portable tape player has one modern skill",
-    "source": "What Hi-Fi?",
-    "summary": "It might look retro, but this portable tape player has one modern skill&nbsp;&nbsp;What Hi-Fi?Retro-style cassette player offers much more than a walk down memory lane&nbsp;&nbsp;New Atlas'80s Kids Rejoice - Cassette Tapes Are Actually Making A Comeback In 2026&nbsp;&nbsp;AOL.comGadhouse launches Mi",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW5meTFZdU5ERVh1Yzh1dnRpNTI4Uzl6bmxEd1MtWXlWVnI1YkZfTk5HbUN0ZXBhMmNzZS1tblZjakdLRGROdG1NaGhscWd1ejNoYmNTOXJPLXBnbFhWTVZLVEZQSVRPd213ek1GMFdaa2t2bmNwVTRXcHRPQW4xcFJLSUkzTWE1UkQ3V3VUTjZ3N0pyWF90dm51dFVGbnJCTDJqam9sbU94UGN0QnhwUURyc1RIQmVHM29SRnFEdE9KeWl0bHBj?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Apr 2026 23:05:00 GMT",
-    "fetched_at": "2026-04-10T11:54:19.527588+00:00"
+    "fetched_at": "2026-04-10T14:56:37.928260+00:00"
   }
 ]
