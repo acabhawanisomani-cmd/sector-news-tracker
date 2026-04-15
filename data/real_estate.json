@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFItTmNBWHQwNDhkQTVVdHplNHFObUhVcHo4M1JCRHJHQVI4dDVGR1FCS0ZsRnluVWlVLUs5U3hLZ3ZNWFdoNVAwd2JoS2x2YzRQMjRCQ3hfcUs5RktWbWZEMnEwYlNrQy01OVZwcWUwdHRZN1FFTkpOM2RaRzJNMVVDMk5CUGpuVU9MeFdoTURNMng0RVpncXZ5Y3p0NkI0OWc?oc=5",
     "image": "",
     "published_at": "Wed, 15 Apr 2026 17:18:39 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167774+00:00"
+    "fetched_at": "2026-04-15T22:54:45.148989+00:00"
   },
   {
     "id": "6bf92e569526",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWtXSU82bzVmZnVRaGx3YXpxeHpyWFFBSXNHMFRfa0pzbktlQ1VnVGZyczUzSUlWLXI0TmJJSzhFYWdBYWIzNUhZbEJjZFhhTXFFeWI5TzVldTdzTGxCVGNiMFhwVmQwQzU0aEctSXF0OFpvX2VIbmVrajdveWNBZm5HcWVYZm1LNFhRbXhjUUM2N2tZZ3VnNnJnMmtKQVZkYzV3Ym1tM2VWdHZUNWRiTmJ4cVEzQWJDM3c?oc=5",
     "image": "",
     "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167805+00:00"
+    "fetched_at": "2026-04-15T22:54:45.149024+00:00"
   },
   {
     "id": "670107582caf",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHR2U0k1Y19Rb0U0MFhxM2NjSmQ5cDNBUEc0TDNLOTl1SzY2YzM1bTlFMmJMTHZBbHFMWmZTczllbDZ1b0YxVXVTcFB2Z3VXU3VnSURrdVFnWWsyX0Q4c3lzSXptN3E4S2hCbnJMckRpQXBTT2EzTzN6V3F3emZhOTBrSkg3dVV0c3l0amQ1RHJybDRJTHVjX1JaS0VtVl9zZXlYaVhQbVljQUhQS1NWLQ?oc=5",
     "image": "",
     "published_at": "Wed, 15 Apr 2026 19:49:00 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167824+00:00"
+    "fetched_at": "2026-04-15T22:54:45.149044+00:00"
   },
   {
     "id": "012593262846",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1ZVa1c0NVJYbWEycVdGZHRtN1h5WnYxWFpodUZWYU4ycS0zY0R4SVg4bmxsQlhsRlc2a2RLTzA0Tms2dFdMOHJIdnVHOXdfS0lHR3pEM0h1bUZkdmhXOEtRalJPSlZOUllLVkU3NkpNdmJvRmtyR0ZFcDktUHg2aW5YNmVIWDNrVWVJUkhKd0s4Z2ZUaGhMVWF0QzNqQ2tGdmhPZG15THRnQQ?oc=5",
     "image": "",
     "published_at": "Wed, 15 Apr 2026 14:41:07 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167839+00:00"
+    "fetched_at": "2026-04-15T22:54:45.149060+00:00"
   },
   {
     "id": "cc3fe8c36bc3",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnUyazdvNlEtdnVJLVhMOEx3RUpMbWo2WWg5d0s0aXZsUkNvaHU1YVloNnN5em5TUFRSLVVpc0stSmh4bjVfRG9uYTNFWmx0X09vazlUanF6MGVOVDlhZ3VldURvX1BuQWpoTWFCTi0tbmlocXAtVTh3M0hpdzFac0JvWXQyWlZKekI2dnIwLTVDVWZfOGg2Smd3dnJJTktGR2RxS2xyb0IycENhNll0X3FmY19BYUlsLVE?oc=5",
     "image": "",
     "published_at": "Tue, 14 Apr 2026 19:04:00 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167853+00:00"
+    "fetched_at": "2026-04-15T22:54:45.149075+00:00"
   },
   {
     "id": "56d115ea3d05",
@@ -57,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0F6dzN1OW4yZWEyTnIzcXBoYlRSZVo5TFJtQU9LZGhWaHk5Nnk3UWVoUko0TV9aa3F6SDdGbVlmcUJxSDdZcEIzdUk5dE9vOWc2NFY3SGF6SHZ6eFhwTmdsQkZZODZXaUs0U3ZoUF83MFFhRmFtZXN5SVRTZDBtTWJSV2trTEFuR1NQM0t2YWJ5V1BTYTBObndlb2s3LUJmNjVZX1Nn?oc=5",
     "image": "",
     "published_at": "Wed, 15 Apr 2026 18:02:32 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167873+00:00"
+    "fetched_at": "2026-04-15T22:54:45.149095+00:00"
+  },
+  {
+    "id": "b4ca6c08c585",
+    "title": "NAR Existing-Home Sales Report Shows 3.6% Decrease in March",
+    "source": "National Association of REALTORS®",
+    "summary": "NAR Existing-Home Sales Report Shows 3.6% Decrease in March&nbsp;&nbsp;National Association of REALTORS®",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW84SFdUejJYYjAxdWFfcDZzS1pCR0QteWV3akZJRU03bGNGNWpkWWd0TmJMLU5pOFlrNVRGN21EOThXTUdOSlp0WnQweTRXVkNFdnlNaS03b1owUC1hVFNCa1gwZGwydnhYbTdWeHJyOExmYXVMUDVEQmh6YVh2dlJtdmRSWHd6MUxsUjc1RlpJTXpoV0E?oc=5",
+    "image": "",
+    "published_at": "Mon, 13 Apr 2026 14:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:45.149112+00:00"
+  },
+  {
+    "id": "68c030acd1fe",
+    "title": "Baby boomers dominate the market as first-time buyers hit record low",
+    "source": "Inman Real Estate News",
+    "summary": "Baby boomers dominate the market as first-time buyers hit record low&nbsp;&nbsp;Inman Real Estate News",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pVjR4eng2a2NYUHc2WUp2SlgtS3VfYlpLNkktRjk3Und2VGdJc2pid1drTng5d1ZmUFdXLXNyU0ZTQVV3UHNz?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Apr 2026 14:01:45 GMT",
+    "fetched_at": "2026-04-15T22:54:45.149128+00:00"
+  },
+  {
+    "id": "fbfff1d5cc6a",
+    "title": "Will the spring home-buying spree finally lift the logjam that’s been plaguing the market?",
+    "source": "WGBH",
+    "summary": "Will the spring home-buying spree finally lift the logjam that’s been plaguing the market?&nbsp;&nbsp;WGBH",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3hlUUFpZGpoWmpKVEdLOVBlZUhPeUdaX0hhSVJtOTk1MGVra1R3MlBkN0JHLUVEOHU0ZlJFcXhDa1VrUVd4R191M2Q5dy1iVVgzQVFtTGtHXzFLTV9rb0NfVjhuUV9xRFFTWERWNTZTcVZqMFBiU3FLUzhLQWVxOHpXYnRMNzNYYVNIVEpfdk9QRU9UUFN2VE5oZmtCUmdlSG5MRmdTYU9KczlQNy12ZlRGNTk0NTJlNzU0YnZydFAzalR3VTV2UV9iZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 14 Apr 2026 19:40:07 GMT",
+    "fetched_at": "2026-04-15T22:54:45.149146+00:00"
+  },
+  {
+    "id": "4a7d8ca6322f",
+    "title": "Spring's normally-busy housing market slows amid uncertainty",
+    "source": "marketplace.org",
+    "summary": "Spring's normally-busy housing market slows amid uncertainty&nbsp;&nbsp;marketplace.org",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWl6SU1ZaE1nQVNaQ1VjaUNIaC1RR1ItZ2hxUnozOUpOMlNuZ2ExT3hFZXRPNGpwa3BMYjg1dV9najUwWHhZUWFXX2JzN2Z4VElISHprUTh4OUNXQ21hdkltbTZXNFlvUEJyUjNrc0M5N2RPQzVzNVJaWWtDYkxnRUVQM0NmaFVPNEUtM0xrRDVTa1FzVUZvUg?oc=5",
+    "image": "",
+    "published_at": "Tue, 14 Apr 2026 13:46:41 GMT",
+    "fetched_at": "2026-04-15T22:54:45.149159+00:00"
+  },
+  {
+    "id": "06b77ae37f8c",
+    "title": "Trends To Watch: Residential Real Estate",
+    "source": "WilmingtonBiz",
+    "summary": "Trends To Watch: Residential Real Estate&nbsp;&nbsp;WilmingtonBiz",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlJ0LXJtT2x3eDRNZDhhUnRpS0M0VlcwVGxKdS1uc1ZBOTJDeXJvcFg4dE1KWXVtYm1EOG9vS1QzUlFLRlUzc1d3LW40dVFMWkFnTjFDaHRYUzRXQnVrSUFTckhRTG5BNlp2TGtISlhXMFRzenh1cExWNnlPOXdtUnliUGdZS0pJa3ZGN3pra29TNnNCQlpScjRxQkV2aFAzSUV6MDZRektVb2tFSHc?oc=5",
+    "image": "",
+    "published_at": "Mon, 13 Apr 2026 13:53:23 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194583+00:00"
+  },
+  {
+    "id": "6a967bd96a2c",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "image": "",
+    "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194610+00:00"
+  },
+  {
+    "id": "ea77cea69417",
+    "title": "Diesel Powered Real Estate Generator Market Forecast Points Higher Toward 2035, Driven by Grid Modernization Delays",
+    "source": "IndexBox",
+    "summary": "Diesel Powered Real Estate Generator Market Forecast Points Higher Toward 2035, Driven by Grid Modernization Delays&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVgwVmhVVXVTR2JKMUlZNElSYnFtZmJXYUhNNEx5SlphWEMxdFBuZFBxbkFfYlluSTN4T01uR0tyR2JYWE1XZEQtUk5YTFQ1NVZrbzgzNVR6ZFBER2tQNTdjcDZ6b3pPSlBKY0ktRWxTM19Tdk9jbFkxYXJTNW4xSlBubjgzTzBsZFhVZ3VIdDNVTWdMNENZa3htM1h1TWFjV0Y4NUUzQ29HLTB2dlhaMXppOWY3ZTgzV0JJVFZyNFRYWThvNnc0YVFSaFdHUG5yWmtpNkFkSTZLZlkx?oc=5",
+    "image": "",
+    "published_at": "Tue, 14 Apr 2026 20:46:05 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194631+00:00"
+  },
+  {
+    "id": "3615ff2e8dc7",
+    "title": "Los Angeles Housing Market: Trends and Forecast 2026",
+    "source": "Norada Real Estate Investments",
+    "summary": "Los Angeles Housing Market: Trends and Forecast 2026&nbsp;&nbsp;Norada Real Estate Investments",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aGkzcldwT1VqWW43MzNRVXdTTHpxdDBfSFgwa1BkdFYxdVhpSUFuOXg5N2lvY2FPSDd5NzhISTRJVWpRVjk2allYYnhUQ0hUVElxSTVpN3FJcXpSWEU4N0UtVnlWR0hDZG9hemNXMHJ4d0JmdnVCbA?oc=5",
+    "image": "",
+    "published_at": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194647+00:00"
+  },
+  {
+    "id": "d44e04a3da46",
+    "title": "The outlook for the US housing market in 2026",
+    "source": "J.P. Morgan",
+    "summary": "The outlook for the US housing market in 2026&nbsp;&nbsp;J.P. Morgan",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUFjbHhrb3BhWG9aTlJFSXRQWmNPa2RmVnJYX2dNcGpBU2xEVWNrOTJIX3FYTFlJOW1TOHExVk56U2JBdXM4d3FWNkk3cnViM1VrRnlCXzMwSWctM3gxeHFIZWw3dzlIb0VKTzNYcFk5NEpQYWQyOHQ4UnY5WUhGaHdRdXBHN25TS2lVc3VDUW0?oc=5",
+    "image": "",
+    "published_at": "Tue, 27 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194661+00:00"
+  },
+  {
+    "id": "0cb61bab96f9",
+    "title": "Camden Property Trust stock (US1331311027): Why apartment demand trends matter more now for investor",
+    "source": "AD HOC NEWS",
+    "summary": "Camden Property Trust stock (US1331311027): Why apartment demand trends matter more now for investor&nbsp;&nbsp;AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmt0Ry1mVm04c1dPVzY3WVg2OUNZVE54ZldIZXUzMVZ2aTdqQ0FiR041RllHVW9FUzBoOGhNRDUtbGRaMWZCNTBUVG1sbExKSnlCb1NUc3V6WHF4TWw3Z09rZTN5ZlBNNUF2WHJpQ0VOY0Z4cVpBd1c0dmlpSjExelo1RzdQY0NQUHBfdGFzYkpTREpOcE1maWM3M2pvdEN3WnRQUE54ZW5iOGxNdENFWFJja1hoekIwWnNLNE5pbXBJVGJzZGc?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Apr 2026 08:09:40 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194680+00:00"
+  },
+  {
+    "id": "9c425ddbfbb9",
+    "title": "Canada Real Estate Market Size Growth Demand & Outlook 2034",
+    "source": "vocal.media",
+    "summary": "Canada Real Estate Market Size Growth Demand & Outlook 2034&nbsp;&nbsp;vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkwzTWZaSEU2YkQtS1hGZE9WVUR3RFVUczNQaC1jSkxyY1lySU1GeWdzVVZrWWFlRXFWeW1adGs1UVlCYTNPOW9JbVRHMnE0a0VTSm8zTUg5dmVZV2tUZWFPXzM1QzRrUEJESFN4RDdEdWt1WG8xYUtGOHo2azVLZUN6cHFGMGN4MEpTMW5OS0VCdw?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Apr 2026 06:53:29 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194695+00:00"
+  },
+  {
+    "id": "ea21b0e61136",
+    "title": "India's Residential Property Market Analysis 2026",
+    "source": "Global Property Guide",
+    "summary": "India's Residential Property Market Analysis 2026&nbsp;&nbsp;Global Property Guide",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GYXpycjhrZzJPNUdUcmZwTHFaOEVYbGs1S3Rkd0FEN0JaWWVULTFHTnA3NW9NMGYyNkZxVG0wNnZZZm5Zcm9reHpKS2pGb1R1YWZRWTdQMU5hLWZyZDBqeVFFQzNob2J5dmgxQw?oc=5",
+    "image": "",
+    "published_at": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194709+00:00"
+  },
+  {
+    "id": "739b67fe3490",
+    "title": "Global Real Estate Outlook",
+    "source": "JLL",
+    "summary": "Global Real Estate Outlook&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194720+00:00"
+  },
+  {
+    "id": "5adeb33741ce",
+    "title": "2026 Real Estate Outlook: What Leading Housing Economists Are Watching",
+    "source": "National Association of REALTORS®",
+    "summary": "2026 Real Estate Outlook: What Leading Housing Economists Are Watching&nbsp;&nbsp;National Association of REALTORS®",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1pRRy05aU5GQmJ6XzNfdExxeUlJblZSdndDZHNjNC0xRi1HZ2dBZkpGaG14a0x2Qy1GTnpNbldDZ0pVX2ZIYzNTc0VGNkkyZ3o1bjRLR3ZaOWlPWnFUMlBzNXdEUUg0MUU4bGx3M2Z5YUhmN3RTUFFTOHk2R3VqT2lDWjlWdHdVbE1GQnRVRHRsNlFYcGZJUXhFX2NJa05DbklrbWY4eENISFlvY3ZrdVhNMFdaWXJDZjNN?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-04-15T22:54:46.194739+00:00"
   },
   {
     "id": "05457b2f858a",
@@ -68,136 +208,6 @@
     "image": "",
     "published_at": "Mon, 13 Apr 2026 07:00:00 GMT",
     "fetched_at": "2026-04-15T21:59:31.167886+00:00"
-  },
-  {
-    "id": "68c030acd1fe",
-    "title": "Baby boomers dominate the market as first-time buyers hit record low",
-    "source": "Inman Real Estate News",
-    "summary": "Baby boomers dominate the market as first-time buyers hit record low&nbsp;&nbsp;Inman Real Estate News",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pVjR4eng2a2NYUHc2WUp2SlgtS3VfYlpLNkktRjk3Und2VGdJc2pid1drTng5d1ZmUFdXLXNyU0ZTQVV3UHNz?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Apr 2026 14:01:45 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167901+00:00"
-  },
-  {
-    "id": "fbfff1d5cc6a",
-    "title": "Will the spring home-buying spree finally lift the logjam that’s been plaguing the market?",
-    "source": "WGBH",
-    "summary": "Will the spring home-buying spree finally lift the logjam that’s been plaguing the market?&nbsp;&nbsp;WGBH",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3hlUUFpZGpoWmpKVEdLOVBlZUhPeUdaX0hhSVJtOTk1MGVra1R3MlBkN0JHLUVEOHU0ZlJFcXhDa1VrUVd4R191M2Q5dy1iVVgzQVFtTGtHXzFLTV9rb0NfVjhuUV9xRFFTWERWNTZTcVZqMFBiU3FLUzhLQWVxOHpXYnRMNzNYYVNIVEpfdk9QRU9UUFN2VE5oZmtCUmdlSG5MRmdTYU9KczlQNy12ZlRGNTk0NTJlNzU0YnZydFAzalR3VTV2UV9iZw?oc=5",
-    "image": "",
-    "published_at": "Tue, 14 Apr 2026 19:40:07 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167919+00:00"
-  },
-  {
-    "id": "4a7d8ca6322f",
-    "title": "Spring's normally-busy housing market slows amid uncertainty",
-    "source": "marketplace.org",
-    "summary": "Spring's normally-busy housing market slows amid uncertainty&nbsp;&nbsp;marketplace.org",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWl6SU1ZaE1nQVNaQ1VjaUNIaC1RR1ItZ2hxUnozOUpOMlNuZ2ExT3hFZXRPNGpwa3BMYjg1dV9najUwWHhZUWFXX2JzN2Z4VElISHprUTh4OUNXQ21hdkltbTZXNFlvUEJyUjNrc0M5N2RPQzVzNVJaWWtDYkxnRUVQM0NmaFVPNEUtM0xrRDVTa1FzVUZvUg?oc=5",
-    "image": "",
-    "published_at": "Tue, 14 Apr 2026 13:46:41 GMT",
-    "fetched_at": "2026-04-15T21:59:31.167931+00:00"
-  },
-  {
-    "id": "06b77ae37f8c",
-    "title": "Trends To Watch: Residential Real Estate",
-    "source": "WilmingtonBiz",
-    "summary": "Trends To Watch: Residential Real Estate&nbsp;&nbsp;WilmingtonBiz",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlJ0LXJtT2x3eDRNZDhhUnRpS0M0VlcwVGxKdS1uc1ZBOTJDeXJvcFg4dE1KWXVtYm1EOG9vS1QzUlFLRlUzc1d3LW40dVFMWkFnTjFDaHRYUzRXQnVrSUFTckhRTG5BNlp2TGtISlhXMFRzenh1cExWNnlPOXdtUnliUGdZS0pJa3ZGN3pra29TNnNCQlpScjRxQkV2aFAzSUV6MDZRektVb2tFSHc?oc=5",
-    "image": "",
-    "published_at": "Mon, 13 Apr 2026 13:53:23 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150447+00:00"
-  },
-  {
-    "id": "6a967bd96a2c",
-    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-    "source": "Forbes",
-    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-    "image": "",
-    "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150474+00:00"
-  },
-  {
-    "id": "ea77cea69417",
-    "title": "Diesel Powered Real Estate Generator Market Forecast Points Higher Toward 2035, Driven by Grid Modernization Delays",
-    "source": "IndexBox",
-    "summary": "Diesel Powered Real Estate Generator Market Forecast Points Higher Toward 2035, Driven by Grid Modernization Delays&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVgwVmhVVXVTR2JKMUlZNElSYnFtZmJXYUhNNEx5SlphWEMxdFBuZFBxbkFfYlluSTN4T01uR0tyR2JYWE1XZEQtUk5YTFQ1NVZrbzgzNVR6ZFBER2tQNTdjcDZ6b3pPSlBKY0ktRWxTM19Tdk9jbFkxYXJTNW4xSlBubjgzTzBsZFhVZ3VIdDNVTWdMNENZa3htM1h1TWFjV0Y4NUUzQ29HLTB2dlhaMXppOWY3ZTgzV0JJVFZyNFRYWThvNnc0YVFSaFdHUG5yWmtpNkFkSTZLZlkx?oc=5",
-    "image": "",
-    "published_at": "Tue, 14 Apr 2026 20:46:05 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150493+00:00"
-  },
-  {
-    "id": "3615ff2e8dc7",
-    "title": "Los Angeles Housing Market: Trends and Forecast 2026",
-    "source": "Norada Real Estate Investments",
-    "summary": "Los Angeles Housing Market: Trends and Forecast 2026&nbsp;&nbsp;Norada Real Estate Investments",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aGkzcldwT1VqWW43MzNRVXdTTHpxdDBfSFgwa1BkdFYxdVhpSUFuOXg5N2lvY2FPSDd5NzhISTRJVWpRVjk2allYYnhUQ0hUVElxSTVpN3FJcXpSWEU4N0UtVnlWR0hDZG9hemNXMHJ4d0JmdnVCbA?oc=5",
-    "image": "",
-    "published_at": "Mon, 06 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150507+00:00"
-  },
-  {
-    "id": "d44e04a3da46",
-    "title": "The outlook for the US housing market in 2026",
-    "source": "J.P. Morgan",
-    "summary": "The outlook for the US housing market in 2026&nbsp;&nbsp;J.P. Morgan",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUFjbHhrb3BhWG9aTlJFSXRQWmNPa2RmVnJYX2dNcGpBU2xEVWNrOTJIX3FYTFlJOW1TOHExVk56U2JBdXM4d3FWNkk3cnViM1VrRnlCXzMwSWctM3gxeHFIZWw3dzlIb0VKTzNYcFk5NEpQYWQyOHQ4UnY5WUhGaHdRdXBHN25TS2lVc3VDUW0?oc=5",
-    "image": "",
-    "published_at": "Tue, 27 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150520+00:00"
-  },
-  {
-    "id": "0cb61bab96f9",
-    "title": "Camden Property Trust stock (US1331311027): Why apartment demand trends matter more now for investor",
-    "source": "AD HOC NEWS",
-    "summary": "Camden Property Trust stock (US1331311027): Why apartment demand trends matter more now for investor&nbsp;&nbsp;AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmt0Ry1mVm04c1dPVzY3WVg2OUNZVE54ZldIZXUzMVZ2aTdqQ0FiR041RllHVW9FUzBoOGhNRDUtbGRaMWZCNTBUVG1sbExKSnlCb1NUc3V6WHF4TWw3Z09rZTN5ZlBNNUF2WHJpQ0VOY0Z4cVpBd1c0dmlpSjExelo1RzdQY0NQUHBfdGFzYkpTREpOcE1maWM3M2pvdEN3WnRQUE54ZW5iOGxNdENFWFJja1hoekIwWnNLNE5pbXBJVGJzZGc?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Apr 2026 08:09:40 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150537+00:00"
-  },
-  {
-    "id": "9c425ddbfbb9",
-    "title": "Canada Real Estate Market Size Growth Demand & Outlook 2034",
-    "source": "vocal.media",
-    "summary": "Canada Real Estate Market Size Growth Demand & Outlook 2034&nbsp;&nbsp;vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkwzTWZaSEU2YkQtS1hGZE9WVUR3RFVUczNQaC1jSkxyY1lySU1GeWdzVVZrWWFlRXFWeW1adGs1UVlCYTNPOW9JbVRHMnE0a0VTSm8zTUg5dmVZV2tUZWFPXzM1QzRrUEJESFN4RDdEdWt1WG8xYUtGOHo2azVLZUN6cHFGMGN4MEpTMW5OS0VCdw?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Apr 2026 06:53:29 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150551+00:00"
-  },
-  {
-    "id": "ea21b0e61136",
-    "title": "India's Residential Property Market Analysis 2026",
-    "source": "Global Property Guide",
-    "summary": "India's Residential Property Market Analysis 2026&nbsp;&nbsp;Global Property Guide",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GYXpycjhrZzJPNUdUcmZwTHFaOEVYbGs1S3Rkd0FEN0JaWWVULTFHTnA3NW9NMGYyNkZxVG0wNnZZZm5Zcm9reHpKS2pGb1R1YWZRWTdQMU5hLWZyZDBqeVFFQzNob2J5dmgxQw?oc=5",
-    "image": "",
-    "published_at": "Wed, 01 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150563+00:00"
-  },
-  {
-    "id": "739b67fe3490",
-    "title": "Global Real Estate Outlook",
-    "source": "JLL",
-    "summary": "Global Real Estate Outlook&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150573+00:00"
-  },
-  {
-    "id": "5adeb33741ce",
-    "title": "2026 Real Estate Outlook: What Leading Housing Economists Are Watching",
-    "source": "National Association of REALTORS®",
-    "summary": "2026 Real Estate Outlook: What Leading Housing Economists Are Watching&nbsp;&nbsp;National Association of REALTORS®",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1pRRy05aU5GQmJ6XzNfdExxeUlJblZSdndDZHNjNC0xRi1HZ2dBZkpGaG14a0x2Qy1GTnpNbldDZ0pVX2ZIYzNTc0VGNkkyZ3o1bjRLR3ZaOWlPWnFUMlBzNXdEUUg0MUU4bGx3M2Z5YUhmN3RTUFFTOHk2R3VqT2lDWjlWdHdVbE1GQnRVRHRsNlFYcGZJUXhFX2NJa05DbklrbWY4eENISFlvY3ZrdVhNMFdaWXJDZjNN?oc=5",
-    "image": "",
-    "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-15T21:59:32.150591+00:00"
   },
   {
     "id": "54480c66590a",
@@ -218,16 +228,6 @@
     "image": "",
     "published_at": "Wed, 15 Apr 2026 14:31:37 GMT",
     "fetched_at": "2026-04-15T20:08:05.956898+00:00"
-  },
-  {
-    "id": "b4ca6c08c585",
-    "title": "NAR Existing-Home Sales Report Shows 3.6% Decrease in March",
-    "source": "National Association of REALTORS®",
-    "summary": "NAR Existing-Home Sales Report Shows 3.6% Decrease in March&nbsp;&nbsp;National Association of REALTORS®",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW84SFdUejJYYjAxdWFfcDZzS1pCR0QteWV3akZJRU03bGNGNWpkWWd0TmJMLU5pOFlrNVRGN21EOThXTUdOSlp0WnQweTRXVkNFdnlNaS03b1owUC1hVFNCa1gwZGwydnhYbTdWeHJyOExmYXVMUDVEQmh6YVh2dlJtdmRSWHd6MUxsUjc1RlpJTXpoV0E?oc=5",
-    "image": "",
-    "published_at": "Mon, 13 Apr 2026 14:00:00 GMT",
-    "fetched_at": "2026-04-15T20:08:05.956915+00:00"
   },
   {
     "id": "fa692738b26d",
