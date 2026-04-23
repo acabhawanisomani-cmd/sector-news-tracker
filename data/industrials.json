@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTHd4YUNyRjlNRHowanhNMVM4RUVPT1huZHdfWF8wY3V0Z0pCSXJLcldPS0sxVVpDZUNLYlpBaDVXLUlpUVIyRDd3alowdFFFal9BNmlGc3lUNVJrRFVIa1EycVo5WjNyTnRwdEp4T0tqSVdJVXdaTlJGS2hjMnM?oc=5",
     "image": "",
     "published_at": "Tue, 21 Apr 2026 05:30:49 GMT",
-    "fetched_at": "2026-04-23T21:58:32.507910+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042819+00:00"
   },
   {
     "id": "1c948a1aad45",
@@ -17,17 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTgxVnF0MVdxbXlLY0JfRllRQXFTTzBRNlU5dWZqSFhPU21NWEhZQV9Mbkc2bl9iaHRaOWpnNGpCMGNKN21xaG5WTWYzdWRUcmt2R3hTbEtoRDAwYmRGbHVFWmxJX1BNMEhiQlNFQlNiM0NsQ0xCR0UzYUN2UkFXOTVMQUt5Unp2b0JV?oc=5",
     "image": "",
     "published_at": "Thu, 23 Apr 2026 20:00:01 GMT",
-    "fetched_at": "2026-04-23T21:58:32.507932+00:00"
-  },
-  {
-    "id": "4f35e50060cf",
-    "title": "Bangladesh’s $39B Garment Industry Faces Next Test: Moving Beyond Low Cost-Manufacturing",
-    "source": "Forbes",
-    "summary": "Bangladesh’s $39B Garment Industry Faces Next Test: Moving Beyond Low Cost-Manufacturing&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQjQ3amxTak9kOTIxeW9ZbDZjdFZ0cmVWMmxQZUJIY1lPRnVmQ01sbVRvN2w2OG45UXdLRHpMaktYYkgxdzZyQUhobXFGem5iNGRaNS1NTnNoYkwxUkE5dWp3eTI3ejRVaFRBWk9ZbGVwMDhncmszU0FwaFR6RUNYTkhYZ2dMZ3BtWkE5aXQwX3Fwc2xOV1hHZHJmRHVxdEZ2V3pseGdPT2NkRWllbHRkdTJxV3V1RTVjOXBjY25rZXVhSUhqUnhZQWpTNTVrN1lpbGl5VVE1WTRIOTVHblE?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 17:33:23 GMT",
-    "fetched_at": "2026-04-23T21:58:32.507955+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042848+00:00"
   },
   {
     "id": "ad39f53049ec",
@@ -37,7 +27,17 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTAtQzZkZ0FLWjZEN2EwYlJqaUhPYllDdU54NW1BRHQxdTRJTmFSOElJQS1Ba0RMX0JYOEJlUHN3c1loeWlqQlItTzFpbEFVNjlQbDJQLUMtM253ZGZwWTZrRzczRUtDUHpvbDVjbm94c1k5ZUM2RXJoZ3BOVWctb3BwaWdWdzgzajk1S29YUlpyZ3pGMzVhZQ?oc=5",
     "image": "",
     "published_at": "Mon, 06 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-23T21:58:32.507969+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042865+00:00"
+  },
+  {
+    "id": "4f35e50060cf",
+    "title": "Bangladesh’s $39B Garment Industry Faces Next Test: Moving Beyond Low Cost-Manufacturing",
+    "source": "Forbes",
+    "summary": "Bangladesh’s $39B Garment Industry Faces Next Test: Moving Beyond Low Cost-Manufacturing&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQjQ3amxTak9kOTIxeW9ZbDZjdFZ0cmVWMmxQZUJIY1lPRnVmQ01sbVRvN2w2OG45UXdLRHpMaktYYkgxdzZyQUhobXFGem5iNGRaNS1NTnNoYkwxUkE5dWp3eTI3ejRVaFRBWk9ZbGVwMDhncmszU0FwaFR6RUNYTkhYZ2dMZ3BtWkE5aXQwX3Fwc2xOV1hHZHJmRHVxdEZ2V3pseGdPT2NkRWllbHRkdTJxV3V1RTVjOXBjY25rZXVhSUhqUnhZQWpTNTVrN1lpbGl5VVE1WTRIOTVHblE?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 17:33:23 GMT",
+    "fetched_at": "2026-04-23T22:59:56.042891+00:00"
   },
   {
     "id": "23e2a30ac673",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2F0ZkZFWER4SWxHX3FhRlREd0ZNbXNWVTYxU3hnb2M0YjhIVHBhS3RFNWRhOW9nS2RGT1FGOFA0cVpCR3RRZE1TVGw2WDV3RXV6M3NXdnlrUFNyY2taZDctVVp4SXFhd29vT2NacUYyQUtvelNkZXVYLUg5T3hETEJ6NjBJekk2d2tmYVNvT0pQR1RxR1N0dFhtdExQQ0VRYmhIcEpEeW5RNHl4RjBSNlNTWGlTay1udXV2QUU3WS0zSDVmRFNIRjZVNkhFRUpyZFE?oc=5",
     "image": "",
     "published_at": "Thu, 23 Apr 2026 14:07:00 GMT",
-    "fetched_at": "2026-04-23T21:58:32.507983+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042908+00:00"
   },
   {
     "id": "f5e000f4eacf",
@@ -57,7 +57,7 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzhka2xYMGVGUjhzQTMxTklGOGFzbGNERWY2SEVvNUZxTzlDVzNXeUZLdFc0T1lxRl9xd0ZvS181RzNwT1RMOHBjdnZDSTFkaUNHME5pNnBjZk91cFhwdHZHNUlrRzI4c2JkOURqcXVQMEJEWUVZbU1vWlh1ZlZMM19rdXc1OUI3NnVlSUxMa0hRYlk1WWYxWG12TkZMcG9yZGc?oc=5",
     "image": "",
     "published_at": "Thu, 23 Apr 2026 12:03:19 GMT",
-    "fetched_at": "2026-04-23T21:58:32.508001+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042929+00:00"
   },
   {
     "id": "b0de8b52d98d",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGlvc3VmUk9TSFFlTWt2a0tDN2tHUVBnX3U3dWZ3S2VzSjJHeDU4WC03NmxBYlh6eF9mWW12bzg4UUlTTXFuSzItZFVBX215M2J0UmRRS3k3V0lxSlJGZXJBaTIxZEc4dGFkNGNMSXZJUE8wZk5QUy1iQkcyMGFjam9LODNfRzB2MHI0cXZrdkZkZ1JGVTQyc2xNNjlQNHZ6UE1McUtEeF9tU1BaUmRKV2cyR2tWVEdVN0NPN2xn?oc=5",
     "image": "",
     "published_at": "Wed, 22 Apr 2026 16:00:00 GMT",
-    "fetched_at": "2026-04-23T21:58:32.508017+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042947+00:00"
   },
   {
     "id": "eb7c4b5be579",
@@ -77,7 +77,127 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDNjQ3FqU0hjSXBxV18wX2NnN3dhYWZ2dUw1LUYtaDlKZFp5eFJ2LWlyalhIazhfU3JCMy1uLWx0X21aX3psWVVLeUJ6YjAtU3F2MTFWR2RUcFd3UEJtTndQMENPZGZnTXhqOU1sNGJKSTc2dk5SQWRBZ3hXQ21taUNUSnc?oc=5",
     "image": "",
     "published_at": "Thu, 23 Apr 2026 12:00:00 GMT",
-    "fetched_at": "2026-04-23T21:58:32.508030+00:00"
+    "fetched_at": "2026-04-23T22:59:56.042961+00:00"
+  },
+  {
+    "id": "3dd7cb00c2a3",
+    "title": "GE Aerospace Launches Program To Provide A Lift To A Future Workforce",
+    "source": "Huntsville Business Journal",
+    "summary": "GE Aerospace Launches Program To Provide A Lift To A Future Workforce&nbsp;&nbsp;Huntsville Business Journal",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFY4Ty1pVS1taWxKdGVzOTVENmJadkJwbG9qX3V6NGljeS1RWEN1c19TQnJpWXltbDNuQ09ZYXhXbDRvd3c0V1BoZ0dBZUY3VEYyMXM0a3ZyekxQMTdWRXU0Y3Fza2JtVWtHUThwVWVwRkhXUHl3T3M0aG5IZ2VtZWdGbS1kY01FN2drZTVIaU55NE5JVGU0M1lfbDBSQVJSMkxaNUZRYTR4Mmt4U1ZDSVVBVm9KdG9Hb1hSY0RKQUxPZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 16:00:20 GMT",
+    "fetched_at": "2026-04-23T22:59:56.042976+00:00"
+  },
+  {
+    "id": "e022575b3c39",
+    "title": "The EU Industrial Accelerator Act Proposal’s Significance for the Automotive Industry",
+    "source": "Crowell & Moring LLP",
+    "summary": "The EU Industrial Accelerator Act Proposal’s Significance for the Automotive Industry&nbsp;&nbsp;Crowell & Moring LLP",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFZxb0d4UEUtWjBpMXNQNlJVRUxJcG82amx5b2hJWmJELXFqV0tCTGpOb3hFdi1rdHJ5R29veFRrcTZNczZzcnYyb2g4ZFdmLXdwamIwUVpxeWl1V0RrWWJpVTlVQUdXWUxNa3BIMjgzUng3cXBSNHI2dS1GTndGUUFZcTBmaDAzTDA0ZURYcXlDN2pMeGlyU2JYY3lEeDc1S08xdmVsWE5Yd0ZLV2JzNnJrd1NiREt0Wk9GWEtvNVcwRWVvQmtDRnBRdWtaNUE?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Apr 2026 08:03:29 GMT",
+    "fetched_at": "2026-04-23T22:59:56.042996+00:00"
+  },
+  {
+    "id": "661a7fb19532",
+    "title": "Costco and the Discipline Behind Retail Supply Chains",
+    "source": "Logistics Viewpoints",
+    "summary": "Costco and the Discipline Behind Retail Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVFZY2xoakI1dzVFbmEyajRsZU5iRHhUVkpGSWhzRExya0Z4WjdzMjBXdmR4Um9SejZWekszSkt4ODNidzYtdUtjZXA3M3RYUzVzTlpMUWUyNG5WSVlSVEI4dGxYUFlhcmp2WkpDWnd3MVlrMEdFczQza2RSaHk5TEVzVXZsci1hVFhLdjYwdC1uUkMxVkZTZ0t1aTZ1QQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 15:22:00 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169460+00:00"
+  },
+  {
+    "id": "53cb6ddc5cde",
+    "title": "Metro Supply Chain Group Inc. acquires warehousing assets in the Southern US from BR Williams",
+    "source": "PR Newswire",
+    "summary": "Metro Supply Chain Group Inc. acquires warehousing assets in the Southern US from BR Williams&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeDRfN3NKRDk3XzkzNkxPWFJPT1VZc3ZJblR3RmpNdFFxeF9ER0puM0hzQXRYa05HNVpHVktTOG0zblhRQk51eXJrdVVxN05iNXVYRW5VV3FYMVVKZnU2cXA0Vk41UTFVZWlzb0tCb1pUcV9tZU5nRUYxdi03VThpSHZadFdQNGJZSHdyY0JBLVJ1UUdOSDhwWXpjSnhCcWxpVFBWN3dxTkJKUjJLLUFveHNkWndvdHE5TUg0NWk3bEFJaTQ3dG5aRHFVV3o0WVlXdkVaYU5Ld2VFNXg1NURmRWdR?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 14:10:00 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169494+00:00"
+  },
+  {
+    "id": "1e2a2cfef087",
+    "title": "ITS Logistics April Supply Chain Report: Hormuz Crisis Strains Freight Markets Heading into Q2",
+    "source": "Yahoo Finance",
+    "summary": "ITS Logistics April Supply Chain Report: Hormuz Crisis Strains Freight Markets Heading into Q2&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjF4UURaZ1NjVFZEM1cxeGh6UWE1VXcwM1BDLWxCZlJKcG01NWxOVU5QbWRQdDNJbnYyaXJmZlV5aVM2NDBqZmhqemVFRnBydkhWSXlyVnRFbmR1S0JKTzZDTnJtVkxXbzM0QklPVFFyaTFGTW9qNFUxRmxsSW9SNFNPNEVJc3JmemctVWhkS0ZreHlOc0xfbg?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 13:22:00 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169515+00:00"
+  },
+  {
+    "id": "5f09d0be526a",
+    "title": "New professional group supports ABA supply chain advocacy",
+    "source": "Commercial Baking",
+    "summary": "New professional group supports ABA supply chain advocacy&nbsp;&nbsp;Commercial Baking",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFlhWGxMMTRWcXROX1V1SEFwV0NzaEpRclJqc0VobTVzdjBuREZWZGJmak5kbl81R2FlMEhuQU5OdVBFQ256S1JlZktWalYyQUVON2M4VDFNV3JlUF9UUEtjbkdsaFpJcUpBNnBMdzNlQWdyS2hqVU03dHpFaDVYOWN6bEhVNlY2a2ZzdnhUMVI?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 20:33:56 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169532+00:00"
+  },
+  {
+    "id": "8f2f7b4a0639",
+    "title": "I Simulated an International Supply Chain and Let OpenClaw Monitor It",
+    "source": "Towards Data Science",
+    "summary": "I Simulated an International Supply Chain and Let OpenClaw Monitor It&nbsp;&nbsp;Towards Data Science",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjMwVS1fZTlJTkl0THRGRFM3RFBhbkEwaFd0aHRzOFFWdHBOQzF2YkpXMTZTX2tmRHkwS3RmUnBya0dQcGZQLUVpMmxaWUx5WnpoUnBZN0xPUzczZ2hRdllFbGFaWFc3YlM0Q1QxLXJ0MVhmcmV3TXZLTnQxMkhiVHpFcXN1RVZGOGFKbEJRTjlzVUJmdkR6U013cG9iUHZQRlJV?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 15:00:00 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169550+00:00"
+  },
+  {
+    "id": "3219018fb8cc",
+    "title": "Strong manufacturing numbers are masking a stockpiling scramble",
+    "source": "marketplace.org",
+    "summary": "Strong manufacturing numbers are masking a stockpiling scramble&nbsp;&nbsp;marketplace.org",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjExb3plTnlvUDcyRGNpMVUtVHRWMzVRdTA5OWk5N2JFMk5qdkR6SWVNT1VlbEItTUpnTEJqeE5XN2VEWmJOYlJiVnNVY1kxNVBtQlRmN01HVkRpdzlvSWR4RFNvQzNEZkRzMW9XOWlrM1I2T2F6OHFXellhb09TcFEzQzJnRm9uRDZFWGg3ZUtNcmZYUU1fV2NucE9VVGxjOGlB?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 20:15:00 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169566+00:00"
+  },
+  {
+    "id": "8f2cbfc0a88f",
+    "title": "Hormuz closure triggers ‘havoc’ for project logistics supply chain",
+    "source": "S&P Global",
+    "summary": "Hormuz closure triggers ‘havoc’ for project logistics supply chain&nbsp;&nbsp;S&P Global",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFhza2F3cTBjb3U2amk4V1V5Uk5vVHhKN0NlaHJFM05acEJWZTdXMVB4WGJ0cWNaMFhjUnlLTE1ZM0pMaWRCZ016dGJ0Sk5PMW5mNXN4aGZIWEJVcFRhb3lfVUN5NTJRZ1RsNENVUlkwSFVGdHFoT0xIWnVGa2NLMnhzUkpNOXBmWlZyVzByRFMxS0c1SWtXSm5INTZIbHlFU19ETmpiblk0WUl6MERJN0hBaWo5UHhzLXI2THozeENwQQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Apr 2026 21:00:08 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169589+00:00"
+  },
+  {
+    "id": "acec3e2f5ce8",
+    "title": "ABA assembles group for global supply chain, logistics challenges",
+    "source": "Supermarket Perimeter",
+    "summary": "ABA assembles group for global supply chain, logistics challenges&nbsp;&nbsp;Supermarket Perimeter",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1B0UkRTdlRlQW1iRlFHNnBhTVlZNnoxMHBrTmlUVGdwRzdGY0tCWm5vMXZLVzdkbmFIdGdlQVB2OGY1RlMxdnN2VS1fMVBraFRJS1hwbjVYM094aW1ubmstR0l5ZDZwMUlOREgya0Z2ZDJyVTNpUGhpTVZFRkM4dWE4bmR4WW9SeXRWeE8wdTdSZVFYUm1LWGpfZnB0b1U2dkNBOUdtamczQ3drWXd2SERZV3FYWFk?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Apr 2026 16:02:03 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169607+00:00"
+  },
+  {
+    "id": "aecda28dd8d5",
+    "title": "Global Pork Markets Brace for Rising Cost Pressures and Geopolitical Volatility",
+    "source": "Pork Business",
+    "summary": "Global Pork Markets Brace for Rising Cost Pressures and Geopolitical Volatility&nbsp;&nbsp;Pork Business",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNUpYOXZxa2U1bFI3cUlvRWt4dVJQTHNjTENtRVFmVnZMY2hoYXpKZjhFNUdWUW8wNmRnUl9hSEtkQlRCOG1yUEhxWE5sSm0ybHdMNmRUSWh1YkdvTU5OLWxxUWw3UFNZazJONmQ1MXV2MGM3Z0ZfNkhEZUdNcXYwQUhaRFczLWJoY2t2ZkZGc0JBeHZrZFkyNUY1MmlCQXJKTlVNQ05PSGRncXp6d3RIdkpLS3lKeDY5NU5kM21tS0RmQQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 20:30:59 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169625+00:00"
+  },
+  {
+    "id": "715ee3013797",
+    "title": "Q&A: Shawn McGee on Building Resilience Across Pharma Supply Chains",
+    "source": "Pharmaceutical Commerce",
+    "summary": "Q&A: Shawn McGee on Building Resilience Across Pharma Supply Chains&nbsp;&nbsp;Pharmaceutical Commerce",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnhmeEhDUC1oaEZrSkVPSUtjQnFtU3ViblJrY2pCeEdhVnZSVEs4alRzRDZwZUFMaUpyV3dXLW1mM1BHTTRnQ1U0ako1aVFxeTlPQ0xCS0MzTWNQVWpHQVdyTFNyZ1gwR1ZzZkJvX21IYzVGOFZITEtPTE5EWFNObHduVldScmxuamk5QlZZVXZuU2Z4eUVXbGpyelJqMWpHMTRZU2Q3TUJUUlZVZGNz?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 14:57:38 GMT",
+    "fetched_at": "2026-04-23T22:59:57.169643+00:00"
   },
   {
     "id": "b3fd3547b64c",
@@ -88,126 +208,6 @@
     "image": "",
     "published_at": "Thu, 23 Apr 2026 16:20:00 GMT",
     "fetched_at": "2026-04-23T21:58:32.508044+00:00"
-  },
-  {
-    "id": "e022575b3c39",
-    "title": "The EU Industrial Accelerator Act Proposal’s Significance for the Automotive Industry",
-    "source": "Crowell & Moring LLP",
-    "summary": "The EU Industrial Accelerator Act Proposal’s Significance for the Automotive Industry&nbsp;&nbsp;Crowell & Moring LLP",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFZxb0d4UEUtWjBpMXNQNlJVRUxJcG82amx5b2hJWmJELXFqV0tCTGpOb3hFdi1rdHJ5R29veFRrcTZNczZzcnYyb2g4ZFdmLXdwamIwUVpxeWl1V0RrWWJpVTlVQUdXWUxNa3BIMjgzUng3cXBSNHI2dS1GTndGUUFZcTBmaDAzTDA0ZURYcXlDN2pMeGlyU2JYY3lEeDc1S08xdmVsWE5Yd0ZLV2JzNnJrd1NiREt0Wk9GWEtvNVcwRWVvQmtDRnBRdWtaNUE?oc=5",
-    "image": "",
-    "published_at": "Wed, 22 Apr 2026 08:03:29 GMT",
-    "fetched_at": "2026-04-23T21:58:32.508062+00:00"
-  },
-  {
-    "id": "661a7fb19532",
-    "title": "Costco and the Discipline Behind Retail Supply Chains",
-    "source": "Logistics Viewpoints",
-    "summary": "Costco and the Discipline Behind Retail Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVFZY2xoakI1dzVFbmEyajRsZU5iRHhUVkpGSWhzRExya0Z4WjdzMjBXdmR4Um9SejZWekszSkt4ODNidzYtdUtjZXA3M3RYUzVzTlpMUWUyNG5WSVlSVEI4dGxYUFlhcmp2WkpDWnd3MVlrMEdFczQza2RSaHk5TEVzVXZsci1hVFhLdjYwdC1uUkMxVkZTZ0t1aTZ1QQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 15:22:00 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601186+00:00"
-  },
-  {
-    "id": "53cb6ddc5cde",
-    "title": "Metro Supply Chain Group Inc. acquires warehousing assets in the Southern US from BR Williams",
-    "source": "PR Newswire",
-    "summary": "Metro Supply Chain Group Inc. acquires warehousing assets in the Southern US from BR Williams&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeDRfN3NKRDk3XzkzNkxPWFJPT1VZc3ZJblR3RmpNdFFxeF9ER0puM0hzQXRYa05HNVpHVktTOG0zblhRQk51eXJrdVVxN05iNXVYRW5VV3FYMVVKZnU2cXA0Vk41UTFVZWlzb0tCb1pUcV9tZU5nRUYxdi03VThpSHZadFdQNGJZSHdyY0JBLVJ1UUdOSDhwWXpjSnhCcWxpVFBWN3dxTkJKUjJLLUFveHNkWndvdHE5TUg0NWk3bEFJaTQ3dG5aRHFVV3o0WVlXdkVaYU5Ld2VFNXg1NURmRWdR?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 14:10:00 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601217+00:00"
-  },
-  {
-    "id": "1e2a2cfef087",
-    "title": "ITS Logistics April Supply Chain Report: Hormuz Crisis Strains Freight Markets Heading into Q2",
-    "source": "Yahoo Finance",
-    "summary": "ITS Logistics April Supply Chain Report: Hormuz Crisis Strains Freight Markets Heading into Q2&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjF4UURaZ1NjVFZEM1cxeGh6UWE1VXcwM1BDLWxCZlJKcG01NWxOVU5QbWRQdDNJbnYyaXJmZlV5aVM2NDBqZmhqemVFRnBydkhWSXlyVnRFbmR1S0JKTzZDTnJtVkxXbzM0QklPVFFyaTFGTW9qNFUxRmxsSW9SNFNPNEVJc3JmemctVWhkS0ZreHlOc0xfbg?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 13:22:00 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601236+00:00"
-  },
-  {
-    "id": "5f09d0be526a",
-    "title": "New professional group supports ABA supply chain advocacy",
-    "source": "Commercial Baking",
-    "summary": "New professional group supports ABA supply chain advocacy&nbsp;&nbsp;Commercial Baking",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFlhWGxMMTRWcXROX1V1SEFwV0NzaEpRclJqc0VobTVzdjBuREZWZGJmak5kbl81R2FlMEhuQU5OdVBFQ256S1JlZktWalYyQUVON2M4VDFNV3JlUF9UUEtjbkdsaFpJcUpBNnBMdzNlQWdyS2hqVU03dHpFaDVYOWN6bEhVNlY2a2ZzdnhUMVI?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 20:33:56 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601250+00:00"
-  },
-  {
-    "id": "8f2f7b4a0639",
-    "title": "I Simulated an International Supply Chain and Let OpenClaw Monitor It",
-    "source": "Towards Data Science",
-    "summary": "I Simulated an International Supply Chain and Let OpenClaw Monitor It&nbsp;&nbsp;Towards Data Science",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjMwVS1fZTlJTkl0THRGRFM3RFBhbkEwaFd0aHRzOFFWdHBOQzF2YkpXMTZTX2tmRHkwS3RmUnBya0dQcGZQLUVpMmxaWUx5WnpoUnBZN0xPUzczZ2hRdllFbGFaWFc3YlM0Q1QxLXJ0MVhmcmV3TXZLTnQxMkhiVHpFcXN1RVZGOGFKbEJRTjlzVUJmdkR6U013cG9iUHZQRlJV?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 15:00:00 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601265+00:00"
-  },
-  {
-    "id": "3219018fb8cc",
-    "title": "Strong manufacturing numbers are masking a stockpiling scramble",
-    "source": "marketplace.org",
-    "summary": "Strong manufacturing numbers are masking a stockpiling scramble&nbsp;&nbsp;marketplace.org",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjExb3plTnlvUDcyRGNpMVUtVHRWMzVRdTA5OWk5N2JFMk5qdkR6SWVNT1VlbEItTUpnTEJqeE5XN2VEWmJOYlJiVnNVY1kxNVBtQlRmN01HVkRpdzlvSWR4RFNvQzNEZkRzMW9XOWlrM1I2T2F6OHFXellhb09TcFEzQzJnRm9uRDZFWGg3ZUtNcmZYUU1fV2NucE9VVGxjOGlB?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 20:15:00 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601279+00:00"
-  },
-  {
-    "id": "8f2cbfc0a88f",
-    "title": "Hormuz closure triggers ‘havoc’ for project logistics supply chain",
-    "source": "S&P Global",
-    "summary": "Hormuz closure triggers ‘havoc’ for project logistics supply chain&nbsp;&nbsp;S&P Global",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFhza2F3cTBjb3U2amk4V1V5Uk5vVHhKN0NlaHJFM05acEJWZTdXMVB4WGJ0cWNaMFhjUnlLTE1ZM0pMaWRCZ016dGJ0Sk5PMW5mNXN4aGZIWEJVcFRhb3lfVUN5NTJRZ1RsNENVUlkwSFVGdHFoT0xIWnVGa2NLMnhzUkpNOXBmWlZyVzByRFMxS0c1SWtXSm5INTZIbHlFU19ETmpiblk0WUl6MERJN0hBaWo5UHhzLXI2THozeENwQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 21:00:08 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601300+00:00"
-  },
-  {
-    "id": "acec3e2f5ce8",
-    "title": "ABA assembles group for global supply chain, logistics challenges",
-    "source": "Supermarket Perimeter",
-    "summary": "ABA assembles group for global supply chain, logistics challenges&nbsp;&nbsp;Supermarket Perimeter",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1B0UkRTdlRlQW1iRlFHNnBhTVlZNnoxMHBrTmlUVGdwRzdGY0tCWm5vMXZLVzdkbmFIdGdlQVB2OGY1RlMxdnN2VS1fMVBraFRJS1hwbjVYM094aW1ubmstR0l5ZDZwMUlOREgya0Z2ZDJyVTNpUGhpTVZFRkM4dWE4bmR4WW9SeXRWeE8wdTdSZVFYUm1LWGpfZnB0b1U2dkNBOUdtamczQ3drWXd2SERZV3FYWFk?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 16:02:03 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601316+00:00"
-  },
-  {
-    "id": "aecda28dd8d5",
-    "title": "Global Pork Markets Brace for Rising Cost Pressures and Geopolitical Volatility",
-    "source": "Pork Business",
-    "summary": "Global Pork Markets Brace for Rising Cost Pressures and Geopolitical Volatility&nbsp;&nbsp;Pork Business",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNUpYOXZxa2U1bFI3cUlvRWt4dVJQTHNjTENtRVFmVnZMY2hoYXpKZjhFNUdWUW8wNmRnUl9hSEtkQlRCOG1yUEhxWE5sSm0ybHdMNmRUSWh1YkdvTU5OLWxxUWw3UFNZazJONmQ1MXV2MGM3Z0ZfNkhEZUdNcXYwQUhaRFczLWJoY2t2ZkZGc0JBeHZrZFkyNUY1MmlCQXJKTlVNQ05PSGRncXp6d3RIdkpLS3lKeDY5NU5kM21tS0RmQQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 20:30:59 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601331+00:00"
-  },
-  {
-    "id": "715ee3013797",
-    "title": "Q&A: Shawn McGee on Building Resilience Across Pharma Supply Chains",
-    "source": "Pharmaceutical Commerce",
-    "summary": "Q&A: Shawn McGee on Building Resilience Across Pharma Supply Chains&nbsp;&nbsp;Pharmaceutical Commerce",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnhmeEhDUC1oaEZrSkVPSUtjQnFtU3ViblJrY2pCeEdhVnZSVEs4alRzRDZwZUFMaUpyV3dXLW1mM1BHTTRnQ1U0ako1aVFxeTlPQ0xCS0MzTWNQVWpHQVdyTFNyZ1gwR1ZzZkJvX21IYzVGOFZITEtPTE5EWFNObHduVldScmxuamk5QlZZVXZuU2Z4eUVXbGpyelJqMWpHMTRZU2Q3TUJUUlZVZGNz?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 14:57:38 GMT",
-    "fetched_at": "2026-04-23T21:58:33.601345+00:00"
-  },
-  {
-    "id": "3dd7cb00c2a3",
-    "title": "GE Aerospace Launches Program To Provide A Lift To A Future Workforce",
-    "source": "Huntsville Business Journal",
-    "summary": "GE Aerospace Launches Program To Provide A Lift To A Future Workforce&nbsp;&nbsp;Huntsville Business Journal",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFY4Ty1pVS1taWxKdGVzOTVENmJadkJwbG9qX3V6NGljeS1RWEN1c19TQnJpWXltbDNuQ09ZYXhXbDRvd3c0V1BoZ0dBZUY3VEYyMXM0a3ZyekxQMTdWRXU0Y3Fza2JtVWtHUThwVWVwRkhXUHl3T3M0aG5IZ2VtZWdGbS1kY01FN2drZTVIaU55NE5JVGU0M1lfbDBSQVJSMkxaNUZRYTR4Mmt4U1ZDSVVBVm9KdG9Hb1hSY0RKQUxPZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 16:00:20 GMT",
-    "fetched_at": "2026-04-23T19:24:43.444385+00:00"
   },
   {
     "id": "270fbaa94c90",
