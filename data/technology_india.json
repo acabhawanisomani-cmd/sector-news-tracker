@@ -1,5 +1,205 @@
 [
   {
+    "id": "4a2d1cbf6e76",
+    "title": "ASUS launches ExpertBook Ultra, P5, and P3 laptops in India with Intel Core Ultra processors",
+    "source": "LiveMint",
+    "summary": "ASUS has launched its new ExpertBook Ultra, P5, and P3 laptops in India. The ExpertBook Ultra starts at ₹239,990 in India while the ExpertBook P5 starts at ₹214,990,and ExpertBook P3 is priced from ₹94,990",
+    "url": "https://www.livemint.com/technology/gadgets/asus-launches-expertbook-ultra-p5-and-p3-laptops-in-india-with-intel-core-ultra-processors-11777109999331.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 15:17:14 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306354+00:00"
+  },
+  {
+    "id": "b0e75f0e017e",
+    "title": "Apple's 20th Edition iPhone: Micro-curved display, new battery tech, A21 chip and expected upgrades",
+    "source": "LiveMint",
+    "summary": "Apple could be working on a quad-curved display for its 20th Edition iPhone that could debut in September next year. The phone could run on A21 Pro processor while packing an all-glass design",
+    "url": "https://www.livemint.com/technology/gadgets/apples-20th-edition-iphone-all-glass-display-micro-curved-panel-new-battery-technology-and-a21-processor-11777103470381.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 14:49:36 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306384+00:00"
+  },
+  {
+    "id": "a081bb29212b",
+    "title": "Meet Sinceerly: Harvard student uses Claude to build ‘anti-Grammarly’ tool to add typos to your AI emails",
+    "source": "LiveMint",
+    "summary": "&amp;nbsp;Harvard student has Ben Horwitz created Sinceerly, a Chrome extension that injects errors into AI-generated text to make it appear human",
+    "url": "https://www.livemint.com/technology/tech-news/meet-sinceerly-harvard-student-uses-claude-to-build-anti-grammarly-tool-to-add-typos-to-your-ai-emails-11777099428793.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 13:02:27 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306401+00:00"
+  },
+  {
+    "id": "41f600fc9f78",
+    "title": "After DeepSeek V4 launch, US accuses Chinese AI labs of using 'unauthorized distillation' to clone Western tech",
+    "source": "LiveMint",
+    "summary": "US has accused Chinese AI firms, particularly DeepSeek, of intellectual property theft in a diplomatic cable, as per a Reuters report. The document warns of risks from distilled AI models that mimic U.S. technology",
+    "url": "https://www.livemint.com/technology/tech-news/us-warns-chinas-ai-is-cloning-western-tech-via-unauthorized-distillation-flags-massive-data-theft-risks-after-deepse-11777092594629.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 11:41:21 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306418+00:00"
+  },
+  {
+    "id": "09c1fd11e8ac",
+    "title": "I gave OpenAI’s new ChatGPT Images 2.0 ten impossible prompts to test its limits, and the results are stunning",
+    "source": "LiveMint",
+    "summary": "I tested the new ChatGPT Images 2.0 model with 10 real-world prompts to check how the model performs in different scenarios.",
+    "url": "https://www.livemint.com/technology/tech-news/i-gave-openai-s-new-chatgpt-images-2-0-ten-impossible-prompts-to-test-its-limits-and-the-results-are-stunning-11777082916053.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 10:02:17 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306434+00:00"
+  },
+  {
+    "id": "72585d5aa0d0",
+    "title": "Big screen and long battery matter for streaming on the go, these 5 tablets get both right",
+    "source": "LiveMint",
+    "summary": "Tablets designed for streaming offer larger displays, better speakers and longer battery life, making them ideal for watching shows, films and online content.",
+    "url": "https://www.livemint.com/technology/gadgets/big-screen-and-long-battery-matter-for-streaming-on-the-go-these-5-tablets-get-both-right-11777029346151.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 09:00:32 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306449+00:00"
+  },
+  {
+    "id": "2749070ed7e3",
+    "title": "Apple to supercharge delayed iPhone 18 with massive RAM upgrade and next-gen 2nm processor: Report",
+    "source": "LiveMint",
+    "summary": "Apple may not release the iPhone 18 this year but when the phone eventually arrives it could feature 12GB of RAM and a new A20 chipset.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-to-supercharge-delayed-iphone-18-with-massive-ram-upgrade-and-next-gen-2nm-processor-report-11777078821852.html",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 07:34:28 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306464+00:00"
+  },
+  {
+    "id": "63dd4da2f049",
+    "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
+    "source": "LiveMint",
+    "summary": "AI smart glasses will help visually impaired runners take on the London Marathon",
+    "url": "https://www.livemint.com/technology/ai-smart-glasses-will-help-visually-impaired-runners-take-on-the-london-marathon-11777047671274.html",
+    "image": "",
+    "published_at": "Fri, 24 Apr 2026 21:51:10 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306476+00:00"
+  },
+  {
+    "id": "2097eac9474f",
+    "title": "You can now ask ChatGPT to find cheap flights with the new Skyscanner integration: step-by-step guide",
+    "source": "LiveMint",
+    "summary": "Skyscanner has launched its app within ChatGPT allowing users in India and globally to search for flights using conversational prompts inside the chatbot",
+    "url": "https://www.livemint.com/technology/tech-news/you-can-now-ask-chatgpt-to-find-cheap-flights-using-the-new-skyscanner-integration-check-step-by-step-guide-11777018517092.html",
+    "image": "",
+    "published_at": "Fri, 24 Apr 2026 14:56:07 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306490+00:00"
+  },
+  {
+    "id": "1e726e2c5dfa",
+    "title": "Did Anthropic ‘dumb down’ Claude Code? Post-mortem reveals the three bugs that crippled performance",
+    "source": "LiveMint",
+    "summary": "Anthropic has acknowledged complaints regarding Claude Code's performance, attributing issues to three updates that affected coding quality.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/did-anthropic-dumb-down-claude-code-post-mortem-reveals-the-three-bugs-that-crippled-performance-11777013226388.html",
+    "image": "",
+    "published_at": "Fri, 24 Apr 2026 13:20:14 +0530",
+    "fetched_at": "2026-04-25T15:49:53.306505+00:00"
+  },
+  {
+    "id": "c43cd43166f9",
+    "title": "Salesforce to hire 1,000 graduates in AI push: CEO Marc Benioff",
+    "source": "Economic Times",
+    "summary": "Salesforce CEO Marc Benioff announced plans to hire 1,000 graduates and interns to support expanding AI products, countering concerns about AI eliminating entry-level jobs. This hiring initiative follows news of fewer than 1,000 job cuts in February, impacting roles like marketing and product manage",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-to-hire-1000-graduates-in-ai-push-ceo-marc-benioff/articleshow/130517522.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 20:30:19 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377314+00:00"
+  },
+  {
+    "id": "0bd6599cd014",
+    "title": "DPIIT issues operational guidelines for Rs 10,000 crore Startup India Fund of Funds 2.0 scheme",
+    "source": "Economic Times",
+    "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, has issued the operational guidelines for the Startup India Fund of Funds 2.0, as per a statement released by the Ministry of Commerce &amp; Industry.",
+    "url": "https://economictimes.indiatimes.com/tech/startups/dpiit-issues-operational-guidelines-for-rs-10000-crore-startup-india-fund-of-funds-2-0-scheme/articleshow/130516794.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 19:46:17 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377352+00:00"
+  },
+  {
+    "id": "4a4f3e290c1e",
+    "title": "IPO-bound Flipkart elevates Minutes head Kunal Gupta to SVP amid quick commerce push",
+    "source": "Economic Times",
+    "summary": "Flipkart’s quick commerce arm, Minutes, has elevated Kunal Gupta to Senior Vice President (SVP) from Vice President (VP), according to an internal note seen by ET.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-flipkart-elevates-minutes-head-kunal-gupta-to-svp-amid-quick-commerce-push/articleshow/130516472.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 19:36:08 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377378+00:00"
+  },
+  {
+    "id": "8106b5ec6704",
+    "title": "Amid Mythos concerns, FM Nirmala Sitharaman asks financial sector to be 'exceptionally vigilant'",
+    "source": "Economic Times",
+    "summary": "Finance Minister Nirmala Sitharaman has called for heightened cybersecurity vigilance across the financial sector. She highlighted that advanced AI tools are accelerating cyberattacks, making them harder to detect. Sitharaman stressed the need for defense mechanisms to evolve faster than attack meth",
+    "url": "https://economictimes.indiatimes.com/tech/technology/amid-mythos-concerns-fm-nirmala-sitharaman-asks-financial-sector-to-be-exceptionally-vigilant/articleshow/130512761.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 16:06:58 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377412+00:00"
+  },
+  {
+    "id": "a2762a69dd21",
+    "title": "X launches standalone XChat messaging app on iOS",
+    "source": "Economic Times",
+    "summary": "X has launched XChat's standalone messaging app for iOS, offering private and group chats, file sharing, and audio/video calls. The app emphasises privacy with features like message editing/deletion, disappearing messages, and screenshot blocking, while claiming no ads or tracking.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/x-launches-standalone-xchat-messaging-app-on-ios/articleshow/130512088.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 15:21:03 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377435+00:00"
+  },
+  {
+    "id": "d29e6b46e595",
+    "title": "Pine Labs acquires ecommerce enabler Shopflo for Rs 88 crore",
+    "source": "Economic Times",
+    "summary": "Digital payments major Pine Labs has acquired ecommerce enabler Shopflo Technologies for Rs 88 crore, aiming to strengthen its online merchant offerings. This strategic move allows Pine Labs to expand its reach into the mid-market and small business segments, intensifying competition with rivals lik",
+    "url": "https://economictimes.indiatimes.com/tech/technology/pine-labs-acquires-100-stake-in-ecommerce-enabler-shopflo-for-rs-88-crore/articleshow/130511770.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 14:53:18 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377461+00:00"
+  },
+  {
+    "id": "5b036e90b0ea",
+    "title": "ETtech Explainer: Why Nvidia hit $5 trillion market cap; Intel and AMD rally",
+    "source": "Economic Times",
+    "summary": "Chipmaker Nvidia's market value crossed $5 trillion as demand for its AI chips surged. Other chipmakers like AMD and Intel also saw significant stock increases. The rally is driven by rapid AI infrastructure buildout, outpacing chip supply. Read on to find out more.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-nvidia-hit-5-trillion-market-cap-intel-and-amd-rally/articleshow/130511620.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 14:45:39 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377485+00:00"
+  },
+  {
+    "id": "2879f8f0bdc2",
+    "title": "Sam Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
+    "source": "Economic Times",
+    "summary": "OpenAI CEO Sam Altman apologised for not alerting law enforcement about an account banned in June, which was later linked to a mass shooting in Tumbler Ridge, British Columbia. The company had identified the account's \"furtherance of violent activities\" but deemed it below the threshold for referral",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/articleshow/130510511.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 13:01:06 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377510+00:00"
+  },
+  {
+    "id": "120cb607a86d",
+    "title": "India's top five IT firms cut nearly 7,000 jobs in FY26",
+    "source": "Economic Times",
+    "summary": "India's top IT firms saw a hiring pullback in FY26, with the five major players reducing staff by nearly 7,000. This shift from expansion to efficiency, driven by AI and uncertain demand, sees a move towards specialised skills. Despite this, overall industry employment saw marginal growth, largely f",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26/articleshow/130510007.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 12:30:00 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377534+00:00"
+  },
+  {
+    "id": "205dace97d2b",
+    "title": "US judge dismisses Elon Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
+    "source": "Economic Times",
+    "summary": "A US judge has dismissed Elon Musk's fraud claims against OpenAI and Sam Altman. However, the case will proceed to trial on Musk's claims of breach of charitable trust and unjust enrichment. Jury selection begins Monday, with opening arguments Tuesday. Musk seeks $150 billion in damages for OpenAI's",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-judge-dismisses-elon-musks-fraud-claims-in-openai-case-at-his-request-plans-to-proceed-to-trial/articleshow/130509943.cms",
+    "image": "",
+    "published_at": "Sat, 25 Apr 2026 12:16:54 +0530",
+    "fetched_at": "2026-04-25T15:49:53.377559+00:00"
+  },
+  {
     "id": "15614a6d3fdf",
     "title": "iPhone 18 Pro vs Pro Max: What Sets Apple’s Next Flagships Apart",
     "source": "The Hans India",
@@ -280,196 +480,6 @@
     "fetched_at": "2026-04-25T14:52:14.315851+00:00"
   },
   {
-    "id": "4a2d1cbf6e76",
-    "title": "ASUS launches ExpertBook Ultra, P5, and P3 laptops in India with Intel Core Ultra processors",
-    "source": "LiveMint",
-    "summary": "ASUS has launched its new ExpertBook Ultra, P5, and P3 laptops in India. The ExpertBook Ultra starts at ₹239,990 in India while the ExpertBook P5 starts at ₹214,990,and ExpertBook P3 is priced from ₹94,990",
-    "url": "https://www.livemint.com/technology/gadgets/asus-launches-expertbook-ultra-p5-and-p3-laptops-in-india-with-intel-core-ultra-processors-11777109999331.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 15:17:14 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176603+00:00"
-  },
-  {
-    "id": "b0e75f0e017e",
-    "title": "Apple's 20th Edition iPhone: Micro-curved display, new battery tech, A21 chip and expected upgrades",
-    "source": "LiveMint",
-    "summary": "Apple could be working on a quad-curved display for its 20th Edition iPhone that could debut in September next year. The phone could run on A21 Pro processor while packing an all-glass design",
-    "url": "https://www.livemint.com/technology/gadgets/apples-20th-edition-iphone-all-glass-display-micro-curved-panel-new-battery-technology-and-a21-processor-11777103470381.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 14:49:36 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176633+00:00"
-  },
-  {
-    "id": "a081bb29212b",
-    "title": "Meet Sinceerly: Harvard student uses Claude to build ‘anti-Grammarly’ tool to add typos to your AI emails",
-    "source": "LiveMint",
-    "summary": "&amp;nbsp;Harvard student has Ben Horwitz created Sinceerly, a Chrome extension that injects errors into AI-generated text to make it appear human",
-    "url": "https://www.livemint.com/technology/tech-news/meet-sinceerly-harvard-student-uses-claude-to-build-anti-grammarly-tool-to-add-typos-to-your-ai-emails-11777099428793.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 13:02:27 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176653+00:00"
-  },
-  {
-    "id": "41f600fc9f78",
-    "title": "After DeepSeek V4 launch, US accuses Chinese AI labs of using 'unauthorized distillation' to clone Western tech",
-    "source": "LiveMint",
-    "summary": "US has accused Chinese AI firms, particularly DeepSeek, of intellectual property theft in a diplomatic cable, as per a Reuters report. The document warns of risks from distilled AI models that mimic U.S. technology",
-    "url": "https://www.livemint.com/technology/tech-news/us-warns-chinas-ai-is-cloning-western-tech-via-unauthorized-distillation-flags-massive-data-theft-risks-after-deepse-11777092594629.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 11:41:21 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176674+00:00"
-  },
-  {
-    "id": "09c1fd11e8ac",
-    "title": "I gave OpenAI’s new ChatGPT Images 2.0 ten impossible prompts to test its limits, and the results are stunning",
-    "source": "LiveMint",
-    "summary": "I tested the new ChatGPT Images 2.0 model with 10 real-world prompts to check how the model performs in different scenarios.",
-    "url": "https://www.livemint.com/technology/tech-news/i-gave-openai-s-new-chatgpt-images-2-0-ten-impossible-prompts-to-test-its-limits-and-the-results-are-stunning-11777082916053.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 10:02:17 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176691+00:00"
-  },
-  {
-    "id": "72585d5aa0d0",
-    "title": "Big screen and long battery matter for streaming on the go, these 5 tablets get both right",
-    "source": "LiveMint",
-    "summary": "Tablets designed for streaming offer larger displays, better speakers and longer battery life, making them ideal for watching shows, films and online content.",
-    "url": "https://www.livemint.com/technology/gadgets/big-screen-and-long-battery-matter-for-streaming-on-the-go-these-5-tablets-get-both-right-11777029346151.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 09:00:32 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176708+00:00"
-  },
-  {
-    "id": "2749070ed7e3",
-    "title": "Apple to supercharge delayed iPhone 18 with massive RAM upgrade and next-gen 2nm processor: Report",
-    "source": "LiveMint",
-    "summary": "Apple may not release the iPhone 18 this year but when the phone eventually arrives it could feature 12GB of RAM and a new A20 chipset.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-to-supercharge-delayed-iphone-18-with-massive-ram-upgrade-and-next-gen-2nm-processor-report-11777078821852.html",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 07:34:28 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176724+00:00"
-  },
-  {
-    "id": "63dd4da2f049",
-    "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
-    "source": "LiveMint",
-    "summary": "AI smart glasses will help visually impaired runners take on the London Marathon",
-    "url": "https://www.livemint.com/technology/ai-smart-glasses-will-help-visually-impaired-runners-take-on-the-london-marathon-11777047671274.html",
-    "image": "",
-    "published_at": "Fri, 24 Apr 2026 21:51:10 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176737+00:00"
-  },
-  {
-    "id": "2097eac9474f",
-    "title": "You can now ask ChatGPT to find cheap flights with the new Skyscanner integration: step-by-step guide",
-    "source": "LiveMint",
-    "summary": "Skyscanner has launched its app within ChatGPT allowing users in India and globally to search for flights using conversational prompts inside the chatbot",
-    "url": "https://www.livemint.com/technology/tech-news/you-can-now-ask-chatgpt-to-find-cheap-flights-using-the-new-skyscanner-integration-check-step-by-step-guide-11777018517092.html",
-    "image": "",
-    "published_at": "Fri, 24 Apr 2026 14:56:07 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176753+00:00"
-  },
-  {
-    "id": "1e726e2c5dfa",
-    "title": "Did Anthropic ‘dumb down’ Claude Code? Post-mortem reveals the three bugs that crippled performance",
-    "source": "LiveMint",
-    "summary": "Anthropic has acknowledged complaints regarding Claude Code's performance, attributing issues to three updates that affected coding quality.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/did-anthropic-dumb-down-claude-code-post-mortem-reveals-the-three-bugs-that-crippled-performance-11777013226388.html",
-    "image": "",
-    "published_at": "Fri, 24 Apr 2026 13:20:14 +0530",
-    "fetched_at": "2026-04-25T14:52:19.176769+00:00"
-  },
-  {
-    "id": "0bd6599cd014",
-    "title": "DPIIT issues operational guidelines for Rs 10,000 crore Startup India Fund of Funds 2.0 scheme",
-    "source": "Economic Times",
-    "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, has issued the operational guidelines for the Startup India Fund of Funds 2.0, as per a statement released by the Ministry of Commerce &amp; Industry.",
-    "url": "https://economictimes.indiatimes.com/tech/startups/dpiit-issues-operational-guidelines-for-rs-10000-crore-startup-india-fund-of-funds-2-0-scheme/articleshow/130516794.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 19:46:17 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319699+00:00"
-  },
-  {
-    "id": "4a4f3e290c1e",
-    "title": "IPO-bound Flipkart elevates Minutes head Kunal Gupta to SVP amid quick commerce push",
-    "source": "Economic Times",
-    "summary": "Flipkart’s quick commerce arm, Minutes, has elevated Kunal Gupta to Senior Vice President (SVP) from Vice President (VP), according to an internal note seen by ET.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-flipkart-elevates-minutes-head-kunal-gupta-to-svp-amid-quick-commerce-push/articleshow/130516472.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 19:36:08 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319731+00:00"
-  },
-  {
-    "id": "8106b5ec6704",
-    "title": "Amid Mythos concerns, FM Nirmala Sitharaman asks financial sector to be 'exceptionally vigilant'",
-    "source": "Economic Times",
-    "summary": "Finance Minister Nirmala Sitharaman has called for heightened cybersecurity vigilance across the financial sector. She highlighted that advanced AI tools are accelerating cyberattacks, making them harder to detect. Sitharaman stressed the need for defense mechanisms to evolve faster than attack meth",
-    "url": "https://economictimes.indiatimes.com/tech/technology/amid-mythos-concerns-fm-nirmala-sitharaman-asks-financial-sector-to-be-exceptionally-vigilant/articleshow/130512761.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 16:06:58 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319760+00:00"
-  },
-  {
-    "id": "a2762a69dd21",
-    "title": "X launches standalone XChat messaging app on iOS",
-    "source": "Economic Times",
-    "summary": "X has launched XChat's standalone messaging app for iOS, offering private and group chats, file sharing, and audio/video calls. The app emphasises privacy with features like message editing/deletion, disappearing messages, and screenshot blocking, while claiming no ads or tracking.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/x-launches-standalone-xchat-messaging-app-on-ios/articleshow/130512088.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 15:21:03 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319779+00:00"
-  },
-  {
-    "id": "d29e6b46e595",
-    "title": "Pine Labs acquires ecommerce enabler Shopflo for Rs 88 crore",
-    "source": "Economic Times",
-    "summary": "Digital payments major Pine Labs has acquired ecommerce enabler Shopflo Technologies for Rs 88 crore, aiming to strengthen its online merchant offerings. This strategic move allows Pine Labs to expand its reach into the mid-market and small business segments, intensifying competition with rivals lik",
-    "url": "https://economictimes.indiatimes.com/tech/technology/pine-labs-acquires-100-stake-in-ecommerce-enabler-shopflo-for-rs-88-crore/articleshow/130511770.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 14:53:18 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319801+00:00"
-  },
-  {
-    "id": "5b036e90b0ea",
-    "title": "ETtech Explainer: Why Nvidia hit $5 trillion market cap; Intel and AMD rally",
-    "source": "Economic Times",
-    "summary": "Chipmaker Nvidia's market value crossed $5 trillion as demand for its AI chips surged. Other chipmakers like AMD and Intel also saw significant stock increases. The rally is driven by rapid AI infrastructure buildout, outpacing chip supply. Read on to find out more.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-nvidia-hit-5-trillion-market-cap-intel-and-amd-rally/articleshow/130511620.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 14:45:39 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319820+00:00"
-  },
-  {
-    "id": "2879f8f0bdc2",
-    "title": "Sam Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
-    "source": "Economic Times",
-    "summary": "OpenAI CEO Sam Altman apologised for not alerting law enforcement about an account banned in June, which was later linked to a mass shooting in Tumbler Ridge, British Columbia. The company had identified the account's \"furtherance of violent activities\" but deemed it below the threshold for referral",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/articleshow/130510511.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 13:01:06 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319840+00:00"
-  },
-  {
-    "id": "120cb607a86d",
-    "title": "India's top five IT firms cut nearly 7,000 jobs in FY26",
-    "source": "Economic Times",
-    "summary": "India's top IT firms saw a hiring pullback in FY26, with the five major players reducing staff by nearly 7,000. This shift from expansion to efficiency, driven by AI and uncertain demand, sees a move towards specialised skills. Despite this, overall industry employment saw marginal growth, largely f",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26/articleshow/130510007.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 12:30:00 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319859+00:00"
-  },
-  {
-    "id": "205dace97d2b",
-    "title": "US judge dismisses Elon Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
-    "source": "Economic Times",
-    "summary": "A US judge has dismissed Elon Musk's fraud claims against OpenAI and Sam Altman. However, the case will proceed to trial on Musk's claims of breach of charitable trust and unjust enrichment. Jury selection begins Monday, with opening arguments Tuesday. Musk seeks $150 billion in damages for OpenAI's",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-judge-dismisses-elon-musks-fraud-claims-in-openai-case-at-his-request-plans-to-proceed-to-trial/articleshow/130509943.cms",
-    "image": "",
-    "published_at": "Sat, 25 Apr 2026 12:16:54 +0530",
-    "fetched_at": "2026-04-25T14:52:19.319879+00:00"
-  },
-  {
     "id": "58f19d32462d",
     "title": "AI firms flex lobbying muscle on both side of Atlantic",
     "source": "Economic Times",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Sat, 25 Apr 2026 09:40:58 GMT",
     "fetched_at": "2026-04-25T13:20:39.621492+00:00"
-  },
-  {
-    "id": "54a5257d6cac",
-    "title": "iPhone 18 Pro, Pro Max and Ultra dummy units leak, show thicker camera module",
-    "source": "CNBC TV18",
-    "summary": "iPhone 18 Pro, Pro Max and Ultra dummy units leak, show thicker camera module&nbsp;&nbsp;CNBC TV18iPhone 18 Pro Variable Aperture Camera Explained: Real Photo Impact&nbsp;&nbsp;Gadget HacksiPhone 18 Pro dummy unit leak points to a bigger camera bump; iPhone Ultra also spotted&nbsp;&nbsp;91mobiles.co",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUppdi1LT2lqSTlIczBicFMxb21OQkRuZV9YM3BkWXQ0bkplNEZ6Z2ZsbDY4Y1d5VFFwTXM4RnEzc1I1aDlnRWRVeU4waDlhSjlqYWRVZnRIcW1GampoZzY5Y2psQ0xNTDNvQjJ3aXZ1LTg0R2Y3aTZiS3pNdWR2Tk5HSW5QMENxdlZ3a19xVkhyX3c4LU9sVmM3cDVwdjRlV1hFc0d3QVQ3Tk9FRW9vVldJOUdYUXJWS2UxOEJTVWM2MVo0dU9Gc9IBzgFBVV95cUxQYU5CbjRvTm53T09LNzl2WWZTbzBhWDRzNkZidVlkZ3VrMk1OVmpyY3dzV2xKaEpkNDJGeG56M1JFcHkxcm1HcVFWWXJjSjF2WHRaaXUyTmwxMVAxbGFoUkFBbnpvRV9KMF92T3VCUnZxdHFXbXpJWWlBaXozbTV0MGtPc0lEUllqQU5GcWpRY2ZTMWdHTjctWE1SWkszR2dyT0FsbDN0WWx1ZnM5clNycGpMczh3ZEJnMlBCckRFSlZqTG5nNWdZS29uTzNTUQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 24 Apr 2026 09:15:49 GMT",
-    "fetched_at": "2026-04-25T13:20:39.621547+00:00"
   }
 ]
