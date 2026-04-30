@@ -1,23 +1,403 @@
 [
   {
+    "id": "783f69354d19",
+    "title": "'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control",
+    "source": "Gizmodo",
+    "summary": "'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control&nbsp;&nbsp;GizmodoWhere the goblins came from&nbsp;&nbsp;OpenAIOpenAI tells ChatGPT models to stop talking about goblins&nbsp;&nbsp;BBCOpenAI Explains Its Goblin and Gremlin Infestation&nbsp;&nb",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlF1NnRSdWtDSkFrU3dIZXowWWhqd2k3dXJUQ0E1WUl1VENGN3diQl9nMFhMRVRXYy1uYjYtamd6RUN0eDZJanpXZXNxVzA4cm1QdzlIQ0hSMzBpWXo5QU9ERWFNajFRUThtZ3RwZUlmT0xneE5JSVI5Y20wT2JzVDg2d1lRdWxQWTQ2LWxxajRjVV95ZzBzU3NCdzNOUlJyOUNEVC1JaHM2TEUweVQ5LXEzRXZ2c1A2dTU4M1lfRFlmWHBhRXJOU1dB?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 16:45:51 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508483+00:00"
+  },
+  {
+    "id": "a6b7bc413e5f",
+    "title": "Google expands ‘Preferred Sources’ to everyone so you actually see your favorite sites",
+    "source": "9to5Google",
+    "summary": "Google expands ‘Preferred Sources’ to everyone so you actually see your favorite sites&nbsp;&nbsp;9to5GooglePreferred Sources is now available in all languages.&nbsp;&nbsp;blog.googleSave the Internet by Setting Preferred Sources in Google Search, Discover&nbsp;&nbsp;Droid LifeGoogle’s Preferred Sou",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOW1ubFh2Y2RpZUtlYmdoU2stcWpWeExKVzMta1lBSklyblg1RnhlQ1cxbnRsS09SY1MyckpiZEZjSERDS0FKZzJGSWdxRWFocUh2WVRlZEp4WndGend1NFVJUU5JVGJvQWJaQzFoMV9QS2gtTU55X0pTN0g0dHZjZDB0dy1IdXdrVC1tTW93?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 15:50:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508541+00:00"
+  },
+  {
+    "id": "aacf46b0c667",
+    "title": "‘You can be any Bond you want’: the inside story of 007 First Light",
+    "source": "The Guardian",
+    "summary": "‘You can be any Bond you want’: the inside story of 007 First Light&nbsp;&nbsp;The GuardianEarn the Number: A 007 First Light interview and hands-on&nbsp;&nbsp;Epic GamesI Played the New 007 James Bond Game. It's Hitman With a Heart&nbsp;&nbsp;CNETThe new James Bond barely resembles 007’s past — and",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRU9YVXRhVGVxa1VnMWVacmVfMkd0dVBRSVd3eFBlb25uU0VBN3JKN3VoZW9pbmkxdmxpZDNsRFNQdUdPM1BKQ2pzRDY4MlJybWxVWTFsSjk3THQ1VDlHdVNNQjBYUkFfY2lpR2M2TTlKS2RFOXVoRWdpM0ktR2pVUFFUamNwODBMQnNrZUFicGpnVFNvV2tNQjJiN3BCakFiRnh2djA2dDRaS3pQRXln?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 15:02:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508582+00:00"
+  },
+  {
+    "id": "5d0d930a113f",
+    "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+    "source": "TechCrunch",
+    "summary": "Hackers are actively exploiting a bug in cPanel, used by millions of websites&nbsp;&nbsp;TechCrunchThe Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)&nbsp;&nbsp;watchTowr LabsCritical cPanel Authentication Vulnerability Identified — Update Yo",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVkxZzNyb0JtM25iWjhETUlKV3JvRUZGSnd1ajFhVDhRd1JGNDhPRHVmSmJXWHc2Q0RjWTZ0S3Y4V0RjZ19KUURwYkQ1V0ZUYWVScDdYN3piM3I4WTI4aEpMcGRiZW1LLW5ocjgxNm9VU3pxZ0s2MDB0bk53bjUyY2VaZmtROFBPY1paOExVSGdhUkhMXzZaRW9oeDZMelBPWVVCUDRpdndYalJYODBrWA?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 19:36:53 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508622+00:00"
+  },
+  {
     "id": "47479a3587bd",
     "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today",
     "source": "Xbox Wire",
-    "summary": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today&nbsp;&nbsp;Xbox WireNew ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More&nbsp;&nbsp;Xbox WireMicrosoft’s DLSS competitor is now available on the Xbox Ally X handheld&nbsp;&nb",
+    "summary": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today&nbsp;&nbsp;Xbox WireMicrosoft’s DLSS competitor is now available on the Xbox Ally X handheld&nbsp;&nbsp;The VergeROG Xbox Ally X Finally Gets Auto SR Support, Plus New Docked Mode Features&nbsp;&nbsp;Digital FoundryMicrosoft is Finally ",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52VF8wcC15X2hZazRUTTZ1Y2hNZHVuNks5RVF3UHBlaFJ4WDBsTElTYUVqMnlVc3BJZXZ0UFA2T3o0b1IyLWs1UmF6ekdLdnU2SkF5b3Q3U1VweWRnYXRRa1RNSVN6UzJKaXdjTnVHWkU?oc=5",
     "image": "",
     "published_at": "Thu, 30 Apr 2026 19:02:20 GMT",
-    "fetched_at": "2026-04-30T21:08:24.118960+00:00"
+    "fetched_at": "2026-04-30T22:58:49.508661+00:00"
+  },
+  {
+    "id": "620435852a23",
+    "title": "Training language models to be warm can reduce accuracy and increase sycophancy",
+    "source": "Nature",
+    "summary": "Training language models to be warm can reduce accuracy and increase sycophancy&nbsp;&nbsp;NatureFriendly AI chatbots more prone to inaccuracies, study suggests&nbsp;&nbsp;BBCFriendly AI chatbots more likely to support conspiracy theories, study finds&nbsp;&nbsp;The GuardianRude to ChatGPT? Don’t be",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wcUdVWXcyc1M5aS1VZlB0blN1eUlFWTFlUENTTVBJYVlaRUlHeUdQS2xVNU1EZEt4NWVVd2lLREZlSThCZnpETlk1OFptVkZUdy0zTFl5UGhLTW1HNWRv?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 15:03:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508700+00:00"
+  },
+  {
+    "id": "716ea58a2f5c",
+    "title": "I fixed ChatGPT’s biggest weaknesses — these 10 prompts instantly improve its answers",
+    "source": "Tom's Guide",
+    "summary": "I fixed ChatGPT’s biggest weaknesses — these 10 prompts instantly improve its answers&nbsp;&nbsp;Tom's GuideChatGPT isn’t a mind-reader. Use this prompt for better results&nbsp;&nbsp;PCWorld8 AI Prompting Tips to Get Better Answers From Chatbots&nbsp;&nbsp;eWeek",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVliUTJEWTNLR0pnZGt3WmV2NmFqZHE5Y0FoV0N2Q1F6REpvNmkyUHpEZWFTQ0JUSmRBc2dnZmpjdG55ZHUzdHphTXR5T1pXdG45bTQtNmlNUHhQZFpKLWpxWmFIVkVlYVF4X0xpTlNGTjMxeFgtcWE3UjFsZ1NnRlJwTVVsNDlfYmxJTmo1QzkzbXE0Umh4Y3BvV1ZCNndMeldic3Rib2gzelQtUzkxaw?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508729+00:00"
+  },
+  {
+    "id": "4030d81a80f4",
+    "title": "Google just gave its biggest hint that ads could come to Gemini",
+    "source": "Business Insider",
+    "summary": "Google just gave its biggest hint that ads could come to Gemini&nbsp;&nbsp;Business InsiderGemini’s clean chat interface may not stay ad-free for long&nbsp;&nbsp;Android AuthorityGoogle Signals Possible Ads in Gemini AI Platform&nbsp;&nbsp;Android HeadlinesGemini May Not Stay Ad-Free for Long&nbsp;&",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UYXNYdU9tUmVzSTJleThDY3JvUWZCQ1hSbkRfSGhxZWZqYzJwa3g3Y0s1aGhlLXU5bnB2X3V1TEVBMHRhSm92Z2dUay1ZbXU0b0ZYRkNIeG1JN3ByN1VSdEtEbDRiY3dnSUtHWWJmbVVOSHZ1LWZkTw?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 22:32:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508767+00:00"
   },
   {
     "id": "f3e867eb4c14",
-    "title": "The most severe Linux threat to surface in years catches the world flatfooted",
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
     "source": "Ars Technica",
-    "summary": "The most severe Linux threat to surface in years catches the world flatfooted&nbsp;&nbsp;Ars TechnicaNew Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions&nbsp;&nbsp;The Hacker News‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover&nbsp;&nbsp;SecurityWeekUrgent w",
+    "summary": "The most severe Linux threat to surface in years catches the world flat-footed&nbsp;&nbsp;Ars TechnicaNew Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions&nbsp;&nbsp;The Hacker News‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover&nbsp;&nbsp;SecurityWeekUrgent ",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDU5TDZDOUpzcVVNZ0FnaFg5UWFVV3huM09OS2ZnSllqRnlXOUxtT0dnX081N3lDSGRhRF91V3ZrVVhpcnpscXk1dEZydDJ2SEZBSzhMMGlnRUU3eUxpTUdGcDRGdl9FOGdWa1JGN1o0ZWRJNXVnVmtNN2RZaXE3MHhLQUZCQTVWOHAwWmRUZzM4UUJRQ3laamx3X0g1MW56UDFlb2c5eTQ3b0x0R2tmbg?oc=5",
     "image": "",
     "published_at": "Thu, 30 Apr 2026 20:20:48 GMT",
-    "fetched_at": "2026-04-30T21:08:24.119011+00:00"
+    "fetched_at": "2026-04-30T22:58:49.508805+00:00"
+  },
+  {
+    "id": "8dc25464546d",
+    "title": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin",
+    "source": "9to5Google",
+    "summary": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin&nbsp;&nbsp;9to5GoogleExclusive: Samsung is making Galaxy Books laptops with Android and One UI&nbsp;&nbsp;SamMobileSamsung’s leaked Android Galaxy Books are already muddying the waters for Project Aluminium&nbsp;&nbsp",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXpoXzI5anlobVI3aVgwaTNyVmcyb1EwejVLLUlqeEtreHZwbHpvZlNqMDl1X0JDSXNwM3g5bDFram1fbkVZSUY3R2FSN2pfNE1CT3IxSlRFdDkwcFdJNWtyS095T1FaUEVqUDZDSXRfQmVEQ0xJdHBYZDI3YVVwaDc1MA?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 13:10:00 GMT",
+    "fetched_at": "2026-04-30T22:58:49.508843+00:00"
+  },
+  {
+    "id": "dbe9db467e8b",
+    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+    "source": "The New York Times",
+    "summary": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks&nbsp;&nbsp;The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEVIQlVZOC1CTzJIT3dkM1BCNFFKZmVTSjRIRTdFb0wtelJYN205dnZscnhWVkJ0QmdjMGhtV3RtSl9RSjNRMkVRSkRrb3BwYmVYcy1IMVhLZkRqZFBueTEyVTY5dElISnkwQXN3SFBJc3lzeDJJMkxnTFZ4NWFkbzNCWE9Idw?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 16:23:00 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005316+00:00"
+  },
+  {
+    "id": "0637bf4e87a4",
+    "title": "Gartner sees untamed growth in agentic AI",
+    "source": "Computerworld",
+    "summary": "Gartner sees untamed growth in agentic AI&nbsp;&nbsp;Computerworld",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVOUVRSSDRtN2xPZF9hckVGYmFqdWRka1hhZFE1eEtadWtwQzB5RGc5bE0zV3YwN0lBTW9VUUlpZTk3SUxJTUIxS0h0cDZvRlhiUVdmSWtMQThCVy0xMzE3QWZZZjNNNTJYZWd0c1VWZnRaNlNDRU9yRFVxWVNudW9uZWpEUXNmczNTcWZDSEhIUTcwWERn?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 17:07:12 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005340+00:00"
+  },
+  {
+    "id": "d22fcdada1c3",
+    "title": "John Warner on Battery Supply Chains and Industry Consolidation",
+    "source": "Battery Technology",
+    "summary": "John Warner on Battery Supply Chains and Industry Consolidation&nbsp;&nbsp;Battery Technology",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXhJTkU5WXZPQmdxcXpXemxCcGpFUWk0R1FEZmtVMmxoaTRJT1ZIZUt3SE5qV2hwMnJUanRuUjE0elA2U1oycTgwRVVUNmlxakNjWTdfMmplMlp3Mjd0N0E4X2V0Y2k2VGJCNXVROWctT3NqWW96LVlVUThWWGtXVW5EWWNpdlh4VmtrX2c3Q2xQM21OUExOVTZyeTlYa0xrUTdEQndXVGN3TGxMMmZlWlhpNW5NOFZFSkZsWGRKRzdueUFRRGpRaTZ2NA?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 14:05:37 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005356+00:00"
+  },
+  {
+    "id": "f905bfd0e433",
+    "title": "Hospitality's tech crossroads: Staying human in an increasingly digital industry",
+    "source": "PhocusWire",
+    "summary": "Hospitality's tech crossroads: Staying human in an increasingly digital industry&nbsp;&nbsp;PhocusWire",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1NlOEN3dkZnQlNsMkdseDctdVhHWmk0TmJLVEswWVNBNUpVcWNYRHFNemczZWdiX1RQZUVPcWJidWw3eVZydWJJT0QzS1FlZHRXX1hmNVQzcy1DaEZ3dENOeE1Hak1sNlMzQ3o5d2hLWHp2WGFvOE45a2tUMDhVVV83c0Z1WktsRDFiNmNrRDY0TTJ5bzNoRU5wR1JDYTJhNTJjQnNYOHN6LXRKbVJEU3ljMmIxLUpBZ0g2WDBaMA?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 07:04:56 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005370+00:00"
+  },
+  {
+    "id": "0389dec7ac14",
+    "title": "Xeriant Attracts Strong Multi-Industry Demand for Its Breakthrough Fire-Retardant Technology",
+    "source": "GlobeNewswire",
+    "summary": "Xeriant Attracts Strong Multi-Industry Demand for Its Breakthrough Fire-Retardant Technology&nbsp;&nbsp;GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWdpUGNzOTBDdVBzWHlfQ0dWaWx1VjQ5WU9VLXpsQzhzODBsbkY0YVFoS1FOMlhVU1J3elZtWS1aVjFSMy1MUG5DekhiV0hLODR3ZTFkYUNNQU9RN3RFRktiMUZ4X2tQSGd3SldkbFJRRTRiMlRSRFhnQ0xrbWVDUWZ5a2VDcmcxY0N6cmJRVWFXZjFMNlp6bE02bVFJR21GcXp4TVpzTXNjZnVOLXI0YjdJcDlfSzQ4OFRoM0dUaDBsSm5yQ1dQZkdPdFBGREktc0Q4NDMyX0hJRVlfaS1taXFrR0c4YnFDbFdWZnJLMnNCcTVEelhJ?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 13:25:00 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005384+00:00"
+  },
+  {
+    "id": "07ee0f8cbf0d",
+    "title": "2024 Technology Industry Outlook",
+    "source": "Deloitte",
+    "summary": "2024 Technology Industry Outlook&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTBXYkFtQVdpNERDWmhMVUFDN1FxbVhBWGFRdlZOS3gwUzlPaFJ3RzlSVkxrLU9mdGdzaUtjOERJSjJfdzdURHZQX0VCOGE2bXFlUm9tTjl6N1hxZHA1SS1xVnFjZjZtUFQzdFRBc0RndUtHdi10V3BUZUJsUDVEUTEwdmpvRU51bWQ4WUVxU2c?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Apr 2026 12:09:20 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005395+00:00"
+  },
+  {
+    "id": "3442e4fe92aa",
+    "title": "McKinsey Quantum Technology Monitor 2026: A commercial tipping point",
+    "source": "McKinsey & Company",
+    "summary": "McKinsey Quantum Technology Monitor 2026: A commercial tipping point&nbsp;&nbsp;McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzJHYXotUUgxbmdfazdIMnVxNWllTm0xWGVTR19OcF9DT1RlcUEzN3hmd1NKclNVUlItUm5naWlFOHk2Tk83cU1PbXVRbkljYzgzeVhLS1pCbkVYU0F1eWRzNThCdkRlUTJTQVlhT3A1UGw1ekctaWZsSTVzX21HWFM1TzBlRHhpZC1CSzdTbFJKbF9ZNUNndVpka3JmQ1BZQjA0YW1ReUd2YW9jcGh0WkRrS2h6N0p3NWpjcHZGLUcyU0RHTGFvM0JfMjFsYkJ3VDNsbg?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005409+00:00"
+  },
+  {
+    "id": "2b90d8ae6fbd",
+    "title": "Innovation, Tech, and Policy Leaders Focus on Rebuilding America and Outcompeting China",
+    "source": "Council on Foreign Relations",
+    "summary": "Innovation, Tech, and Policy Leaders Focus on Rebuilding America and Outcompeting China&nbsp;&nbsp;Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2l3QWxIdUxOOXZuRWphZzNJeEdWVzVuQS1pWl8zX2NvNHF5LWQ1Q2pWVS1qeFlaWlVyNjBLSXRFWnNjNV9tdnp2allLRjZVcmVBOWZrU29WVGJ4dmFndVUzaXFQRkxQU2FmQ3NXcjM3bDVsNDZBSGI5YWhiZWpFUDVEM01ET3F2V0NuaXR5aV83U05LN1otVlFHZlZGQk5Yamc0LTJQUDZnZXAtTWdDRzcwcjg?oc=5",
+    "image": "",
+    "published_at": "Mon, 27 Apr 2026 19:02:45 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005423+00:00"
+  },
+  {
+    "id": "c3c1126d01bc",
+    "title": "How a surge in defence and dual-use technology investment could reconfigure the global AI race",
+    "source": "Chatham House",
+    "summary": "How a surge in defence and dual-use technology investment could reconfigure the global AI race&nbsp;&nbsp;Chatham House",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeS1sTlNhUUpial96ZmI0UWptaXF5OTJLSHNYbG1FelFVNXkzOVN5amZxanRhdmlxZEZaUkZVR0hWQl83TS0xMUhnQnoyY1BlSEx4TlB0SFZVd3VRY2lFcURFWWZzeUN5M2JpWldycnJiQlZEcFE3UWxUUTFUMHcxbFNHWS1UNmR1MTdGUUV6V3o0QlBveWwyUVZFcUFvSzBBaU82YUsxSVYtNkhmVm5lekhGM3lVWGhkME9FeDhoOHFiYUk?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 09:01:20 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005437+00:00"
+  },
+  {
+    "id": "9e6e00d648f9",
+    "title": "SOCOM seeks industry, research, nonprofit help in new technology adoption",
+    "source": "Stars and Stripes",
+    "summary": "SOCOM seeks industry, research, nonprofit help in new technology adoption&nbsp;&nbsp;Stars and Stripes",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTUUlDUFRuTGI2QWtMVDdkRDdBeXY4dVhrOV90RTVjb0tOMUlfMFBreDNPWjVFRlh5RDM0cy10SGg2T2p3eG5MUXRGaXpHbmhyNC1FRk1Bem0wWXo5RENJMUVfaTdCbjBlRkNodGVPamJfN19UbEcxeXBTWVhUd29hbUN2aVBuMTFsdTh3RTlPZ19KM0JzUDhhZ3dveGF1cGRzYWRmRHE?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 20:06:22 GMT",
+    "fetched_at": "2026-04-30T22:58:50.005451+00:00"
+  },
+  {
+    "id": "94571cdb7ffb",
+    "title": "AVGO Rides AI Boom: Explosive Growth in Semiconductor Fuels Outlook",
+    "source": "Yahoo Finance",
+    "summary": "AVGO Rides AI Boom: Explosive Growth in Semiconductor Fuels Outlook&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGR5TXB5Rm1BNEZ1ZExIX2t6Z1oxNmxrTUhucjJKVm42dDY4S2dVWWRhYjA2M0dRRlVuNFZQZEtmc3Z3aklDYjNnMU9lN3dvQmFBaFV5UnBJeFhBNVEzV1JORm1TWERaVVl2ZjJhdXVhMk5FRF90NVJISEdhUHlZaWw2VFdEV215b3FsbXVySTdRcHQwZGs0QlU2Y0o5UQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 18:06:00 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141428+00:00"
+  },
+  {
+    "id": "47952a3a6f26",
+    "title": "Memory chipmakers hope AI frenzy signals end to boom and bust",
+    "source": "Financial Times",
+    "summary": "Memory chipmakers hope AI frenzy signals end to boom and bust&nbsp;&nbsp;Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWR6ZFZLYlVtUS1NanAwV25iZWtaOEZvQ29hbUR2TnFrX3dDSW9tOTFGSU5OSzJxNmE5ZmNqREk1Zmc1dFVZdzhxRHlWSVJjNWRXSDZDSHZOb19YVHUtcm16Q1Vyd0VFQ1JWVDFBRGMxdTVRTHZuSjJCWGcxZGx1QmtfRFk?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 04:01:38 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141450+00:00"
+  },
+  {
+    "id": "62c515b1abc6",
+    "title": "Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA)",
+    "source": "Seeking Alpha",
+    "summary": "Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA)&nbsp;&nbsp;Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2xic2NVTUYyandhclFRdnFEQ3BTeXFVUjA2VzhKendxZTkySngzaU9jcEp6ZDRJSlE0N1d6VDFRVldyWW8zM19sbm0zZVNwdUpobllMeFJCbV9fa2NSU2swNGlwZFM5c24wSDc0R3BITmEzN3U2dTB5RTQxYnZsTndqNGlwMXZHNzFBejh6WDg4VjRHdEJB?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 21:40:04 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141464+00:00"
+  },
+  {
+    "id": "e70720567102",
+    "title": "How toilet maker Toto turned its ceramics know-how into an AI play",
+    "source": "Nikkei Asia",
+    "summary": "How toilet maker Toto turned its ceramics know-how into an AI play&nbsp;&nbsp;Nikkei Asia",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb0pWU1N1S3czRzB4QUk5RGIzOU1HaEZDMXkyWjNfZHA1SGZVWkJUWjZqSDJ2clBuS2lISmRjREpNUmJMVDNIOEV2SG9XbG1VWGVsajBwZ2k2ZUlSYVVhYmFFRWs3NmJrNVA0bmJDaUZmWk9fTEJoMk9MMVdTSTVKM3JQdV9SV0N2ajlKZUJqMVAwaHR1NWVCSmpqamVtV0NFRUpIX3FRM0V1QndmSTlVaVlHSmVXTjJDTW9F?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 08:06:00 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141478+00:00"
+  },
+  {
+    "id": "0794266c5d88",
+    "title": "Are Semiconductor Stocks The Market's 'North Star'? AI Chip Demand Powers Record Tech Share",
+    "source": "Benzinga",
+    "summary": "Are Semiconductor Stocks The Market's 'North Star'? AI Chip Demand Powers Record Tech Share&nbsp;&nbsp;Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0RhNXR6VDJVRXpuZFZCdkJXN1d2OHZGSlpqaWI3WDRMUHNDZ2dmeEJWZl90V3dDc3F4d1RZa3NvS1M3WXpQWmt6akM3RFlxWS1IX29iMlMtRlRVam1yblFQb1RYdUlsZnVyMDZldm9nTWZmTXBwQVpycERDTFI1eE41N3Qwc0RGckNkcU54Y2lrajJrVXd0WU9nYlNFQUNhQWJWb3RDX3dQMnZpT2Qwb1NUM01oYTZFWUx4NjAxdENSQmg3eFJjZWZ2cUhuN1BWbmktNkNDbw?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 12:25:37 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141493+00:00"
+  },
+  {
+    "id": "733f606bd4f3",
+    "title": "War or Peace, the Artificial Intelligence (AI) Chip Industry Just Learned Depending on One Route for 30% of Its Helium Is Risky",
+    "source": "The Motley Fool",
+    "summary": "War or Peace, the Artificial Intelligence (AI) Chip Industry Just Learned Depending on One Route for 30% of Its Helium Is Risky&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBybjRVc1pUWVNmMU5JSkVqLUQ4NXlqZThNVXM2ZlkwVklHOVg0V3Y2Mk56dnp6MUZYZlBIRjhvZGtoc3FfWVQtMElIc1dFdXp1dTZDWUFiZzZ1ZU9DbkIyZDJQRzFpTlN1Y2cxeDZoOXNELUx6VVpKZlBqMDZNelNlc2JYMUo2OXE2Smo0WWZ3UTctWFl6LQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 19:16:00 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141512+00:00"
+  },
+  {
+    "id": "960700575b09",
+    "title": "Why AI Chip Hype Falls Apart in Production",
+    "source": "Built In",
+    "summary": "Why AI Chip Hype Falls Apart in Production&nbsp;&nbsp;Built In",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SHZiSTlaVURqalZxcUFXM1ZFdzFJNXRibHhrYURldW52bDNFYks1Smw4RjJ1UnVJQlJaN3c5WjdDM3FCcFNOcWJzRzEtcWx1M3N1a1VsQ09DWmdVWGRiWmJwRlQyVzhV?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 17:05:43 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141524+00:00"
+  },
+  {
+    "id": "60661e5f216a",
+    "title": "3 Top-Ranked AI Semiconductor Behemoths to Tap the Space's Rally",
+    "source": "TradingView",
+    "summary": "3 Top-Ranked AI Semiconductor Behemoths to Tap the Space's Rally&nbsp;&nbsp;TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy1ydXhIaW9tV2FMdjlGY3NLSTJ0VWV1cHZ3WUxMXzl2YzRuSUVrcmljeEVaSm5TWjllbEZmMU5fVFpRb2FaMk55T2FOR1Z6UVJ0dmRtanc3RGZkYWdWdmZyaXZvN1dkaXB1VEZuRFlvRzdDbXRKY2tfNHhFcUVkNVN1MTVkblR3RkFvbUJ1SS00Zm1hYkFoOUZMX3NYby1wMldoQzNNeXR5ZEhvXzg2b0ZCa3ZlMFVMbC1TYw?oc=5",
+    "image": "",
+    "published_at": "Mon, 27 Apr 2026 13:05:00 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141538+00:00"
+  },
+  {
+    "id": "4b13fb011a0b",
+    "title": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand",
+    "source": "South China Morning Post",
+    "summary": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand&nbsp;&nbsp;South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1Y0SkhrajNXTmxXeS1kUEgtLWxseEdiUmFXb2pZLWwyTGNYTkJNZ0NEdHgtZzRrRGZSUnJxTjVzVzBBcUtCem91UWJ2eVJ0cmhlc3BjWDIzaF8zWU5BU2U5dlhLQVZTZUEtaWgzV3F2VnlJVDRwaFJiSjdLXzNxRnIwQ0gxMUpEdzQ1eFJhc29zUjJKc0VmaXZiQVVvN090LUxJbFJvQ04xcnB0RFc3ejhqSjM0U2dXLWVHU0JWWUtPMzdMNWZQdjRxb9IBywFBVV95cUxPNkdpaG03VWwydjUyN0Z6YWJ6Q3lKSlhiUmhlUjFjVjV6MjhwTHduYlp3SWFIYVE2Mmtyd1ZEYWQyTmlVamZwSjl5dEoyV2EwM3FNc1lPcnpsT0lpYjhRX2d5UEJNM29zNXp4WklrQVl1eU8ydk84X1FOM3dtdDdfMG1rbEtEenJvWmFsR25xV2pUMVhDb1BURGJBY0IyU19jZmdQQjhFUWlEWTlMaE9HcTczXzNPNWk1R24wXzJ5ejNJUXVDTTg4ZVB4QQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 27 Apr 2026 14:00:35 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141559+00:00"
+  },
+  {
+    "id": "100c22bd6e54",
+    "title": "Is Buying This Semiconductor ETF the Best Way to Invest in Artificial Intelligence (AI) Stocks?",
+    "source": "Yahoo Finance",
+    "summary": "Is Buying This Semiconductor ETF the Best Way to Invest in Artificial Intelligence (AI) Stocks?&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTBYZGJGTl9xOUxmZ0NWQ0E0OUo4bFp0bF9Cbnh5Y1dRY0toYlFJbG40NzgxbDNXby1mb2ZuMjJKX3VfU3JRbFJPcGM0dC1rOHAyWFBZQ2RSUHFtU2d0WXdUZkhDTXVxaWZBd3lxNW8xZXhUcTVtRV9oMXdDZUpBYnVVWXVfWkE1aUhpbDlvYm02YzFFNUhLcUtXTnM3WV9NcmlyUQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 15:50:00 GMT",
+    "fetched_at": "2026-04-30T22:58:51.141575+00:00"
+  },
+  {
+    "id": "ebe6abbf73bf",
+    "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+    "source": "TechCrunch",
+    "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended direct",
+    "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+    "image": "",
+    "published_at": "Thu, 04 Dec 2025 05:37:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.445472+00:00"
+  },
+  {
+    "id": "6aac02d1f4a7",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "source": "TechCrunch",
+    "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content cr",
+    "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "image": "",
+    "published_at": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.445921+00:00"
+  },
+  {
+    "id": "d6588d418b59",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
+    "source": "TechCrunch",
+    "summary": "&nbsp;In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only emp",
+    "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "image": "",
+    "published_at": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.446393+00:00"
+  },
+  {
+    "id": "071402f71008",
+    "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
+    "source": "TechCrunch",
+    "summary": "&nbsp;In this article, we explore the top 10 AI tools that are driving innovation and efficiency in various industries. These tools are designed to automate repetitive tasks, improve workflow, and increase productivity. The tools included in our list are some of the most advanced and widely used in ",
+    "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
+    "image": "",
+    "published_at": "Wed, 25 Jan 2023 19:52:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.447159+00:00"
+  },
+  {
+    "id": "08835a787364",
+    "title": "Top 10 AI Content Generator & Writer Tools in 2022",
+    "source": "TechCrunch",
+    "summary": "Are you looking for a way to create content that is both effective and efficient? If so, then you should consider using an AI content generator. AI content generators are a great way to create content that is both engaging and relevant to your audience.&nbsp;There are a number of different AI conten",
+    "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
+    "image": "",
+    "published_at": "Tue, 15 Nov 2022 08:58:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.448181+00:00"
+  },
+  {
+    "id": "59fde58c53dc",
+    "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
+    "source": "TechCrunch",
+    "summary": "Image by vectorjuice on FreepikIn this CJ Affiliate guide, I will share with you everything you need to get started on the platform, I will give you an in-depth look at the network and how it works.You will learn how to earn money with the platform. If you're not interested, I'll share some of the b",
+    "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
+    "image": "",
+    "published_at": "Sat, 10 Sep 2022 08:57:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.448673+00:00"
+  },
+  {
+    "id": "c9a51bd59628",
+    "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
+    "source": "TechCrunch",
+    "summary": "&nbsp;&nbsp;&nbsp;The marketing industry is turning to artificial intelligence (AI) as a way to save time and execute smarter, more personalized campaigns. 61% of marketers say AI software is the most important aspect of their data strategy.&nbsp; If you’re late to the AI party, don’t worry. It’s ea",
+    "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
+    "image": "",
+    "published_at": "Wed, 13 Jul 2022 15:25:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.449235+00:00"
+  },
+  {
+    "id": "05af36d15aeb",
+    "title": "Most Frequently Asked Questions About Affiliate Marketing",
+    "source": "TechCrunch",
+    "summary": "There are lots of questions floating around about how affiliate marketing works, what to do and what not to do when it comes to setting up a business. With so much uncertainty surrounding both personal and business aspects of affiliate marketing. In this post, we will answer the most frequently aske",
+    "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
+    "image": "",
+    "published_at": "Wed, 01 Jun 2022 13:03:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.449609+00:00"
+  },
+  {
+    "id": "8dde3734dc3a",
+    "title": "What is Blockchain: Everything You Need to Know (2022)",
+    "source": "TechCrunch",
+    "summary": "If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, these methods may become old.Imagine a world in which you can do transactions and many other things with",
+    "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
+    "image": "",
+    "published_at": "Mon, 18 Apr 2022 05:49:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.450072+00:00"
+  },
+  {
+    "id": "9e9611266d4d",
+    "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+    "source": "TechCrunch",
+    "summary": "ProWritingAid VS Grammarly:&nbsp;&nbsp;When it comes to English grammar, there are two Big Players that everyone knows of: the Grammarly and ProWritingAid. but you are wondering which one to choose so here we write a detail article which will help you to choose the best one for you so Let's startWha",
+    "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
+    "image": "",
+    "published_at": "Sun, 13 Mar 2022 15:04:00 +0000",
+    "fetched_at": "2026-04-30T22:58:57.450491+00:00"
   },
   {
     "id": "14961be286c8",
@@ -40,16 +420,6 @@
     "fetched_at": "2026-04-30T21:08:24.119067+00:00"
   },
   {
-    "id": "aacf46b0c667",
-    "title": "‘You can be any Bond you want’: the inside story of 007 First Light",
-    "source": "The Guardian",
-    "summary": "‘You can be any Bond you want’: the inside story of 007 First Light&nbsp;&nbsp;The GuardianEarn the Number: A 007 First Light interview and hands-on&nbsp;&nbsp;Epic GamesI Played the New 007 James Bond Game. It's Hitman With a Heart&nbsp;&nbsp;CNETThe new James Bond barely resembles 007’s past — and",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRU9YVXRhVGVxa1VnMWVacmVfMkd0dVBRSVd3eFBlb25uU0VBN3JKN3VoZW9pbmkxdmxpZDNsRFNQdUdPM1BKQ2pzRDY4MlJybWxVWTFsSjk3THQ1VDlHdVNNQjBYUkFfY2lpR2M2TTlKS2RFOXVoRWdpM0ktR2pVUFFUamNwODBMQnNrZUFicGpnVFNvV2tNQjJiN3BCakFiRnh2djA2dDRaS3pQRXln?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 15:02:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.119096+00:00"
-  },
-  {
     "id": "a95601264f7a",
     "title": "The new Fire TV OS is for Amazon, not you",
     "source": "PCWorld",
@@ -58,16 +428,6 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 13:00:00 GMT",
     "fetched_at": "2026-04-30T21:08:24.119123+00:00"
-  },
-  {
-    "id": "620435852a23",
-    "title": "Training language models to be warm can reduce accuracy and increase sycophancy",
-    "source": "Nature",
-    "summary": "Training language models to be warm can reduce accuracy and increase sycophancy&nbsp;&nbsp;NatureFriendly AI chatbots more prone to inaccuracies, study suggests&nbsp;&nbsp;BBCFriendly AI chatbots more likely to support conspiracy theories, study finds&nbsp;&nbsp;The GuardianRude to ChatGPT? Don’t be",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wcUdVWXcyc1M5aS1VZlB0blN1eUlFWTFlUENTTVBJYVlaRUlHeUdQS2xVNU1EZEt4NWVVd2lLREZlSThCZnpETlk1OFptVkZUdy0zTFl5UGhLTW1HNWRv?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 15:03:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.119149+00:00"
   },
   {
     "id": "0c2beeb815aa",
@@ -80,16 +440,6 @@
     "fetched_at": "2026-04-30T21:08:24.119188+00:00"
   },
   {
-    "id": "8dc25464546d",
-    "title": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin",
-    "source": "9to5Google",
-    "summary": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin&nbsp;&nbsp;9to5GoogleExclusive: Samsung is making Galaxy Books laptops with Android and One UI&nbsp;&nbsp;SamMobileSamsung’s leaked Android Galaxy Books are already muddying the waters for Project Aluminium&nbsp;&nbsp",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXpoXzI5anlobVI3aVgwaTNyVmcyb1EwejVLLUlqeEtreHZwbHpvZlNqMDl1X0JDSXNwM3g5bDFram1fbkVZSUY3R2FSN2pfNE1CT3IxSlRFdDkwcFdJNWtyS095T1FaUEVqUDZDSXRfQmVEQ0xJdHBYZDI3YVVwaDc1MA?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 13:10:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.119222+00:00"
-  },
-  {
     "id": "aaec1fef79cf",
     "title": "The hidden cost of Google’s AI defaults and the illusion of choice",
     "source": "Ars Technica",
@@ -98,96 +448,6 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 11:00:31 GMT",
     "fetched_at": "2026-04-30T21:08:24.119238+00:00"
-  },
-  {
-    "id": "dbe9db467e8b",
-    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
-    "source": "The New York Times",
-    "summary": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks&nbsp;&nbsp;The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEVIQlVZOC1CTzJIT3dkM1BCNFFKZmVTSjRIRTdFb0wtelJYN205dnZscnhWVkJ0QmdjMGhtV3RtSl9RSjNRMkVRSkRrb3BwYmVYcy1IMVhLZkRqZFBueTEyVTY5dElISnkwQXN3SFBJc3lzeDJJMkxnTFZ4NWFkbzNCWE9Idw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 16:23:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567842+00:00"
-  },
-  {
-    "id": "0637bf4e87a4",
-    "title": "Gartner sees untamed growth in agentic AI",
-    "source": "Computerworld",
-    "summary": "Gartner sees untamed growth in agentic AI&nbsp;&nbsp;Computerworld",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVOUVRSSDRtN2xPZF9hckVGYmFqdWRka1hhZFE1eEtadWtwQzB5RGc5bE0zV3YwN0lBTW9VUUlpZTk3SUxJTUIxS0h0cDZvRlhiUVdmSWtMQThCVy0xMzE3QWZZZjNNNTJYZWd0c1VWZnRaNlNDRU9yRFVxWVNudW9uZWpEUXNmczNTcWZDSEhIUTcwWERn?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 17:07:12 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567866+00:00"
-  },
-  {
-    "id": "d22fcdada1c3",
-    "title": "John Warner on Battery Supply Chains and Industry Consolidation",
-    "source": "Battery Technology",
-    "summary": "John Warner on Battery Supply Chains and Industry Consolidation&nbsp;&nbsp;Battery Technology",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXhJTkU5WXZPQmdxcXpXemxCcGpFUWk0R1FEZmtVMmxoaTRJT1ZIZUt3SE5qV2hwMnJUanRuUjE0elA2U1oycTgwRVVUNmlxakNjWTdfMmplMlp3Mjd0N0E4X2V0Y2k2VGJCNXVROWctT3NqWW96LVlVUThWWGtXVW5EWWNpdlh4VmtrX2c3Q2xQM21OUExOVTZyeTlYa0xrUTdEQndXVGN3TGxMMmZlWlhpNW5NOFZFSkZsWGRKRzdueUFRRGpRaTZ2NA?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 14:05:37 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567898+00:00"
-  },
-  {
-    "id": "f905bfd0e433",
-    "title": "Hospitality's tech crossroads: Staying human in an increasingly digital industry",
-    "source": "PhocusWire",
-    "summary": "Hospitality's tech crossroads: Staying human in an increasingly digital industry&nbsp;&nbsp;PhocusWire",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1NlOEN3dkZnQlNsMkdseDctdVhHWmk0TmJLVEswWVNBNUpVcWNYRHFNemczZWdiX1RQZUVPcWJidWw3eVZydWJJT0QzS1FlZHRXX1hmNVQzcy1DaEZ3dENOeE1Hak1sNlMzQ3o5d2hLWHp2WGFvOE45a2tUMDhVVV83c0Z1WktsRDFiNmNrRDY0TTJ5bzNoRU5wR1JDYTJhNTJjQnNYOHN6LXRKbVJEU3ljMmIxLUpBZ0g2WDBaMA?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 07:04:56 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567909+00:00"
-  },
-  {
-    "id": "0389dec7ac14",
-    "title": "Xeriant Attracts Strong Multi-Industry Demand for Its Breakthrough Fire-Retardant Technology",
-    "source": "GlobeNewswire",
-    "summary": "Xeriant Attracts Strong Multi-Industry Demand for Its Breakthrough Fire-Retardant Technology&nbsp;&nbsp;GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWdpUGNzOTBDdVBzWHlfQ0dWaWx1VjQ5WU9VLXpsQzhzODBsbkY0YVFoS1FOMlhVU1J3elZtWS1aVjFSMy1MUG5DekhiV0hLODR3ZTFkYUNNQU9RN3RFRktiMUZ4X2tQSGd3SldkbFJRRTRiMlRSRFhnQ0xrbWVDUWZ5a2VDcmcxY0N6cmJRVWFXZjFMNlp6bE02bVFJR21GcXp4TVpzTXNjZnVOLXI0YjdJcDlfSzQ4OFRoM0dUaDBsSm5yQ1dQZkdPdFBGREktc0Q4NDMyX0hJRVlfaS1taXFrR0c4YnFDbFdWZnJLMnNCcTVEelhJ?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 13:25:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567921+00:00"
-  },
-  {
-    "id": "07ee0f8cbf0d",
-    "title": "2024 Technology Industry Outlook",
-    "source": "Deloitte",
-    "summary": "2024 Technology Industry Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTBXYkFtQVdpNERDWmhMVUFDN1FxbVhBWGFRdlZOS3gwUzlPaFJ3RzlSVkxrLU9mdGdzaUtjOERJSjJfdzdURHZQX0VCOGE2bXFlUm9tTjl6N1hxZHA1SS1xVnFjZjZtUFQzdFRBc0RndUtHdi10V3BUZUJsUDVEUTEwdmpvRU51bWQ4WUVxU2c?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Apr 2026 12:09:20 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567930+00:00"
-  },
-  {
-    "id": "3442e4fe92aa",
-    "title": "McKinsey Quantum Technology Monitor 2026: A commercial tipping point",
-    "source": "McKinsey & Company",
-    "summary": "McKinsey Quantum Technology Monitor 2026: A commercial tipping point&nbsp;&nbsp;McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzJHYXotUUgxbmdfazdIMnVxNWllTm0xWGVTR19OcF9DT1RlcUEzN3hmd1NKclNVUlItUm5naWlFOHk2Tk83cU1PbXVRbkljYzgzeVhLS1pCbkVYU0F1eWRzNThCdkRlUTJTQVlhT3A1UGw1ekctaWZsSTVzX21HWFM1TzBlRHhpZC1CSzdTbFJKbF9ZNUNndVpka3JmQ1BZQjA0YW1ReUd2YW9jcGh0WkRrS2h6N0p3NWpjcHZGLUcyU0RHTGFvM0JfMjFsYkJ3VDNsbg?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567942+00:00"
-  },
-  {
-    "id": "2b90d8ae6fbd",
-    "title": "Innovation, Tech, and Policy Leaders Focus on Rebuilding America and Outcompeting China",
-    "source": "Council on Foreign Relations",
-    "summary": "Innovation, Tech, and Policy Leaders Focus on Rebuilding America and Outcompeting China&nbsp;&nbsp;Council on Foreign Relations",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2l3QWxIdUxOOXZuRWphZzNJeEdWVzVuQS1pWl8zX2NvNHF5LWQ1Q2pWVS1qeFlaWlVyNjBLSXRFWnNjNV9tdnp2allLRjZVcmVBOWZrU29WVGJ4dmFndVUzaXFQRkxQU2FmQ3NXcjM3bDVsNDZBSGI5YWhiZWpFUDVEM01ET3F2V0NuaXR5aV83U05LN1otVlFHZlZGQk5Yamc0LTJQUDZnZXAtTWdDRzcwcjg?oc=5",
-    "image": "",
-    "published_at": "Mon, 27 Apr 2026 19:02:45 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567954+00:00"
-  },
-  {
-    "id": "c3c1126d01bc",
-    "title": "How a surge in defence and dual-use technology investment could reconfigure the global AI race",
-    "source": "Chatham House",
-    "summary": "How a surge in defence and dual-use technology investment could reconfigure the global AI race&nbsp;&nbsp;Chatham House",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeS1sTlNhUUpial96ZmI0UWptaXF5OTJLSHNYbG1FelFVNXkzOVN5amZxanRhdmlxZEZaUkZVR0hWQl83TS0xMUhnQnoyY1BlSEx4TlB0SFZVd3VRY2lFcURFWWZzeUN5M2JpWldycnJiQlZEcFE3UWxUUTFUMHcxbFNHWS1UNmR1MTdGUUV6V3o0QlBveWwyUVZFcUFvSzBBaU82YUsxSVYtNkhmVm5lekhGM3lVWGhkME9FeDhoOHFiYUk?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 09:01:20 GMT",
-    "fetched_at": "2026-04-30T21:08:24.567966+00:00"
   },
   {
     "id": "8990734a8288",
@@ -200,26 +460,6 @@
     "fetched_at": "2026-04-30T21:08:24.567986+00:00"
   },
   {
-    "id": "94571cdb7ffb",
-    "title": "AVGO Rides AI Boom: Explosive Growth in Semiconductor Fuels Outlook",
-    "source": "Yahoo Finance",
-    "summary": "AVGO Rides AI Boom: Explosive Growth in Semiconductor Fuels Outlook&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGR5TXB5Rm1BNEZ1ZExIX2t6Z1oxNmxrTUhucjJKVm42dDY4S2dVWWRhYjA2M0dRRlVuNFZQZEtmc3Z3aklDYjNnMU9lN3dvQmFBaFV5UnBJeFhBNVEzV1JORm1TWERaVVl2ZjJhdXVhMk5FRF90NVJISEdhUHlZaWw2VFdEV215b3FsbXVySTdRcHQwZGs0QlU2Y0o5UQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 18:06:00 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518408+00:00"
-  },
-  {
-    "id": "47952a3a6f26",
-    "title": "Memory chipmakers hope AI frenzy signals end to boom and bust",
-    "source": "Financial Times",
-    "summary": "Memory chipmakers hope AI frenzy signals end to boom and bust&nbsp;&nbsp;Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWR6ZFZLYlVtUS1NanAwV25iZWtaOEZvQ29hbUR2TnFrX3dDSW9tOTFGSU5OSzJxNmE5ZmNqREk1Zmc1dFVZdzhxRHlWSVJjNWRXSDZDSHZOb19YVHUtcm16Q1Vyd0VFQ1JWVDFBRGMxdTVRTHZuSjJCWGcxZGx1QmtfRFk?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 04:01:38 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518433+00:00"
-  },
-  {
     "id": "c3e1824f13cd",
     "title": "Semiconductor Stocks Tumble on OpenAI Warning. Google Says The Market Has It All Wrong",
     "source": "24/7 Wall St.",
@@ -228,16 +468,6 @@
     "image": "",
     "published_at": "Wed, 29 Apr 2026 15:15:56 GMT",
     "fetched_at": "2026-04-30T21:08:25.518447+00:00"
-  },
-  {
-    "id": "62c515b1abc6",
-    "title": "Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA)",
-    "source": "Seeking Alpha",
-    "summary": "Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA)&nbsp;&nbsp;Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2xic2NVTUYyandhclFRdnFEQ3BTeXFVUjA2VzhKendxZTkySngzaU9jcEp6ZDRJSlE0N1d6VDFRVldyWW8zM19sbm0zZVNwdUpobllMeFJCbV9fa2NSU2swNGlwZFM5c24wSDc0R3BITmEzN3U2dTB5RTQxYnZsTndqNGlwMXZHNzFBejh6WDg4VjRHdEJB?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 21:40:04 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518458+00:00"
   },
   {
     "id": "49d1002faa9a",
@@ -250,36 +480,6 @@
     "fetched_at": "2026-04-30T21:08:25.518468+00:00"
   },
   {
-    "id": "733f606bd4f3",
-    "title": "War or Peace, the Artificial Intelligence (AI) Chip Industry Just Learned Depending on One Route for 30% of Its Helium Is Risky",
-    "source": "The Motley Fool",
-    "summary": "War or Peace, the Artificial Intelligence (AI) Chip Industry Just Learned Depending on One Route for 30% of Its Helium Is Risky&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBybjRVc1pUWVNmMU5JSkVqLUQ4NXlqZThNVXM2ZlkwVklHOVg0V3Y2Mk56dnp6MUZYZlBIRjhvZGtoc3FfWVQtMElIc1dFdXp1dTZDWUFiZzZ1ZU9DbkIyZDJQRzFpTlN1Y2cxeDZoOXNELUx6VVpKZlBqMDZNelNlc2JYMUo2OXE2Smo0WWZ3UTctWFl6LQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 19:16:00 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518482+00:00"
-  },
-  {
-    "id": "0794266c5d88",
-    "title": "Are Semiconductor Stocks The Market's 'North Star'? AI Chip Demand Powers Record Tech Share",
-    "source": "Benzinga",
-    "summary": "Are Semiconductor Stocks The Market's 'North Star'? AI Chip Demand Powers Record Tech Share&nbsp;&nbsp;Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0RhNXR6VDJVRXpuZFZCdkJXN1d2OHZGSlpqaWI3WDRMUHNDZ2dmeEJWZl90V3dDc3F4d1RZa3NvS1M3WXpQWmt6akM3RFlxWS1IX29iMlMtRlRVam1yblFQb1RYdUlsZnVyMDZldm9nTWZmTXBwQVpycERDTFI1eE41N3Qwc0RGckNkcU54Y2lrajJrVXd0WU9nYlNFQUNhQWJWb3RDX3dQMnZpT2Qwb1NUM01oYTZFWUx4NjAxdENSQmg3eFJjZWZ2cUhuN1BWbmktNkNDbw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 12:25:37 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518494+00:00"
-  },
-  {
-    "id": "960700575b09",
-    "title": "Why AI Chip Hype Falls Apart in Production",
-    "source": "Built In",
-    "summary": "Why AI Chip Hype Falls Apart in Production&nbsp;&nbsp;Built In",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SHZiSTlaVURqalZxcUFXM1ZFdzFJNXRibHhrYURldW52bDNFYks1Smw4RjJ1UnVJQlJaN3c5WjdDM3FCcFNOcWJzRzEtcWx1M3N1a1VsQ09DWmdVWGRiWmJwRlQyVzhV?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 17:05:43 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518503+00:00"
-  },
-  {
     "id": "fc429c72fff6",
     "title": "AI Has Made Memory Chips One of the World’s Most Profitable Products",
     "source": "WSJ",
@@ -290,116 +490,6 @@
     "fetched_at": "2026-04-30T21:08:25.518521+00:00"
   },
   {
-    "id": "60661e5f216a",
-    "title": "3 Top-Ranked AI Semiconductor Behemoths to Tap the Space's Rally",
-    "source": "TradingView",
-    "summary": "3 Top-Ranked AI Semiconductor Behemoths to Tap the Space's Rally&nbsp;&nbsp;TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy1ydXhIaW9tV2FMdjlGY3NLSTJ0VWV1cHZ3WUxMXzl2YzRuSUVrcmljeEVaSm5TWjllbEZmMU5fVFpRb2FaMk55T2FOR1Z6UVJ0dmRtanc3RGZkYWdWdmZyaXZvN1dkaXB1VEZuRFlvRzdDbXRKY2tfNHhFcUVkNVN1MTVkblR3RkFvbUJ1SS00Zm1hYkFoOUZMX3NYby1wMldoQzNNeXR5ZEhvXzg2b0ZCa3ZlMFVMbC1TYw?oc=5",
-    "image": "",
-    "published_at": "Mon, 27 Apr 2026 13:05:00 GMT",
-    "fetched_at": "2026-04-30T21:08:25.518532+00:00"
-  },
-  {
-    "id": "ebe6abbf73bf",
-    "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
-    "source": "TechCrunch",
-    "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended direct",
-    "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-    "image": "",
-    "published_at": "Thu, 04 Dec 2025 05:37:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.029677+00:00"
-  },
-  {
-    "id": "6aac02d1f4a7",
-    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
-    "source": "TechCrunch",
-    "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content cr",
-    "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
-    "image": "",
-    "published_at": "Thu, 02 Jan 2025 09:26:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.030038+00:00"
-  },
-  {
-    "id": "d6588d418b59",
-    "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
-    "source": "TechCrunch",
-    "summary": "&nbsp;In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only emp",
-    "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
-    "image": "",
-    "published_at": "Tue, 12 Dec 2023 16:10:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.030377+00:00"
-  },
-  {
-    "id": "071402f71008",
-    "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
-    "source": "TechCrunch",
-    "summary": "&nbsp;In this article, we explore the top 10 AI tools that are driving innovation and efficiency in various industries. These tools are designed to automate repetitive tasks, improve workflow, and increase productivity. The tools included in our list are some of the most advanced and widely used in ",
-    "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
-    "image": "",
-    "published_at": "Wed, 25 Jan 2023 19:52:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.030899+00:00"
-  },
-  {
-    "id": "08835a787364",
-    "title": "Top 10 AI Content Generator & Writer Tools in 2022",
-    "source": "TechCrunch",
-    "summary": "Are you looking for a way to create content that is both effective and efficient? If so, then you should consider using an AI content generator. AI content generators are a great way to create content that is both engaging and relevant to your audience.&nbsp;There are a number of different AI conten",
-    "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
-    "image": "",
-    "published_at": "Tue, 15 Nov 2022 08:58:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.031595+00:00"
-  },
-  {
-    "id": "59fde58c53dc",
-    "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
-    "source": "TechCrunch",
-    "summary": "Image by vectorjuice on FreepikIn this CJ Affiliate guide, I will share with you everything you need to get started on the platform, I will give you an in-depth look at the network and how it works.You will learn how to earn money with the platform. If you're not interested, I'll share some of the b",
-    "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
-    "image": "",
-    "published_at": "Sat, 10 Sep 2022 08:57:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.031949+00:00"
-  },
-  {
-    "id": "c9a51bd59628",
-    "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
-    "source": "TechCrunch",
-    "summary": "&nbsp;&nbsp;&nbsp;The marketing industry is turning to artificial intelligence (AI) as a way to save time and execute smarter, more personalized campaigns. 61% of marketers say AI software is the most important aspect of their data strategy.&nbsp; If you’re late to the AI party, don’t worry. It’s ea",
-    "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
-    "image": "",
-    "published_at": "Wed, 13 Jul 2022 15:25:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.032313+00:00"
-  },
-  {
-    "id": "05af36d15aeb",
-    "title": "Most Frequently Asked Questions About Affiliate Marketing",
-    "source": "TechCrunch",
-    "summary": "There are lots of questions floating around about how affiliate marketing works, what to do and what not to do when it comes to setting up a business. With so much uncertainty surrounding both personal and business aspects of affiliate marketing. In this post, we will answer the most frequently aske",
-    "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
-    "image": "",
-    "published_at": "Wed, 01 Jun 2022 13:03:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.032567+00:00"
-  },
-  {
-    "id": "8dde3734dc3a",
-    "title": "What is Blockchain: Everything You Need to Know (2022)",
-    "source": "TechCrunch",
-    "summary": "If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, these methods may become old.Imagine a world in which you can do transactions and many other things with",
-    "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
-    "image": "",
-    "published_at": "Mon, 18 Apr 2022 05:49:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.032854+00:00"
-  },
-  {
-    "id": "9e9611266d4d",
-    "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
-    "source": "TechCrunch",
-    "summary": "ProWritingAid VS Grammarly:&nbsp;&nbsp;When it comes to English grammar, there are two Big Players that everyone knows of: the Grammarly and ProWritingAid. but you are wondering which one to choose so here we write a detail article which will help you to choose the best one for you so Let's startWha",
-    "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
-    "image": "",
-    "published_at": "Sun, 13 Mar 2022 15:04:00 +0000",
-    "fetched_at": "2026-04-30T21:08:32.033174+00:00"
-  },
-  {
     "id": "fecfcfc84802",
     "title": "New ROG Xbox Ally Updates: Docking Improvements, Auto SR Preview, Collective Library, Enhanced Vibration, and More",
     "source": "Xbox Wire",
@@ -408,95 +498,5 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 16:02:19 GMT",
     "fetched_at": "2026-04-30T19:42:59.689083+00:00"
-  },
-  {
-    "id": "fd0ae86c32c1",
-    "title": "OpenAI talks about not talking about goblins",
-    "source": "The Verge",
-    "summary": "OpenAI talks about not talking about goblins&nbsp;&nbsp;The VergeWhere the goblins came from&nbsp;&nbsp;OpenAIOpenAI tells ChatGPT models to stop talking about goblins&nbsp;&nbsp;BBCOpenAI Explains Its Goblin and Gremlin Infestation&nbsp;&nbsp;Business InsiderOpenAI blames ‘nerdy personality’ for Ch",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRmhwWlFFZVdWZ09FUFBfOVJVWFl0elBEdk9LMUVUVHQxclcwZDN4TWR1cHdxRWRMQV9ubndPVEZVVTQzVkx5SHZtNW9CWG5rUzZIRkZMTmhWLUVyckJvWHhTdEUya2JFZjJHYTVNa1ZsREpMYURDNG5qd2hjUlFRX05lYlB1UQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 13:42:29 GMT",
-    "fetched_at": "2026-04-30T19:42:59.689134+00:00"
-  },
-  {
-    "id": "f66d8fb3b473",
-    "title": "Motorola Razr Fold price and availability announced ahead of iPhone Ultra",
-    "source": "9to5Mac",
-    "summary": "Motorola Razr Fold price and availability announced ahead of iPhone Ultra&nbsp;&nbsp;9to5MacMotorola's Latest Family Of Razrs Includes Its First Book-Style Foldable&nbsp;&nbsp;EngadgetMotorola Razr Fold vs. Samsung Galaxy Z Fold 7: How the Book-Style Phones Compare&nbsp;&nbsp;CNETFirst Look: Motorol",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGo4NHU2SGJiWV9STjVXODRsRzBOUTZMZHpVWTdqMVVqY1VNMzRxMXEyRGV1S2czRElMZ3JiMDhjc25FNTJVRWJTZWVwUzdWdnhkOG5HQkxFdldoMWhPSjIwbTdrSlNscTZ2SVhwcnk1TG5TdzFEbkFSRkw5elYtd0JJeFNKRWZNZkIwUnYxRTRrb19VYm9IaDU1djRUUFVlMzJWLUFocDI?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 11:52:00 GMT",
-    "fetched_at": "2026-04-30T19:42:59.689175+00:00"
-  },
-  {
-    "id": "082c76d7d9d4",
-    "title": "Why the DJI Osmo Pocket 4P is Launching Under a Completely Different Name in the U.S.",
-    "source": "Geeky Gadgets",
-    "summary": "Why the DJI Osmo Pocket 4P is Launching Under a Completely Different Name in the U.S.&nbsp;&nbsp;Geeky GadgetsDJI’s Osmo Pocket 4 is a better camera in every respect&nbsp;&nbsp;The VergeWe Review the DJI Osmo Pocket 4: A Small-Size Pocketable Camera With Huge Capabilities.&nbsp;&nbsp;FstoppersMaking",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTLVpOWkMwVGxBVnlsV0FQNEFNRWpTSXRXZlZlWFFYclo3dDBpaFBfaWtTWU14aTBJMWI4emFNdERyVnVyUGFydlVxaHZRbXlSaEhKM3JVNHphMHhmV2xWYkVodDdVN2NsTjNpeWYzTlo0dXdxOWY0Tg?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 10:21:49 GMT",
-    "fetched_at": "2026-04-30T19:42:59.689309+00:00"
-  },
-  {
-    "id": "5def5256025c",
-    "title": "Sony confirms it's added \"one-time\" DRM to digital PlayStation games requiring you to go online to avoid losing access, but doesn't comment on \"CBOMB\" issue",
-    "source": "Eurogamer.net",
-    "summary": "Sony confirms it's added \"one-time\" DRM to digital PlayStation games requiring you to go online to avoid losing access, but doesn't comment on \"CBOMB\" issue&nbsp;&nbsp;Eurogamer.netPlayStation Users Report New Online License Checks, But Sony Quells Concerns&nbsp;&nbsp;GameSpotSony Clarifies PS5, PS4",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zamFtY3NWOFJpM2xGR3lVLU1LZGxJNk8yb3hVVDdvV2pOaGpiV1NPdmxIb0VpeHVLRXhwWVNzNWZuVU5xMGZwUmdsNEg5SE9MdWJMUl93eUFhT1E5eUM3d3dhN0R3S1FKcFYzbDdR?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 11:33:27 GMT",
-    "fetched_at": "2026-04-30T19:42:59.689438+00:00"
-  },
-  {
-    "id": "f5c8620eda98",
-    "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
-    "source": "The Guardian",
-    "summary": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say&nbsp;&nbsp;The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdktiaE1mVkhIdWpEc3hLVTV4dTRfbWMyWEtjQ2RFa3BkWl8yalFOQ2tUVEE5MjJ1Y3hUQTFNMGNkNWRBNHV3TXRVQzhqaEJFTDhGOVVDb3lRQV9rUFFqOWEyUnFvMXJibE02aFZ6d0V3Nkl4T29MY29aRDVqQmRvZzhGNEg1WjBYQW5BVzkwcEt4LWNkT1Nyd29sWTBvZ25ob042M3JHMTVXZ1hSYXJ3US1YYVQzSF9LMFZMSnNBZ3FPX3ZOeUhZNWNwRjJXdDA?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 01:31:00 GMT",
-    "fetched_at": "2026-04-30T19:43:00.207208+00:00"
-  },
-  {
-    "id": "07fee5e295b3",
-    "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
-    "source": "Semiconductor Engineering",
-    "summary": "Building An AI Chip: Silicon Design And Advanced Packaging&nbsp;&nbsp;Semiconductor Engineering",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2ZPbWFudEd6VUxyeFIzTXNRU3N2bVBNR3UzSGR4YVcxX2owNExGVFZQc2R6WlNvVWp0ZmgtaGZ3SzZ2YlpnX2p2em9CMHRCVDlibzFKempHeFQ4Tjk4MzVzUkdUZWxicXRYcWR3ZzBvX3gxUkpJdW5zUVdfay1La1BHZjZEcmVwUVNnMk1xSQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 08:46:32 GMT",
-    "fetched_at": "2026-04-30T19:43:01.255172+00:00"
-  },
-  {
-    "id": "67f3f54f8832",
-    "title": "The OnePlus Pad 4 is officially the 'world's fastest tablet', and its battery is just as impressive",
-    "source": "PhoneArena",
-    "summary": "The OnePlus Pad 4 is officially the 'world's fastest tablet', and its battery is just as impressive&nbsp;&nbsp;PhoneArenaOnePlus Pad 4 debuts with Snapdragon 8 Elite Gen 5, one downgrade, and vague launch plans&nbsp;&nbsp;9to5GoogleOnePlus Pad 4 takes on Galaxy Tab S11 Ultra and iPad Pro with beefie",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmpTSHlDWnc0UVE3YTJYM0hnN0tzbDlXLU1yMzR2VEZmcW9ETkdMSlRMbUNySWxwejFncURZMjNHckY0Vk5QSThqS3A3Mmp5MGNCMlVPaUlyR0l3b1F2NjltTEsyWE5QazlzVmJXMGJmenE3UjlfT2xKMnBlWlJwZTVueWgxRGtWRkFvVDVka0hyN2tPazUtNjBJS0wyUU9vMkNJSExR?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 08:47:00 GMT",
-    "fetched_at": "2026-04-30T17:27:20.172085+00:00"
-  },
-  {
-    "id": "081ec9b31dd0",
-    "title": "OnePlus brings handheld gaming to high-end Android smartphone with new release",
-    "source": "Notebookcheck",
-    "summary": "OnePlus brings handheld gaming to high-end Android smartphone with new release&nbsp;&nbsp;NotebookcheckOnePlus makes the Ace 6 Ultra official as its latest gaming powerhouse with a mind-blowing battery&nbsp;&nbsp;PhoneArenaOnePlus Ace 6 Ultra joins the game with a Dimensity 9500 chip, 8,600mAh batte",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFdHVlk0WG5aLUNscW0wQllJZE1VSjhoZEFkN1pDUUQ3Nm1lNXBVOWhiXzRZaXZRSlFGbFhFcVl2VW9wbkhGZHprS3JfX05OYk82M25FVk1hbW44dUptWTRES2hkYWU4Wm1QVE5LVjFaMFZ4YURfdE03VkJRVE1kOS1mZ0FyTFl6RG5vOVg0b19weEg5MUtWWjVCNFFJc2FWUThWSi1XRVUxT0pCZzR5MjlGVTl3QTVTQ3VESlhTakU?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 22:58:00 GMT",
-    "fetched_at": "2026-04-30T17:27:20.172125+00:00"
-  },
-  {
-    "id": "c280df001098",
-    "title": "Motorola has a 200MP camera-packing Moto G87 and a glorious new Signature color in the pipeline",
-    "source": "PhoneArena",
-    "summary": "Motorola has a 200MP camera-packing Moto G87 and a glorious new Signature color in the pipeline&nbsp;&nbsp;PhoneArenaMotorola’s best moto g camera yet arrives with the new moto g87&nbsp;&nbsp;Motorola NewsThe Moto G87 is official as Motorola's most advanced budget-friendly cameraphone yet&nbsp;&nbsp",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFFPNUFERGdRTWw1QXp6MEZzYmt2QXJRdG9ZYkttQk1MRFpwX2NVaXowWGd6LWhsVUxIa0NPenp6YTVROS0yVVdvLVlYdUFmRUZEUzBJUmJiZzF6Q0dVMEk3N2M1MEl3amhjR2RFQWZsZ0xGWHFXbzZzVGJPckFGUjlCVm0wc3FVUjlTVXBkTmVuazFZTGFCWGhfN2tvdnRVTG5mSXcxN001VG80ZGdxcTdRZVM5SjQybGc?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 07:43:22 GMT",
-    "fetched_at": "2026-04-30T17:27:20.172164+00:00"
   }
 ]
