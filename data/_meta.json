@@ -1,5 +1,5 @@
 {
-  "last_fetch": "2026-04-30T07:33:07.000276+00:00",
+  "last_fetch": "2026-04-30T10:14:21.935623+00:00",
   "sectors_updated": [
     "Technology",
     "Banking & Finance",
@@ -14,7 +14,7 @@
     "Global",
     "India"
   ],
-  "total_new_articles": 432,
+  "total_new_articles": 433,
   "sources": {
     "google_news_rss": true,
     "newsdata_io": false,
