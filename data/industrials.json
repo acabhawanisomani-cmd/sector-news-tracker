@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTdVUUtSRXd2QlROcDB5XzVIbkZDVFBmZi1nT0ZFWlZpT2I0Z1pPcU10UGJYLVFnZDJxMlRTcGpsZUMtdjBlQXE0VDhXa1pmZTBzdngtQUJmU2pBZnBYeXRHS011d3BKd2hYaGZYZ2hremVCeHprdUJDZlFRQ3h1dnFZQlhWU1RES2xlQXQ5dnZNTm4tNk1GRVRsSURWbnVvYm1HdzVB?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 16:29:16 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210805+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522833+00:00"
   },
   {
     "id": "7720c43f557a",
@@ -17,7 +17,17 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb19YQS1GeDFyaUdQWF9GMVN0OGg5UldXWmJDb3RYS3JsMEwtd2dSUWVxUjZEMUp0SWpGc0poSzN0am84aVV3ekxXLW5ldzBVS0FJMDJERzdQZUlfR014VmFVWjVPZGhsaG4xZTBVM2VfQXZseVFIZWlVSGo4ZFNMdVplZWZDalZWZzE5UEJhQ0VpVVZaV1lxTzg1Nm9wMUZZNndhWjBfZ2wwRzMtZm55anpEZ01yVlZJOEtsVnJ3?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 14:00:00 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210838+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522865+00:00"
+  },
+  {
+    "id": "bd09bbf4c5d3",
+    "title": "Manufacturing Internships",
+    "source": "Cutting Tool Engineering",
+    "summary": "Manufacturing Internships&nbsp;&nbsp;Cutting Tool Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ualdkekx2bjVLa1JEUlJRZ0NzREx4dGdKc3RRMXg3ZjMxY01MODdmdzZqdldmU0wyQlZCcGRTSTd2ZjFraUJ0aXpzeXBVRWVZUl95RHhWZDJ5Smc5T1FaY2VSWVk?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 15:06:09 GMT",
+    "fetched_at": "2026-05-01T23:58:32.522878+00:00"
   },
   {
     "id": "55cf5ab7a958",
@@ -27,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0gxRWFNX2FaQ1RRcDA3YUR3akRaclR5aWV0a29pS1F5UUxlZnUwajFBbWw5aWFuNEMxZFpJQWpEcWpzRVk0Q25fVUZJdnlvM3JtSnhlTWRFWXZibWZVYk4ydHk2cTRnZlpSTWtJOV8zWUpXRk44Q2pBcU1ZeUZudXpyV0xFSW5XN1Z5cmhqVWFxcE1WUUVROEpNX2JwaW10NkloQmxrMWRoYzFuOWVFTFFObUR0TERfekR0S2NpNA?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 16:39:21 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210855+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522894+00:00"
   },
   {
     "id": "3204ea824513",
@@ -37,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnJNc29mcW4tcXpYdzYzaWVIWVRJWjMyaU03Ylg5ZHF2WGhFMTlqNnIya09hcGJZREZHcW53eWFQY05ESENZTEhRaEhXaU1XSU1sQ21XNmRoLXNyZW5xNkN1d1FGNWFvQ1pyR3ZCcTYtMDRjN05JQXdxSFI0YU5IOFcyNGNLd2ZHMnlTT1JuQ01UeTZ5LWc3Ull1Z3VITEU0UVlkMGt5OXdzTmZKd3Foamp2alVuYkd1djhUaQ?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 12:00:00 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210872+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522913+00:00"
   },
   {
     "id": "84e2b65724a4",
@@ -47,17 +57,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9ibnNwLUlWblA0RVRLbGtMbGpHZno2eWJsVHhfLVNEMTV4Z0h3cHo3d0NmM04tVXQ5SVR2LXlTblNDZVlLSHY1RTJmOGw0MUk0dWhzbjlNNzFBZDBtZFZBWTA2RXNNZjY4czRMMC1nd0QtaXdZMnBHY1dlWDRETV84UTdaTWwxbWZjWTQ1a2s2MkFobmFmaEtrWVlrUEQ1bk5wWG1WYXhmOVdmMEpjaWhqUy1QSlR5a2VwWVZHUlRGdll1UTczUm53dWt1ck5U?oc=5",
     "image": "",
     "published_at": "Mon, 27 Apr 2026 09:17:30 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210888+00:00"
-  },
-  {
-    "id": "bd09bbf4c5d3",
-    "title": "Manufacturing Internships",
-    "source": "Cutting Tool Engineering",
-    "summary": "Manufacturing Internships&nbsp;&nbsp;Cutting Tool Engineering",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ualdkekx2bjVLa1JEUlJRZ0NzREx4dGdKc3RRMXg3ZjMxY01MODdmdzZqdldmU0wyQlZCcGRTSTd2ZjFraUJ0aXpzeXBVRWVZUl95RHhWZDJ5Smc5T1FaY2VSWVk?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 11:06:06 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210899+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522930+00:00"
   },
   {
     "id": "4f882f5e29ca",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWpPdGlBRlVVVkppS1lLYnI0Ymlaam9ZSGE1RDdQXzd0N0FaV3NqNll1YTZVM1lmRC1kcXhzc3FnSi1GamN1RjNhdE1Lb2E1dkw4SUV4czdmWFE0OWhJd19zYlRZOWJHdE1LNnFQSXZFa3FVZktObEJlMW5KUWxEZmtvODRfR1lvVnJvRWEwMnVhLXlETmJsNWQ1UFNEMHFxS1c1NG5Gb19RSWY1Z0dUcHFud2UxODF0YlE?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 16:03:20 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210926+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522944+00:00"
   },
   {
     "id": "4cb0cf283fce",
@@ -77,7 +77,7 @@
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YTnIydDI3a0hOSEJab3I3Z0JPVWFxX0E0Y1ByX1VlLTJGSXpqeC11c1V0ZFJGNHVHZDlOLWw2cDRPVlBaVF9RLVdGUHpYQlZrX01PVGplclpETm16cXlj?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 05:36:37 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210954+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522971+00:00"
   },
   {
     "id": "4ec362dbb44f",
@@ -87,7 +87,107 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXRpSjVwNEZlaVUxX1hqaFRDNFU5Q2FvSjVrb04xS3FMYk4tamhacU5ZenRnMFlzVW1nX0pVX2l4OXVLakhhVG1yUXdVNGJBWW92dWowSDFUMnRvWE9YTVM2cmttY1NVRDBjUjdwNTJpNkhTRWVUeW9CQXB0TEJ3c2czSFFuM0UyVWZZYXQyUExEWERZbmpDUkZzUmFhQ2FIdFBMenQ0aVFyWTNNMUs3dnlkYUFqWFdHVGxYMkFINA?oc=5",
     "image": "",
     "published_at": "Fri, 01 May 2026 15:07:48 GMT",
-    "fetched_at": "2026-05-01T22:56:35.210969+00:00"
+    "fetched_at": "2026-05-01T23:58:32.522985+00:00"
+  },
+  {
+    "id": "2f77896660f8",
+    "title": "Gold and silver gain momentum after softer U.S. manufacturing data, easing Treasury yields",
+    "source": "KITCO",
+    "summary": "Gold and silver gain momentum after softer U.S. manufacturing data, easing Treasury yields&nbsp;&nbsp;KITCO",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHllTENGU05QVW5WeGZ1NW9GMTBZZDBoYnNXSm5yVDNMOHpOUHhiVmpkT0xMNmtXYUtFQ0dvTnU5QzhGUDZ3LTl2M1VRMUo5eF9McTZtNmNVRzhLMWxPWWNtdDlZaHlfT1Q5VEJWUmtSQVR0LXVqNl9pdERZaUplYloyVUhtODFSZHRZNmJxX1NfNTdjMXVuLVFLRlUwQXFsaHNNT0ZyNzBiMDVMVFBZRGFhNXVXSkFa?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 21:51:02 GMT",
+    "fetched_at": "2026-05-01T23:58:32.523001+00:00"
+  },
+  {
+    "id": "e1f8a59f6d9f",
+    "title": "Above the Fold: Supply Chain Logistics News (May 1, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (May 1, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0JPT1VKVXJleWtBLWhCaGFtbDI5Y0JEZnEtV0I4Sk1XRTlCaG9XVjRpaFN1S0dYV3ZvNlV2TnQwOTk0eXJpNmQwTmlmLW85OTNkX01wbWJXWjZCcHYtT0xMUUc3MTYydDZjU0NPRktHcmZZRWVqS3R2THR0Um1GZFJ3LVhrU2NkRGJzZDFmZWE1dTY1YkdEbmFR?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 15:04:16 GMT",
+    "fetched_at": "2026-05-01T23:58:33.499979+00:00"
+  },
+  {
+    "id": "6ddd8afb8206",
+    "title": "LM Exclusive: The digital supply chain grows up",
+    "source": "Logistics Management",
+    "summary": "LM Exclusive: The digital supply chain grows up&nbsp;&nbsp;Logistics Management",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFBYaTZUZ3ZtTXhELTJDbE9uaFh0bldCRDg4aEpUb2tQaFgtVVhlT2JES0dlR29tWFVLU3hlQTlXRG9qU25WREYyT1NwVGRjbVFBTVVXMXlMbXJoYjdkaFZZMmVaWk9OQ1Y3aFlsbHdnR2JvY3EteVc2bUxyUmczZF8wZm9VZWFQQ0cxag?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 12:25:02 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500005+00:00"
+  },
+  {
+    "id": "dee6862b62f5",
+    "title": "Körber Supply Chain, NVIDIA deal advance digital twin capabilities",
+    "source": "Supply Chain Management Review",
+    "summary": "Körber Supply Chain, NVIDIA deal advance digital twin capabilities&nbsp;&nbsp;Supply Chain Management Review",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1HdmxiYUY1bENTYVNoeEJZZ2p5ekRzZ0EySmxpeUVoRDV6Q2ZDckYydTlYMDluV01tWG90WDJVV1VuUWhhUmJOYktUUW5Bcnc4QXhzWUVSTUxsQnI1clllcGJSZ0NObDBLOVM3UVpiUW5lS1ZpSXh0Ym9GWG9wVGI3LTVqWHhtV2NUckNXRHloTEZ2WTdLbmpsaw?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 13:49:00 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500023+00:00"
+  },
+  {
+    "id": "48c47ebcebb3",
+    "title": "The Rise of Regional Supply Chains: Is Globalization Giving Way to Localization?",
+    "source": "Global Trade Magazine",
+    "summary": "The Rise of Regional Supply Chains: Is Globalization Giving Way to Localization?&nbsp;&nbsp;Global Trade Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE56SVlSaHpHVHZteHI0ZGZZbmYtc1hHOEpJNS1uNUlsX09FMmZwa2xvazZHNWtEWTFQVTVzcHc3MEQ5c0NuN1BKQWl1STJvandDYWVVcnVOV3Y2YXJ3Q0swb3ZTRnFxa1YzcnBmVi12TkRqLVFVOWdGcEJlZDVnTEJ6WWNWLUJualdxR29oWS1kV3RHRTRmRHUxVng1VkFpLWJselIzUFdZUVNjMXFB?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 18:48:25 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500039+00:00"
+  },
+  {
+    "id": "b82d1535b9fa",
+    "title": "Target launches new kind of supply chain facility",
+    "source": "Supply Chain Dive",
+    "summary": "Target launches new kind of supply chain facility&nbsp;&nbsp;Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXBBUHJkQjBuT2dqSmU1Mk9TdV9fT1pOVmhuT2VlRzcxUXRrSjJCajJBRHEyVEdGaEZDakxHLS1hS3BPWGtyX1Z0UGVzVktwVDkwYVA3WllnTDhIN3MycU85a3FYMmctaVB4ZnNSd2ZKSzNJZjhhNXcwTjlUdDJWSDZ4eTh2NC1Bb0xmR3BVcjQtcUF6dXp3RHJR?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 13:24:52 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500079+00:00"
+  },
+  {
+    "id": "330e48e93efc",
+    "title": "KPMG study finds new urgency for risk management and resilience",
+    "source": "DC Velocity",
+    "summary": "KPMG study finds new urgency for risk management and resilience&nbsp;&nbsp;DC Velocity",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnR4d1JzbHNFTjZDWVhUV2tZbUZzYi1DdVJ5TXVDQUhyeTNzTXFtU3NXZzlEazVURVhwcDhZRTVReV9rdG1tZW0xeGFjcmVSLWVQWm1NUnZNaWpnbDVHQlF6cmI1elpEVEpSQ2N4YUkyUHV1SERlM1QyaG81LUhWZk4wRktPajdjZ19WLXJSbHdkNWNVLW5keWVDRDRyVHpqUURCdlBvOGVTams1OE5jT2JTa01GTTJMVng4RzU0cnVqRzM0MnNLRzVyTThfT3dxU0hYMzFjcw?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 19:15:45 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500093+00:00"
+  },
+  {
+    "id": "a81ec1814e26",
+    "title": "Intelligent Supply Chain Execution with AI Agents",
+    "source": "Logistics Business",
+    "summary": "Intelligent Supply Chain Execution with AI Agents&nbsp;&nbsp;Logistics Business",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTm52R2xYNTQxMXU3aTdKNnZxWVYwdTRZLW5iR09PWnFuNThOeU9vSFN3ZVdmdGlqc0gtV0xDOW8zVjBoZ2tzVG4zNElTYXFNRGFFbnhXX3VjS0J0UzhhWFc5cjJ0UWhyUHdkM1U0NEhSRFdtd2Y3em9lZTdlTmk5N3JXQzRtWFJpMGtfOHVWX2MxTGV4eTZka2trLVA1alAycmRHZThlT19Eb1FqRDlvUWhJMA?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 09:57:55 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500105+00:00"
+  },
+  {
+    "id": "dca503ce448b",
+    "title": "Rewiring operations: the shift from reactive to real-time in finished vehicle logistics",
+    "source": "Automotive Logistics",
+    "summary": "Rewiring operations: the shift from reactive to real-time in finished vehicle logistics&nbsp;&nbsp;Automotive Logistics",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbHJUSld1VWpfV01wc1VTT051SF95VTlRZ1NqeXhRb2VFMm5fX05Wb0pRdGM4WXY0aEphTEVTNW8yMUdjbUg0N0dSVVhfTFJXc2EwUC04b0xVLVduQUozV2xUMjBDSVBnSTAzYXdyRXExbU9OYV9YWk5BTGdsbFNTXzFsQ2JUQ3hueDQwSjBlTnNZdDFUSjQtQ3RVSm1vekNUcTFVMHRqNG1zclEtWWd5ZnAxSF9IS3ZnQVA2RFBJMTlGcUVDWTkxRVBLZTlyZEM4YWRGVWJ3Ul83ZFdwVkNUdzhubw?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 16:12:23 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500119+00:00"
+  },
+  {
+    "id": "de7128475408",
+    "title": "Sparrow XPL Launches TwinShip: The World's First ADIOS Platform for Logistics",
+    "source": "markets.businessinsider.com",
+    "summary": "Sparrow XPL Launches TwinShip: The World's First ADIOS Platform for Logistics&nbsp;&nbsp;markets.businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVh6TjRaUlpERkdIMy1XSlV0WjNMZkVuQlAtVzlVSGs5TFdvcDNOTHQ0N0QtSklLVGRtdVRDRWFpWWJDUktYVGxNT1NUejZGTnRPTnhRd1ZpQnhuNUNJZk5tN0lVV2tfbE1fcWJFZ2FheE12dTFXYmtfWnh3TWIzQTMwc0x2ZWR5WWtmVXNpVHJHbjZsd3Q1M0QxQnZmRmR5eHh0TzE2bEQ3ZTZRTE9Jc0s0ZDRQN29yOVhvRUpyZmVST0tEdkthNnA5LVpfaWtq?oc=5",
+    "image": "",
+    "published_at": "Fri, 01 May 2026 19:13:38 GMT",
+    "fetched_at": "2026-05-01T23:58:33.500133+00:00"
   },
   {
     "id": "515618bd7169",
@@ -100,86 +200,6 @@
     "fetched_at": "2026-05-01T22:56:35.210981+00:00"
   },
   {
-    "id": "e1f8a59f6d9f",
-    "title": "Above the Fold: Supply Chain Logistics News (May 1, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (May 1, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0JPT1VKVXJleWtBLWhCaGFtbDI5Y0JEZnEtV0I4Sk1XRTlCaG9XVjRpaFN1S0dYV3ZvNlV2TnQwOTk0eXJpNmQwTmlmLW85OTNkX01wbWJXWjZCcHYtT0xMUUc3MTYydDZjU0NPRktHcmZZRWVqS3R2THR0Um1GZFJ3LVhrU2NkRGJzZDFmZWE1dTY1YkdEbmFR?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 15:04:16 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169183+00:00"
-  },
-  {
-    "id": "6ddd8afb8206",
-    "title": "LM Exclusive: The digital supply chain grows up",
-    "source": "Logistics Management",
-    "summary": "LM Exclusive: The digital supply chain grows up&nbsp;&nbsp;Logistics Management",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFBYaTZUZ3ZtTXhELTJDbE9uaFh0bldCRDg4aEpUb2tQaFgtVVhlT2JES0dlR29tWFVLU3hlQTlXRG9qU25WREYyT1NwVGRjbVFBTVVXMXlMbXJoYjdkaFZZMmVaWk9OQ1Y3aFlsbHdnR2JvY3EteVc2bUxyUmczZF8wZm9VZWFQQ0cxag?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 12:25:02 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169211+00:00"
-  },
-  {
-    "id": "dee6862b62f5",
-    "title": "Körber Supply Chain, NVIDIA deal advance digital twin capabilities",
-    "source": "Supply Chain Management Review",
-    "summary": "Körber Supply Chain, NVIDIA deal advance digital twin capabilities&nbsp;&nbsp;Supply Chain Management Review",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1HdmxiYUY1bENTYVNoeEJZZ2p5ekRzZ0EySmxpeUVoRDV6Q2ZDckYydTlYMDluV01tWG90WDJVV1VuUWhhUmJOYktUUW5Bcnc4QXhzWUVSTUxsQnI1clllcGJSZ0NObDBLOVM3UVpiUW5lS1ZpSXh0Ym9GWG9wVGI3LTVqWHhtV2NUckNXRHloTEZ2WTdLbmpsaw?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 13:49:00 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169230+00:00"
-  },
-  {
-    "id": "48c47ebcebb3",
-    "title": "The Rise of Regional Supply Chains: Is Globalization Giving Way to Localization?",
-    "source": "Global Trade Magazine",
-    "summary": "The Rise of Regional Supply Chains: Is Globalization Giving Way to Localization?&nbsp;&nbsp;Global Trade Magazine",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE56SVlSaHpHVHZteHI0ZGZZbmYtc1hHOEpJNS1uNUlsX09FMmZwa2xvazZHNWtEWTFQVTVzcHc3MEQ5c0NuN1BKQWl1STJvandDYWVVcnVOV3Y2YXJ3Q0swb3ZTRnFxa1YzcnBmVi12TkRqLVFVOWdGcEJlZDVnTEJ6WWNWLUJualdxR29oWS1kV3RHRTRmRHUxVng1VkFpLWJselIzUFdZUVNjMXFB?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 18:48:25 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169246+00:00"
-  },
-  {
-    "id": "b82d1535b9fa",
-    "title": "Target launches new kind of supply chain facility",
-    "source": "Supply Chain Dive",
-    "summary": "Target launches new kind of supply chain facility&nbsp;&nbsp;Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXBBUHJkQjBuT2dqSmU1Mk9TdV9fT1pOVmhuT2VlRzcxUXRrSjJCajJBRHEyVEdGaEZDakxHLS1hS3BPWGtyX1Z0UGVzVktwVDkwYVA3WllnTDhIN3MycU85a3FYMmctaVB4ZnNSd2ZKSzNJZjhhNXcwTjlUdDJWSDZ4eTh2NC1Bb0xmR3BVcjQtcUF6dXp3RHJR?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 13:24:52 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169288+00:00"
-  },
-  {
-    "id": "330e48e93efc",
-    "title": "KPMG study finds new urgency for risk management and resilience",
-    "source": "DC Velocity",
-    "summary": "KPMG study finds new urgency for risk management and resilience&nbsp;&nbsp;DC Velocity",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnR4d1JzbHNFTjZDWVhUV2tZbUZzYi1DdVJ5TXVDQUhyeTNzTXFtU3NXZzlEazVURVhwcDhZRTVReV9rdG1tZW0xeGFjcmVSLWVQWm1NUnZNaWpnbDVHQlF6cmI1elpEVEpSQ2N4YUkyUHV1SERlM1QyaG81LUhWZk4wRktPajdjZ19WLXJSbHdkNWNVLW5keWVDRDRyVHpqUURCdlBvOGVTams1OE5jT2JTa01GTTJMVng4RzU0cnVqRzM0MnNLRzVyTThfT3dxU0hYMzFjcw?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 19:15:45 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169302+00:00"
-  },
-  {
-    "id": "a81ec1814e26",
-    "title": "Intelligent Supply Chain Execution with AI Agents",
-    "source": "Logistics Business",
-    "summary": "Intelligent Supply Chain Execution with AI Agents&nbsp;&nbsp;Logistics Business",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTm52R2xYNTQxMXU3aTdKNnZxWVYwdTRZLW5iR09PWnFuNThOeU9vSFN3ZVdmdGlqc0gtV0xDOW8zVjBoZ2tzVG4zNElTYXFNRGFFbnhXX3VjS0J0UzhhWFc5cjJ0UWhyUHdkM1U0NEhSRFdtd2Y3em9lZTdlTmk5N3JXQzRtWFJpMGtfOHVWX2MxTGV4eTZka2trLVA1alAycmRHZThlT19Eb1FqRDlvUWhJMA?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 09:57:55 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169314+00:00"
-  },
-  {
-    "id": "dca503ce448b",
-    "title": "Rewiring operations: the shift from reactive to real-time in finished vehicle logistics",
-    "source": "Automotive Logistics",
-    "summary": "Rewiring operations: the shift from reactive to real-time in finished vehicle logistics&nbsp;&nbsp;Automotive Logistics",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbHJUSld1VWpfV01wc1VTT051SF95VTlRZ1NqeXhRb2VFMm5fX05Wb0pRdGM4WXY0aEphTEVTNW8yMUdjbUg0N0dSVVhfTFJXc2EwUC04b0xVLVduQUozV2xUMjBDSVBnSTAzYXdyRXExbU9OYV9YWk5BTGdsbFNTXzFsQ2JUQ3hueDQwSjBlTnNZdDFUSjQtQ3RVSm1vekNUcTFVMHRqNG1zclEtWWd5ZnAxSF9IS3ZnQVA2RFBJMTlGcUVDWTkxRVBLZTlyZEM4YWRGVWJ3Ul83ZFdwVkNUdzhubw?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 16:12:23 GMT",
-    "fetched_at": "2026-05-01T22:56:36.169328+00:00"
-  },
-  {
     "id": "7add1c08d785",
     "title": "Graduating Supply Chain Management Major Joshua Taylor Turns Mentorship into Meaningful Impact",
     "source": "The Dig at Howard University",
@@ -188,16 +208,6 @@
     "image": "",
     "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
     "fetched_at": "2026-05-01T22:56:36.169343+00:00"
-  },
-  {
-    "id": "de7128475408",
-    "title": "Sparrow XPL Launches TwinShip: The World's First ADIOS Platform for Logistics",
-    "source": "markets.businessinsider.com",
-    "summary": "Sparrow XPL Launches TwinShip: The World's First ADIOS Platform for Logistics&nbsp;&nbsp;markets.businessinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVh6TjRaUlpERkdIMy1XSlV0WjNMZkVuQlAtVzlVSGs5TFdvcDNOTHQ0N0QtSklLVGRtdVRDRWFpWWJDUktYVGxNT1NUejZGTnRPTnhRd1ZpQnhuNUNJZk5tN0lVV2tfbE1fcWJFZ2FheE12dTFXYmtfWnh3TWIzQTMwc0x2ZWR5WWtmVXNpVHJHbjZsd3Q1M0QxQnZmRmR5eHh0TzE2bEQ3ZTZRTE9Jc0s0ZDRQN29yOVhvRUpyZmVST0tEdkthNnA5LVpfaWtq?oc=5",
-    "image": "",
-    "published_at": "Fri, 01 May 2026 19:13:38 GMT",
-    "fetched_at": "2026-05-01T21:02:09.724904+00:00"
   },
   {
     "id": "1d6a92e89843",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 13:08:00 GMT",
     "fetched_at": "2026-05-01T09:54:28.737682+00:00"
-  },
-  {
-    "id": "c92261d65d7a",
-    "title": "Agentic AI in Business: From Pilots to Operations",
-    "source": "Snowflake",
-    "summary": "Agentic AI in Business: From Pilots to Operations&nbsp;&nbsp;Snowflake",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43bjY4MmpJN2ZWTU5ZeThYU1I2Z3pZWGFLTnRzZ3dSTmo5SHhKOUxBeEJXX3JaT3I4U1M2cklZTjgxZkItNVJrNWRWcDJ3Umg2bzFST2RhWlZWeDFRNkllS194bTRhSHBEQWRrQXhQOXlkakhR?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 16:29:13 GMT",
-    "fetched_at": "2026-05-01T07:30:47.365904+00:00"
   }
 ]
