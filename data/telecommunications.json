@@ -1,5 +1,205 @@
 [
   {
+    "id": "d1333509a605",
+    "title": "AI boosts costs as pricing power lags, say Indian telcos",
+    "source": "Light Reading",
+    "summary": "AI boosts costs as pricing power lags, say Indian telcos&nbsp;&nbsp;Light Reading",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzVxb29SZ0MwU3dZTEJyNHlvdWFBRHZqaTNyLXhYWmhfTVdXRGN6d0N6bTNEdFhwbEhYeDlMbjhHc05tMzluei0tc1I3ZGVyUWllNktfcXM3VW9KYmdlSUg1V2U3dWR5RTFDaWJ5aHFfLVk0WlgwRndoeDZ2cjRZUmN4U0tYVHUwbXhyU3Z5VTQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 06:21:13 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344499+00:00"
+  },
+  {
+    "id": "7de170cac9a0",
+    "title": "Brazilian telecom sector sees 8% rise in foreign investment in March",
+    "source": "Telecompaper",
+    "summary": "Brazilian telecom sector sees 8% rise in foreign investment in March&nbsp;&nbsp;Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlBuM3RqeHFud0h4YkdlTHNrOHd2NkFENDVWVWpnckNQdjRaaVZnRV9jcUpTYl9aLVZsTFBnQ0ZSZDJDT2w3LTFReTBJTkt1S0kyMTFsQXRaRkJGbGl3c3pKdkNmLVVBNGVWYkZ0MVNaQ0F0S0JUVWxIOS1aUmdxZ1NVVUdweGlqMkRkN2hiLXAzaHNWTXJoUk5RdzdDb1E4WVJCclVLOEtwd0JnRGVn?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 14:58:40 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344527+00:00"
+  },
+  {
+    "id": "240aa76084a9",
+    "title": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections",
+    "source": "Omdia",
+    "summary": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections&nbsp;&nbsp;Omdia",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUy12a25yakdPblZtakVRM0EzZGRMOTdxcmpKVXZuMGRkZTRlelBKN09CUGFWZUF1LXd3QkJHWmRPU1pqWDdkV2E0WVpKdU1tNWpsSG04UUpPaDc3VUpGOUFSTkhIdU1mMnpOWkpmb2N3MURtVFYtWUVMS0FOeDFFc2N0Z2RrZldDdTYtdmYwTVFvXzFfb0FtT3RubXpfdjJlUXQ1TFJuUFEwdFhxVHBWS3kzYVQ3N29feDEwLWpiOUFFOE1LTUN0Uk8xWVdKWTdjRWdWeXhR?oc=5",
+    "image": "",
+    "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344546+00:00"
+  },
+  {
+    "id": "c14b176c5282",
+    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
+    "source": "Panama City News Herald",
+    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Panama City News Herald",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNGVWanREMXk1NXJWdlF2Z2tZMXhzdUFFQ3JHczlGRFRrRXZaNGhVWElVUnNKZHk4WHQ2VEdRSGNvRzRXRXFobDI5NF96a1FVQ0ZZSHliUzZyR2VRc09hVmxIS2VZTVNRUU1TUjF4bHVxaHJzamhoTmRPd3h0TnZ2NnJNQ19jOTRuS2xKRHJsS2E2NWc4bkZSZ3J1eVBxZW12QzVlNGNkXzNMbl9ldmdmcU44V2t3YzR0THpaQmJ2WGx5T3NCZWJ4aEFCZXQyajdGZl9rLThPY0V0X1Z0ZXhLN0dwZHI?oc=5",
+    "image": "",
+    "published_at": "Thu, 23 Apr 2026 19:57:53 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344565+00:00"
+  },
+  {
+    "id": "bcdec405ebd1",
+    "title": "Telcos urge Centre to cut spectrum prices ahead of auction, cite weak 5G returns",
+    "source": "ET Telecom",
+    "summary": "Telcos urge Centre to cut spectrum prices ahead of auction, cite weak 5G returns&nbsp;&nbsp;ET Telecom",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUVdkUlU2cTRpTlJ5cV93bUdSTWc2dVEweVJ6UU9VR050S2dGbUN0YkhleTV0UDVGV3FiN19kNmxmNHEzbEdpOVJvQWpHc3ZTMUhLbHpEd0ROek93TXJwZFk2OUJjbDJTOTYzVktrRkktaFlZRzdpN29pdlVoVFJYTElZZkZnQUFuZGRmSkdweGJVbG9US0V0bEMxUXJDQ25uQlprNUhRM2Qzb0RmMFY2U1VqdFI2djVvdlVLdzN4dmhQSExYV19maDU0TFpVaENBa0x4eE82NnBWMEZpcEFLWVNpSmgxTU9yUkY0OE9QSEJGajNfbEJR0gH8AUFVX3lxTFA4eVRUTkJ4OFdvQjFoRGZpQzZ2Tkd4bXQ4WmRpSEl5Qml0OXVybnU4Z1VDRFlacmVPQnRqZUF3bTh1UkpGUEcxMnNjZzVGRk82UEVwRVRLYzFKYjZxekZxb3d3WWg2V2RXTk1EQXJXYjdDNjVWSUtiM2c1R1EyWDctRzdza082ZTR3Wi1zd2U2U0Etb01KWjlxRFpNY2FCa2JrQU1wY1NZRnMtZnNIMkpldlBqcm1GR1U0SU9NWTBDNF96TEFnNEx6UkNRVXc4azhmb1VxNHpfUERCekJqdnFWZlo4TTBNcnJrS1JWMjVCYy1UNTJ3c3gxQVRIOQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 26 Apr 2026 06:17:59 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344584+00:00"
+  },
+  {
+    "id": "05563eb2f2a8",
+    "title": "Qatar Telecom Market: 5G Adoption Trends, Service Diversification & Growth Outlook",
+    "source": "vocal.media",
+    "summary": "Qatar Telecom Market: 5G Adoption Trends, Service Diversification & Growth Outlook&nbsp;&nbsp;vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2tzQzI5cWh5Ml9Na20wUmJCUUZaUVlrSzR2S1dNOXZBSC1sOVdMQlNiWUxGSnplS1IwTmFFb0xLeHpPOGRTeXZ4Y0l1RVR0eXgtVjI5R0l0MlJvZWN6T0d5b2xoWlI1Rk5NelZWUWRYOWRJWndyNzdibFJPbGhPVnJsNVcxSVZma2J2Y2xTdmtkbTJKcGc2SEVYZVNoU1VWb0Z0NW1OMDl4NEVIN0dwbXQzQnJ6VmxpTmh5a3ByTVU?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 16:47:14 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344600+00:00"
+  },
+  {
+    "id": "0024025afde4",
+    "title": "Telecommunications Industry Statistics (2026)",
+    "source": "tridenstechnology.com",
+    "summary": "Telecommunications Industry Statistics (2026)&nbsp;&nbsp;tridenstechnology.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ2FlV1owa3RFNF9fSXdpN2V0aGduWWh5MGVlNG1lNkdqcGc2OFcwT3NGd3JxNWFNaEREa3ZwcVZQOFd4TTBibkx6bDlmNTVIN3VLTUJCMldRVVNrNEJpN2RxZHliT0JqQ1BkZEtFMmtJVXVmSzhxZw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344613+00:00"
+  },
+  {
+    "id": "7516b95e5698",
+    "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams",
+    "source": "SDxCentral",
+    "summary": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams&nbsp;&nbsp;SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5",
+    "image": "",
+    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344630+00:00"
+  },
+  {
+    "id": "1c81e2c3eeb7",
+    "title": "Egypt’s Telecom Sector Have Pumped USD 2.7 Billion Into 5G Since 2019",
+    "source": "CairoScene",
+    "summary": "Egypt’s Telecom Sector Have Pumped USD 2.7 Billion Into 5G Since 2019&nbsp;&nbsp;CairoScene",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVhrMmZMd0JKQnNQSnpjTDlxd2hjby0xVndBMzFZeHV4WjVDVTYzSExaVklRTkM2c0ZRSjVDS25uSDBESHZIYUstSGhUNWxlWEdkYmI1cHhyUERWbFZyUXhMV3NSWloxZWVsUTBOSUYydWRyTTBMbExKLVdvaUwtSXQzUkJPQm4xakgteGR2TEI2anpnNmZpcTkxWkN6Zw?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Apr 2026 11:19:17 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344651+00:00"
+  },
+  {
+    "id": "a6a4afdc0515",
+    "title": "Today’s Top Telecom Industry Challenges",
+    "source": "Oracle NetSuite",
+    "summary": "Today’s Top Telecom Industry Challenges&nbsp;&nbsp;Oracle NetSuite",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWZnUnlhS1YzUzNvQ2JWWUREb2VYNHFvTjZkaWJNV3gwNktwcEpIQVpkUmJCb3Y1aDU0ejBzeHZuTUNoSS16cnU4VEdyRzNZN2VoQjNpMkd1SEFsQ2NPdnMyTjA1aF8yOVRYeExZR1pHNzUzQkJTbGtkYVllenJHX2JURUo1Yk13dVhxTzcyXzE?oc=5",
+    "image": "",
+    "published_at": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:08.344666+00:00"
+  },
+  {
+    "id": "6baddc201625",
+    "title": "Ukraine's top telco exceeds $1 billion investment goal as war drives network spending",
+    "source": "Reuters",
+    "summary": "Ukraine's top telco exceeds $1 billion investment goal as war drives network spending&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEJaQkZrOGtyUkVFY3ZmMjlEYTYxZmdsM1FrUGU3emc4UWF6Rk9KUl8tNXZTNjkyN29GRUhxcm9KMU1INlZoZ3RFcmJaRENobVJncE95eGFSR25WNmQ4V2tXMUFVU2s1TWtWdW5YRVlkQzJDQl9qTHZlak1sYUEzX2ZsaVZrMGpRVkNWdHBXb3ZjaFJaaklwX0h4a3gybnRscnJhc3hkWmpUR2xUcFpuQ3ZvS3FGY2ltWVNhMUdEbVptWVU?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 09:27:49 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430699+00:00"
+  },
+  {
+    "id": "1ed75f3efcab",
+    "title": "Digita promotes head of telecom business to CEO",
+    "source": "Telecompaper",
+    "summary": "Digita promotes head of telecom business to CEO&nbsp;&nbsp;Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGN5c1VIRzlseW9PQTlMajNGa01SUy1YV0FfV1R3bUtTVkJGRUpRVmJpdXB1R0JrUUVxTm16YlJ4eVdmdGZrNWJZdEZKTm5aZnFoeW5CYTlMT2EzVU9YdnJ4aHZzcTVrZGRKTlZReEZTbG15UEd1b29CVUQxci1HSUtUS3RqYjBybFp6ZS1YLW8tQ3FV?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 07:24:15 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430724+00:00"
+  },
+  {
+    "id": "a174d7feed08",
+    "title": "Kinetic Named ‘2026 Telecommunications Company of the Year’ by the American Business Awards®",
+    "source": "Yahoo Finance",
+    "summary": "Kinetic Named ‘2026 Telecommunications Company of the Year’ by the American Business Awards®&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGJXMkUzZkI3Y1Nnblg5TkJtTmFJMVBqOTB1a3B2TzQyUEFsYXZQRjJkVmEtQmlodFdsS2dVaEYtUnYyQ29EZU91RzVLOGNIck12aUYwNmpKTmMxaERSWFhzOUQ5eFVtWWlOZXNXeWF1NXktTnJWakQxNkVmQXRBWlppbzlrd3RXSVZSTVVHd2FLOHQwUGRoZnZnNEUzYnZwNi1JMDNpWlVjX3hpODZpcDVlZmc?oc=5",
+    "image": "",
+    "published_at": "Fri, 24 Apr 2026 12:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430749+00:00"
+  },
+  {
+    "id": "d303d8cbe399",
+    "title": "Jordan Telecommunications Company continues strong performance and announces record profits distribution of JD 41.25mln",
+    "source": "ZAWYA",
+    "summary": "Jordan Telecommunications Company continues strong performance and announces record profits distribution of JD 41.25mln&nbsp;&nbsp;ZAWYA",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZTZFVmNOX3AzVjFDUDNXTmVZLWRVV0ZsVi1FeVJWLUttMnd4eVpscmstZTZYWEt1cGFVTHlNZWhaNld2SVpGSE5pNG5BVDgyV1BVZHN4RWo3TGNXSlYzUHh3ZmxXU0IzTU9LMFg4Sl9DcGY0NHFSTmJTZ2VLRC1GaDdXYW50WnBLZlNRR3FnUW5jbnNtUXFndEhwV2xqaFZkOG5nRGpya0xoMXhkdkxtay1keEFISGxOdnRHcTBUZ0U0VGluUF9US3c4b3paSnZnaEVwNlB3R1N3aTRBTENESExBa054NEVEWjA5d2o0Mi14RkxQWXVfeHBqeVVxRVR0Q3NvUXVwS1VaUWNhOVE?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 16:09:28 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430767+00:00"
+  },
+  {
+    "id": "c4c87ceed258",
+    "title": "Kinetic Tokens, Physical AI, and the Next Telecom Evolution",
+    "source": "Telecoms",
+    "summary": "Kinetic Tokens, Physical AI, and the Next Telecom Evolution&nbsp;&nbsp;Telecoms",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaElPdC1RMXI2alFYNXlMLV9FUEdSbFc1Q0dhdXRrMEg5azZHOWxRTjNtUXI3RHRjSHFINzlFZWpjUlNwVlFTUlJJMUY5aTJCZHNsazN3WUl6QW9JdHJnU2s5TXlCREpabi1ESEdCa1ZLNEJFZGxMZlc0WGllSk9ZQjc5SEVUcWRLNDBjSFB3?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 15:09:28 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430780+00:00"
+  },
+  {
+    "id": "bba2a0f70078",
+    "title": "PTCL denies reports of Etisalat exit from Pakistan telecom market",
+    "source": "Dunya News",
+    "summary": "PTCL denies reports of Etisalat exit from Pakistan telecom market&nbsp;&nbsp;Dunya News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOC0zNVliQlZJTmtiU2ZNc25TMHdZOVRzYjJuZHppR0h5LVZVQWNNWmRfTTVhWExkZFZrTUZoTjlwYTVrdE8xWGtvWWlWTVM5RDVpUjlyQjYwalNzMlg1YzAzdVZLUFI1aF90LWNIajhFQkZXN2l0eVktX3hWR0RDb191aThoRVU3Z0NPNlozLVVtYWFYc0pZU0lHVVNwNWNJVFQ3Rk5JVzJXZW_SAVZBVV95cUxPWXZ4V3RzZFkzMERHSUJfQW1Sa2pjaHFiSUhrODFDZzR3eC1wbUNrOTQ1azN6emYxVlc2b19DX2xkMVdtcFpJcm1wN19MQ1Y2SmxEd2hIZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 20:12:43 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430794+00:00"
+  },
+  {
+    "id": "840d9da1af7f",
+    "title": "How agreements between cloud providers and telecommunications companies are progressing",
+    "source": "BNamericas",
+    "summary": "How agreements between cloud providers and telecommunications companies are progressing&nbsp;&nbsp;BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTcwcU5FM24xQTA0QWgxYnFxUndnM3pfWFBPTjl0VnpTSkg3NTZBQjRBOXR3cmhBTmRmVFBsTmpMaFg2TktFcEozLTd2S0dwaVM3NWpfVTViajNWYnlWeW9GZi1RYTE2Y1NuOEtXMUUwYUlEWENFV19iTGdXNXdXanM2MHVQSU0zdzYySmNWRVhwR2k3bXJ0clFoSmlveTY2cDBRUzhodmdhRmI2WVljUU9CNHpDS3ZtMzRBMXJMUzJLWUpv?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Apr 2026 21:26:04 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430809+00:00"
+  },
+  {
+    "id": "c2b13d8506ba",
+    "title": "Global telecommunications company monetizes $100 million with data and business intelligence solution",
+    "source": "JLL",
+    "summary": "Global telecommunications company monetizes $100 million with data and business intelligence solution&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbWpWVkJCdG1xbjNIblk4dDYwaC12SXZtNTExUGpzS3RNblRJQTRDUVREWkhYMjhYaUI0X2JKc0ZkblJONWdoamtocTY0NzRWbEhVZGZvc1otTXdJS1pGQTNBU09fb0U?oc=5",
+    "image": "",
+    "published_at": "Fri, 12 Dec 2025 02:38:04 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430823+00:00"
+  },
+  {
+    "id": "f66e0c4bf86d",
+    "title": "Rogers' voluntary buyouts could signal further industry cuts to come: analyst",
+    "source": "Times Colonist",
+    "summary": "Rogers' voluntary buyouts could signal further industry cuts to come: analyst&nbsp;&nbsp;Times Colonist",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVNrOTFEZEVJbVVuWEhYWVNMQXFrMnpKa1NVb0diQjk0RmxvNHZBR1hHMnVHZmRyQnl6bEx6Tm1hNkpacmhFQ1hhMHFVS1U2T2FDQndLM2Zndlk1MHA1YXlxVXRtdmEtd2pTbGtfX2FxQW5Rc1AwdkFqd3ZzbU9RUkstTnloLTlPVE5uNFQtVGdYaWM3NmN3cExuS181QnREc3pkT01yUDIwMlZwN2Jkb1ZfTXR4dFVqekFYclo0c3hkRXV3WUdNV1NR?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Apr 2026 17:08:15 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430837+00:00"
+  },
+  {
+    "id": "68cab2ea5335",
+    "title": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing",
+    "source": "WSJ",
+    "summary": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing&nbsp;&nbsp;WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGVNcHAzZGExMDMwOWtjRmpHOVZFaV9BMXlFSU1zWW9TLVlyUGlJWDhSOFpGcDdzd1p1cVFnT3Jvb2U1R055anM0V1ltYnhNVW5zY1VzS0FkZWVxeWZGRFZIdmZJZ3BtcGVLQ0lETEdsMU9ESlJoT2Q3elp0QWVPblhnUlZfTVYwakYyMWpGU2ZfMl8tX0dLbzl4cDZPU3VsS0M0NWxoT1I?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Oct 2025 07:00:00 GMT",
+    "fetched_at": "2026-05-01T00:02:09.430850+00:00"
+  },
+  {
     "id": "a9d0c3b0cdbb",
     "title": "Australia Telecom Market Is a USD 78 Billion Giant in the Making — And 5G Is Just the Beginning",
     "source": "vocal.media",
@@ -20,56 +220,6 @@
     "fetched_at": "2026-04-30T23:00:35.979017+00:00"
   },
   {
-    "id": "d1333509a605",
-    "title": "AI boosts costs as pricing power lags, say Indian telcos",
-    "source": "Light Reading",
-    "summary": "AI boosts costs as pricing power lags, say Indian telcos&nbsp;&nbsp;Light Reading",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzVxb29SZ0MwU3dZTEJyNHlvdWFBRHZqaTNyLXhYWmhfTVdXRGN6d0N6bTNEdFhwbEhYeDlMbjhHc05tMzluei0tc1I3ZGVyUWllNktfcXM3VW9KYmdlSUg1V2U3dWR5RTFDaWJ5aHFfLVk0WlgwRndoeDZ2cjRZUmN4U0tYVHUwbXhyU3Z5VTQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 06:21:13 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979033+00:00"
-  },
-  {
-    "id": "7de170cac9a0",
-    "title": "Brazilian telecom sector sees 8% rise in foreign investment in March",
-    "source": "Telecompaper",
-    "summary": "Brazilian telecom sector sees 8% rise in foreign investment in March&nbsp;&nbsp;Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlBuM3RqeHFud0h4YkdlTHNrOHd2NkFENDVWVWpnckNQdjRaaVZnRV9jcUpTYl9aLVZsTFBnQ0ZSZDJDT2w3LTFReTBJTkt1S0kyMTFsQXRaRkJGbGl3c3pKdkNmLVVBNGVWYkZ0MVNaQ0F0S0JUVWxIOS1aUmdxZ1NVVUdweGlqMkRkN2hiLXAzaHNWTXJoUk5RdzdDb1E4WVJCclVLOEtwd0JnRGVn?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 14:58:40 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979047+00:00"
-  },
-  {
-    "id": "240aa76084a9",
-    "title": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections",
-    "source": "Omdia",
-    "summary": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections&nbsp;&nbsp;Omdia",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUy12a25yakdPblZtakVRM0EzZGRMOTdxcmpKVXZuMGRkZTRlelBKN09CUGFWZUF1LXd3QkJHWmRPU1pqWDdkV2E0WVpKdU1tNWpsSG04UUpPaDc3VUpGOUFSTkhIdU1mMnpOWkpmb2N3MURtVFYtWUVMS0FOeDFFc2N0Z2RrZldDdTYtdmYwTVFvXzFfb0FtT3RubXpfdjJlUXQ1TFJuUFEwdFhxVHBWS3kzYVQ3N29feDEwLWpiOUFFOE1LTUN0Uk8xWVdKWTdjRWdWeXhR?oc=5",
-    "image": "",
-    "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979063+00:00"
-  },
-  {
-    "id": "c14b176c5282",
-    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage",
-    "source": "Panama City News Herald",
-    "summary": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage&nbsp;&nbsp;Panama City News Herald",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNGVWanREMXk1NXJWdlF2Z2tZMXhzdUFFQ3JHczlGRFRrRXZaNGhVWElVUnNKZHk4WHQ2VEdRSGNvRzRXRXFobDI5NF96a1FVQ0ZZSHliUzZyR2VRc09hVmxIS2VZTVNRUU1TUjF4bHVxaHJzamhoTmRPd3h0TnZ2NnJNQ19jOTRuS2xKRHJsS2E2NWc4bkZSZ3J1eVBxZW12QzVlNGNkXzNMbl9ldmdmcU44V2t3YzR0THpaQmJ2WGx5T3NCZWJ4aEFCZXQyajdGZl9rLThPY0V0X1Z0ZXhLN0dwZHI?oc=5",
-    "image": "",
-    "published_at": "Thu, 23 Apr 2026 19:57:53 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979078+00:00"
-  },
-  {
-    "id": "bcdec405ebd1",
-    "title": "Telcos urge Centre to cut spectrum prices ahead of auction, cite weak 5G returns",
-    "source": "ET Telecom",
-    "summary": "Telcos urge Centre to cut spectrum prices ahead of auction, cite weak 5G returns&nbsp;&nbsp;ET Telecom",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUVdkUlU2cTRpTlJ5cV93bUdSTWc2dVEweVJ6UU9VR050S2dGbUN0YkhleTV0UDVGV3FiN19kNmxmNHEzbEdpOVJvQWpHc3ZTMUhLbHpEd0ROek93TXJwZFk2OUJjbDJTOTYzVktrRkktaFlZRzdpN29pdlVoVFJYTElZZkZnQUFuZGRmSkdweGJVbG9US0V0bEMxUXJDQ25uQlprNUhRM2Qzb0RmMFY2U1VqdFI2djVvdlVLdzN4dmhQSExYV19maDU0TFpVaENBa0x4eE82NnBWMEZpcEFLWVNpSmgxTU9yUkY0OE9QSEJGajNfbEJR0gH8AUFVX3lxTFA4eVRUTkJ4OFdvQjFoRGZpQzZ2Tkd4bXQ4WmRpSEl5Qml0OXVybnU4Z1VDRFlacmVPQnRqZUF3bTh1UkpGUEcxMnNjZzVGRk82UEVwRVRLYzFKYjZxekZxb3d3WWg2V2RXTk1EQXJXYjdDNjVWSUtiM2c1R1EyWDctRzdza082ZTR3Wi1zd2U2U0Etb01KWjlxRFpNY2FCa2JrQU1wY1NZRnMtZnNIMkpldlBqcm1GR1U0SU9NWTBDNF96TEFnNEx6UkNRVXc4azhmb1VxNHpfUERCekJqdnFWZlo4TTBNcnJrS1JWMjVCYy1UNTJ3c3gxQVRIOQ?oc=5",
-    "image": "",
-    "published_at": "Sun, 26 Apr 2026 06:17:59 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979094+00:00"
-  },
-  {
     "id": "3a481ab7497a",
     "title": "5G Services Market Size, Share And Forecast Report, 2034",
     "source": "Fortune Business Insights",
@@ -80,126 +230,6 @@
     "fetched_at": "2026-04-30T23:00:35.979106+00:00"
   },
   {
-    "id": "0024025afde4",
-    "title": "Telecommunications Industry Statistics (2026)",
-    "source": "tridenstechnology.com",
-    "summary": "Telecommunications Industry Statistics (2026)&nbsp;&nbsp;tridenstechnology.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ2FlV1owa3RFNF9fSXdpN2V0aGduWWh5MGVlNG1lNkdqcGc2OFcwT3NGd3JxNWFNaEREa3ZwcVZQOFd4TTBibkx6bDlmNTVIN3VLTUJCMldRVVNrNEJpN2RxZHliT0JqQ1BkZEtFMmtJVXVmSzhxZw?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979117+00:00"
-  },
-  {
-    "id": "7516b95e5698",
-    "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams",
-    "source": "SDxCentral",
-    "summary": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams&nbsp;&nbsp;SDxCentral",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5",
-    "image": "",
-    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
-    "fetched_at": "2026-04-30T23:00:35.979131+00:00"
-  },
-  {
-    "id": "6baddc201625",
-    "title": "Ukraine's top telco exceeds $1 billion investment goal as war drives network spending",
-    "source": "Reuters",
-    "summary": "Ukraine's top telco exceeds $1 billion investment goal as war drives network spending&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEJaQkZrOGtyUkVFY3ZmMjlEYTYxZmdsM1FrUGU3emc4UWF6Rk9KUl8tNXZTNjkyN29GRUhxcm9KMU1INlZoZ3RFcmJaRENobVJncE95eGFSR25WNmQ4V2tXMUFVU2s1TWtWdW5YRVlkQzJDQl9qTHZlak1sYUEzX2ZsaVZrMGpRVkNWdHBXb3ZjaFJaaklwX0h4a3gybnRscnJhc3hkWmpUR2xUcFpuQ3ZvS3FGY2ltWVNhMUdEbVptWVU?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 09:27:49 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037443+00:00"
-  },
-  {
-    "id": "1ed75f3efcab",
-    "title": "Digita promotes head of telecom business to CEO",
-    "source": "Telecompaper",
-    "summary": "Digita promotes head of telecom business to CEO&nbsp;&nbsp;Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGN5c1VIRzlseW9PQTlMajNGa01SUy1YV0FfV1R3bUtTVkJGRUpRVmJpdXB1R0JrUUVxTm16YlJ4eVdmdGZrNWJZdEZKTm5aZnFoeW5CYTlMT2EzVU9YdnJ4aHZzcTVrZGRKTlZReEZTbG15UEd1b29CVUQxci1HSUtUS3RqYjBybFp6ZS1YLW8tQ3FV?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 07:24:15 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037464+00:00"
-  },
-  {
-    "id": "a174d7feed08",
-    "title": "Kinetic Named ‘2026 Telecommunications Company of the Year’ by the American Business Awards®",
-    "source": "Yahoo Finance",
-    "summary": "Kinetic Named ‘2026 Telecommunications Company of the Year’ by the American Business Awards®&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGJXMkUzZkI3Y1Nnblg5TkJtTmFJMVBqOTB1a3B2TzQyUEFsYXZQRjJkVmEtQmlodFdsS2dVaEYtUnYyQ29EZU91RzVLOGNIck12aUYwNmpKTmMxaERSWFhzOUQ5eFVtWWlOZXNXeWF1NXktTnJWakQxNkVmQXRBWlppbzlrd3RXSVZSTVVHd2FLOHQwUGRoZnZnNEUzYnZwNi1JMDNpWlVjX3hpODZpcDVlZmc?oc=5",
-    "image": "",
-    "published_at": "Fri, 24 Apr 2026 12:00:00 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037487+00:00"
-  },
-  {
-    "id": "c4c87ceed258",
-    "title": "Kinetic Tokens, Physical AI, and the Next Telecom Evolution",
-    "source": "Telecoms",
-    "summary": "Kinetic Tokens, Physical AI, and the Next Telecom Evolution&nbsp;&nbsp;Telecoms",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaElPdC1RMXI2alFYNXlMLV9FUEdSbFc1Q0dhdXRrMEg5azZHOWxRTjNtUXI3RHRjSHFINzlFZWpjUlNwVlFTUlJJMUY5aTJCZHNsazN3WUl6QW9JdHJnU2s5TXlCREpabi1ESEdCa1ZLNEJFZGxMZlc0WGllSk9ZQjc5SEVUcWRLNDBjSFB3?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 15:09:28 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037501+00:00"
-  },
-  {
-    "id": "d303d8cbe399",
-    "title": "Jordan Telecommunications Company continues strong performance and announces record profits distribution of JD 41.25mln",
-    "source": "ZAWYA",
-    "summary": "Jordan Telecommunications Company continues strong performance and announces record profits distribution of JD 41.25mln&nbsp;&nbsp;ZAWYA",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZTZFVmNOX3AzVjFDUDNXTmVZLWRVV0ZsVi1FeVJWLUttMnd4eVpscmstZTZYWEt1cGFVTHlNZWhaNld2SVpGSE5pNG5BVDgyV1BVZHN4RWo3TGNXSlYzUHh3ZmxXU0IzTU9LMFg4Sl9DcGY0NHFSTmJTZ2VLRC1GaDdXYW50WnBLZlNRR3FnUW5jbnNtUXFndEhwV2xqaFZkOG5nRGpya0xoMXhkdkxtay1keEFISGxOdnRHcTBUZ0U0VGluUF9US3c4b3paSnZnaEVwNlB3R1N3aTRBTENESExBa054NEVEWjA5d2o0Mi14RkxQWXVfeHBqeVVxRVR0Q3NvUXVwS1VaUWNhOVE?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 16:09:28 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037517+00:00"
-  },
-  {
-    "id": "bba2a0f70078",
-    "title": "PTCL denies reports of Etisalat exit from Pakistan telecom market",
-    "source": "Dunya News",
-    "summary": "PTCL denies reports of Etisalat exit from Pakistan telecom market&nbsp;&nbsp;Dunya News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOC0zNVliQlZJTmtiU2ZNc25TMHdZOVRzYjJuZHppR0h5LVZVQWNNWmRfTTVhWExkZFZrTUZoTjlwYTVrdE8xWGtvWWlWTVM5RDVpUjlyQjYwalNzMlg1YzAzdVZLUFI1aF90LWNIajhFQkZXN2l0eVktX3hWR0RDb191aThoRVU3Z0NPNlozLVVtYWFYc0pZU0lHVVNwNWNJVFQ3Rk5JVzJXZW_SAVZBVV95cUxPWXZ4V3RzZFkzMERHSUJfQW1Sa2pjaHFiSUhrODFDZzR3eC1wbUNrOTQ1azN6emYxVlc2b19DX2xkMVdtcFpJcm1wN19MQ1Y2SmxEd2hIZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 20:12:43 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037531+00:00"
-  },
-  {
-    "id": "840d9da1af7f",
-    "title": "How agreements between cloud providers and telecommunications companies are progressing",
-    "source": "BNamericas",
-    "summary": "How agreements between cloud providers and telecommunications companies are progressing&nbsp;&nbsp;BNamericas",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTcwcU5FM24xQTA0QWgxYnFxUndnM3pfWFBPTjl0VnpTSkg3NTZBQjRBOXR3cmhBTmRmVFBsTmpMaFg2TktFcEozLTd2S0dwaVM3NWpfVTViajNWYnlWeW9GZi1RYTE2Y1NuOEtXMUUwYUlEWENFV19iTGdXNXdXanM2MHVQSU0zdzYySmNWRVhwR2k3bXJ0clFoSmlveTY2cDBRUzhodmdhRmI2WVljUU9CNHpDS3ZtMzRBMXJMUzJLWUpv?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 21:26:04 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037545+00:00"
-  },
-  {
-    "id": "c2b13d8506ba",
-    "title": "Global telecommunications company monetizes $100 million with data and business intelligence solution",
-    "source": "JLL",
-    "summary": "Global telecommunications company monetizes $100 million with data and business intelligence solution&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbWpWVkJCdG1xbjNIblk4dDYwaC12SXZtNTExUGpzS3RNblRJQTRDUVREWkhYMjhYaUI0X2JKc0ZkblJONWdoamtocTY0NzRWbEhVZGZvc1otTXdJS1pGQTNBU09fb0U?oc=5",
-    "image": "",
-    "published_at": "Fri, 12 Dec 2025 02:38:04 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037559+00:00"
-  },
-  {
-    "id": "f66e0c4bf86d",
-    "title": "Rogers' voluntary buyouts could signal further industry cuts to come: analyst",
-    "source": "Times Colonist",
-    "summary": "Rogers' voluntary buyouts could signal further industry cuts to come: analyst&nbsp;&nbsp;Times Colonist",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVNrOTFEZEVJbVVuWEhYWVNMQXFrMnpKa1NVb0diQjk0RmxvNHZBR1hHMnVHZmRyQnl6bEx6Tm1hNkpacmhFQ1hhMHFVS1U2T2FDQndLM2Zndlk1MHA1YXlxVXRtdmEtd2pTbGtfX2FxQW5Rc1AwdkFqd3ZzbU9RUkstTnloLTlPVE5uNFQtVGdYaWM3NmN3cExuS181QnREc3pkT01yUDIwMlZwN2Jkb1ZfTXR4dFVqekFYclo0c3hkRXV3WUdNV1NR?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 17:08:15 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037573+00:00"
-  },
-  {
-    "id": "68cab2ea5335",
-    "title": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing",
-    "source": "WSJ",
-    "summary": "Bankrupt Telecom Business Accused of Fraud in Receivables Financing&nbsp;&nbsp;WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGVNcHAzZGExMDMwOWtjRmpHOVZFaV9BMXlFSU1zWW9TLVlyUGlJWDhSOFpGcDdzd1p1cVFnT3Jvb2U1R055anM0V1ltYnhNVW5zY1VzS0FkZWVxeWZGRFZIdmZJZ3BtcGVLQ0lETEdsMU9ESlJoT2Q3elp0QWVPblhnUlZfTVYwakYyMWpGU2ZfMl8tX0dLbzl4cDZPU3VsS0M0NWxoT1I?oc=5",
-    "image": "",
-    "published_at": "Wed, 22 Oct 2025 07:00:00 GMT",
-    "fetched_at": "2026-04-30T23:00:37.037585+00:00"
-  },
-  {
     "id": "85d2e0f17f8b",
     "title": "Department of Telecommunications Reduces Vodafone Idea AGR Dues",
     "source": "India News Network",
@@ -208,16 +238,6 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 18:57:32 GMT",
     "fetched_at": "2026-04-30T21:10:10.656110+00:00"
-  },
-  {
-    "id": "1c81e2c3eeb7",
-    "title": "Egypt’s Telecom Sector Have Pumped USD 2.7 Billion Into 5G Since 2019",
-    "source": "CairoScene",
-    "summary": "Egypt’s Telecom Sector Have Pumped USD 2.7 Billion Into 5G Since 2019&nbsp;&nbsp;CairoScene",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVhrMmZMd0JKQnNQSnpjTDlxd2hjby0xVndBMzFZeHV4WjVDVTYzSExaVklRTkM2c0ZRSjVDS25uSDBESHZIYUstSGhUNWxlWEdkYmI1cHhyUERWbFZyUXhMV3NSWloxZWVsUTBOSUYydWRyTTBMbExKLVdvaUwtSXQzUkJPQm4xakgteGR2TEI2anpnNmZpcTkxWkN6Zw?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 11:19:17 GMT",
-    "fetched_at": "2026-04-30T19:44:39.918243+00:00"
   },
   {
     "id": "b472ccdf174f",
@@ -238,16 +258,6 @@
     "image": "",
     "published_at": "Thu, 30 Apr 2026 11:20:32 GMT",
     "fetched_at": "2026-04-30T19:44:40.947020+00:00"
-  },
-  {
-    "id": "a6a4afdc0515",
-    "title": "Today’s Top Telecom Industry Challenges",
-    "source": "Oracle NetSuite",
-    "summary": "Today’s Top Telecom Industry Challenges&nbsp;&nbsp;Oracle NetSuite",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWZnUnlhS1YzUzNvQ2JWWUREb2VYNHFvTjZkaWJNV3gwNktwcEpIQVpkUmJCb3Y1aDU0ejBzeHZuTUNoSS16cnU4VEdyRzNZN2VoQjNpMkd1SEFsQ2NPdnMyTjA1aF8yOVRYeExZR1pHNzUzQkJTbGtkYVllenJHX2JURUo1Yk13dVhxTzcyXzE?oc=5",
-    "image": "",
-    "published_at": "Thu, 04 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-04-30T17:29:10.251390+00:00"
   },
   {
     "id": "5daebe753917",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Tue, 28 Apr 2026 16:52:40 GMT",
     "fetched_at": "2026-04-28T18:27:01.471177+00:00"
-  },
-  {
-    "id": "3ca514b9c558",
-    "title": "Court overturns Starlink ban in Papua New Guinea",
-    "source": "Developing Telecoms",
-    "summary": "Court overturns Starlink ban in Papua New Guinea&nbsp;&nbsp;Developing Telecoms",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjRacHJ6X1ZuRnNVblp6R290bk5HZVRLV0ZTXy1KbnpWMEQ3NktGVWNFLWExbkxnUlF5MGNBbXVncFd0TW1tdnpKUzh3UTEwQk9IOUZpMlppUU4zb2thTzFOdVczNmpxSHNYUzc2TWtOMENDcy14UUlXaU1pWUNGRTd2Mm1ULXRaNGVXWW5kdDc0UXloWVl6bGYwd05iM01lTkx2NVNlc1BUbEViWnNhOXFsMmt5aWxEQ1o4UDlVTjlrcWpXRXJnSzBR?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Apr 2026 12:24:12 GMT",
-    "fetched_at": "2026-04-28T18:27:01.471192+00:00"
   }
 ]
