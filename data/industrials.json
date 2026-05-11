@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FQ2pFaV9RWnI4VHVMNFVpLURTaGtuTUZJWWo1UmY3RGhjQ0lMTjFHRXNweTl3TXpwUFp1ZlhRdVpmNS03emUxNzdPQ0F0THd3dnRRVWMzeUh5bDhGb05maG5Ta1VIZjRiMGdpd2Zudml6cWp2?oc=5",
     "image": "",
     "published_at": "Mon, 11 May 2026 07:54:36 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944498+00:00"
+    "fetched_at": "2026-05-11T16:08:23.675823+00:00"
   },
   {
     "id": "1ace6a0fb101",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmFBUVJpVHNDNC1TVmVsUEYzTnc1em9FR1hWaWwtTGJ1bzBxS2xvMGhJVTVJYzlDREFzOWlwOGRtTUtRaHl6dVFLOXhLSWlnMTB5d2wwY2lEMVZaVF9NM2pOY1NiWUVmV0YtQ3gxSmxmajJrRGx2YjJ1Q2NmT2ZmX3BIWUtKX2J2d0RPMWlCeG1Zd2tlQUxDT3l0ZnlTOGRCZHJRUk0yem5zR28?oc=5",
     "image": "",
     "published_at": "Mon, 11 May 2026 04:06:41 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944529+00:00"
+    "fetched_at": "2026-05-11T16:08:23.675859+00:00"
   },
   {
     "id": "433c3adc17f3",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenczcDNpcEZCM1BUZFFnci1IZGJhVmFUT2R5QmVkY0pYUzNEYlY3OF9jVzlaYVdPYmhSODc1Unh4MkZnbnhVU3Z2TVAzTmJ1OWVvaDlOMUxfZzRtcXBIbHVuRGhvNzc0ZTlvS0YzVXU4QzYwQnFfQVJ4YmtKLU5Ta0NHZkRBaVhrWVZUQXJJTkhyNTc2ekxSN1VrckRuQUJvUnRwUVhTaGRBYWxzRExrZFNkV0hOdzBud3hYVlVtMUhkaVVoYjZkQg?oc=5",
     "image": "",
     "published_at": "Fri, 08 May 2026 19:58:27 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944544+00:00"
+    "fetched_at": "2026-05-11T16:08:23.675876+00:00"
   },
   {
     "id": "c85903089220",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2otdHFrQk4yMWdPbHFEQUYwNXN3RDhYVEhHaTRuRmZVX1Z2aDR5UXNlTnJZZFRGamNXSTd1VWpsRUlhbnB4QS01eVc4YmQxTVQxYjE0d0ZHXzktUDNVZGFEVUU3S1dxS1BZT2hRbmZfMEx3M1o2WUFjWmU2SkJjb1gtb3cwaklBUFoxRnVB?oc=5",
     "image": "",
     "published_at": "Mon, 11 May 2026 11:17:01 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944558+00:00"
+    "fetched_at": "2026-05-11T16:08:23.675890+00:00"
   },
   {
     "id": "1e48904c3535",
@@ -46,8 +46,8 @@
     "summary": "Highlights from Advance: Women in Manufacturing Breakfast and awards&nbsp;&nbsp;MRO Magazine",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVR2cC1xUU9yMmxDOGQ3RURvd2dTaHE2dGdIdHRYam1hZlItSE1kMG9qejV1OFE2SUNrYS1xelAyQkg2TXF4Y1BxZldIU25wbFBxUmVOUldKV2ZRT0dhQmptcjdpWW9wZ29OUTJLV3BZaTNaSjFxYkk3dkpwRS13djVkc1JLdm9pUHQ5YVVrZ1g1VkpzWl81TTBtZ0RGTjZ6T2RqWjJsNlE?oc=5",
     "image": "",
-    "published_at": "Mon, 11 May 2026 10:59:09 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944572+00:00"
+    "published_at": "Mon, 11 May 2026 15:33:45 GMT",
+    "fetched_at": "2026-05-11T16:08:23.675904+00:00"
   },
   {
     "id": "c5de77f7eaf6",
@@ -57,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGlUQms0VjkyMDNRcHNCc3JoM0c3T0REalE3cWtLcmUtbXZXRmxscDcxa05aaG9rRWd1ZEtNZTA2aGtkN0dSNnhEekFtNWViSzJ5cTdETnVzdWdZWjhHWnlKTlo0UlVZanZPbVFjTHA5ZmI1cm9xSVpTZ29ETzBpVlhtOTNaeHgwaU9WbmhyTGMyZDF3cmhpSmxmVUJubzFtbnJrRjJkR2N0X3pjMVFFMXkyamdhZlZQRi1LTzNB?oc=5",
     "image": "",
     "published_at": "Fri, 08 May 2026 10:31:09 GMT",
-    "fetched_at": "2026-05-11T12:44:55.944591+00:00"
+    "fetched_at": "2026-05-11T16:08:23.675924+00:00"
+  },
+  {
+    "id": "7c1e7bde0c60",
+    "title": "ZF highlights Mexico’s competitiveness",
+    "source": "MEXICONOW",
+    "summary": "ZF highlights Mexico’s competitiveness&nbsp;&nbsp;MEXICONOW",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wUEtXQy1YWXRhSk1McUc5b3VkaWpXcUE1d0RydDhCcnRkbjBwcmtsOXBOaTM3SVNEWktudW81dEllanVRWVNpRkFTekJNS2prdy10ekw4TldQSV9BY18ycnA3OUNhT0hoU3d5Qzhn?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 14:22:33 GMT",
+    "fetched_at": "2026-05-11T16:08:23.675937+00:00"
+  },
+  {
+    "id": "47f366296c01",
+    "title": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring",
+    "source": "Energy-Storage.News",
+    "summary": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring&nbsp;&nbsp;Energy-Storage.News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2tjZE0td3VsSkdtUlJISXFFODRIWXVGOUJUUkYxWG9WRmowVVhyNXpEc2JQQ0c0RHBVOVczOHVOclF1Z1hVbGh0MDFic1FrMkY2WmRJdXBxSWIxNjlnaTZvazdoWVhrWFhNeFVBd2VFWHRWZm1jeU9BdTEzVnliYVpUSk55VXVWZG43YmtlZXBmdHNoTmMtUEVjOGpvbEZsQ21DYURQcy1uQjZVWDZXZnFhOHJpTDNldDlrR1FyOS1NbDJrQVZR?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 15:53:39 GMT",
+    "fetched_at": "2026-05-11T16:08:23.675955+00:00"
+  },
+  {
+    "id": "9bf7c2edf621",
+    "title": "IoT in Manufacturing Market Surges to $142.63 billion by 2031 | CAGR 10.1%",
+    "source": "Yahoo Finance",
+    "summary": "IoT in Manufacturing Market Surges to $142.63 billion by 2031 | CAGR 10.1%&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnlOWDc5anNLa25EMVU4WlBQcHJoVmh4QnBWTnlqUkE3amUxcC1udjlsYlhPWkhjU1lfalhSTWt3ek1fakQwWENJMGQ0ZFNNblJKXzdQZGVPM0tjV3d4LTByRmdvQ3c2V3pGM0hjQ0JGZnJRUHlSMnNaM0dYREl4RVhGSVNXbVdrUURDSmRmZ3RSakM5bkZiaEJKcE5leTFfdE1QU0FIbw?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 14:30:00 GMT",
+    "fetched_at": "2026-05-11T16:08:23.675970+00:00"
+  },
+  {
+    "id": "93daeae34637",
+    "title": "Global Industrial Enzymes Market Gains Momentum as Industries Shift Toward Sustainable Manufacturing",
+    "source": "vocal.media",
+    "summary": "Global Industrial Enzymes Market Gains Momentum as Industries Shift Toward Sustainable Manufacturing&nbsp;&nbsp;vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGhzZ3IwWmxuc3B0R05SekVGWUJEOEEyN01OZDF2OU9tZHlXZFBHdjBucXF2Zk0xWlpaN3VrSkV1QTRBOWdGREhYd1IxQVZtaG1OQlFhU3RkbU1USlZPTGs0TU80WExxdFdkRERYRGFmYmRDMXpzaHNHOWVGWnpfWHZQU3BXaGNDOF9Qb1lMSGlPdndZUEdORzQwaHRYRkpvUElMeWpqZlNZVzRNVmxONGZRNzBLMGR3SW1MWkNQT2pIMlZEMkROWQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 13:17:33 GMT",
+    "fetched_at": "2026-05-11T16:08:23.675984+00:00"
+  },
+  {
+    "id": "711616ccaa10",
+    "title": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth",
+    "source": "Yahoo Finance",
+    "summary": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk8tbkIzZ3VhM054VTM2OXdTSDNjVHB3QXpIaHVyQ2dURDFTZkQ1dkZFZXMyYkNpLWp0LXdnck5XeTRqS2RKZklxck5CZ2NVdUdlMjdMcmViNlZQbmlUS1h1bkl0aDhWNzJoT3I5dmNXM2xoMmdSb21IOVQwMThpalJ4ZHVmX182VmF6ZzJEWVhNRHUxaWMtbDhULVVRcHlR?oc=5",
+    "image": "",
+    "published_at": "Fri, 08 May 2026 16:20:46 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717770+00:00"
+  },
+  {
+    "id": "144545a71a1a",
+    "title": "Supply chains opting for faster decisions over more visibility, notes Gartner session",
+    "source": "Logistics Management",
+    "summary": "Supply chains opting for faster decisions over more visibility, notes Gartner session&nbsp;&nbsp;Logistics Management",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdk9UYlFIZVZnQ0I2MmhrMHdZY0Y1UWk3T01ES25WR3kxbzJRVGt1cG5DWC1QUmlxUFdIT2Q3ZEsxU3BEYXl3OXpfSFJoR2hyZUpSOGZUSUNNOWJ5SEU1cDZ6ZDN2bkdIYVFFM1hNTDk0di1UdDJ3N0ZoRHlMMUlIZ3J5VGhGNERuU09HVW9tX2NEbkFpOGwwazE1ZWVWOEprUW9hSE9lRzlzUXRmR2hjZEFEMWJ6WUZmZUZJQ3FQWQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 15:17:45 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717799+00:00"
+  },
+  {
+    "id": "c26358077539",
+    "title": "Amazon Supply Chain Services: A New Logistics Challenge for FedEx and UPS?",
+    "source": "Global Trade Magazine",
+    "summary": "Amazon Supply Chain Services: A New Logistics Challenge for FedEx and UPS?&nbsp;&nbsp;Global Trade Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2gxYlBKdnlhWmVLaHpibVZGLU51aHFTUVZiaXI0VlVHeERYSUZVcmJhT29KZGg0c3FHZ0xmNE1pUVpHbEhUY3VTOHR1cFRTZVFkMVZEWFpwNXNBZ2ZfU3pBTElKVkhmYnVRNDhyX21GS3BrS2wydzl1bDcydDdxTENGV3RGMHFtQ1BJcW11b3JLeUVhSm03VS1mY2Y5XzJfS3hXVmdkdw?oc=5",
+    "image": "",
+    "published_at": "Sat, 09 May 2026 11:22:12 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717815+00:00"
+  },
+  {
+    "id": "d26536405fba",
+    "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business",
+    "source": "About Amazon",
+    "summary": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business&nbsp;&nbsp;About Amazon",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+    "image": "",
+    "published_at": "Mon, 04 May 2026 10:01:19 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717839+00:00"
+  },
+  {
+    "id": "a598676bc66e",
+    "title": "Amazon Supply Chain Services opens logistics to all businesses",
+    "source": "qz.com",
+    "summary": "Amazon Supply Chain Services opens logistics to all businesses&nbsp;&nbsp;qz.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0hNelFsTEROWEd0SXRPSlNNMFBucTFUUWUwdWNzcXZKUVVHVzN3eHVKSmx6VEgxMTNPcC1LZG4xckhXc0JtcXVEekgwT1ZXOWVDWHlJc1gycW5mZnF6anZoV1Y4SWhPMmVqXzdxUXlxeTg0MkZ6aU1XSjIyWENfOTdZOHdMeHhnMzU0?oc=5",
+    "image": "",
+    "published_at": "Mon, 04 May 2026 14:38:34 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717853+00:00"
+  },
+  {
+    "id": "2fa6afc2e421",
+    "title": "Is Amazon Supply Chain Services already a logistics heavyweight?",
+    "source": "Supply Chain Dive",
+    "summary": "Is Amazon Supply Chain Services already a logistics heavyweight?&nbsp;&nbsp;Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTlyVkF4X25HbHM1VTdoeGVQR2xHVjVjcEJqaFBvWjJKVFNKX2ExTW5MUEhYd19JazJxWktQNE5IbVRGbzhaWlZzMFBreFU3UEJRTWYwbVk0U1FLbDIyVkZOYTRmejVOWVFEelB1SnVzdmFONFpEMFdHb0x3VGxMM1F5SEY1UFdOaF9kVnduRlVwanZYRDZCeFVBNVc1MW00RTFXWm93bDB2emts?oc=5",
+    "image": "",
+    "published_at": "Thu, 07 May 2026 20:56:20 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717866+00:00"
+  },
+  {
+    "id": "62c1457356a5",
+    "title": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",
+    "source": "Business Wire",
+    "summary": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses&nbsp;&nbsp;Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlRuYkxsZmFEZWlmUm84MVpZRi1pMjdEZHk5aDVuRDVJOXdBUUxKSjVycG15eVhBRFhReF9TUEJyLV80XzJqd21sRjN3SW1TOXI5UU9GR3F1LWt0czhmU1g3cFlZeTZxaHJCV1ZNbndmcGVZMnRfR0VydzZGelRwSzJfTURRbWM0TF9SRDhXS2lmbmJwN29XeGZYYk9aRElMQzBKYW42Z2VWYkVCTFV2YVF3TjdmUnJhTzVUTDBfWHNiRWdtVTYwbHJPSFQzUjM3MWVZSzBvMnJVOUtWT3k0UFRYNA?oc=5",
+    "image": "",
+    "published_at": "Mon, 04 May 2026 10:00:00 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717880+00:00"
+  },
+  {
+    "id": "60780d97f963",
+    "title": "Amazon opens logistics network to all businesses",
+    "source": "Supply Chain Dive",
+    "summary": "Amazon opens logistics network to all businesses&nbsp;&nbsp;Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhFNXJLcllKNEpuUUpWV05iYU5Ub1JfN2dXX0lVd2F0MHd3ejM2Um9xUFV3dy0wQjlrN0E1RXB1YXQtNld2UDJWbEJFWlFtWEp0OWYzLW5oZ2hvZ1J5UmpaM1F5LUhXX3IwZU94R21Mb0JLdDk4bGVWZXZucm9ER1hTSFVBRUNWQlJrQUtuX29KLVh1TzlDdw?oc=5",
+    "image": "",
+    "published_at": "Mon, 04 May 2026 14:50:40 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717892+00:00"
+  },
+  {
+    "id": "d6a464a39ed1",
+    "title": "10 Tips to Maximize Supply Chain Technology Value",
+    "source": "Inbound Logistics",
+    "summary": "10 Tips to Maximize Supply Chain Technology Value&nbsp;&nbsp;Inbound Logistics",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzFLRnpGUjEyYjJWX2hXekJmZHZWWXZNbjhrcXVoVVVnSERxN2NaTGoxQXd2YmJhUXZqeWtTNEpOZUxSVlZpWUN4eGhZN3lWRWc5bWl2S2tlLS1jRjdRS2liTENoTmI3V1F5OWEweUVLRm0xTkRRTVdRVUk4bHB4WHBKMnRHU0R3Z2JGU3pxM1MxV205eWozS25Xd0NYTUVHVHFjSzg3ZjdWQVo4SkxB?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 16:00:13 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717904+00:00"
+  },
+  {
+    "id": "51d7814b43e2",
+    "title": "Why Undersea Internet Cables Matter to Global Supply Chains",
+    "source": "Logistics Viewpoints",
+    "summary": "Why Undersea Internet Cables Matter to Global Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmdqZ2NzWENFR0J2Vk9sNDNSdDk4M1ZjSnZqc1hBRTBVbl96U2RDR2lYV1pBVkp1SHR2OVZSWFJDRXk0TU9LZXJEQTBUZ3ZZNDJ1N3dya2tJYmNsTWIyVmFLcUhJTkdlenB2Q0NQeWpadmZjYmhRbnpyY0x1UEp1ajUtVDQxX29oZGM4RXhCSmwtTTR4ZWtuQnY0aUNTY0piY0gzNWxB?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 13:19:59 GMT",
+    "fetched_at": "2026-05-11T16:08:24.717917+00:00"
   },
   {
     "id": "2f8eac8596cc",
@@ -100,16 +240,6 @@
     "fetched_at": "2026-05-11T12:44:55.944643+00:00"
   },
   {
-    "id": "711616ccaa10",
-    "title": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth",
-    "source": "Yahoo Finance",
-    "summary": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk8tbkIzZ3VhM054VTM2OXdTSDNjVHB3QXpIaHVyQ2dURDFTZkQ1dkZFZXMyYkNpLWp0LXdnck5XeTRqS2RKZklxck5CZ2NVdUdlMjdMcmViNlZQbmlUS1h1bkl0aDhWNzJoT3I5dmNXM2xoMmdSb21IOVQwMThpalJ4ZHVmX182VmF6ZzJEWVhNRHUxaWMtbDhULVVRcHlR?oc=5",
-    "image": "",
-    "published_at": "Fri, 08 May 2026 16:20:46 GMT",
-    "fetched_at": "2026-05-11T12:44:57.045894+00:00"
-  },
-  {
     "id": "af78e9357a33",
     "title": "News EXCLUSIVE: 'Politicians don't appreciate the value of logistics to the UK'",
     "source": "The Loadstar",
@@ -118,66 +248,6 @@
     "image": "",
     "published_at": "Mon, 11 May 2026 11:41:01 GMT",
     "fetched_at": "2026-05-11T12:44:57.045923+00:00"
-  },
-  {
-    "id": "c26358077539",
-    "title": "Amazon Supply Chain Services: A New Logistics Challenge for FedEx and UPS?",
-    "source": "Global Trade Magazine",
-    "summary": "Amazon Supply Chain Services: A New Logistics Challenge for FedEx and UPS?&nbsp;&nbsp;Global Trade Magazine",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2gxYlBKdnlhWmVLaHpibVZGLU51aHFTUVZiaXI0VlVHeERYSUZVcmJhT29KZGg0c3FHZ0xmNE1pUVpHbEhUY3VTOHR1cFRTZVFkMVZEWFpwNXNBZ2ZfU3pBTElKVkhmYnVRNDhyX21GS3BrS2wydzl1bDcydDdxTENGV3RGMHFtQ1BJcW11b3JLeUVhSm03VS1mY2Y5XzJfS3hXVmdkdw?oc=5",
-    "image": "",
-    "published_at": "Sat, 09 May 2026 11:22:12 GMT",
-    "fetched_at": "2026-05-11T12:44:57.045940+00:00"
-  },
-  {
-    "id": "d26536405fba",
-    "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business",
-    "source": "About Amazon",
-    "summary": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business&nbsp;&nbsp;About Amazon",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
-    "image": "",
-    "published_at": "Mon, 04 May 2026 10:01:19 GMT",
-    "fetched_at": "2026-05-11T12:44:57.045964+00:00"
-  },
-  {
-    "id": "a598676bc66e",
-    "title": "Amazon Supply Chain Services opens logistics to all businesses",
-    "source": "qz.com",
-    "summary": "Amazon Supply Chain Services opens logistics to all businesses&nbsp;&nbsp;qz.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0hNelFsTEROWEd0SXRPSlNNMFBucTFUUWUwdWNzcXZKUVVHVzN3eHVKSmx6VEgxMTNPcC1LZG4xckhXc0JtcXVEekgwT1ZXOWVDWHlJc1gycW5mZnF6anZoV1Y4SWhPMmVqXzdxUXlxeTg0MkZ6aU1XSjIyWENfOTdZOHdMeHhnMzU0?oc=5",
-    "image": "",
-    "published_at": "Mon, 04 May 2026 14:38:34 GMT",
-    "fetched_at": "2026-05-11T12:44:57.045980+00:00"
-  },
-  {
-    "id": "2fa6afc2e421",
-    "title": "Is Amazon Supply Chain Services already a logistics heavyweight?",
-    "source": "Supply Chain Dive",
-    "summary": "Is Amazon Supply Chain Services already a logistics heavyweight?&nbsp;&nbsp;Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTlyVkF4X25HbHM1VTdoeGVQR2xHVjVjcEJqaFBvWjJKVFNKX2ExTW5MUEhYd19JazJxWktQNE5IbVRGbzhaWlZzMFBreFU3UEJRTWYwbVk0U1FLbDIyVkZOYTRmejVOWVFEelB1SnVzdmFONFpEMFdHb0x3VGxMM1F5SEY1UFdOaF9kVnduRlVwanZYRDZCeFVBNVc1MW00RTFXWm93bDB2emts?oc=5",
-    "image": "",
-    "published_at": "Thu, 07 May 2026 20:56:20 GMT",
-    "fetched_at": "2026-05-11T12:44:57.045995+00:00"
-  },
-  {
-    "id": "62c1457356a5",
-    "title": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",
-    "source": "Business Wire",
-    "summary": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses&nbsp;&nbsp;Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlRuYkxsZmFEZWlmUm84MVpZRi1pMjdEZHk5aDVuRDVJOXdBUUxKSjVycG15eVhBRFhReF9TUEJyLV80XzJqd21sRjN3SW1TOXI5UU9GR3F1LWt0czhmU1g3cFlZeTZxaHJCV1ZNbndmcGVZMnRfR0VydzZGelRwSzJfTURRbWM0TF9SRDhXS2lmbmJwN29XeGZYYk9aRElMQzBKYW42Z2VWYkVCTFV2YVF3TjdmUnJhTzVUTDBfWHNiRWdtVTYwbHJPSFQzUjM3MWVZSzBvMnJVOUtWT3k0UFRYNA?oc=5",
-    "image": "",
-    "published_at": "Mon, 04 May 2026 10:00:00 GMT",
-    "fetched_at": "2026-05-11T12:44:57.046012+00:00"
-  },
-  {
-    "id": "60780d97f963",
-    "title": "Amazon opens logistics network to all businesses",
-    "source": "Supply Chain Dive",
-    "summary": "Amazon opens logistics network to all businesses&nbsp;&nbsp;Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhFNXJLcllKNEpuUUpWV05iYU5Ub1JfN2dXX0lVd2F0MHd3ejM2Um9xUFV3dy0wQjlrN0E1RXB1YXQtNld2UDJWbEJFWlFtWEp0OWYzLW5oZ2hvZ1J5UmpaM1F5LUhXX3IwZU94R21Mb0JLdDk4bGVWZXZucm9ER1hTSFVBRUNWQlJrQUtuX29KLVh1TzlDdw?oc=5",
-    "image": "",
-    "published_at": "Mon, 04 May 2026 14:50:40 GMT",
-    "fetched_at": "2026-05-11T12:44:57.046026+00:00"
   },
   {
     "id": "229fa8d58966",
@@ -428,75 +498,5 @@
     "image": "",
     "published_at": "Sat, 09 May 2026 17:02:00 GMT",
     "fetched_at": "2026-05-10T15:01:33.620772+00:00"
-  },
-  {
-    "id": "82977980f8b9",
-    "title": "Attention must be paid to supply chain shifts. Rhode Island should know.",
-    "source": "The Washington Post",
-    "summary": "Attention must be paid to supply chain shifts. Rhode Island should know.&nbsp;&nbsp;The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkhsQ1hFdGxGZkdJc0RCWlM0Sm9WUXJQNE9HeXJZYVVoQlBzY2Z1WTRHQ3luakJTZ1UyLVNTQ2t2RW82bTBGamdXSnpkU0Y1MDU0ck9OTldyUjZEcldxMFRkZ3hvMnRndUl6LTdXN1lVMjV4TjVoNF8xU3g5aGZpOXFMM2hMWTdtcnNxci1vXzQ2ZUdnOXk0akwzaFNRby14MzIwcHRlWG9sYjN0Zk13cDNEQUxtMHQwUmphVHF3dnJveXRlVnp1aVUxcElGRHlidTVCcHh3?oc=5",
-    "image": "",
-    "published_at": "Mon, 04 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-05-10T15:01:34.655692+00:00"
-  },
-  {
-    "id": "d30001f7f0dd",
-    "title": "From Logistics to Lifecycle: Building Advanced Therapy Supply Chains that Scale",
-    "source": "Contract Pharma",
-    "summary": "From Logistics to Lifecycle: Building Advanced Therapy Supply Chains that Scale&nbsp;&nbsp;Contract Pharma",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVNRWGQtSEdiTHNCdWtGSFBtSW5VMFRBdTBhVkozOVphT193b2dTNGhocEpCZURibUlvMERkeHBJWkxDTWtYdWhINXNCR0hUbG5fTEJIZG15X3dLVlNLakRvQWJPc2d4WmFCaTFBWHFMUEhUaDNrLW1TTjRqSW9DS29KMUo4OU9vcmlHdkhLRXFXMXJieVMyeXNQeVg3bHZIdFh1QWZIQVFyc0JET2VJ?oc=5",
-    "image": "",
-    "published_at": "Thu, 07 May 2026 18:02:51 GMT",
-    "fetched_at": "2026-05-10T15:01:34.655723+00:00"
-  },
-  {
-    "id": "b7fed18048b5",
-    "title": "Starboard Sharpens AI Logistics Strategy as Amazon Supply Chain Push Intensifies",
-    "source": "TipRanks",
-    "summary": "Starboard Sharpens AI Logistics Strategy as Amazon Supply Chain Push Intensifies&nbsp;&nbsp;TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1c0Uk9ORWYtcHdhbWU3ZlNpTXNvdUpBTElhQWZnTE5GWW1Eekp3bllrY0pQRXhTNlBpbEJsTEhMaV80VExUWlZTcjlTNFR1dGgyRkpJekY2VWJzcDkzQ3lWZjRsWE5nN2t3djE0MHhVYWs5VEkwX3RuRTliWFV6d1RNd1dXbkRybmp0V01YV1JBVm8tczBseGJ6UHZwSmh6TnZMeENQcnUtLWZ3RWVWTlZUMURGTVRDc0J5WWNUZWV5bkk0ZFFN?oc=5",
-    "image": "",
-    "published_at": "Sat, 09 May 2026 13:49:13 GMT",
-    "fetched_at": "2026-05-10T15:01:34.655754+00:00"
-  },
-  {
-    "id": "e4799de88a8c",
-    "title": "KPMG Global Tech Report 2026: Industrial Manufacturing",
-    "source": "KPMG",
-    "summary": "KPMG Global Tech Report 2026: Industrial Manufacturing&nbsp;&nbsp;KPMG",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjBDYmF3Z1RGdjlpMEtEcUJEaFllVzhNd0c1S0x1WGVHZk1mVUE2UkQwQTUxaUJ0Z2hNclQtb21PdmcxNFdqZzRxMlVpT2UtY3VhaGVGT1I1UC0yRDZNRWpvX1NpdmdPUzVId21tOG93U1ZJNVI2QmhtY2pENUtMSHVQTXFBdkhhOXBkMTE0ZUdHb1h3Y1d0eWlDMA?oc=5",
-    "image": "",
-    "published_at": "Fri, 08 May 2026 19:22:01 GMT",
-    "fetched_at": "2026-05-10T11:05:22.999776+00:00"
-  },
-  {
-    "id": "27e26f4149fd",
-    "title": "Why Apple and Ford Manufacturers Dropped Production in March",
-    "source": "Supply Chain Digital Magazine",
-    "summary": "Why Apple and Ford Manufacturers Dropped Production in March&nbsp;&nbsp;Supply Chain Digital Magazine",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWThQbG1XbDNCWTNyaURTWXJNOEhFYjZRU01kVml6bHZOamxINjY3NVM2R3RlYW85NkM5WVZ1ZU96QVJDY2lDQ21qYzNFVkRrQmRlelRBMUxwajFjWHNxNlhsUmFuZ0pFQ2U4WWZtSXFQeFE3TkR6Yktobi13dDVpXzhlTTIyT2FzazdxNk9R?oc=5",
-    "image": "",
-    "published_at": "Sun, 10 May 2026 07:04:03 GMT",
-    "fetched_at": "2026-05-10T11:05:22.999866+00:00"
-  },
-  {
-    "id": "7fba23cfc71c",
-    "title": "Amazon CEO Andy Jassy explains why Amazon is opening its supply chain to every business",
-    "source": "About Amazon",
-    "summary": "Amazon CEO Andy Jassy explains why Amazon is opening its supply chain to every business&nbsp;&nbsp;About Amazon",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWlwY0FjeVRZZ1dVdVNHdm9MRlBKeWFPbThHRXBMa2Z3cnlzdjhBRUFYUlBKWTZodzVCV1Y0UC1GaENCYVU3ellZMm1XcXpCT0JLUWlYQllHclVXbldxU09uOWxxRjl4VUFMOUhUNXN6TEd3SzgtVDZScE9OVWotblhPcUt1YWUwMGxHVVJ0UG9UZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 07 May 2026 00:41:10 GMT",
-    "fetched_at": "2026-05-10T11:05:23.985268+00:00"
-  },
-  {
-    "id": "a4781f0d2773",
-    "title": "Innovation and R&D: The missing link in India’s manufacturing sector",
-    "source": "ET Manufacturing",
-    "summary": "Innovation and R&D: The missing link in India’s manufacturing sector&nbsp;&nbsp;ET Manufacturing",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUThZTS1KT3BNZU1TVDBWblVJYVlBQmFuT1hPM0VhdzBqdU9kMWhzdjVVUWJKenBEd0pOSW45Mmhsa090RDdTd3RqMU5RQjJkSWVIQ3Ewa2FoZDZLMFhtMm5rNF9nWUhZS1VVbG8yOE90NnRyd25EU2FIMS0xVmdHM3pVNmVXa1JNbmliQzhVRnEtbVZkTGIxTTUwQ1VHejZydEJUSU1BMC1ySnhzSkhhUERpZW1pSUtWNUtFZkNkeXFBZTQ0Z3FLOHltRDJ1RlV3aExRV0pwVdIB3AFBVV95cUxNazc2MTRMa0RXaEl3S0YyYU5KU1hiX0JfLTdoamtZekR5T3NLM184bUUzQXc1c2ZfblkwQklQcm5UZk5KQV8yMUkyUi1Wci01c0lNc0pSbDh2dUozaXd1U2lVMUtfeDFKTWxyUm1wdEFQNW1xcG1US0wyV3VPSnAyeHllOXlfNkNwSHNwRTJOV0RJNms3X2tCM0FOelhQaC0zSU9OX05QYS1iZW9Lb1BKeXd0eHFEZ2tBUGlBcVd2U1NteE9yWnVySDdqdkVCcThpUTQ0Yl9XXzZ2OEYy?oc=5",
-    "image": "",
-    "published_at": "Sat, 09 May 2026 11:35:31 GMT",
-    "fetched_at": "2026-05-10T07:29:21.387138+00:00"
   }
 ]
