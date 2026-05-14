@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbGdOdDl0SnFlZXlZNndBZTdxMVZBYjhZbkJ5R0ptZ2lYbzY5WlFzcDBwNVdvbU55WU51U1o4bVBvY3BFV0txbmxtWmRab005ZU5HbjJQX1VEYU5SRTBYOWVQcmhma21xNm13YTVheE9PRTVoU2h6TjctTFdOcHNPRERMY1htbk0wd1hIcDZ6WWlIWUlLczlXUEpJY19YSmdxcE5LeWktVTdDYzNmRExFaUtRbTlxN0dmZVc3STZqNnEwWVo3S0FKYzcwV3NwZ3FmcGFaNm9fajE3MnpFZTdBWXZkY1hsREJoaTUteHhNcEoxRVAzZ2d6Y1ZmSdIBgAJBVV95cUxNdjlmQ0tWNXkxM2RDTHZzTURidW9wQldIT3JkSXBITHRkOEdhYUdzSG56Y1k1djh5MG5NeUlMcnVQU3REbEhFSjl2SGNrMy13SjlwalpESk04eDc5bjBrYkRraVdJU1Z6S0NyMDJ3S0NkbEszaDc1cFY2SHFidzhwX0s0MnBKanVOU25jSnBxMzNnZUV3YUJnTzlWMU93TEU3SFdQUHc4Y2oxSjJvVGUtMUdEdTF3UHN2eHVzN1ZxRm4wRDZpcjliQ0FBRGpmUjVCbFBYLVRjM2RwWW9rbGJ2dkozRjJQTmtyT3FPd0NiX05GV3FRVms2Z19TNnphS25O?oc=5",
     "image": "",
     "published_at": "Thu, 14 May 2026 06:30:00 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794354+00:00"
+    "fetched_at": "2026-05-14T21:16:55.129827+00:00"
   },
   {
     "id": "397b440fd377",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFdCR1drWUdWeTFYMXg1OVBUMl82Ui1GYk92NC1lZzdJY2FIcFJ6a0ZCekRDME5kQkpUUExDU0tWS3NpNVc0dHZmaHBuTDhaN3hpTDV0c2g0Y0xYNzZldnNYSnhlT0R5amxHbWhVaUpyalk1LWlLcFdBWWFRRUpNTWxhUUM5alFZdlFVRUNlallRQ2ZsQUxFdDZlV0d2WTc3TGNOOHlrWHZmUTZRQ1Z5b21VUzJ0blNTYTk0Q3ptTENxZWtyRzFJQkU5b295WEpKQWR4NU9ubW7SAd4BQVVfeXFMUDRNMmRUWU1XbzJUSEx4Smx6clFxWnhiTF9WS2VLZVA0c01FOTlIWm1keHBFOU10Q3QzbWZEZm5iU2xuNXR3YXpMQWVoaS1iUkNFLVhkMVZCeWtVODBRU1FhYVlpYngyRVRTX21MVU5ReEg3NjJxMjZMdkpKbVJ3SVd0Y0hkSXNic0FYOWVEZmVPcmJidjJJbzFsQzNBZ2pWQ3JfUEhfVHBVaTJKQVVUWWtybFJ4cDJhTEZaV29SeUtvSm04WlFGVW9iLW8yNktIVFduRVJHb0hWMHE0bGN3?oc=5",
     "image": "",
     "published_at": "Thu, 14 May 2026 05:49:07 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794384+00:00"
+    "fetched_at": "2026-05-14T21:16:55.129862+00:00"
   },
   {
     "id": "9614c0694329",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkdkQXFBY3duVGxCNUQ0YlpXSDVKNHFJempEYjF2aFcwN2JRX2pDdXFURkR6T3g2WlRxN05QN2c3MGxSZG5tVm4yRHR0YXZLclZQQXl6NEVtTVFtUS1GMHBGZWYwcWpObFhGLXNrMlM5RVQyNEZOVGwxaUNCMmR6b2dYbDNsUlBHSlMzLXlkS3BIQTZMUEQ1eEJaeXgtbjhyaDJEQ1pCZTljbGJuTnl1bjZULURBSnFkV1FPT0phaDdCZXhyWGc?oc=5",
     "image": "",
     "published_at": "Wed, 13 May 2026 11:59:41 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794411+00:00"
+    "fetched_at": "2026-05-14T21:16:55.129890+00:00"
   },
   {
     "id": "68090258338c",
@@ -37,7 +37,167 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmY4dGNrVDAwQ3JhbU1OYnAxN0tTeFJtY0JvbDhwN0ZVQU9lWjVZclB2R2tiLXZob2hEcXF6cVphS3d4NzZKMFFDTmZTOWtwRDh3c0ZOUE1Qb3RZMDFFSFJiUENxVlA0M1F4WXlrdjNNVzd1YlVDbHlLZ251LVMwajJUWW9XeEJXWUc4aHRNNmZQV0k4UjJRSlQ3MmdzOXhoRzd5bjJGcmdwbHY0ZG5VWEVhc1pndWlZMkVtclBTampsY2dycWc?oc=5",
     "image": "",
     "published_at": "Tue, 12 May 2026 08:06:01 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794428+00:00"
+    "fetched_at": "2026-05-14T21:16:55.129907+00:00"
+  },
+  {
+    "id": "4b1e31eff02d",
+    "title": "India has 60 days of crude oil, 60 days of Natural Gas & 45 days of LPG rolling stock: Centre",
+    "source": "The Economic Times",
+    "summary": "India has 60 days of crude oil, 60 days of Natural Gas & 45 days of LPG rolling stock: Centre&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaEhOeTdPNEFoWlphYklsejI5MmFuYXdyUE54SndkbGxiSW1kci1ZSjJsWnZGVVhST21VZDFEQ05Lczl1U190R3pCdmhndU5zYzFQZEdIWmJET3hxVEZTLWxlUnVpRFFjeUFGNEpDamZSOXI0UUM4VS1VSE0ydEhFZko4bUVoM1FTN2pwME5HUUJLdm1NN3lDd0liNXhPaktyT0tJY1p6cC05dmZMcDY2M3ZYc1g5RzZ2MTMyVnNhNEpnd3MxeG5raXY2U1VYYWVnNndFamlKZU8zM2I2NVNUN2JPSkRhNkFmOGZZNUkyVkN2Nzk2YzVqSFVlY9IBgAJBVV95cUxOd3RZMnVrWk1HcW5KN3RIemJFcUV0MmsycGtQNWxXV0FQSUZkZDdWVkpTcUlVcFBXZ0hjVlN5a1pGQnp0Tl9OM1daNzBaM012Q1QtdFM4X0hxUEVhRnlhNlFRYWhHUWI1ZllfaXVRUEZnRjZZMmNzWl9BOHQyRnpvRzZLRTN1WGswTm41azZ5S0RwNzdYVndlSmtfbFlxN2x6SWlZa3haNmc4bEltcHBBSkNNSmZLYXZWZFk1SWNhdEViTjFIaEFfcldQMnNuMnpac0RESHliSV95ZjQxWXpVQzZEazBfako4S19INkp1WHJiTlM3Y3VEWERBUUZxTWZk?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 13:24:20 GMT",
+    "fetched_at": "2026-05-14T21:16:55.129927+00:00"
+  },
+  {
+    "id": "538b71a88fb0",
+    "title": "Hormuz, hydrocarbons, and India: What the current West Asia conflict means for Indian oil and gas markets",
+    "source": "ETEnergyworld.com",
+    "summary": "Hormuz, hydrocarbons, and India: What the current West Asia conflict means for Indian oil and gas markets&nbsp;&nbsp;ETEnergyworld.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM2w1aG1kdG1abmtmMWNyYkZiRXRzNE82QnBzMTJIVHB0VS1IWTdCWW1aTFRVdjZodjNTb0pGR1pvUXRJV0NGRzVVaG1Dc0o4eFI3STNha1dnRzc5Sy0xMkhJM1JNQk00aFRhM0xxYTdXUFV4TnRwU1dhLTc4LWxlb2RNejNSaEZHbEp6cXJWNjJHTDhSZ3l2LUFJbFZGNlpOcHJhOEhCRUUyS2M5aHMtM185d3pJdHBCSEJqYjdDcXVPTDlTWjNLbWdqME9iOXNpck1pdTZB0gHbAUFVX3lxTE43ay0yYU5GMF9rLW13LXhoc3JEUFY5YUtyZVRBbXUxSi01Mm52d192d1Z2NzVQQ0RDVlRicE9lS0pMZUpEMUZzUG1tZDZydTk0OHZlOUNLLW12RVFVN1RfY1UtOXBTd1VTdDkwM0oxNHJrS0pHbzdkR3VjeGJReFYwNjRDT0R0MGhyQVpJcERkY09wc05wb1Q1TG5wRktnLUw5QnlQOWRmdG1qRElLaTJVSmJlTG5oR0Faenctby1LTnNpdGlrbWZpS0dxbFBpVEw1SG12SjJFOXBEaw?oc=5",
+    "image": "",
+    "published_at": "Mon, 11 May 2026 10:32:49 GMT",
+    "fetched_at": "2026-05-14T21:16:55.129944+00:00"
+  },
+  {
+    "id": "382d51bb07ad",
+    "title": "India cuts royalty burden on oil and gas producers in push for domestic output",
+    "source": "The Economic Times",
+    "summary": "India cuts royalty burden on oil and gas producers in push for domestic output&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYThXdF9tUTVoSnRpOW9YLUFZUG8waEp3Y0d5a0d6NTZ6X3NDLTRDMFhRZkZ5WThjNUllRy1RV0dSY2J2aHUzTUFMQVQ3bXpJSUE2MmRkVlZWNHhWM1hIWG9va2ZTRU5CTS1ycXhaYUh3UDkwMFFXV0xnT3U0MVN3YWhxWDBhZWQzODRnMFJSV2plT3dOZ0JVVnR0QlEwdlVqNS1YT0MtUWkzRmlQV1lHVEJHQWtwaTJWQ04tWGdlVnpZbnB4QURqV2VNVXJIMF9tSUFvOEhxdFU2VncyS1FGM1dsQkRPd1ljWkFRYtIB8gFBVV95cUxQQktKWmNFbndha0NwelVjRDVyYVMtR25PZ0VTei1Kb203VVRaNEptWXA4TXNEOXFUSWV0aDdSQUphVnNhX19UYkJGS2UwS0s1dThJR19yVndLSXE0bDNGdFV2WVh4a19TbHJXXzJkWjhsVm4xM0E1Z3NLV1Y3M0VzWXFwLXFzTmlLbEdwS3lwLTJORVBOZmROOXZ6MmZYSG81cXhuX3BfOUVfaFBnd1hiNTBWSkgyUUpjeXV0Ri14R0xLdlNrVVR0ZENZd1p0TTBqMkgtNjdfNTlSTjJMTHJmd2p3a3d6VzZJcjluODhRb0h0dw?oc=5",
+    "image": "",
+    "published_at": "Tue, 12 May 2026 02:19:00 GMT",
+    "fetched_at": "2026-05-14T21:16:55.129974+00:00"
+  },
+  {
+    "id": "a5f82ef92c34",
+    "title": "PM Modi likely to seek more energy supplies from UAE during short visit, sources say",
+    "source": "The Economic Times",
+    "summary": "PM Modi likely to seek more energy supplies from UAE during short visit, sources say&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGZUbmVwSW5RWm96QnROdEktcm5NYnFlZXpwQjdCd3N6MEVLUDRxU3hXYUxoLXB0a2l5TUx0VjdHR21nVDBuV1dqZWlwMmVGbzlQMFJXd0gzb215VDVlU0xyY082dWluQW1vWDhrUTVQbUVuQlhoanY5R1llTWRiRXJBSVNDdGxMbGJtVWxuUm5qWXc3STdadml3VU9pWHFXbzBCaG9NTDZ5MDJxSFZiM2lDNnBnUXhxaDI0bFRLR2xvSnpDWkt5NkRoQm45aHM0OVN2ZG9qeTc2ZF9aSkYwcUJBWXViQ0RlcF9acjhTbXdZbjjSAfgBQVVfeXFMTmVUUThRa0ZJR0ltZDJ4djhHTEVIN1B0bTlmNUdiVFl0WVplLUpLTnRfVWVCZTl5Yjg3Ym5YX3JfaEVDYTdrR2N2Z3ZmVTlVX0JlMVEyYVpyOElsUXJkcTd3QVFjdkZkRHFqaWFyM3NJSHg4UjVJVU1nYXJ2cFktV1phbUpYMUo0OVVJc0FMbEZ3N1RXZ0p3d3luM0Q0ckQya0lhQzQ0MFJIMnN2OUJiTXVNZzZVOEo0a3BEbW5NbFJwanV6YnNEY2I5X3VLMnRTOTFDemppcmlteEN1YURub3l6Vlp5XzM0b19oSUh2QkRkaEZjNU9zTU8?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 08:54:08 GMT",
+    "fetched_at": "2026-05-14T21:16:55.129990+00:00"
+  },
+  {
+    "id": "e56188f75c02",
+    "title": "Two India-bound LPG tankers transit through Strait of Hormuz amid US-Iran war",
+    "source": "The Economic Times",
+    "summary": "Two India-bound LPG tankers transit through Strait of Hormuz amid US-Iran war&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjZzU1BMM1VQN2VsQlh0YXZlazVzQWF1cHd5MjVTVUNYaGl3VmxFSmZTRUNkOGNBV2M1U2h5bmRkRkdnaE9NaC1Jd2ZsMEZHR2VhM29nMWRfcEgwMHZOa1R3cFBmaHdhT1huOFdpQ0NZZzlfSlJESG12aHFwOVp2THNYTjJJeVpDQU5FMEVUOEhqNE9JZzdxR0tSaUNxM3lDdWszMW5LZTI3cE1NU1pEb2JyaFNtWExMdFpwcnpqcEt3SERKU2g5SlBGenM4MGladGc0LdIB2gFBVV95cUxPS0l0OE1VWm02ZUdBTVNfeVFSQXhnZ0tNcDBsRWpSRHJEWF96X1RaSVEzY2d5MU4wV3o4QWdicEpSN2JfdWhZZ3owSWlOT1FVSmw2VVFmTXNoYWh0T2c0US14YW1YeVloZEdKa0VmTUd3S0Q3STI3WUZIRlJsYndQaWZvSWd2YnJsUjlIRXNJTEJlSHlBX3k2TXEzOXJUSnJjQzZyRXVKbndJcGFLNFJ3U1c1bGZOUWFrS0VjYXhiY3cxanRVelFXdTg1RFNOSmNKV0JndFUwYlU4QQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 09:28:39 GMT",
+    "fetched_at": "2026-05-14T21:16:55.130005+00:00"
+  },
+  {
+    "id": "17a64c827557",
+    "title": "From India to China, a look at what governments worldwide are doing to shield households from rising energ",
+    "source": "The Economic Times",
+    "summary": "From India to China, a look at what governments worldwide are doing to shield households from rising energ&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWmNpdGc2ZTJjQVIyZFRTZkhMUi02aE40M1BGeGcyWXRENFQwcGNscHFmM3dlN1dtRDRzOTJ2Y0xUWm1Id2J5VkhfSkZ2blpocWxOejM5T2dWVzJRSTB5VEluOGZyanNjVTEyN0lNY1V1UjVNNVpSRFpHNGROWjNqdTFrZGIwb0dEM0FUWkF6QzVxWnhsS1JUMjFvOEowSkxxX0lJYUNaVnpLUE5PMmpPTGo0cElGekVYSUQ0YlBZck55VER0YnJqOUJkSTZjQ0NUamZuQ1JHRi1mMHB4aG1mcnp4bTdGOU9VNF9EVEw1ZUU5a3FsbGhHdGllc09BaWlOUENwVGNfSFg3by1qTVBsSFAzQVg4c1YtZ1HSAZ8CQVVfeXFMTU43Q1cyUkRiZEItNjFaZUxnbUl2QUkzaUxKNERiNlJRMHZnVnB1Mm9GNjZ4bGtUMjVOeGhORXVuR1NKNGRDa041UXRaOTlZczhnRjB1azYzaXg4aHJaRzZxY3RDUTNpYWRVOFl6QS0zbE5oNDlxMFhqdF9QZjRWZVlNV3NvTDhpT0c1dHUtU3Q0dXU3SVFMNzJqSWI2dnpodnd4NzduR2dEbVNoYUdPYklZeWEtby1Dem1OcXMyd0xraWF2dWJ5YWhMTjNySWNNUFF4Z2FiVW10SVkwcWx5QXRDaEVsZjFWUzgxN2kzcXhSdTh2SG9zZDV6VTFOSWlZWWoyUmp0MmRWRUJxNkUySFJsNnQwcjJpRUthV1V0aWs?oc=5",
+    "image": "",
+    "published_at": "Wed, 13 May 2026 03:32:38 GMT",
+    "fetched_at": "2026-05-14T21:16:55.130022+00:00"
+  },
+  {
+    "id": "2a3aad7ea099",
+    "title": "India ranks 3rd globally in installed renewable energy capacity",
+    "source": "News On AIR",
+    "summary": "India ranks 3rd globally in installed renewable energy capacity&nbsp;&nbsp;News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNYZWpRQUo0Z2hSN0pseDh4T2sxM1RxTlZCX1FDRTQ5MEpoTmY3TFNWZm12d0pYdHhEczFfRnNzczhFVGxERVNoWG0yZ3RhbzFtUnFXcG83R2Fiei16dnJMVjcyY1NxQUFoM29yVE8yTWpqcGZIc0RuR2NuTE0yTlJfU0laekE2LVYwRVU5ZUkxRG9rbUlJWA?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 15:06:17 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209802+00:00"
+  },
+  {
+    "id": "9f47a7b0b9a1",
+    "title": "☀️ India added 44 GW of solar in 2025 alone — third-largest solar producer globally. ⚡ Renewables met 51.5% of daily electricity demand — a historic first. 🚗 But EV cars? Just ~1% of passenger sales. The green gap is real. So, where does India actually stan",
+    "source": "LinkedIn",
+    "summary": "☀️ India added 44 GW of solar in 2025 alone — third-largest solar producer globally. ⚡ Renewables met 51.5% of daily electricity demand — a historic first. 🚗 But EV cars? Just ~1% of passenger sales. The green gap is real. So, where does India actually stan&nbsp;&nbsp;LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYS1YT0xlNzBJbXdBUXlHbXVzdnZhODQ4S1ZZOTl1ZjgwZmM3TmZZWmF4eXpxcjRUaS1BRlhDdFphckJwY2FXTWFiWEF3N3h0WmxERjJvbjhrd1ZOMjNlb3hOWjRzWHZPZDNkd1M4azVhT1dieC16VTFhd0J1YUpCOXR5SU5ibjczSGlJYW02czZ2dUlycjhDcnpWQzI4aFJmTXV4UGR1dDBwWUlEZ1lCN3drUnI?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 16:47:31 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209863+00:00"
+  },
+  {
+    "id": "97456797b5f9",
+    "title": "India installs record 15.3 GW solar capacity in Q1 2026: Report",
+    "source": "ETEnergyworld.com",
+    "summary": "India installs record 15.3 GW solar capacity in Q1 2026: Report&nbsp;&nbsp;ETEnergyworld.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlJIRkhBN1NESkpIOEtkUE9hMG1TLXQ1N2gxR2N6UWtsU05OT2FKYV9pRXQwd182T28xWFFsN1BxbmJqenFodXZFM0d3OEEzSzQ5ODVnM0J1dU5BLXcwT3FoSE9KS2x3c2NMb0RTQTVHUVJrWXV1aWhBT1U0NE1zR0lLQUlHRXR1QTZiNWNuMzVCcU96MWJ2MEVnV1c5X2ROZGNEaFJzQlgwS0J5Wm9nc1k4ZUNvMGtHbUVvQktTQlNHaXdqQ09xRldR0gHPAUFVX3lxTE9ZSXlIb1JHWG5qcUZnVkt6X3p3ell0S181ZkRodDZMRW50ZUdOeDFvRm96cmg3a2NJd2t4aUVETWxqRDR4N2xHWDU4YlNRVWxEblBhXzJsWnJTeFlocWJuTzU5c09ITmY3dUtXU2daaThzNE5iejdlTDExaW9VZWwyNUliUDhON3U5Si1GMlJ3eUlBSUhyRWhqaEVIeXJnUWxSZi1HY0Z0SkQxOG1Kd3lXVTZ3T0JFWXRDM1JtSE1lX3daWlN4U01TM3dvZkxXRQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 10:08:42 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209879+00:00"
+  },
+  {
+    "id": "f9141cea5f9f",
+    "title": "Tata Power Renewable Energy Commissions Ladakh’s First Commercial Rooftop Solar Project in Leh",
+    "source": "Energetica India Magazine",
+    "summary": "Tata Power Renewable Energy Commissions Ladakh’s First Commercial Rooftop Solar Project in Leh&nbsp;&nbsp;Energetica India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVdnTkpDUFQweWVLQTlUanNCRGZLcUJwWlByMk1DaDFBbXJiUkhUdXV1c3VIUVl2dWFYNktwalUtVXlfMUlOTzg4dTBScUQ3Zk41VUpKYTU0ckQ1U2hIZ0pEM2s3MkpyU2RROGhlcnRlaVRkeDRCcUY1NmpkMjVLVm5UVUNrRlpZUEdOU01lUXplaTJ0bENUZk9LeE9wVm50LVBzdTJYX3hoZlhVN3BzR0tic0JFOXpibjRrUUFnaUxOTzdLLTB4ZHg5RQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 06:18:23 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209904+00:00"
+  },
+  {
+    "id": "fb79efd96583",
+    "title": "Tata Power Renewable Energy deploys Ladakh’s first commercial rooftop solar project",
+    "source": "pv magazine India",
+    "summary": "Tata Power Renewable Energy deploys Ladakh’s first commercial rooftop solar project&nbsp;&nbsp;pv magazine India",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHJTcGhwV19mcGtqLTR0V3VFcXpHYTV1X3hnbFd2d1BGRGpLVm0zYk1jNXcxaG5EX1B6Qk1rTVJrb0xQM2swbjJ6TFBVZHF4X3RXNEM0cXY0MzhlZHZRQXl2ODRQVHB0ZDdLdmlpRVlMRVVsT3YwU18xb3dORUh3OWstajg3OUVCVzlGRFFuRWJSOGpHUnZ6ejk3d044aUJWWFV3N19sUk5ELV9MYXI3ajJyRVZVSVUxaFdTT1drcDJpUWs3YTNB?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 08:04:39 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209922+00:00"
+  },
+  {
+    "id": "e62601ea7783",
+    "title": "Coal India's Renewable Push Continues To Falter As Solar Subsidiary Shuts Down",
+    "source": "Saur Energy",
+    "summary": "Coal India's Renewable Push Continues To Falter As Solar Subsidiary Shuts Down&nbsp;&nbsp;Saur Energy",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXdFQjd4aHlzblpnVDVDUjE5aDlMYVFsT3JnQ1JoMU5WdHJlY0w1a3hWNV9obGRQS2dWdTA2Smh2Qkl2cThITDJCTW1pTnQ5b29UX3ZIUERFUmV0S2hnLTB2S3hFc1ZmYUxGdDlxY1ZpX3g0c0VPWk93dUhTaTB1NTFUWlQ2ck9GRC1pRUpfY1NVcVRUNHJ0S1R1ZjdmeTJJWjNUN2hGYVp6cUxLVlVCNU1Nb0I3bkZsRF93X2UxUFpJTVItYXB4RHd3RQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 12 May 2026 09:09:55 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209938+00:00"
+  },
+  {
+    "id": "b500935b73ee",
+    "title": "Govt dedicates 200 MW solar manufacturing plant, Jitendra Singh says renewable energy key for net-zero",
+    "source": "ANI News",
+    "summary": "Govt dedicates 200 MW solar manufacturing plant, Jitendra Singh says renewable energy key for net-zero&nbsp;&nbsp;ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTE1OZ1JHSi1hRTJ6Y0NtNlh0cDF0bDFubDFpTnNUYnNyVC1EZ2dOTWVFRWpRY3RCXy1xREg2OWdDUVdsZFluSGV4aUIxMl9FQ2RHeUpuWlhJeWV1ZXVzeGlCX3JGOFhCLVhLOU9aU2d2WmYycm1tUmJwVFBza2lCOFh5THozMl9aVGVoOVhHeDRGeE1yU0lxcERnSmRzRGp0a2k3Wl9JVGFDYWhDZXRJazdvS1lYRlF6eTFmSGd4enIyVVVZZThSb1ZWRk1mUUU2ZWwwVU80YTBneVg4eVN4eGUyc2Y1X2s?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 11:56:00 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209954+00:00"
+  },
+  {
+    "id": "b7faa270f2d1",
+    "title": "India Achieves Highest-Ever Quarterly Solar Capacity Addition In Q1 2026: Report",
+    "source": "BW Businessworld",
+    "summary": "India Achieves Highest-Ever Quarterly Solar Capacity Addition In Q1 2026: Report&nbsp;&nbsp;BW Businessworld",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTBFWTNmcUpmN0Fkb0ZEbERmM3pMQjYwTEktcjVmMEo3SlpKMmVRNzMtbjJYeEIzSkJQREYzZUhJcnJzSGZtSzM5OTZEb0J4STdWdEctNlEyTmlwNGl2MXRjZWV1enE3bS1mSC1GRnh0U0VMRVo0QVBpMzdzXy1wd2ZTaXFzYzJpa1VsY0F6QmNUR3JVT0d4YUE4VHpRM0ZUUDlXTjRQdEtPeXJxWk1xdGllV2ZyVVVRSWVwUUwtTzE?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 03:30:05 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209981+00:00"
+  },
+  {
+    "id": "735454faae4e",
+    "title": "Policy support for generating more solar power",
+    "source": "The Financial Express",
+    "summary": "Policy support for generating more solar power&nbsp;&nbsp;The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFYyRG5sM3gyVElLRmlzdWIyc3BueEFKWDQ3UVN0VUp3SWExNGRTd0RNTEtEa25zNUt4R204MlRQSjNSZlQ0N0E0SDR3RTFXOVZMNVhCcVdIT2w5Z0dJa2xrMXRfcy1aaWJkcWczLUdTaTBmVlJZeHk2aFd6eFc3RjVLNTB1cEwxQnRmY2pfRWZEbzhUZl9CYQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 17:45:36 GMT",
+    "fetched_at": "2026-05-14T21:16:56.209993+00:00"
+  },
+  {
+    "id": "d53fde32cba4",
+    "title": "Rajasthan Brings Renewable Energy Projects Under Land Conversion Framework",
+    "source": "Mercomindia.com",
+    "summary": "Rajasthan Brings Renewable Energy Projects Under Land Conversion Framework&nbsp;&nbsp;Mercomindia.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmtUVmZySlV3RENBZ0xjM1AtbFhPbUs2cG1XWlktMWF1aWx2dHpibkxLM0x3NlRyMEdDTnFCWmRINGN4UmpKNm1qLWtaN0oydl8yM2JFd2N6RWJ2SEtTVmpqWVEtcENrMTdkQnB1RFozeFJ0R0FKLUlES0VGcW9OcWlHYzAzZkVUNUpXNkdDZ1NQUmZMakhaaGVXWG1mNkp4dUk0aw?oc=5",
+    "image": "",
+    "published_at": "Thu, 14 May 2026 11:06:23 GMT",
+    "fetched_at": "2026-05-14T21:16:56.210006+00:00"
   },
   {
     "id": "8c3d75a754e8",
@@ -48,156 +208,6 @@
     "image": "",
     "published_at": "Tue, 12 May 2026 07:25:29 GMT",
     "fetched_at": "2026-05-14T19:56:00.794446+00:00"
-  },
-  {
-    "id": "4b1e31eff02d",
-    "title": "India has 60 days of crude oil, 60 days of Natural Gas & 45 days of LPG rolling stock: Centre",
-    "source": "The Economic Times",
-    "summary": "India has 60 days of crude oil, 60 days of Natural Gas & 45 days of LPG rolling stock: Centre&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaEhOeTdPNEFoWlphYklsejI5MmFuYXdyUE54SndkbGxiSW1kci1ZSjJsWnZGVVhST21VZDFEQ05Lczl1U190R3pCdmhndU5zYzFQZEdIWmJET3hxVEZTLWxlUnVpRFFjeUFGNEpDamZSOXI0UUM4VS1VSE0ydEhFZko4bUVoM1FTN2pwME5HUUJLdm1NN3lDd0liNXhPaktyT0tJY1p6cC05dmZMcDY2M3ZYc1g5RzZ2MTMyVnNhNEpnd3MxeG5raXY2U1VYYWVnNndFamlKZU8zM2I2NVNUN2JPSkRhNkFmOGZZNUkyVkN2Nzk2YzVqSFVlY9IBgAJBVV95cUxOd3RZMnVrWk1HcW5KN3RIemJFcUV0MmsycGtQNWxXV0FQSUZkZDdWVkpTcUlVcFBXZ0hjVlN5a1pGQnp0Tl9OM1daNzBaM012Q1QtdFM4X0hxUEVhRnlhNlFRYWhHUWI1ZllfaXVRUEZnRjZZMmNzWl9BOHQyRnpvRzZLRTN1WGswTm41azZ5S0RwNzdYVndlSmtfbFlxN2x6SWlZa3haNmc4bEltcHBBSkNNSmZLYXZWZFk1SWNhdEViTjFIaEFfcldQMnNuMnpac0RESHliSV95ZjQxWXpVQzZEazBfako4S19INkp1WHJiTlM3Y3VEWERBUUZxTWZk?oc=5",
-    "image": "",
-    "published_at": "Mon, 11 May 2026 13:24:20 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794465+00:00"
-  },
-  {
-    "id": "538b71a88fb0",
-    "title": "Hormuz, hydrocarbons, and India: What the current West Asia conflict means for Indian oil and gas markets",
-    "source": "ETEnergyworld.com",
-    "summary": "Hormuz, hydrocarbons, and India: What the current West Asia conflict means for Indian oil and gas markets&nbsp;&nbsp;ETEnergyworld.com",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM2w1aG1kdG1abmtmMWNyYkZiRXRzNE82QnBzMTJIVHB0VS1IWTdCWW1aTFRVdjZodjNTb0pGR1pvUXRJV0NGRzVVaG1Dc0o4eFI3STNha1dnRzc5Sy0xMkhJM1JNQk00aFRhM0xxYTdXUFV4TnRwU1dhLTc4LWxlb2RNejNSaEZHbEp6cXJWNjJHTDhSZ3l2LUFJbFZGNlpOcHJhOEhCRUUyS2M5aHMtM185d3pJdHBCSEJqYjdDcXVPTDlTWjNLbWdqME9iOXNpck1pdTZB0gHbAUFVX3lxTE43ay0yYU5GMF9rLW13LXhoc3JEUFY5YUtyZVRBbXUxSi01Mm52d192d1Z2NzVQQ0RDVlRicE9lS0pMZUpEMUZzUG1tZDZydTk0OHZlOUNLLW12RVFVN1RfY1UtOXBTd1VTdDkwM0oxNHJrS0pHbzdkR3VjeGJReFYwNjRDT0R0MGhyQVpJcERkY09wc05wb1Q1TG5wRktnLUw5QnlQOWRmdG1qRElLaTJVSmJlTG5oR0Faenctby1LTnNpdGlrbWZpS0dxbFBpVEw1SG12SjJFOXBEaw?oc=5",
-    "image": "",
-    "published_at": "Mon, 11 May 2026 10:32:49 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794483+00:00"
-  },
-  {
-    "id": "a5f82ef92c34",
-    "title": "PM Modi likely to seek more energy supplies from UAE during short visit, sources say",
-    "source": "The Economic Times",
-    "summary": "PM Modi likely to seek more energy supplies from UAE during short visit, sources say&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGZUbmVwSW5RWm96QnROdEktcm5NYnFlZXpwQjdCd3N6MEVLUDRxU3hXYUxoLXB0a2l5TUx0VjdHR21nVDBuV1dqZWlwMmVGbzlQMFJXd0gzb215VDVlU0xyY082dWluQW1vWDhrUTVQbUVuQlhoanY5R1llTWRiRXJBSVNDdGxMbGJtVWxuUm5qWXc3STdadml3VU9pWHFXbzBCaG9NTDZ5MDJxSFZiM2lDNnBnUXhxaDI0bFRLR2xvSnpDWkt5NkRoQm45aHM0OVN2ZG9qeTc2ZF9aSkYwcUJBWXViQ0RlcF9acjhTbXdZbjjSAfgBQVVfeXFMTmVUUThRa0ZJR0ltZDJ4djhHTEVIN1B0bTlmNUdiVFl0WVplLUpLTnRfVWVCZTl5Yjg3Ym5YX3JfaEVDYTdrR2N2Z3ZmVTlVX0JlMVEyYVpyOElsUXJkcTd3QVFjdkZkRHFqaWFyM3NJSHg4UjVJVU1nYXJ2cFktV1phbUpYMUo0OVVJc0FMbEZ3N1RXZ0p3d3luM0Q0ckQya0lhQzQ0MFJIMnN2OUJiTXVNZzZVOEo0a3BEbW5NbFJwanV6YnNEY2I5X3VLMnRTOTFDemppcmlteEN1YURub3l6Vlp5XzM0b19oSUh2QkRkaEZjNU9zTU8?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 08:54:08 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794499+00:00"
-  },
-  {
-    "id": "382d51bb07ad",
-    "title": "India cuts royalty burden on oil and gas producers in push for domestic output",
-    "source": "The Economic Times",
-    "summary": "India cuts royalty burden on oil and gas producers in push for domestic output&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYThXdF9tUTVoSnRpOW9YLUFZUG8waEp3Y0d5a0d6NTZ6X3NDLTRDMFhRZkZ5WThjNUllRy1RV0dSY2J2aHUzTUFMQVQ3bXpJSUE2MmRkVlZWNHhWM1hIWG9va2ZTRU5CTS1ycXhaYUh3UDkwMFFXV0xnT3U0MVN3YWhxWDBhZWQzODRnMFJSV2plT3dOZ0JVVnR0QlEwdlVqNS1YT0MtUWkzRmlQV1lHVEJHQWtwaTJWQ04tWGdlVnpZbnB4QURqV2VNVXJIMF9tSUFvOEhxdFU2VncyS1FGM1dsQkRPd1ljWkFRYtIB8gFBVV95cUxQQktKWmNFbndha0NwelVjRDVyYVMtR25PZ0VTei1Kb203VVRaNEptWXA4TXNEOXFUSWV0aDdSQUphVnNhX19UYkJGS2UwS0s1dThJR19yVndLSXE0bDNGdFV2WVh4a19TbHJXXzJkWjhsVm4xM0E1Z3NLV1Y3M0VzWXFwLXFzTmlLbEdwS3lwLTJORVBOZmROOXZ6MmZYSG81cXhuX3BfOUVfaFBnd1hiNTBWSkgyUUpjeXV0Ri14R0xLdlNrVVR0ZENZd1p0TTBqMkgtNjdfNTlSTjJMTHJmd2p3a3d6VzZJcjluODhRb0h0dw?oc=5",
-    "image": "",
-    "published_at": "Tue, 12 May 2026 02:19:00 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794515+00:00"
-  },
-  {
-    "id": "e56188f75c02",
-    "title": "Two India-bound LPG tankers transit through Strait of Hormuz amid US-Iran war",
-    "source": "The Economic Times",
-    "summary": "Two India-bound LPG tankers transit through Strait of Hormuz amid US-Iran war&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjZzU1BMM1VQN2VsQlh0YXZlazVzQWF1cHd5MjVTVUNYaGl3VmxFSmZTRUNkOGNBV2M1U2h5bmRkRkdnaE9NaC1Jd2ZsMEZHR2VhM29nMWRfcEgwMHZOa1R3cFBmaHdhT1huOFdpQ0NZZzlfSlJESG12aHFwOVp2THNYTjJJeVpDQU5FMEVUOEhqNE9JZzdxR0tSaUNxM3lDdWszMW5LZTI3cE1NU1pEb2JyaFNtWExMdFpwcnpqcEt3SERKU2g5SlBGenM4MGladGc0LdIB2gFBVV95cUxPS0l0OE1VWm02ZUdBTVNfeVFSQXhnZ0tNcDBsRWpSRHJEWF96X1RaSVEzY2d5MU4wV3o4QWdicEpSN2JfdWhZZ3owSWlOT1FVSmw2VVFmTXNoYWh0T2c0US14YW1YeVloZEdKa0VmTUd3S0Q3STI3WUZIRlJsYndQaWZvSWd2YnJsUjlIRXNJTEJlSHlBX3k2TXEzOXJUSnJjQzZyRXVKbndJcGFLNFJ3U1c1bGZOUWFrS0VjYXhiY3cxanRVelFXdTg1RFNOSmNKV0JndFUwYlU4QQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 09:28:39 GMT",
-    "fetched_at": "2026-05-14T19:56:00.794530+00:00"
-  },
-  {
-    "id": "2a3aad7ea099",
-    "title": "India ranks 3rd globally in installed renewable energy capacity",
-    "source": "News On AIR",
-    "summary": "India ranks 3rd globally in installed renewable energy capacity&nbsp;&nbsp;News On AIR",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNYZWpRQUo0Z2hSN0pseDh4T2sxM1RxTlZCX1FDRTQ5MEpoTmY3TFNWZm12d0pYdHhEczFfRnNzczhFVGxERVNoWG0yZ3RhbzFtUnFXcG83R2Fiei16dnJMVjcyY1NxQUFoM29yVE8yTWpqcGZIc0RuR2NuTE0yTlJfU0laekE2LVYwRVU5ZUkxRG9rbUlJWA?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 15:06:17 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829838+00:00"
-  },
-  {
-    "id": "9f47a7b0b9a1",
-    "title": "☀️ India added 44 GW of solar in 2025 alone — third-largest solar producer globally. ⚡ Renewables met 51.5% of daily electricity demand — a historic first. 🚗 But EV cars? Just ~1% of passenger sales. The green gap is real. So, where does India actually stan",
-    "source": "LinkedIn",
-    "summary": "☀️ India added 44 GW of solar in 2025 alone — third-largest solar producer globally. ⚡ Renewables met 51.5% of daily electricity demand — a historic first. 🚗 But EV cars? Just ~1% of passenger sales. The green gap is real. So, where does India actually stan&nbsp;&nbsp;LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYS1YT0xlNzBJbXdBUXlHbXVzdnZhODQ4S1ZZOTl1ZjgwZmM3TmZZWmF4eXpxcjRUaS1BRlhDdFphckJwY2FXTWFiWEF3N3h0WmxERjJvbjhrd1ZOMjNlb3hOWjRzWHZPZDNkd1M4azVhT1dieC16VTFhd0J1YUpCOXR5SU5ibjczSGlJYW02czZ2dUlycjhDcnpWQzI4aFJmTXV4UGR1dDBwWUlEZ1lCN3drUnI?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 16:47:31 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829897+00:00"
-  },
-  {
-    "id": "97456797b5f9",
-    "title": "India installs record 15.3 GW solar capacity in Q1 2026: Report",
-    "source": "ETEnergyworld.com",
-    "summary": "India installs record 15.3 GW solar capacity in Q1 2026: Report&nbsp;&nbsp;ETEnergyworld.com",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlJIRkhBN1NESkpIOEtkUE9hMG1TLXQ1N2gxR2N6UWtsU05OT2FKYV9pRXQwd182T28xWFFsN1BxbmJqenFodXZFM0d3OEEzSzQ5ODVnM0J1dU5BLXcwT3FoSE9KS2x3c2NMb0RTQTVHUVJrWXV1aWhBT1U0NE1zR0lLQUlHRXR1QTZiNWNuMzVCcU96MWJ2MEVnV1c5X2ROZGNEaFJzQlgwS0J5Wm9nc1k4ZUNvMGtHbUVvQktTQlNHaXdqQ09xRldR0gHPAUFVX3lxTE9ZSXlIb1JHWG5qcUZnVkt6X3p3ell0S181ZkRodDZMRW50ZUdOeDFvRm96cmg3a2NJd2t4aUVETWxqRDR4N2xHWDU4YlNRVWxEblBhXzJsWnJTeFlocWJuTzU5c09ITmY3dUtXU2daaThzNE5iejdlTDExaW9VZWwyNUliUDhON3U5Si1GMlJ3eUlBSUhyRWhqaEVIeXJnUWxSZi1HY0Z0SkQxOG1Kd3lXVTZ3T0JFWXRDM1JtSE1lX3daWlN4U01TM3dvZkxXRQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 10:08:42 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829915+00:00"
-  },
-  {
-    "id": "f9141cea5f9f",
-    "title": "Tata Power Renewable Energy Commissions Ladakh’s First Commercial Rooftop Solar Project in Leh",
-    "source": "Energetica India Magazine",
-    "summary": "Tata Power Renewable Energy Commissions Ladakh’s First Commercial Rooftop Solar Project in Leh&nbsp;&nbsp;Energetica India Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVdnTkpDUFQweWVLQTlUanNCRGZLcUJwWlByMk1DaDFBbXJiUkhUdXV1c3VIUVl2dWFYNktwalUtVXlfMUlOTzg4dTBScUQ3Zk41VUpKYTU0ckQ1U2hIZ0pEM2s3MkpyU2RROGhlcnRlaVRkeDRCcUY1NmpkMjVLVm5UVUNrRlpZUEdOU01lUXplaTJ0bENUZk9LeE9wVm50LVBzdTJYX3hoZlhVN3BzR0tic0JFOXpibjRrUUFnaUxOTzdLLTB4ZHg5RQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 06:18:23 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829939+00:00"
-  },
-  {
-    "id": "b500935b73ee",
-    "title": "Govt dedicates 200 MW solar manufacturing plant, Jitendra Singh says renewable energy key for net-zero",
-    "source": "ANI News",
-    "summary": "Govt dedicates 200 MW solar manufacturing plant, Jitendra Singh says renewable energy key for net-zero&nbsp;&nbsp;ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTE1OZ1JHSi1hRTJ6Y0NtNlh0cDF0bDFubDFpTnNUYnNyVC1EZ2dOTWVFRWpRY3RCXy1xREg2OWdDUVdsZFluSGV4aUIxMl9FQ2RHeUpuWlhJeWV1ZXVzeGlCX3JGOFhCLVhLOU9aU2d2WmYycm1tUmJwVFBza2lCOFh5THozMl9aVGVoOVhHeDRGeE1yU0lxcERnSmRzRGp0a2k3Wl9JVGFDYWhDZXRJazdvS1lYRlF6eTFmSGd4enIyVVVZZThSb1ZWRk1mUUU2ZWwwVU80YTBneVg4eVN4eGUyc2Y1X2s?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 11:56:00 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829958+00:00"
-  },
-  {
-    "id": "fb79efd96583",
-    "title": "Tata Power Renewable Energy deploys Ladakh’s first commercial rooftop solar project",
-    "source": "pv magazine India",
-    "summary": "Tata Power Renewable Energy deploys Ladakh’s first commercial rooftop solar project&nbsp;&nbsp;pv magazine India",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHJTcGhwV19mcGtqLTR0V3VFcXpHYTV1X3hnbFd2d1BGRGpLVm0zYk1jNXcxaG5EX1B6Qk1rTVJrb0xQM2swbjJ6TFBVZHF4X3RXNEM0cXY0MzhlZHZRQXl2ODRQVHB0ZDdLdmlpRVlMRVVsT3YwU18xb3dORUh3OWstajg3OUVCVzlGRFFuRWJSOGpHUnZ6ejk3d044aUJWWFV3N19sUk5ELV9MYXI3ajJyRVZVSVUxaFdTT1drcDJpUWs3YTNB?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 08:04:39 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829977+00:00"
-  },
-  {
-    "id": "b7faa270f2d1",
-    "title": "India Achieves Highest-Ever Quarterly Solar Capacity Addition In Q1 2026: Report",
-    "source": "BW Businessworld",
-    "summary": "India Achieves Highest-Ever Quarterly Solar Capacity Addition In Q1 2026: Report&nbsp;&nbsp;BW Businessworld",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTBFWTNmcUpmN0Fkb0ZEbERmM3pMQjYwTEktcjVmMEo3SlpKMmVRNzMtbjJYeEIzSkJQREYzZUhJcnJzSGZtSzM5OTZEb0J4STdWdEctNlEyTmlwNGl2MXRjZWV1enE3bS1mSC1GRnh0U0VMRVo0QVBpMzdzXy1wd2ZTaXFzYzJpa1VsY0F6QmNUR3JVT0d4YUE4VHpRM0ZUUDlXTjRQdEtPeXJxWk1xdGllV2ZyVVVRSWVwUUwtTzE?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 03:30:05 GMT",
-    "fetched_at": "2026-05-14T19:56:01.829993+00:00"
-  },
-  {
-    "id": "e62601ea7783",
-    "title": "Coal India's Renewable Push Continues To Falter As Solar Subsidiary Shuts Down",
-    "source": "Saur Energy",
-    "summary": "Coal India's Renewable Push Continues To Falter As Solar Subsidiary Shuts Down&nbsp;&nbsp;Saur Energy",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXdFQjd4aHlzblpnVDVDUjE5aDlMYVFsT3JnQ1JoMU5WdHJlY0w1a3hWNV9obGRQS2dWdTA2Smh2Qkl2cThITDJCTW1pTnQ5b29UX3ZIUERFUmV0S2hnLTB2S3hFc1ZmYUxGdDlxY1ZpX3g0c0VPWk93dUhTaTB1NTFUWlQ2ck9GRC1pRUpfY1NVcVRUNHJ0S1R1ZjdmeTJJWjNUN2hGYVp6cUxLVlVCNU1Nb0I3bkZsRF93X2UxUFpJTVItYXB4RHd3RQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 12 May 2026 09:09:55 GMT",
-    "fetched_at": "2026-05-14T19:56:01.830009+00:00"
-  },
-  {
-    "id": "735454faae4e",
-    "title": "Policy support for generating more solar power",
-    "source": "The Financial Express",
-    "summary": "Policy support for generating more solar power&nbsp;&nbsp;The Financial Express",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFYyRG5sM3gyVElLRmlzdWIyc3BueEFKWDQ3UVN0VUp3SWExNGRTd0RNTEtEa25zNUt4R204MlRQSjNSZlQ0N0E0SDR3RTFXOVZMNVhCcVdIT2w5Z0dJa2xrMXRfcy1aaWJkcWczLUdTaTBmVlJZeHk2aFd6eFc3RjVLNTB1cEwxQnRmY2pfRWZEbzhUZl9CYQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 17:45:36 GMT",
-    "fetched_at": "2026-05-14T19:56:01.830023+00:00"
-  },
-  {
-    "id": "d53fde32cba4",
-    "title": "Rajasthan Brings Renewable Energy Projects Under Land Conversion Framework",
-    "source": "Mercomindia.com",
-    "summary": "Rajasthan Brings Renewable Energy Projects Under Land Conversion Framework&nbsp;&nbsp;Mercomindia.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmtUVmZySlV3RENBZ0xjM1AtbFhPbUs2cG1XWlktMWF1aWx2dHpibkxLM0x3NlRyMEdDTnFCWmRINGN4UmpKNm1qLWtaN0oydl8yM2JFd2N6RWJ2SEtTVmpqWVEtcENrMTdkQnB1RFozeFJ0R0FKLUlES0VGcW9OcWlHYzAzZkVUNUpXNkdDZ1NQUmZMakhaaGVXWG1mNkp4dUk0aw?oc=5",
-    "image": "",
-    "published_at": "Thu, 14 May 2026 11:06:23 GMT",
-    "fetched_at": "2026-05-14T19:56:01.830037+00:00"
   },
   {
     "id": "46c472112655",
@@ -408,16 +418,6 @@
     "image": "",
     "published_at": "Wed, 13 May 2026 07:18:08 GMT",
     "fetched_at": "2026-05-14T04:01:00.633513+00:00"
-  },
-  {
-    "id": "17a64c827557",
-    "title": "From India to China, a look at what governments worldwide are doing to shield households from rising energ",
-    "source": "The Economic Times",
-    "summary": "From India to China, a look at what governments worldwide are doing to shield households from rising energ&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWmNpdGc2ZTJjQVIyZFRTZkhMUi02aE40M1BGeGcyWXRENFQwcGNscHFmM3dlN1dtRDRzOTJ2Y0xUWm1Id2J5VkhfSkZ2blpocWxOejM5T2dWVzJRSTB5VEluOGZyanNjVTEyN0lNY1V1UjVNNVpSRFpHNGROWjNqdTFrZGIwb0dEM0FUWkF6QzVxWnhsS1JUMjFvOEowSkxxX0lJYUNaVnpLUE5PMmpPTGo0cElGekVYSUQ0YlBZck55VER0YnJqOUJkSTZjQ0NUamZuQ1JHRi1mMHB4aG1mcnp4bTdGOU9VNF9EVEw1ZUU5a3FsbGhHdGllc09BaWlOUENwVGNfSFg3by1qTVBsSFAzQVg4c1YtZ1HSAZ8CQVVfeXFMTU43Q1cyUkRiZEItNjFaZUxnbUl2QUkzaUxKNERiNlJRMHZnVnB1Mm9GNjZ4bGtUMjVOeGhORXVuR1NKNGRDa041UXRaOTlZczhnRjB1azYzaXg4aHJaRzZxY3RDUTNpYWRVOFl6QS0zbE5oNDlxMFhqdF9QZjRWZVlNV3NvTDhpT0c1dHUtU3Q0dXU3SVFMNzJqSWI2dnpodnd4NzduR2dEbVNoYUdPYklZeWEtby1Dem1OcXMyd0xraWF2dWJ5YWhMTjNySWNNUFF4Z2FiVW10SVkwcWx5QXRDaEVsZjFWUzgxN2kzcXhSdTh2SG9zZDV6VTFOSWlZWWoyUmp0MmRWRUJxNkUySFJsNnQwcjJpRUthV1V0aWs?oc=5",
-    "image": "",
-    "published_at": "Wed, 13 May 2026 03:32:38 GMT",
-    "fetched_at": "2026-05-13T23:12:35.978436+00:00"
   },
   {
     "id": "18e2e61579d7",
