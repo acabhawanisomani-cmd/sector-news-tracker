@@ -1,33 +1,493 @@
 [
   {
-    "id": "0d0a17626628",
-    "title": "Exclusive interview: Sundar Pichai on AI's flip phone moment",
-    "source": "The Rundown AI",
-    "summary": "Exclusive interview: Sundar Pichai on AI's flip phone moment&nbsp;&nbsp;The Rundown AII/O 2026: Welcome to the agentic Gemini era&nbsp;&nbsp;blog.googlePowered by A.I., Google Changes Its Search Box for the First Time in 25 Years&nbsp;&nbsp;The New York TimesGoogle’s new ‘Information Agents’ are a p",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjhGdzJSM1JaT1BfQkM5N1ZCdzRnUEs0ekxMUDZvbXpuOUhORU9ta2FWcFh3d1ZCa3hUd2tLOV90cmt6SDI4WDJ5ZmtVd0dBX1lmSFppbHlKV2hZcHBqZXhkcUJaa0FaTWxGTXFoZkZMUkZqMC1WaC1GbFBQSHRaMTRCSW5lVDFNNktoZ3pn?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 09:03:44 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589682+00:00"
-  },
-  {
     "id": "128751769966",
     "title": "Xiaomi 17 Max Officially Debuts: Leica Cameras and an 8,000mAh Battery",
     "source": "Techgenyz",
-    "summary": "Xiaomi 17 Max Officially Debuts: Leica Cameras and an 8,000mAh Battery&nbsp;&nbsp;TechgenyzXiaomi 17T's India launch date announced - GSMArena.com news&nbsp;&nbsp;GSMArena.comXiaomi 17T India launch date set for June 4: Here’s what to expect&nbsp;&nbsp;The Times of IndiaXiaomi 17 Max debuts with 8,0",
+    "summary": "Xiaomi 17 Max Officially Debuts: Leica Cameras and an 8,000mAh Battery&nbsp;&nbsp;TechgenyzXiaomi 17T India launch date set for June 4: Here’s what to expect&nbsp;&nbsp;The Times of IndiaXiaomi 17 Max debuts with 8,000mAh battery, 200MP Leica camera, and Snapdragon 8 Elite Gen 5&nbsp;&nbsp;91mobiles",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53TFJNN1d3QkFhRHZTNDNES21iOV9BZ2g2SWZ2VXpxTjl2YUU0c0lwLTNhaWhRRzh3b0g3ODduZEphQzFiNGtTc2NtbzFOOFNNSjZLZ2l5WVpsUXlEanc?oc=5",
     "image": "",
     "published_at": "Fri, 22 May 2026 17:33:36 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589738+00:00"
+    "fetched_at": "2026-05-23T03:55:26.012840+00:00"
+  },
+  {
+    "id": "0d0a17626628",
+    "title": "Exclusive interview: Sundar Pichai on AI's flip phone moment",
+    "source": "The Rundown AI",
+    "summary": "Exclusive interview: Sundar Pichai on AI's flip phone moment&nbsp;&nbsp;The Rundown AII/O 2026: Welcome to the agentic Gemini era&nbsp;&nbsp;blog.googleGoogle, please don't ruin the internet with your changes to search&nbsp;&nbsp;Business InsiderGoogle’s new ‘Information Agents’ are a privacy and we",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjhGdzJSM1JaT1BfQkM5N1ZCdzRnUEs0ekxMUDZvbXpuOUhORU9ta2FWcFh3d1ZCa3hUd2tLOV90cmt6SDI4WDJ5ZmtVd0dBX1lmSFppbHlKV2hZcHBqZXhkcUJaa0FaTWxGTXFoZkZMUkZqMC1WaC1GbFBQSHRaMTRCSW5lVDFNNktoZ3pn?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 09:03:44 GMT",
+    "fetched_at": "2026-05-23T03:55:26.012886+00:00"
+  },
+  {
+    "id": "65e1d8737f1c",
+    "title": "A two-week social media break may help reverse years of “brain rot,” study finds",
+    "source": "ConsumerAffairs",
+    "summary": "A two-week social media break may help reverse years of “brain rot,” study finds&nbsp;&nbsp;ConsumerAffairsScreentime swaps: how to quit doomscrolling without quitting your phone&nbsp;&nbsp;The GuardianDigital minimalism may improve your mental health&nbsp;&nbsp;WSOC TV59 Actually Useful Tips for Us",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUS1OdjVNWUs3bjMtSGZTMFpsYm9FdGQzLWtUajdDNkRBOW1yc1BBUkdyTTFYdzJxbElETFFWWjA3bWVzYk96QjYxQldPTUlQMnZkYkNkemw5SDlIWWZxVEJrWWd3eFV4UFFkUVB1RGdGbDFBaDZCYk45QTdwbVJqTkM0Vll5NTdONmtycU5jVkgyb1BIdWtPWlBhaU40Q3lGSXJBbWJKalZuSVFhck1qRHVSU0lrVGJDM1E4ZmZmSVdUS2pa?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 18:03:06 GMT",
+    "fetched_at": "2026-05-23T03:55:26.012922+00:00"
   },
   {
     "id": "857413ed5cb4",
     "title": "Google Under Fire After Publishing Exploit Code for Unpatched Chromium Vulnerability Affecting Millions",
     "source": "LinkedIn",
-    "summary": "Google Under Fire After Publishing Exploit Code for Unpatched Chromium Vulnerability Affecting Millions&nbsp;&nbsp;LinkedInGoogle publishes exploit code threatening millions of Chromium users&nbsp;&nbsp;Ars TechnicaCritical Chrome Vulnerabilities Enables Remote Code Execution Attacks - Patch Now!&nb",
+    "summary": "Google Under Fire After Publishing Exploit Code for Unpatched Chromium Vulnerability Affecting Millions&nbsp;&nbsp;LinkedInGoogle publishes exploit code threatening millions of Chromium users&nbsp;&nbsp;Ars TechnicaGoogle’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI&nbsp;&nbsp;Sec",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ084WG9jWmV1YWM2aXdUbnd2dGxGZ0dVcUNoVnk0NEh2TWctLVNxTW4yc0NoVkwtNmJRNVN1dWdCUmQwblM5YTVJcTNGdnhXQWVzTEM4RG9kbGhqdjRVM2dSWW1zb0x3dVVxQkpqWGEyVjNqT0VnUjlNU0JaZ1N5NUNXMkw5am5KTGtudQ?oc=5",
     "image": "",
     "published_at": "Fri, 22 May 2026 11:00:11 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589780+00:00"
+    "fetched_at": "2026-05-23T03:55:26.012956+00:00"
+  },
+  {
+    "id": "6bba2639b193",
+    "title": "Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery - GSMArena.com news",
+    "source": "GSMArena.com",
+    "summary": "Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery - GSMArena.com news&nbsp;&nbsp;GSMArena.comRealme 16T unboxing - GSMArena.com news&nbsp;&nbsp;GSMArena.comRealme 16T 5G launched along with Buds Air 8 Pro and Watch S5&nbsp;&nbsp;The HinduRealme 16T 5G Launch: ",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZDB2Q2VDTEczaEV2Z2V2TkU1RmFmYnYyaVRoS1VLSjZ3dkNKaWxIekZFS1pjQ0RueWo3VFBRaDczc0ZGSDdfSkUySG1qdU51ZG55bmI4YkY1aFI0YTU0UXc4WXRDVEV2N3RKSmtpT241cmZsUlFPM01KaGVtazh4MNIBfEFVX3lxTFBjSTF3RVd4cXVBXzFmamxpLW94TWxPd3k2LXVINmhWaGxDcjBVSHVfa3FNempCN1NqRnFwQnRTZXY2YjVZdVUtdWhUY3QwSEFxc2k5bFByeTI1TFBVdEc4RzBKcG4tcXdpaGpFbE9pbDEtTVFSSmtaTTVKNU0?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 08:04:02 GMT",
+    "fetched_at": "2026-05-23T03:55:26.012986+00:00"
+  },
+  {
+    "id": "bc7a42606f03",
+    "title": "Jio, OPPO Partner to Deliver 5G Advanced with Find X9s, Find X9 Ultra",
+    "source": "TelecomTalk",
+    "summary": "Jio, OPPO Partner to Deliver 5G Advanced with Find X9s, Find X9 Ultra&nbsp;&nbsp;TelecomTalkOppo Find X9 Ultra Review: Camera crowns the complete package&nbsp;&nbsp;The HinduOppo Find X9 Ultra challenges Vivo X300 Ultra in India&nbsp;&nbsp;MSNOPPO Find X9s vs Find X9: what’s different and which one ",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01VkxkMnA4WUNPMVhzR18tQy1ldUU1TENuSkN0aFRvWWNMdVlqZm1xWnRWalVGcklqaTktNERhYklVRk9kMFBCMXo1Z3lkZ2d6c05udVFYaElYczBqS0luRURmSXhHcWFNV191bWtEWDc3R0hHWFpzaERiRU1QZw?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 04:58:52 GMT",
+    "fetched_at": "2026-05-23T03:55:26.013020+00:00"
+  },
+  {
+    "id": "378c69fef7b3",
+    "title": "Apple Loop: iPhone 18 Pro Upgrades, Fortnite Returns To The App Store, iPhone Fold Delays",
+    "source": "Forbes",
+    "summary": "Apple Loop: iPhone 18 Pro Upgrades, Fortnite Returns To The App Store, iPhone Fold Delays&nbsp;&nbsp;ForbesiPhone 18 Pro Max leaks suggest upgrades but stable pricing&nbsp;&nbsp;MSNThe iPhone 18 Pro is looking like the iPhone 8 all over again&nbsp;&nbsp;MacworldApple iPhone 18 Pro Max price, feature",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanhNeTIwODZfZnVYZG9sQTBfaHRMel9RQWc1RzlPNS1WcjFRZ2FVQmFvdXliWDE5QWlsVUQ2b2xZSXl6dlhlMmFXMDlvU0U2YzhnRGw0NDB4WWRSMjFsblpEZ3dDUVVCelpIckl3azFSMkNhSERpa1pZcDNVZkxnSG9WZml0czZtMjZPWEd5SWNCamd4LWNEblJtRGZQdUgya3RLTFUzVmt0ZnBwU0RsVmtwNzRyNERpRERtQXlCNlkwaVpPZFg1emlWN3ZFUQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 19:45:53 GMT",
+    "fetched_at": "2026-05-23T03:55:26.013051+00:00"
+  },
+  {
+    "id": "9921f3c13403",
+    "title": "Cisco used AI to write security incident reports, with mixed results",
+    "source": "The Register",
+    "summary": "Cisco used AI to write security incident reports, with mixed results&nbsp;&nbsp;The RegisterAI-generated reporting: Lessons learned from Cisco Talos Incident Response&nbsp;&nbsp;Cisco BlogsCisco warns of AI inaccuracies in security incident reports | brief | SC Media&nbsp;&nbsp;SC Media",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUhhcEY1VGE0M2tVdlNLdmhYakxKRkFiQUpxdVBiQXBMWlg1RzIzWDB0d0wwRGtxZTZ0aHlERkhsNlZud0hpTHppTnYtd2N5V2QwTWhDVVFUVlBPbEdiUXVBMnI4YUU3TE90X0h2RkJzNmpuTnR2dmU1eXAxelV3aEY0SlBGR2RpMmsyUkxQWFN2VUhXU0g3NmZ1ZEhBSHRJd09MSnF6c1NWN2RaOExHMkY4SkloeVVsc0YtaU00RVM?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 05:38:19 GMT",
+    "fetched_at": "2026-05-23T03:55:26.013071+00:00"
+  },
+  {
+    "id": "c7616ddb4b60",
+    "title": "(Digital) Twin Studies",
+    "source": "University of Pittsburgh",
+    "summary": "(Digital) Twin Studies&nbsp;&nbsp;University of Pittsburgh",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mVUx5bFA5V3J0dTNCaTZWTmF2c1otbUpJUjNrNUVEa2VSbnpUQ3Q4aHJobEdQNE80WkZFdUZVWktxcGtSMk02Qk5kcmMza0FsMUp5UkhpWTk4T3ZsbGM4aGlyN3NnZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 13:18:36 GMT",
+    "fetched_at": "2026-05-23T03:55:26.013080+00:00"
+  },
+  {
+    "id": "481ae142de6b",
+    "title": "iPhone 19 Pro Leak Hints at Apple’s Next Big Display Shift",
+    "source": "TechRepublic",
+    "summary": "iPhone 19 Pro Leak Hints at Apple’s Next Big Display Shift&nbsp;&nbsp;TechRepubliciPhone 19 Pro prototypes are being tested with quad-curved screens, new rumor says - GSMArena.com news&nbsp;&nbsp;GSMArena.comNext year’s iPhone Pro models to get radical new design, per leaker&nbsp;&nbsp;9to5MacSmartp",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGwyTFNJYUJTdG1nRFJ5eFBQcGcxUUlkOHgwX00zTHJyQjExRklaZVhFd3hiLXFNUnVKRHhCX1E3ZHRiMnNGbk5Oc2h1NnpoaHdVWXQ0TjlMTHFlU3FoNFI5WmM3WmRxMzZFR25HU2FnY0I4cUdtcmpvUWhtMzZnZHZyUm1mXzFDcVpCNkxldzk?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 16:01:02 GMT",
+    "fetched_at": "2026-05-23T03:55:26.013127+00:00"
+  },
+  {
+    "id": "76eea9da009d",
+    "title": "Digital India to AI India: The Next Transformation Wave",
+    "source": "IBEF",
+    "summary": "Digital India to AI India: The Next Transformation Wave&nbsp;&nbsp;IBEF",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVU1aeVhhMGVBUEJVeUpTaWNRVkVKbld1aTZDTG1uTUtTUTJlZThLN19zbjI3VGg2RUxuWGh2d3NKemFRUTlaYm55dmdURzJNX1hDZW1YZDFDdXpEQ1JkRFR3UVdIZHZKYzJSY0pWUGFvV0Y4S3BfMFBfbmRhX05YbW1xYmh0NXBj?oc=5",
+    "image": "",
+    "published_at": "Tue, 19 May 2026 10:38:12 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520497+00:00"
+  },
+  {
+    "id": "f969a7404249",
+    "title": "HR 2030: How AI Will Redefine Talent Acquisition in India’s Tech Sector",
+    "source": "hrtoday.in",
+    "summary": "HR 2030: How AI Will Redefine Talent Acquisition in India’s Tech Sector&nbsp;&nbsp;hrtoday.in",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGhMdmFIMTBROUxscWZDMG1rVjJyV1VDX2wzalZTcVBiSWVPNWRsZUhoMnRuQW5NLTIwMHNnaFJtb2xDekZLNHpTb0VJc3dGcUF4MjhlcDByLUJqQ21mS1VWYXFJcEt3T2I0WDl4WHNsZVRNUnh2d2lzUFdQRGtBT1NsVTREOVpmSHc5d21jd2lUd3Z3UUpoWFVIQkxrblk?oc=5",
+    "image": "",
+    "published_at": "Wed, 20 May 2026 18:40:49 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520529+00:00"
+  },
+  {
+    "id": "b41e52e236e5",
+    "title": "IN-SPACe offers full technology transfer of PSLV to Indian private industry",
+    "source": "Awaz The Voice",
+    "summary": "IN-SPACe offers full technology transfer of PSLV to Indian private industry&nbsp;&nbsp;Awaz The Voice",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlZnTW9GUlJYWU9JQWtRMVVnM1FXZlV4Z3JxNmlLTVM3T25YTkE2UWtfYjlMU3FmWE9maF9vNmszYzZOTHd6OTZUcDJtRHJRVHVuemtWUGlXSURYanNQRXVIN3dkVmJpY3MxQ21NM0VrbGdVWXdtNl9UX0xVQkxOTV9xT21MVy1kZUtaMnRoV3VQb1MzZHlfSnEwTTVIUjZIRUpJc3pSckl0cVBHRW9MRkJXQ2R0eGdiSEJSM3lXT0xXejhEMHc?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 16:02:18 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520546+00:00"
+  },
+  {
+    "id": "c0767f7fffd0",
+    "title": "Nasscom Chairman Srikanth Velamakanni elaborates on new game-plan for India’s tech sector",
+    "source": "BusinessLine",
+    "summary": "Nasscom Chairman Srikanth Velamakanni elaborates on new game-plan for India’s tech sector&nbsp;&nbsp;BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZzNyNjNOR29QOG05SGJUUnZRTmVsZmx4Z2pnY0h4Sjd0NVRxeDRJTnJVOGdoNGl1cko3QmpnWFBBLTdwbDNLYzYybmk0VzlmZW5oajNBem1aY0JQQmJVWURKd3lZUkJaUTlOSGFWbld0VDNqdEhSNjhocnUzT0pjTmJRX3Y2elR2WjRySXRjYnFmYWw1aU9NU1p3SUJpcE5VWm0tR0prTXRFN2ltdEZvcWI1M1FnWmNTeE16Y05Gc2RFVDhTQ2NsSFBBOGNGTENsc3pNV3dyMGdiU252OUFDZ3JOdzI1Z25FcWV30gHyAUFVX3lxTE9aNDdtMzBYNUg1YWU2Nmkwa3NJeXZ3cXRNSWhkRDhwMmRXWWRkWm1HZUk0bmNFM1RZTGw5YkEzWUdKb2hPalJrUm9SQ1lTR0Jrd1A0R1hlbkpTaVVaMW9aNjVyOFpXWjBDZDBPVW4wRnczTS1rMERESmdFLThISGdkVFQ4WEpJMEZWcmowdzZoeE4wSVFoV3lMUmZLeU5jVmM4N0hWOThEYjhON0tzOXU3ZXU0cHV4Tlh3Q2VuMGRXdzkxX3Brd1UwbEJsUVZJUW1IOVVIam1yVTlXMWRXc3U1dGtocXotbXhmYkZWN3JXNXRR?oc=5",
+    "image": "",
+    "published_at": "Sun, 17 May 2026 11:01:47 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520564+00:00"
+  },
+  {
+    "id": "1030be8f8da3",
+    "title": "India, US discuss expanding cooperation in biotech, quantum technology and space sectors",
+    "source": "DD News",
+    "summary": "India, US discuss expanding cooperation in biotech, quantum technology and space sectors&nbsp;&nbsp;DD News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTdEc1lEZ2t1aVZscVhqSE52SnNzWlpEVUxLSXB4ZzEySV9nX0hnWTR1OEtPZk1tTkcydy1jemVfWDRGYXUtVU5XOENWM09NaTctMm40bDNpZmVuVEtKTHVWVU8zci1sLUNVNHhSNWRTYl9SXzRUTi1WdTV1OGJnNmh0TFZpY180dGdFQUFnWm0tQU9qRWZJdnA1VGRmUndvamJzczhGbWNvRkNqYnVScU5B?oc=5",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 06:35:26 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520579+00:00"
+  },
+  {
+    "id": "0da2b7c645f0",
+    "title": "Indian H-1B workers caught in fresh wave of Meta, Amazon tech layoffs",
+    "source": "People Matters Media",
+    "summary": "Indian H-1B workers caught in fresh wave of Meta, Amazon tech layoffs&nbsp;&nbsp;People Matters Media",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0hOMU05ajFXdC1nNjVxRFh4UlRHMmRyaDhOSUJ0ZnA0Rk9UNnF4bExpNk54Qy1xbDMtY1RhZlR6RXp2c1VmOW40bjZEbEhwcmVISEROQXRQVXhyTkFTUTFBNi14dlZUaUQwQWtQM2tQOXpxYng4UmNPOER0aTdhMlh4WVAyWkFMSHhmZlJKUEFsakt5TEI5bXJscVM5RV9XeTUtam5PdGFKV3V1S0ZtV3JsNE83a040NWhMLURn?oc=5",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 22:54:51 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520593+00:00"
+  },
+  {
+    "id": "5eca8d1296e6",
+    "title": "India blocks China's request for dispute panel on solar sector support measures at WTO",
+    "source": "The Economic Times",
+    "summary": "India blocks China's request for dispute panel on solar sector support measures at WTO&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSTJUWTRXUncyR1M2eVY0cTNoOWhvZGNPdnJ1a2xuemtQcWl1QjRqaEx0MEhtZE84akJWVFE3QXJjR0NSeTFOcWVfSU5tSzV0ck5sRUNtOU9wdk9YVEtPWFpYbm1WSFpaVklOSkF4Y0VKMjYycm1yUjhtZ2l4QlVsSzhoSjdYWjVNUzVzRWI2QlJBb3NBcUctRVdDeXRvNWE0VGdUbGJSU3l6TklwYWViNklNbF9kMkNjcnF4VnpJT3RXVDJGeHBWd2dkUmlXSnZEYWVzOTJYWEltM25FR0VJdmk3QkR1TXZORmE2cU1DUWI3Xzk4N3BuZWlB0gH_AUFVX3lxTE5qYWNNT3JmUXNPYmk0WE5EdDVUYi1aYllOc3N1SU1ocHFrSzQxeVdyQ3BFVndYSTdDdFB6NUNSSXlGV213cHpzUlB2eUIzdWpsZjNLSEZONm9oemUxYURDbUZJNmk5b1Jxc2NkVllEXzhkN1p0MTVfYzd6VGcyeE5WZE1WUDVCdjhsbzdFQVdCYzZ0RE1UVXdHYkRaNzduNlFCVzliWTQ4MThuOWZ6cXdJeG92WXQ3cUxTd0FZYW1LQ2x0VVQ5eWVmZHJaX0xRTkF5c1RJZ2hwTGMzWlpRZXluRXlIS212elJUandNUkF6Y3lZVmRuNG5Xb3lpSTNrOA?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 13:51:52 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520609+00:00"
+  },
+  {
+    "id": "1059ccea8a06",
+    "title": "One Lakh Engineering Jobs Expected from India’s Expanding Data Centre Sector: Dr Jitendra Singh",
+    "source": "Kashmir Despatch",
+    "summary": "One Lakh Engineering Jobs Expected from India’s Expanding Data Centre Sector: Dr Jitendra Singh&nbsp;&nbsp;Kashmir Despatch",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzhQR1RVc0k1YU5UdVRXTHJJb3BHNjVDVm84RGM0X2djLTA5aWlBOXdiMW1FV2pfV2h4TE1IakFNLThIX1hqQl9YWTloeHlOU3BuTkdZbjNGalBCTU03b1ZOY09pY2s1WFc5VnptVXhFT1UyRE5xTHN1Z3hReThOTlJWTTVpdXU1ejVuc2N0cTJBaGpPMWlIY3pHRm1sazZQeFpaR0VoMW9nekV2MzZSZk1LV3hDcDF2eFYxc3ZWOA?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 14:45:09 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520626+00:00"
+  },
+  {
+    "id": "04cdb13c89bf",
+    "title": "Workday Invests Heavily in India for AI Talent Amid Tech Slowdown",
+    "source": "Whalesbook",
+    "summary": "Workday Invests Heavily in India for AI Talent Amid Tech Slowdown&nbsp;&nbsp;Whalesbook",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTJidXhlR2sxMlM4RTVIQ3lPdVlyZjJnUXFiVWpoUjd5dzRaZHRDVzYyaEJsWlRmZ3p5RUZhVkQwNENmOXNjRUNkNktoX045RndRVEFSanZ2aWprRG10X0VySE9sSmJGQzNpbDYtR3JIazJRU0JOSDZFaTZhUFpsR0RyX2JHUHlsTkNtbFNTbXlWaHRPWG5Oc3Njell3b2FxZXNlcXVIX0lmVk16dEJWZWI4NWc3c2psTGtoUjN0bnd0RHRhVnhSNHBqYjJmWHEzSGxhbzVvbHk?oc=5",
+    "image": "",
+    "published_at": "Tue, 19 May 2026 12:08:18 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520639+00:00"
+  },
+  {
+    "id": "d43af3dce4f6",
+    "title": "India’s MedTech Sector Poised to Reach $44 Billion by 2030",
+    "source": "eHealth Magazine",
+    "summary": "India’s MedTech Sector Poised to Reach $44 Billion by 2030&nbsp;&nbsp;eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkljckJnNkQ0NmVLSTBzVEpUNnNvdE5sZFlPQ0lOV3NVMzduajJtZl9xV1ZfLVgwMFdBNGpfaF9LTXVaYVRmVW81aTVMclBoZFk3LS1jQzVuRXoxLVdVT1phYTBDR3lmS1hvcGE3X3l2Mlg1am5hakZGUTRTV1Y4b0xSZG5ORTNkZ3BFWm5JLUxfN1BLWWozbUV0RXUyQQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 18 May 2026 14:08:09 GMT",
+    "fetched_at": "2026-05-23T03:55:26.520653+00:00"
+  },
+  {
+    "id": "a135dad54298",
+    "title": "Indian IT giants hit by AI, but GCCs are stepping in to compensate for lost jobs",
+    "source": "India Today",
+    "summary": "Indian IT giants hit by AI, but GCCs are stepping in to compensate for lost jobs&nbsp;&nbsp;India Today",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUdtaDZwTUFGQ2NFd0c0UlFHaFRmV1VmSUNkcXFab0xEVVFlaHZEbUw5bjdmMHYtNXdVZVZHdk5SNVowbzlxZDN5Z3NUak5rZDRHc3ZaQWNKQTZkVDJla3FacFB2LS12c01QTnAyREYtV3pyYWUtR1ZBbUYyV0lENWtBLTlYem9LQmVqb21MLWFvMmFWMnRzTHVRZ2szX2ZSMjRPT1ZJR2JRWDJLbGN4VVRwNWRWR1RUZ1RKa3g1V1d2YzA4VlQ0dXItV2pZbFhBcElLa2VDUzJnMnJxVFhBNkw0ekbSAeoBQVVfeXFMUGZ3LW1YZ1A1YUVmMDJSc090SjJvQ1N0aVh4dEhlelR2b0Y5NkQ3eXpXSnBwYndvLXlZT180a1pQZERjQlRpNUF0XzFQdGNGbkYtbEpsLVhTMjlwczgySDd3MEZsaEx2bUd4QUNFUi1hampIWHRDTmRoYmF1eWk2WDRSVkRKajlFd2pzQkxNN0VWbUw5VGdPa0NoQ1BvV19RLTV5cV9UdHAyQXV4R0JYLXp0d1M5Sy1tcmZlaVdwY2NSY2Qxcklad0NBR0NGVi1oMERhRi1LdjRucEZCcG1zdmExaXc3enY2ZUtn?oc=5",
+    "image": "",
+    "published_at": "Sat, 23 May 2026 02:00:00 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572359+00:00"
+  },
+  {
+    "id": "0277837971b5",
+    "title": "Wired for growth: India’s electrical-equipment opportunity",
+    "source": "McKinsey & Company",
+    "summary": "Wired for growth: India’s electrical-equipment opportunity&nbsp;&nbsp;McKinsey & Company",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNE1VTkY0MGpRWm9yTExTazlvVnlLSlZsc3BucWRlXzBTbXRrSXNYV0NTZzNGeDVDVTJpZGJma3F3bG5ndVhxZ1ptZXFpY01wRVpvSXc4OGNmekZOVkVaMktqU2dvS2ZpdWNuUWtldk1ubHJXRk11RWl2ZTUtTER0dV9veWpUVEVnT2dITW5USVdOZmxWb05xVWlKWlFFUkROSHRjSEhhNHJJdU9YODFTVEZLdllnMWtD?oc=5",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 00:00:00 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572408+00:00"
+  },
+  {
+    "id": "0c72637a5766",
+    "title": "IN-SPACe offers full technology transfer of PSLV to Indian private industry",
+    "source": "The Economic Times",
+    "summary": "IN-SPACe offers full technology transfer of PSLV to Indian private industry&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOUdQb25XcUlVejNESVZLUkswbE9Hd3ViNGtYSDlmX19zSVdHUjFLR2ZXZ2hNWWVMd0xOWF9fT2RwVFgyendxc2FmQTFsYlBPRUZnYnBtVU9TNkQ3X3FkY0kxaWlPcTBueTlaUThCSERnTXlqVVF3MVBJUWxkRl9NVUlneDMxaUxNMHhLOXlITUViRjJxakgzT1BZdHRPUlQyZThyVi0ydkVnTExsNVYxMzZWeHRFMHlPTG44eXM3NDFLaFBsbjdicDQ0LTNkMFhWR2ppd1RZeTNmUdIB3wFBVV95cUxPVVNjZFdJUTJGWDhKTktTVDlnMG5NbDVaU3JmT3NZNzN3SXd3ZWVWM1RMVGRjMlFHb0l3c2pvaDVEWXNaTkFzQXRBTDh5cHFPMzBYbWtYdWlhclFUWkk1OE1yYk8tSWg3WTN3OWpRdmFQSHBQSFNRS3RzcFBoWm1wRjZKVVY5aTR4cWN1TXh5NmVMMEEtNDRJTDNDemR2MHplRkVyQnlRNnh3ZGJhZmFCTTZacWtRMjg5cnZqbzh1MHZXajh0S21Gd0pEb3lSMTBGY0RwUHNZQkI2OU5VWkZB?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 17:23:10 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572424+00:00"
+  },
+  {
+    "id": "04d356e073f1",
+    "title": "Industry Leaders Say Adani’s Proposed U.S. Investment Could Reshape View of Indian Firms",
+    "source": "INDIA New England News",
+    "summary": "Industry Leaders Say Adani’s Proposed U.S. Investment Could Reshape View of Indian Firms&nbsp;&nbsp;INDIA New England News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeloxcDJLNTFibmRoZnQzYW5vRVVDQ2lzSWlOT0thU18tbnNwazFldFVkZnMzWnZuYWZ6V3dsaGlxRzg3djVHQTg2RFM2dGNyUTFucXpYQ21RbUlkZEx5YXhUckxNdGJ2UHp6Y1FEaTFHYUtIaVU5MDg2N2pnV055ZHUzZlZJZE5JeHp0TENNSmlJbVkyVVRWazQ2QTN5OVFWaFluOUwyYlFTVXYxcHotQVRQSUNxUQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 16:46:50 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572442+00:00"
+  },
+  {
+    "id": "bdce127cc6d0",
+    "title": "Semiconductor Industry in India: Incentives and Key Players",
+    "source": "India Briefing",
+    "summary": "Semiconductor Industry in India: Incentives and Key Players&nbsp;&nbsp;India Briefing",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTVRbl9ZR3VpLVZOSUJfTG5yV2dtYzY3MG1WeEZrY3V0T0FoSHQzRzV3ZXptbWtxRHd4T0pCdjFqejdsVE9fTVY2WGRfaWtUR2pCTEE4VEFOOEpCcS1kMWRTZ2lGYnlZVF82YnloY3ZOOTJoQkRsLVZNQ3d5bjNIWXNnWGl2UVpRc3dJSURkSzc5U1FZMi03TUwyaWJhZlRhVmlseTNkbXRfTnhuZ2NJRUY5ZDJTc00tUjY0c0lsSGctMEJTNE9GWW1pcjZhSERsWXc?oc=5",
+    "image": "",
+    "published_at": "Mon, 18 May 2026 04:56:23 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572455+00:00"
+  },
+  {
+    "id": "a7431edafdf3",
+    "title": "B2B Distribution, consumer electronics, Electrical Industry, Indian Market Expansion, SUGS LLOYD Group",
+    "source": "First India",
+    "summary": "B2B Distribution, consumer electronics, Electrical Industry, Indian Market Expansion, SUGS LLOYD Group&nbsp;&nbsp;First India",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbV9tV2owYXB3ajFhYV9YM1Z4TlVQQ3pBLU9ZMG9Hd3NMZU9fNS1KeVlZV1lSWWN5Q3lyN0dZX2VaX3RGVUpSN2JiV0dpZjVWdW9LQ1MyQXlEZFAwR2N3TEdFV3lnMWNpYnpxNkZLeS13bXNvNFRRQVJ5S1h4c01JandkT1dweVFqOUxRLTZhaGN0cDNTdHVsbzc0YVYxclQ2REc1TGluMlJJVERKaWJCYUQyQlh4cVIwR0dJZ0JXbGZWVkdBdTluLWQ0YURULVcwQzR3ZjFrYnhEV1cxejEwS0pqVVg3ZDczV2c?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 20:56:09 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572470+00:00"
+  },
+  {
+    "id": "1257b4f39047",
+    "title": "The Indian EMS industry moves up and sideways",
+    "source": "The Daily Brief by Zerodha",
+    "summary": "The Indian EMS industry moves up and sideways&nbsp;&nbsp;The Daily Brief by Zerodha",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRWWFXQ1pacGMyN1U5MkpVYkhGTFJLQWJkeTE0X2ZBSU84eGFaMGc4NzRTQ1RPc0ZMdUlNcFZBdk94OUpaVlNSZ0dlQVdaamVFZXpSYnRKMVY0aGJDRzJTbDB6Zm5PU1hBdjQ2Nk80ZWFFMjRrdW9j?oc=5",
+    "image": "",
+    "published_at": "Wed, 20 May 2026 01:42:07 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572482+00:00"
+  },
+  {
+    "id": "23bfa0384748",
+    "title": "'The Indian furniture sector has long-term potential, but the industry is facing several real challenges'",
+    "source": "InteriorDaily",
+    "summary": "'The Indian furniture sector has long-term potential, but the industry is facing several real challenges'&nbsp;&nbsp;InteriorDaily",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdVdyeUdXWktWalRqTXMwUi0yem1lckxacjVIU2E1cHJ0RFpfREZTdWRUcXFyYm4wSnNDb25Qb0pENW1WdXNTdnplNjZmeWQzME8ybWw3dnZSb3BDT18wR3IxVWNJT0x6THd0V1BCcEFFY2hTbTN2WGFtbjJscE1IQTh1TjRmX2RtWmZ5TFVfamlRZ0djS2lFME8tc0NLejBiRlB1Y3V1NXdoaTJuMnpNY1M1YjRfdGV4dGJtSkNwdTFaSmdNNDBCZ2xTNGF3X3MxSTlQenJVWEhFVXZvejhaRGdRQQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 09:06:45 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572498+00:00"
+  },
+  {
+    "id": "8e7583660b76",
+    "title": "GCCs IN INDIA: Exports rise 2.4x, employment 2x over six years",
+    "source": "The Times of India",
+    "summary": "GCCs IN INDIA: Exports rise 2.4x, employment 2x over six years&nbsp;&nbsp;The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNHhoSVFldThlSDZpV2xYZ181V3NUc0sxcGlrcF9RbVR5R1AzUFVJU29HNkNicjNudlRVOUE5ekVRdmhzRHVTUnBsRnpqUDVEc2s1YzVFeVo3anRMOWM1UmQ1UDJ0WmFSeW94ekRGaTFJSTFNbGV1X2NfWXBNS3hacDBlZHoxRThqanVKaEM5cVhmT0FLX01WdUFPUWR5a1lzdzhmbExRblZPRTRHTTVqTXRzSHVGQ0lxdGltNnZKN2lNYzdsVHhCLXVibWxqSU5pcnIxWlBNMVJLUXZzbzNYM9IB5gFBVV95cUxOWVkyV21oY2pVa1R0S3B6SXBFM0p4SjRBZDJsRTZydmJSQmxWZ1RBQjdWdElXZFc1M00yLVAtQ25SWkdaZUwtOG14V2hBaHUxTXlUcDJxSVlzM3Y2Vi1fQUhXR0pLOVhxdTVNQjJ4T0xRNmFuZFdIMDJadi16TVlYa3haTnhic2FPVTF3czNHUUJRSHVKYjFOdG9uY0x4UEFFRklIUG9fVmx2UDhzRFhWUGJ4MllkdUd2WmVZZ1pSM0JIVUdoMk15ZHZBcXZQZ2RHb3hBU0pwVjhfd3pJMGdPWG93UTN6UQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 20 May 2026 02:11:00 GMT",
+    "fetched_at": "2026-05-23T03:55:27.572512+00:00"
+  },
+  {
+    "id": "b0dd410ce65c",
+    "title": "Before you replace your HDD with an SSD, here’s why some users still prefer hard drives",
+    "source": "LiveMint",
+    "summary": "SSDs make laptops and PCs feel much faster, but HDDs still offer cheaper high-capacity storage. The right choice depends on your usage and storage needs.",
+    "url": "https://www.livemint.com/technology/gadgets/before-you-replace-your-hdd-with-an-ssd-here-s-why-some-users-still-prefer-hard-drives-11779445659537.html",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 17:07:51 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604701+00:00"
+  },
+  {
+    "id": "ad67945e1581",
+    "title": "Grand Theft Auto VI set for November 19 launch, Take-Two confirms; $8 billion in bookings eyed",
+    "source": "LiveMint",
+    "summary": "Grand Theft Auto VI video game (GTA 6) will launch on 19 November 2026, announced Take-Two Interactive during its latest earnings report. The company also projected fiscal 2027 bookings of up to $8.2 billion, with analysts expecting the blockbuster game to drive massive sales and industry growth.",
+    "url": "https://www.livemint.com/technology/apps/gta-6-is-really-happening-on-november-19-take-two-just-put-8-billion-behind-that-claim-11779419146422.html",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 09:23:06 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604735+00:00"
+  },
+  {
+    "id": "459c32b1dec1",
+    "title": "Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry",
+    "source": "LiveMint",
+    "summary": "Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry",
+    "url": "https://www.livemint.com/technology/trump-postpones-signing-artificial-intelligence-order-out-of-concern-it-would-hurt-the-ai-industry-11779383596179.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 22:43:15 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604751+00:00"
+  },
+  {
+    "id": "758feacd6e7b",
+    "title": "Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams",
+    "source": "LiveMint",
+    "summary": "EU-TECH-CONSUMERS:Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams",
+    "url": "https://www.livemint.com/technology/google-meta-tiktok-hit-by-eu-consumer-complaints-about-handling-of-financial-scams-11779374161340.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 20:06:01 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604764+00:00"
+  },
+  {
+    "id": "ae424d9af27d",
+    "title": "Apple adds two major health features in India: Know all about Sleep apnoea alerts and hearing tests",
+    "source": "LiveMint",
+    "summary": "Apple has introduce two major health-tracking features in India, allowing Apple Watch users to receive sleep apnoea notifications and AirPods Pro users to perform at-home hearing tests.",
+    "url": "https://www.livemint.com/technology/tech-news/apple-adds-two-major-health-features-in-india-know-all-about-sleep-apnoea-alerts-and-hearing-tests-11779355536956.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 15:21:12 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604780+00:00"
+  },
+  {
+    "id": "0d874358c597",
+    "title": "Oppo Find X9 Ultra vs Vivo X300 Ultra: Price, camera, display and more compared",
+    "source": "LiveMint",
+    "summary": "Oppo and Vivo have entered the flagship camera phone market in India with the X300 Ultra and Find X9 Ultra. Both devices feature high-end specs, including Snapdragon 8 Elite Gen 5 processors, impressive camera setups, and similar display",
+    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9-ultra-vs-vivo-x300-ultra-price-specs-features-and-more-compared-11779353408835.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 14:45:46 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604799+00:00"
+  },
+  {
+    "id": "b8b196bd336b",
+    "title": "Oppo Find X9s with 7025mAh battery and triple 50MP cameras launched in India: Price, specs and features",
+    "source": "LiveMint",
+    "summary": "Oppo Find X9s comes with a 6.59-inch AMOLED display and a powerful 7,025mAh battery. The phone starts at a price of ₹79,999 and will go on sale starting May 28",
+    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9s-with-7025mah-battery-and-triple-50mp-cameras-launched-in-india-price-specs-and-features-11779347779023.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 13:03:06 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604818+00:00"
+  },
+  {
+    "id": "a64ff215a698",
+    "title": "Who Is Andrej Karpathy? The AI researcher behind Tesla Autopilot, OpenAI and the course that taught millions",
+    "source": "LiveMint",
+    "summary": "From image captioning and neural networks to Tesla Autopilot and OpenAI, Andrej Karpathy has helped shape modern AI research. Here are seven major breakthroughs and contributions that influenced ChatGPT, self-driving AI and deep learning.",
+    "url": "https://www.livemint.com/technology/who-is-andrej-karpathy-the-ai-researcher-behind-tesla-autopilot-openai-and-the-course-that-taught-millions-11779331725741.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 12:36:28 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604837+00:00"
+  },
+  {
+    "id": "3188d222d82b",
+    "title": "Oppo Find X9 Ultra with Hasselblad cameras, Snapdragon 8 Elite Gen 5 SoC launched in India: Price, specs and features",
+    "source": "LiveMint",
+    "summary": "Oppo has launched the Find X9 Ultra in India, featuring a Hasselblad camera setup and Snapdragon 8 Elite Gen 5 processor. Priced at ₹1,69,999, it includes a 6.82-inch AMOLED display, 7,050mAh battery and 100W of fast charging",
+    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9-ultra-with-hasselblad-cameras-snapdragon-8-elite-gen-5-soc-launched-in-india-price-specs-and-features-11779345122037.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 12:33:28 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604858+00:00"
+  },
+  {
+    "id": "6092576c04da",
+    "title": "From Byju’s, Koo to Bluelearn: 7 Indian startups that went from hype to layoffs and shutdowns",
+    "source": "LiveMint",
+    "summary": "From Byju's and Koo to GoMechanic and Bluelearn, several Indian startups that once attracted massive funding and rapid growth later faced layoffs, financial troubles, governance issues, or shutdowns.",
+    "url": "https://www.livemint.com/technology/from-byju-s-koo-to-bluelearn-7-indian-startups-that-went-from-hype-to-layoffs-and-shutdowns-11779327174877.html",
+    "image": "",
+    "published_at": "Thu, 21 May 2026 10:35:01 +0530",
+    "fetched_at": "2026-05-23T03:55:32.604877+00:00"
+  },
+  {
+    "id": "572546edd930",
+    "title": "Delivery platforms deploy cooling cover as orders heat up",
+    "source": "Economic Times",
+    "summary": "​People confined to indoors are increasingly turning to online platforms for purchases spanning daily essentials to cooling products and consumer electronics. While this also means a heavier workload for delivery executives, the platforms said they are taking measures to help them cope with the weat",
+    "url": "https://economictimes.indiatimes.com/tech/technology/delivery-platforms-deploy-cooling-cover-as-orders-heat-up/articleshow/131267634.cms",
+    "image": "",
+    "published_at": "Sat, 23 May 2026 06:00:00 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750875+00:00"
+  },
+  {
+    "id": "5fe667d8479a",
+    "title": "H-1B pool down 39% in FY27 on Trump revisals",
+    "source": "Economic Times",
+    "summary": "H-1B visa registrations have seen a sharp decline this year. Stricter US immigration rules and increased costs are pushing companies to be more selective. The US Citizenship and Immigration Services reports a significant drop in registrations for FY27. This shift favors applicants with advanced degr",
+    "url": "https://economictimes.indiatimes.com/tech/technology/h-1b-pool-down-39-in-fy27-on-trump-revisals/articleshow/131266774.cms",
+    "image": "",
+    "published_at": "Sat, 23 May 2026 06:00:00 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750909+00:00"
+  },
+  {
+    "id": "ca0e3ce32d3a",
+    "title": "Google appeals US court ruling on search monopoly",
+    "source": "Economic Times",
+    "summary": "Google argued that U.S. Judge Amit Mehta ‌made legal errors ⁠in ⁠his 2024 ruling, which found the company illegally blocked ​competitors by paying billions of dollars annually to firms including ​Apple to be the default search engine on new devices.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/google-appeals-us-court-ruling-on-search-monopoly/articleshow/131266953.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 23:52:29 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750932+00:00"
+  },
+  {
+    "id": "a75e0c1f16f6",
+    "title": "From Meta to SpaceX: how dual-class shares keep founders in control",
+    "source": "Economic Times",
+    "summary": "While such structures are hardly unusual in corporate ​America, particularly among founder-led companies, few issues are so fiercely criticized by governance watchdogs.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/from-meta-to-spacex-how-dual-class-shares-keep-founders-in-control/articleshow/131266876.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 23:42:21 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750948+00:00"
+  },
+  {
+    "id": "0905990717b4",
+    "title": "On London's streets, facial recognition tests the balance between security and liberty",
+    "source": "Economic Times",
+    "summary": "The operation was an example of a technology the ​Metropolitan Police say is transforming policing, helping officers arrest around 2,500 wanted people since the start of 2024, including suspects accused of violent ​and sexual offences.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/on-londons-streets-facial-recognition-tests-the-balance-between-security-and-liberty/articleshow/131266833.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 23:37:12 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750967+00:00"
+  },
+  {
+    "id": "294ea4268c12",
+    "title": "Sebi targets 'finfluencer' misconduct to protect retail investors, freezes accounts of perpetrators",
+    "source": "Economic Times",
+    "summary": "According to the SEBI order, the operators bought small/mid-cap stocks, artificially inflated prices by sharing unsubstantiated bullish tips to followers, and then dumped their shares at a massive profit, leaving retail investors with heavy losses.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/sebi-targets-finfluencer-misconduct-to-protect-retail-investors-freezes-accounts-of-perpetrators/articleshow/131266398.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 22:52:48 +0530",
+    "fetched_at": "2026-05-23T03:55:32.750985+00:00"
+  },
+  {
+    "id": "3820296186f9",
+    "title": "China's JD.com weighs £2 billion bid for UK retailer The Very Group: Report",
+    "source": "Economic Times",
+    "summary": "The move would follow JD.com's ​earlier UK efforts, including its failed takeover bid for electricals group ​Currys and its decision ⁠last year ‌to walk away ​from ​talks to acquire Argos ⁠from Sainsbury's.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/chinas-jd-com-weighs-2-billion-bid-for-uk-retailer-the-very-group-report/articleshow/131266342.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 22:48:03 +0530",
+    "fetched_at": "2026-05-23T03:55:32.751006+00:00"
+  },
+  {
+    "id": "a7d7ce6490e8",
+    "title": "Activision shareholders reach $250 million settlement over Microsoft buyout",
+    "source": "Economic Times",
+    "summary": "Shareholders of Activision Blizzard reached ‌a $250 ⁠million settlement ⁠over ​allegations that Microsoft and ​former executives of the ​maker ⁠of the \"Call ‌of ​Duty\" ​video ⁠game shortchanged them when the ​software giant acquired ​it in 2023 for $75.4 billion, according ‌to a late Thursday ​court",
+    "url": "https://economictimes.indiatimes.com/tech/technology/activision-shareholders-reach-250-million-settlement-over-microsoft-buyout/articleshow/131266314.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 22:45:28 +0530",
+    "fetched_at": "2026-05-23T03:55:32.751030+00:00"
+  },
+  {
+    "id": "641754816f47",
+    "title": "Uber said to study full takeover of European rival Delivery Hero",
+    "source": "Economic Times",
+    "summary": "The ride-hailing giant this week disclosed it had boosted its stake in Frankfurt-listed Delivery Hero. It’s working with advisers to study ways to increase its holding further, according to the people. Uber has also been speaking to other investors in Delivery Hero about its interest in a deal, they",
+    "url": "https://economictimes.indiatimes.com/tech/technology/uber-said-to-study-full-takeover-of-european-rival-delivery-hero/articleshow/131266126.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 22:22:05 +0530",
+    "fetched_at": "2026-05-23T03:55:32.751052+00:00"
+  },
+  {
+    "id": "dd5d5b58e68e",
+    "title": "ETtech Deals Digest: Startups raise $122 million this week, down 5% on-year",
+    "source": "Economic Times",
+    "summary": "This week’s tally, however, was down 84% from the previous week when startups raised around $789.8 million, thanks to Rapido’s mega $730 million round.",
+    "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-startups-raise-122-million-this-week-down-5-on-year/articleshow/131266013.cms",
+    "image": "",
+    "published_at": "Fri, 22 May 2026 22:09:06 +0530",
+    "fetched_at": "2026-05-23T03:55:32.751067+00:00"
   },
   {
     "id": "a87ea913bd00",
@@ -38,465 +498,5 @@
     "image": "",
     "published_at": "Fri, 22 May 2026 14:02:00 GMT",
     "fetched_at": "2026-05-22T23:10:11.589819+00:00"
-  },
-  {
-    "id": "91ee8d612ec9",
-    "title": "iPhone 18 Pro leak reveals brand new colors that could be coming",
-    "source": "9to5Mac",
-    "summary": "iPhone 18 Pro leak reveals brand new colors that could be coming&nbsp;&nbsp;9to5MaciPhone 18 Pro Max leaks suggest upgrades but stable pricing&nbsp;&nbsp;MSNApple iPhone 18 Pro Max price, features and battery details have surfaced online in a new leak; here's...&nbsp;&nbsp;Moneycontrol.comApple to u",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWdUeGdKMU8zM3ZkVnUwdEdWTjNJem12UVFjN2JDX05BVGJYZERlMHZial9VcHlsbWhnS2Y1ZDZoQ3N0NXUxNWNvdDVlbmk0d2FKemJPWVhZc3JCZHR0cElUXy1JbzZpcjNtNFdyNHpHOXdwWXFUd1NUNHllNDZaclJQNFNzSXRZWE5sZTdSMDBQTzdmRnVQcjdNVV8?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 16:43:00 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589861+00:00"
-  },
-  {
-    "id": "9921f3c13403",
-    "title": "Cisco used AI to write security incident reports, with mixed results",
-    "source": "The Register",
-    "summary": "Cisco used AI to write security incident reports, with mixed results&nbsp;&nbsp;The RegisterAI-generated reporting: Lessons learned from Cisco Talos Incident Response&nbsp;&nbsp;Cisco BlogsCisco warns of AI inaccuracies in security incident reports | brief | SC Media&nbsp;&nbsp;SC Media",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUhhcEY1VGE0M2tVdlNLdmhYakxKRkFiQUpxdVBiQXBMWlg1RzIzWDB0d0wwRGtxZTZ0aHlERkhsNlZud0hpTHppTnYtd2N5V2QwTWhDVVFUVlBPbEdiUXVBMnI4YUU3TE90X0h2RkJzNmpuTnR2dmU1eXAxelV3aEY0SlBGR2RpMmsyUkxQWFN2VUhXU0g3NmZ1ZEhBSHRJd09MSnF6c1NWN2RaOExHMkY4SkloeVVsc0YtaU00RVM?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 05:38:19 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589888+00:00"
-  },
-  {
-    "id": "bc7a42606f03",
-    "title": "Jio, OPPO Partner to Deliver 5G Advanced with Find X9s, Find X9 Ultra",
-    "source": "TelecomTalk",
-    "summary": "Jio, OPPO Partner to Deliver 5G Advanced with Find X9s, Find X9 Ultra&nbsp;&nbsp;TelecomTalkOppo Find X9 Ultra Review: Camera crowns the complete package&nbsp;&nbsp;The HinduOppo Find X9 Ultra challenges Vivo X300 Ultra in India&nbsp;&nbsp;MSNOPPO Find X9s vs Find X9: what’s different and which one ",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01VkxkMnA4WUNPMVhzR18tQy1ldUU1TENuSkN0aFRvWWNMdVlqZm1xWnRWalVGcklqaTktNERhYklVRk9kMFBCMXo1Z3lkZ2d6c05udVFYaElYczBqS0luRURmSXhHcWFNV191bWtEWDc3R0hHWFpzaERiRU1QZw?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 04:58:52 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589927+00:00"
-  },
-  {
-    "id": "6bba2639b193",
-    "title": "Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery - GSMArena.com news",
-    "source": "GSMArena.com",
-    "summary": "Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery - GSMArena.com news&nbsp;&nbsp;GSMArena.comRealme 16T 5G launched along with Buds Air 8 Pro and Watch S5&nbsp;&nbsp;The HinduRealme 16T 5G Launch: Fierce Mid-Range King&nbsp;&nbsp;TechgenyzRealme 16T with 8,000",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZDB2Q2VDTEczaEV2Z2V2TkU1RmFmYnYyaVRoS1VLSjZ3dkNKaWxIekZFS1pjQ0RueWo3VFBRaDczc0ZGSDdfSkUySG1qdU51ZG55bmI4YkY1aFI0YTU0UXc4WXRDVEV2N3RKSmtpT241cmZsUlFPM01KaGVtazh4MNIBfEFVX3lxTFBjSTF3RVd4cXVBXzFmamxpLW94TWxPd3k2LXVINmhWaGxDcjBVSHVfa3FNempCN1NqRnFwQnRTZXY2YjVZdVUtdWhUY3QwSEFxc2k5bFByeTI1TFBVdEc4RzBKcG4tcXdpaGpFbE9pbDEtTVFSSmtaTTVKNU0?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 08:04:02 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589980+00:00"
-  },
-  {
-    "id": "c7616ddb4b60",
-    "title": "(Digital) Twin Studies",
-    "source": "University of Pittsburgh",
-    "summary": "(Digital) Twin Studies&nbsp;&nbsp;University of Pittsburgh",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mVUx5bFA5V3J0dTNCaTZWTmF2c1otbUpJUjNrNUVEa2VSbnpUQ3Q4aHJobEdQNE80WkZFdUZVWktxcGtSMk02Qk5kcmMza0FsMUp5UkhpWTk4T3ZsbGM4aGlyN3NnZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 13:18:36 GMT",
-    "fetched_at": "2026-05-22T23:10:11.589995+00:00"
-  },
-  {
-    "id": "805a2543ce18",
-    "title": "Meta launches Forum app for Facebook Groups",
-    "source": "Investing.com",
-    "summary": "Meta launches Forum app for Facebook Groups&nbsp;&nbsp;Investing.comReddit stock drops almost 6% after Meta launches standalone app for online forums&nbsp;&nbsp;CNBCMeta has released two new apps for iPhone this month&nbsp;&nbsp;9to5MacMeta’s Forum is part Reddit, part Facebook, and part Google AI O",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemx6Qjk4VlZqOTBmUGZBekhVUFVkSURWcVFLa3dHWHFqUzdVT0VYWU9UYVZvT283aDRXSDR5NkxmYVpxQVNydDgyNzdCdGNwU2I2UVFKU2dYVEJWWXhHRzl4Sm10ZlJPSi1rWU85YWNQZUh3T01JOC1QMmlaTjJOWkdUT0JmME1jTXU5TVRmX2pLWEhSSkI5RFJQVjEzQzB2VTR3Nlo0YW8?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 15:43:59 GMT",
-    "fetched_at": "2026-05-22T23:10:11.590030+00:00"
-  },
-  {
-    "id": "4dfb3cfcfa61",
-    "title": "India’s technology services sector can scale to $750–850 billion by 2035: NITI Aayog",
-    "source": "DD News",
-    "summary": "India’s technology services sector can scale to $750–850 billion by 2035: NITI Aayog&nbsp;&nbsp;DD News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazVWV29lMnpzWDB4NElURjlmVUdEZGxSS2hCbWlOcy11QUl5b3RzNFM2bVhiQVBlUF96R2IxSkJwSVJVanlTbVZRZmRnd29ZVklCRkxUZU94RDB4SkU1UVFZZ0kydUNrejFlc2V5SEo0c043NlNXNHNLSVdnbVdBcld1ZXU1MVJsX1hfWjZYVHJsWjF1d1BkUVhDWVAzQmYyVXFoeHVWbWprV00?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 06:57:15 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082808+00:00"
-  },
-  {
-    "id": "76eea9da009d",
-    "title": "Digital India to AI India: The Next Transformation Wave",
-    "source": "IBEF",
-    "summary": "Digital India to AI India: The Next Transformation Wave&nbsp;&nbsp;IBEF",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVU1aeVhhMGVBUEJVeUpTaWNRVkVKbld1aTZDTG1uTUtTUTJlZThLN19zbjI3VGg2RUxuWGh2d3NKemFRUTlaYm55dmdURzJNX1hDZW1YZDFDdXpEQ1JkRFR3UVdIZHZKYzJSY0pWUGFvV0Y4S3BfMFBfbmRhX05YbW1xYmh0NXBj?oc=5",
-    "image": "",
-    "published_at": "Tue, 19 May 2026 10:38:12 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082840+00:00"
-  },
-  {
-    "id": "b41e52e236e5",
-    "title": "IN-SPACe offers full technology transfer of PSLV to Indian private industry",
-    "source": "Awaz The Voice",
-    "summary": "IN-SPACe offers full technology transfer of PSLV to Indian private industry&nbsp;&nbsp;Awaz The Voice",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlZnTW9GUlJYWU9JQWtRMVVnM1FXZlV4Z3JxNmlLTVM3T25YTkE2UWtfYjlMU3FmWE9maF9vNmszYzZOTHd6OTZUcDJtRHJRVHVuemtWUGlXSURYanNQRXVIN3dkVmJpY3MxQ21NM0VrbGdVWXdtNl9UX0xVQkxOTV9xT21MVy1kZUtaMnRoV3VQb1MzZHlfSnEwTTVIUjZIRUpJc3pSckl0cVBHRW9MRkJXQ2R0eGdiSEJSM3lXT0xXejhEMHc?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 16:02:18 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082859+00:00"
-  },
-  {
-    "id": "cc5a2b35e08b",
-    "title": "One lakh engineering jobs expected from India’s Data Centre sector: Dr Jitendra",
-    "source": "Daily Excelsior",
-    "summary": "One lakh engineering jobs expected from India’s Data Centre sector: Dr Jitendra&nbsp;&nbsp;Daily Excelsior",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNEJHTl8tRzFqbzFkcEFFSlVZREVNMTR0T0ZzYTRLWC02VU5jLXAxWHFfSlZ5MTNZWjFDYlpuS1ZQQ0UtUF9FZTVfbVFYQzNzVVFXSlBybDFLX2VPQXA4YVMxVHlQTC1uSHVBdVkzNmlLdmNIbHpNS3lyT19JRXN2Q05MTGhOZVFENWhyd2VjQzlRVkRWeFctQ2pRMnZlOFNXWTU5a2RXaFZnMGYzMEE?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:46:53 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082879+00:00"
-  },
-  {
-    "id": "8b4850d54ca1",
-    "title": "India Tech’s Next Innings: Signals, Shifts and Considerations",
-    "source": "Boston Consulting Group",
-    "summary": "India Tech’s Next Innings: Signals, Shifts and Considerations&nbsp;&nbsp;Boston Consulting Group",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjN4M3l5MG1jTHFoWngwTDFSd205MWNFenhpSURfUkQ2WEp4RENlQmo2YTB6ellzWWxZM05qbUltLThXV183Z3JmUThJNTlYRjB5ak9Sd25PSjRRWXVDVEdpeHNmNTM2R1llRDFYWnlnV1U3cWNndFBseXJKRkY0SGVKQkNLMm5yZTNwcXlST1ByZXphejBRdTk0TUI?oc=5",
-    "image": "",
-    "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082896+00:00"
-  },
-  {
-    "id": "f969a7404249",
-    "title": "HR 2030: How AI Will Redefine Talent Acquisition in India’s Tech Sector",
-    "source": "hrtoday.in",
-    "summary": "HR 2030: How AI Will Redefine Talent Acquisition in India’s Tech Sector&nbsp;&nbsp;hrtoday.in",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGhMdmFIMTBROUxscWZDMG1rVjJyV1VDX2wzalZTcVBiSWVPNWRsZUhoMnRuQW5NLTIwMHNnaFJtb2xDekZLNHpTb0VJc3dGcUF4MjhlcDByLUJqQ21mS1VWYXFJcEt3T2I0WDl4WHNsZVRNUnh2d2lzUFdQRGtBT1NsVTREOVpmSHc5d21jd2lUd3Z3UUpoWFVIQkxrblk?oc=5",
-    "image": "",
-    "published_at": "Wed, 20 May 2026 18:40:49 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082915+00:00"
-  },
-  {
-    "id": "c0767f7fffd0",
-    "title": "Nasscom Chairman Srikanth Velamakanni elaborates on new game-plan for India’s tech sector",
-    "source": "BusinessLine",
-    "summary": "Nasscom Chairman Srikanth Velamakanni elaborates on new game-plan for India’s tech sector&nbsp;&nbsp;BusinessLine",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZzNyNjNOR29QOG05SGJUUnZRTmVsZmx4Z2pnY0h4Sjd0NVRxeDRJTnJVOGdoNGl1cko3QmpnWFBBLTdwbDNLYzYybmk0VzlmZW5oajNBem1aY0JQQmJVWURKd3lZUkJaUTlOSGFWbld0VDNqdEhSNjhocnUzT0pjTmJRX3Y2elR2WjRySXRjYnFmYWw1aU9NU1p3SUJpcE5VWm0tR0prTXRFN2ltdEZvcWI1M1FnWmNTeE16Y05Gc2RFVDhTQ2NsSFBBOGNGTENsc3pNV3dyMGdiU252OUFDZ3JOdzI1Z25FcWV30gHyAUFVX3lxTE9aNDdtMzBYNUg1YWU2Nmkwa3NJeXZ3cXRNSWhkRDhwMmRXWWRkWm1HZUk0bmNFM1RZTGw5YkEzWUdKb2hPalJrUm9SQ1lTR0Jrd1A0R1hlbkpTaVVaMW9aNjVyOFpXWjBDZDBPVW4wRnczTS1rMERESmdFLThISGdkVFQ4WEpJMEZWcmowdzZoeE4wSVFoV3lMUmZLeU5jVmM4N0hWOThEYjhON0tzOXU3ZXU0cHV4Tlh3Q2VuMGRXdzkxX3Brd1UwbEJsUVZJUW1IOVVIam1yVTlXMWRXc3U1dGtocXotbXhmYkZWN3JXNXRR?oc=5",
-    "image": "",
-    "published_at": "Sun, 17 May 2026 11:01:47 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082934+00:00"
-  },
-  {
-    "id": "5eca8d1296e6",
-    "title": "India blocks China's request for dispute panel on solar sector support measures at WTO",
-    "source": "The Economic Times",
-    "summary": "India blocks China's request for dispute panel on solar sector support measures at WTO&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSTJUWTRXUncyR1M2eVY0cTNoOWhvZGNPdnJ1a2xuemtQcWl1QjRqaEx0MEhtZE84akJWVFE3QXJjR0NSeTFOcWVfSU5tSzV0ck5sRUNtOU9wdk9YVEtPWFpYbm1WSFpaVklOSkF4Y0VKMjYycm1yUjhtZ2l4QlVsSzhoSjdYWjVNUzVzRWI2QlJBb3NBcUctRVdDeXRvNWE0VGdUbGJSU3l6TklwYWViNklNbF9kMkNjcnF4VnpJT3RXVDJGeHBWd2dkUmlXSnZEYWVzOTJYWEltM25FR0VJdmk3QkR1TXZORmE2cU1DUWI3Xzk4N3BuZWlB0gH_AUFVX3lxTE5qYWNNT3JmUXNPYmk0WE5EdDVUYi1aYllOc3N1SU1ocHFrSzQxeVdyQ3BFVndYSTdDdFB6NUNSSXlGV213cHpzUlB2eUIzdWpsZjNLSEZONm9oemUxYURDbUZJNmk5b1Jxc2NkVllEXzhkN1p0MTVfYzd6VGcyeE5WZE1WUDVCdjhsbzdFQVdCYzZ0RE1UVXdHYkRaNzduNlFCVzliWTQ4MThuOWZ6cXdJeG92WXQ3cUxTd0FZYW1LQ2x0VVQ5eWVmZHJaX0xRTkF5c1RJZ2hwTGMzWlpRZXluRXlIS212elJUandNUkF6Y3lZVmRuNG5Xb3lpSTNrOA?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 13:51:52 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082952+00:00"
-  },
-  {
-    "id": "0da2b7c645f0",
-    "title": "Indian H-1B workers caught in fresh wave of Meta, Amazon tech layoffs",
-    "source": "People Matters Media",
-    "summary": "Indian H-1B workers caught in fresh wave of Meta, Amazon tech layoffs&nbsp;&nbsp;People Matters Media",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0hOMU05ajFXdC1nNjVxRFh4UlRHMmRyaDhOSUJ0ZnA0Rk9UNnF4bExpNk54Qy1xbDMtY1RhZlR6RXp2c1VmOW40bjZEbEhwcmVISEROQXRQVXhyTkFTUTFBNi14dlZUaUQwQWtQM2tQOXpxYng4UmNPOER0aTdhMlh4WVAyWkFMSHhmZlJKUEFsakt5TEI5bXJscVM5RV9XeTUtam5PdGFKV3V1S0ZtV3JsNE83a040NWhMLURn?oc=5",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 22:54:51 GMT",
-    "fetched_at": "2026-05-22T23:10:12.082987+00:00"
-  },
-  {
-    "id": "746b6b3fedc0",
-    "title": "India IT industry surpasses $300 billion amid AI‑driven challenges, openings",
-    "source": "Reuters",
-    "summary": "India IT industry surpasses $300 billion amid AI‑driven challenges, openings&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmU0ZjRELXZKLS1YZFlnOHZiTUsySjEwZ19KeEhITmxPa0JuZy11Rk01S2FWa3R4bGlJbTJ3SWplbHB6eFRKVkxJdnpsaktlSEJwc29uVmVrNjVfejJuMEN3WkF4ZEllTVdqT2todDRVRTdMMW5pVWFQOWNHTV9LVFNZaGd3QTFJbVk2WjBGazZ1NERDNlg3S1lZZy01R2xFTVFzS1lzWFhlTXF6OHpVNw?oc=5",
-    "image": "",
-    "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-05-22T23:10:12.083007+00:00"
-  },
-  {
-    "id": "e37fe242e200",
-    "title": "Can India’s Electrical Equipment Industry Become the Next Big “Make in India” Success Story?",
-    "source": "India Infoline",
-    "summary": "Can India’s Electrical Equipment Industry Become the Next Big “Make in India” Success Story?&nbsp;&nbsp;India Infoline",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR09OUVRwSkxZS2E2TDI0VTIzb3ZlUVQxOU1EaTQ4MDBVV2lIZVZ4cGtzbFNJM0lzYmVaWUNsVnJ6cFZqTTBOQkxRT0VfRFJlNmxMU3NackozRE9qeExUZi1hSmtadFNjUUd3MmNldzhBNUw1V2RGV0tBYzFPS0hrbHE0enhEeWotV3h5SWhmNk1GV3NqNE9jd29fVlgwTTl5d29oX2xLMEkxaXE2eEhIRkJsV1hMeTdHNXVhRm5ZbWs?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 13:51:11 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072378+00:00"
-  },
-  {
-    "id": "0277837971b5",
-    "title": "Wired for growth: India’s electrical-equipment opportunity",
-    "source": "McKinsey & Company",
-    "summary": "Wired for growth: India’s electrical-equipment opportunity&nbsp;&nbsp;McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNE1VTkY0MGpRWm9yTExTazlvVnlLSlZsc3BucWRlXzBTbXRrSXNYV0NTZzNGeDVDVTJpZGJma3F3bG5ndVhxZ1ptZXFpY01wRVpvSXc4OGNmekZOVkVaMktqU2dvS2ZpdWNuUWtldk1ubHJXRk11RWl2ZTUtTER0dV9veWpUVEVnT2dITW5USVdOZmxWb05xVWlKWlFFUkROSHRjSEhhNHJJdU9YODFTVEZLdllnMWtD?oc=5",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 00:00:00 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072433+00:00"
-  },
-  {
-    "id": "ce74d5c9c876",
-    "title": "IN-SPACe offers full technology transfer of PSLV to Indian private industry",
-    "source": "The Economic Times",
-    "summary": "IN-SPACe offers full technology transfer of PSLV to Indian private industry&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOUdQb25XcUlVejNESVZLUkswbE9Hd3ViNGtYSDlmX19zSVdHUjFLR2ZXZ2hNWWVMd0xOWF9fT2RwVFgyendxc2FmQTFsYlBPRUZnYnBtVU9TNkQ3X3FkY0kxaWlPcTBueTlaUThCSERnTXlqVVF3MVBJUWxkRl9NVUlneDMxaUxNMHhLOXlITUViRjJxakgzT1BZdHRPUlQyZThyVi0ydkVnTExsNVYxMzZWeHRFMHlPTG44eXM3NDFLaFBsbjdicDQ0LTNkMFhWR2ppd1RZeTNmUQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 17:23:10 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072450+00:00"
-  },
-  {
-    "id": "04d356e073f1",
-    "title": "Industry Leaders Say Adani’s Proposed U.S. Investment Could Reshape View of Indian Firms",
-    "source": "INDIA New England News",
-    "summary": "Industry Leaders Say Adani’s Proposed U.S. Investment Could Reshape View of Indian Firms&nbsp;&nbsp;INDIA New England News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeloxcDJLNTFibmRoZnQzYW5vRVVDQ2lzSWlOT0thU18tbnNwazFldFVkZnMzWnZuYWZ6V3dsaGlxRzg3djVHQTg2RFM2dGNyUTFucXpYQ21RbUlkZEx5YXhUckxNdGJ2UHp6Y1FEaTFHYUtIaVU5MDg2N2pnV055ZHUzZlZJZE5JeHp0TENNSmlJbVkyVVRWazQ2QTN5OVFWaFluOUwyYlFTVXYxcHotQVRQSUNxUQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 16:46:49 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072470+00:00"
-  },
-  {
-    "id": "1257b4f39047",
-    "title": "The Indian EMS industry moves up and sideways",
-    "source": "The Daily Brief by Zerodha",
-    "summary": "The Indian EMS industry moves up and sideways&nbsp;&nbsp;The Daily Brief by Zerodha",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRWWFXQ1pacGMyN1U5MkpVYkhGTFJLQWJkeTE0X2ZBSU84eGFaMGc4NzRTQ1RPc0ZMdUlNcFZBdk94OUpaVlNSZ0dlQVdaamVFZXpSYnRKMVY0aGJDRzJTbDB6Zm5PU1hBdjQ2Nk80ZWFFMjRrdW9j?oc=5",
-    "image": "",
-    "published_at": "Wed, 20 May 2026 01:42:07 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072485+00:00"
-  },
-  {
-    "id": "23bfa0384748",
-    "title": "'The Indian furniture sector has long-term potential, but the industry is facing several real challenges'",
-    "source": "InteriorDaily",
-    "summary": "'The Indian furniture sector has long-term potential, but the industry is facing several real challenges'&nbsp;&nbsp;InteriorDaily",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdVdyeUdXWktWalRqTXMwUi0yem1lckxacjVIU2E1cHJ0RFpfREZTdWRUcXFyYm4wSnNDb25Qb0pENW1WdXNTdnplNjZmeWQzME8ybWw3dnZSb3BDT18wR3IxVWNJT0x6THd0V1BCcEFFY2hTbTN2WGFtbjJscE1IQTh1TjRmX2RtWmZ5TFVfamlRZ0djS2lFME8tc0NLejBiRlB1Y3V1NXdoaTJuMnpNY1M1YjRfdGV4dGJtSkNwdTFaSmdNNDBCZ2xTNGF3X3MxSTlQenJVWEhFVXZvejhaRGdRQQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 09:06:45 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072503+00:00"
-  },
-  {
-    "id": "a7431edafdf3",
-    "title": "B2B Distribution, consumer electronics, Electrical Industry, Indian Market Expansion, SUGS LLOYD Group",
-    "source": "First India",
-    "summary": "B2B Distribution, consumer electronics, Electrical Industry, Indian Market Expansion, SUGS LLOYD Group&nbsp;&nbsp;First India",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbV9tV2owYXB3ajFhYV9YM1Z4TlVQQ3pBLU9ZMG9Hd3NMZU9fNS1KeVlZV1lSWWN5Q3lyN0dZX2VaX3RGVUpSN2JiV0dpZjVWdW9LQ1MyQXlEZFAwR2N3TEdFV3lnMWNpYnpxNkZLeS13bXNvNFRRQVJ5S1h4c01JandkT1dweVFqOUxRLTZhaGN0cDNTdHVsbzc0YVYxclQ2REc1TGluMlJJVERKaWJCYUQyQlh4cVIwR0dJZ0JXbGZWVkdBdTluLWQ0YURULVcwQzR3ZjFrYnhEV1cxejEwS0pqVVg3ZDczV2c?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 13:36:54 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072520+00:00"
-  },
-  {
-    "id": "9d96b72b14e7",
-    "title": "Extended West Asia tensions may hurt Indian Oil's liquidity, says S&P",
-    "source": "Business Standard",
-    "summary": "Extended West Asia tensions may hurt Indian Oil's liquidity, says S&P&nbsp;&nbsp;Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREdVekROV05MLTVEd3ozVlQ5VE01N1NubS1lRWVmMkwwa3QxYXQ4ZWNhYzU4WlVIbGUyZVA5NnRNelpMbGplTDEtVF9UV25Vd0hQdkRIaWRuNnFEMEJFdWNtQ0E4WldaNWxIVjk1Z05hemlNc1lqNDZqYjNRRjFQQ0c2aFJKb056RmlDWTMzRjk3d3dCbnM3c1RoRHZ0VlRyS0oxX3VQWFdxUWE3RXloemxXQnQyQWJkZkRxVXhLM0M1MUJ5ZE9lTWdIdWY4ZTd6VGfSAdcBQVVfeXFMTzZXcTBDVVBtS3ZFRm4tdVR5Y2MwaGNRdVFEWEFEZThrQmdwNXRKNTJNZDhleDNjWVJIcXpFVGdQOHVUZFYySHJ3LUlJY0RwZFloNGhPaEVOVE9ENklvcFBwVFBIYllvNFR1ZG04R3JYS2hyNzFHZHl3aENjNEFUNktDbGt2SUl3MzItaHZXZkdLM3pFeXdzS2pvdWs1ZWNkTDRuc0RHTTdfOVJvazZqY2JwMmh2dzhmQk5WQldabHFQVDlTSlZZUFU3UUdSLW80dEEtT3UtZTA?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 14:45:32 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072535+00:00"
-  },
-  {
-    "id": "8e7583660b76",
-    "title": "GCCs IN INDIA: Exports rise 2.4x, employment 2x over six years",
-    "source": "The Times of India",
-    "summary": "GCCs IN INDIA: Exports rise 2.4x, employment 2x over six years&nbsp;&nbsp;The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNHhoSVFldThlSDZpV2xYZ181V3NUc0sxcGlrcF9RbVR5R1AzUFVJU29HNkNicjNudlRVOUE5ekVRdmhzRHVTUnBsRnpqUDVEc2s1YzVFeVo3anRMOWM1UmQ1UDJ0WmFSeW94ekRGaTFJSTFNbGV1X2NfWXBNS3hacDBlZHoxRThqanVKaEM5cVhmT0FLX01WdUFPUWR5a1lzdzhmbExRblZPRTRHTTVqTXRzSHVGQ0lxdGltNnZKN2lNYzdsVHhCLXVibWxqSU5pcnIxWlBNMVJLUXZzbzNYM9IB5gFBVV95cUxOWVkyV21oY2pVa1R0S3B6SXBFM0p4SjRBZDJsRTZydmJSQmxWZ1RBQjdWdElXZFc1M00yLVAtQ25SWkdaZUwtOG14V2hBaHUxTXlUcDJxSVlzM3Y2Vi1fQUhXR0pLOVhxdTVNQjJ4T0xRNmFuZFdIMDJadi16TVlYa3haTnhic2FPVTF3czNHUUJRSHVKYjFOdG9uY0x4UEFFRklIUG9fVmx2UDhzRFhWUGJ4MllkdUd2WmVZZ1pSM0JIVUdoMk15ZHZBcXZQZ2RHb3hBU0pwVjhfd3pJMGdPWG93UTN6UQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 20 May 2026 02:11:00 GMT",
-    "fetched_at": "2026-05-22T23:10:13.072551+00:00"
-  },
-  {
-    "id": "b0dd410ce65c",
-    "title": "Before you replace your HDD with an SSD, here’s why some users still prefer hard drives",
-    "source": "LiveMint",
-    "summary": "SSDs make laptops and PCs feel much faster, but HDDs still offer cheaper high-capacity storage. The right choice depends on your usage and storage needs.",
-    "url": "https://www.livemint.com/technology/gadgets/before-you-replace-your-hdd-with-an-ssd-here-s-why-some-users-still-prefer-hard-drives-11779445659537.html",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 17:07:51 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015817+00:00"
-  },
-  {
-    "id": "ad67945e1581",
-    "title": "Grand Theft Auto VI set for November 19 launch, Take-Two confirms; $8 billion in bookings eyed",
-    "source": "LiveMint",
-    "summary": "Grand Theft Auto VI video game (GTA 6) will launch on 19 November 2026, announced Take-Two Interactive during its latest earnings report. The company also projected fiscal 2027 bookings of up to $8.2 billion, with analysts expecting the blockbuster game to drive massive sales and industry growth.",
-    "url": "https://www.livemint.com/technology/apps/gta-6-is-really-happening-on-november-19-take-two-just-put-8-billion-behind-that-claim-11779419146422.html",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 09:23:06 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015855+00:00"
-  },
-  {
-    "id": "459c32b1dec1",
-    "title": "Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry",
-    "source": "LiveMint",
-    "summary": "Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry",
-    "url": "https://www.livemint.com/technology/trump-postpones-signing-artificial-intelligence-order-out-of-concern-it-would-hurt-the-ai-industry-11779383596179.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 22:43:15 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015872+00:00"
-  },
-  {
-    "id": "758feacd6e7b",
-    "title": "Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams",
-    "source": "LiveMint",
-    "summary": "EU-TECH-CONSUMERS:Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams",
-    "url": "https://www.livemint.com/technology/google-meta-tiktok-hit-by-eu-consumer-complaints-about-handling-of-financial-scams-11779374161340.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 20:06:01 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015887+00:00"
-  },
-  {
-    "id": "ae424d9af27d",
-    "title": "Apple adds two major health features in India: Know all about Sleep apnoea alerts and hearing tests",
-    "source": "LiveMint",
-    "summary": "Apple has introduce two major health-tracking features in India, allowing Apple Watch users to receive sleep apnoea notifications and AirPods Pro users to perform at-home hearing tests.",
-    "url": "https://www.livemint.com/technology/tech-news/apple-adds-two-major-health-features-in-india-know-all-about-sleep-apnoea-alerts-and-hearing-tests-11779355536956.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 15:21:12 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015905+00:00"
-  },
-  {
-    "id": "0d874358c597",
-    "title": "Oppo Find X9 Ultra vs Vivo X300 Ultra: Price, camera, display and more compared",
-    "source": "LiveMint",
-    "summary": "Oppo and Vivo have entered the flagship camera phone market in India with the X300 Ultra and Find X9 Ultra. Both devices feature high-end specs, including Snapdragon 8 Elite Gen 5 processors, impressive camera setups, and similar display",
-    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9-ultra-vs-vivo-x300-ultra-price-specs-features-and-more-compared-11779353408835.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 14:45:46 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015925+00:00"
-  },
-  {
-    "id": "b8b196bd336b",
-    "title": "Oppo Find X9s with 7025mAh battery and triple 50MP cameras launched in India: Price, specs and features",
-    "source": "LiveMint",
-    "summary": "Oppo Find X9s comes with a 6.59-inch AMOLED display and a powerful 7,025mAh battery. The phone starts at a price of ₹79,999 and will go on sale starting May 28",
-    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9s-with-7025mah-battery-and-triple-50mp-cameras-launched-in-india-price-specs-and-features-11779347779023.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 13:03:06 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015946+00:00"
-  },
-  {
-    "id": "a64ff215a698",
-    "title": "Who Is Andrej Karpathy? The AI researcher behind Tesla Autopilot, OpenAI and the course that taught millions",
-    "source": "LiveMint",
-    "summary": "From image captioning and neural networks to Tesla Autopilot and OpenAI, Andrej Karpathy has helped shape modern AI research. Here are seven major breakthroughs and contributions that influenced ChatGPT, self-driving AI and deep learning.",
-    "url": "https://www.livemint.com/technology/who-is-andrej-karpathy-the-ai-researcher-behind-tesla-autopilot-openai-and-the-course-that-taught-millions-11779331725741.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 12:36:28 +0530",
-    "fetched_at": "2026-05-22T23:10:18.015987+00:00"
-  },
-  {
-    "id": "3188d222d82b",
-    "title": "Oppo Find X9 Ultra with Hasselblad cameras, Snapdragon 8 Elite Gen 5 SoC launched in India: Price, specs and features",
-    "source": "LiveMint",
-    "summary": "Oppo has launched the Find X9 Ultra in India, featuring a Hasselblad camera setup and Snapdragon 8 Elite Gen 5 processor. Priced at ₹1,69,999, it includes a 6.82-inch AMOLED display, 7,050mAh battery and 100W of fast charging",
-    "url": "https://www.livemint.com/technology/gadgets/oppo-find-x9-ultra-with-hasselblad-cameras-snapdragon-8-elite-gen-5-soc-launched-in-india-price-specs-and-features-11779345122037.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 12:33:28 +0530",
-    "fetched_at": "2026-05-22T23:10:18.016014+00:00"
-  },
-  {
-    "id": "6092576c04da",
-    "title": "From Byju’s, Koo to Bluelearn: 7 Indian startups that went from hype to layoffs and shutdowns",
-    "source": "LiveMint",
-    "summary": "From Byju's and Koo to GoMechanic and Bluelearn, several Indian startups that once attracted massive funding and rapid growth later faced layoffs, financial troubles, governance issues, or shutdowns.",
-    "url": "https://www.livemint.com/technology/from-byju-s-koo-to-bluelearn-7-indian-startups-that-went-from-hype-to-layoffs-and-shutdowns-11779327174877.html",
-    "image": "",
-    "published_at": "Thu, 21 May 2026 10:35:01 +0530",
-    "fetched_at": "2026-05-22T23:10:18.016035+00:00"
-  },
-  {
-    "id": "ca0e3ce32d3a",
-    "title": "Google appeals US court ruling on search monopoly",
-    "source": "Economic Times",
-    "summary": "Google argued that U.S. Judge Amit Mehta ‌made legal errors ⁠in ⁠his 2024 ruling, which found the company illegally blocked ​competitors by paying billions of dollars annually to firms including ​Apple to be the default search engine on new devices.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/google-appeals-us-court-ruling-on-search-monopoly/articleshow/131266953.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 23:52:29 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069059+00:00"
-  },
-  {
-    "id": "a75e0c1f16f6",
-    "title": "From Meta to SpaceX: how dual-class shares keep founders in control",
-    "source": "Economic Times",
-    "summary": "While such structures are hardly unusual in corporate ​America, particularly among founder-led companies, few issues are so fiercely criticized by governance watchdogs.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/from-meta-to-spacex-how-dual-class-shares-keep-founders-in-control/articleshow/131266876.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 23:42:21 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069094+00:00"
-  },
-  {
-    "id": "0905990717b4",
-    "title": "On London's streets, facial recognition tests the balance between security and liberty",
-    "source": "Economic Times",
-    "summary": "The operation was an example of a technology the ​Metropolitan Police say is transforming policing, helping officers arrest around 2,500 wanted people since the start of 2024, including suspects accused of violent ​and sexual offences.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/on-londons-streets-facial-recognition-tests-the-balance-between-security-and-liberty/articleshow/131266833.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 23:37:12 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069121+00:00"
-  },
-  {
-    "id": "294ea4268c12",
-    "title": "Sebi targets 'finfluencer' misconduct to protect retail investors, freezes accounts of perpetrators",
-    "source": "Economic Times",
-    "summary": "According to the SEBI order, the operators bought small/mid-cap stocks, artificially inflated prices by sharing unsubstantiated bullish tips to followers, and then dumped their shares at a massive profit, leaving retail investors with heavy losses.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/sebi-targets-finfluencer-misconduct-to-protect-retail-investors-freezes-accounts-of-perpetrators/articleshow/131266398.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:52:48 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069143+00:00"
-  },
-  {
-    "id": "3820296186f9",
-    "title": "China's JD.com weighs £2 billion bid for UK retailer The Very Group: Report",
-    "source": "Economic Times",
-    "summary": "The move would follow JD.com's ​earlier UK efforts, including its failed takeover bid for electricals group ​Currys and its decision ⁠last year ‌to walk away ​from ​talks to acquire Argos ⁠from Sainsbury's.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/chinas-jd-com-weighs-2-billion-bid-for-uk-retailer-the-very-group-report/articleshow/131266342.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:48:03 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069167+00:00"
-  },
-  {
-    "id": "a7d7ce6490e8",
-    "title": "Activision shareholders reach $250 million settlement over Microsoft buyout",
-    "source": "Economic Times",
-    "summary": "Shareholders of Activision Blizzard reached ‌a $250 ⁠million settlement ⁠over ​allegations that Microsoft and ​former executives of the ​maker ⁠of the \"Call ‌of ​Duty\" ​video ⁠game shortchanged them when the ​software giant acquired ​it in 2023 for $75.4 billion, according ‌to a late Thursday ​court",
-    "url": "https://economictimes.indiatimes.com/tech/technology/activision-shareholders-reach-250-million-settlement-over-microsoft-buyout/articleshow/131266314.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:45:28 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069198+00:00"
-  },
-  {
-    "id": "641754816f47",
-    "title": "Uber said to study full takeover of European rival Delivery Hero",
-    "source": "Economic Times",
-    "summary": "The ride-hailing giant this week disclosed it had boosted its stake in Frankfurt-listed Delivery Hero. It’s working with advisers to study ways to increase its holding further, according to the people. Uber has also been speaking to other investors in Delivery Hero about its interest in a deal, they",
-    "url": "https://economictimes.indiatimes.com/tech/technology/uber-said-to-study-full-takeover-of-european-rival-delivery-hero/articleshow/131266126.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:22:05 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069226+00:00"
-  },
-  {
-    "id": "dd5d5b58e68e",
-    "title": "ETtech Deals Digest: Startups raise $122 million this week, down 5% on-year",
-    "source": "Economic Times",
-    "summary": "This week’s tally, however, was down 84% from the previous week when startups raised around $789.8 million, thanks to Rapido’s mega $730 million round.",
-    "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-startups-raise-122-million-this-week-down-5-on-year/articleshow/131266013.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 22:09:06 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069245+00:00"
-  },
-  {
-    "id": "ef6aa80e04fa",
-    "title": "ETtech Explainer: How Swiggy’s failed bid to become an Indian firm matters for Instamart",
-    "source": "Economic Times",
-    "summary": "Swiggy's bid to become an Indian-owned-and-controlled company (IOCC) has been delayed after shareholders failed to approve changes to its articles of association. This governance reset was crucial for its Instamart unit to gain inventory flexibility and improve margins, a strategy that benefited riv",
-    "url": "https://economictimes.indiatimes.com/tech/startups/ettech-explainer-why-swiggys-failed-iocc-vote-matters-for-instamart/articleshow/131265737.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 21:44:55 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069272+00:00"
-  },
-  {
-    "id": "af21d536bc99",
-    "title": "Space ETFs booming in anticipation of SpaceX IPO",
-    "source": "Economic Times",
-    "summary": "Space exchange-traded funds are seeing massive investor interest. New funds are launching rapidly, attracting billions in new investments. This boom is fueled by the upcoming SpaceX IPO and a broader belief in the growth of the space economy. Investors are eager to capitalize on this emerging sector",
-    "url": "https://economictimes.indiatimes.com/tech/technology/space-etfs-booming-in-anticipation-of-spacex-ipo/articleshow/131265571.cms",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 21:14:13 +0530",
-    "fetched_at": "2026-05-22T23:10:18.069305+00:00"
-  },
-  {
-    "id": "1059ccea8a06",
-    "title": "One Lakh Engineering Jobs Expected from India’s Expanding Data Centre Sector: Dr Jitendra Singh",
-    "source": "Kashmir Despatch",
-    "summary": "One Lakh Engineering Jobs Expected from India’s Expanding Data Centre Sector: Dr Jitendra Singh&nbsp;&nbsp;Kashmir Despatch",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzhQR1RVc0k1YU5UdVRXTHJJb3BHNjVDVm84RGM0X2djLTA5aWlBOXdiMW1FV2pfV2h4TE1IakFNLThIX1hqQl9YWTloeHlOU3BuTkdZbjNGalBCTU03b1ZOY09pY2s1WFc5VnptVXhFT1UyRE5xTHN1Z3hReThOTlJWTTVpdXU1ejVuc2N0cTJBaGpPMWlIY3pHRm1sazZQeFpaR0VoMW9nekV2MzZSZk1LV3hDcDF2eFYxc3ZWOA?oc=5",
-    "image": "",
-    "published_at": "Fri, 22 May 2026 14:45:09 GMT",
-    "fetched_at": "2026-05-22T21:19:38.039338+00:00"
   }
 ]
