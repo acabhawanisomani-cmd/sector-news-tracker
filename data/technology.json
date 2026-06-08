@@ -1,33 +1,403 @@
 [
   {
+    "id": "16e18f2aab59",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "source": "TechCrunch",
+    "summary": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more&nbsp;&nbsp;TechCrunchHey, Siri: Apple just announced a long-awaited AI update&nbsp;&nbsp;NPRApple's New Siri AI Has Customization That Other Voice Assistants Need (Badly)&nbsp;&nbsp;CNETApple unveils next generation of A",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJuN1FuSmVzSVdHVG8xYzFsd25mekVCQkJqWG1MejAzTlJoNkgzZ0Qwb1M3ekloaEoxTC04NUx4OG4zY1g0aU5ra2hjOTZJaVg3dUpyWkxlNzlIVGY5bUFSaTFOaDNRLUFHNUVDVTVUazgtYjBJME5yUkhLR1lBRHVLMHBCX2RMMkZzZ2dCRE1xV2xDX2dJUTFmd203YlJ5eFJiZTV5VmhpRnQxOXpr?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 19:41:32 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866190+00:00"
+  },
+  {
+    "id": "fcd04834801b",
+    "title": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads",
+    "source": "Ars Technica",
+    "summary": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads&nbsp;&nbsp;Ars TechnicaiOS 27 Beta release: What time and where to download it&nbsp;&nbsp;MashableOwners of Older iPhones Just Got Some Good News&nbsp;&nbsp;Business InsiderApple Didn't Really Say What's Coming in iOS 27, S",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXRlMFdXME43Nmd5M3B6d3h6Qkh1bVMxQ0NyUmZoT1pLeDh6UXEzUFRnanEycG1TdktKS1JPTEd6V1ZpWmh1WENhRWIxYlpnTDBsemdvcGdUaFZJWjJXZGs2dVBNX2RvQWwxQkFzWFZQMHR4TW1ycWN0allFaVc3T2VYSm5CWXlfbnhNejRja0R4Z0tFczZwbTM5T3ZHUVRzVTh6Mi1FUUppS0NvYzN5VnRLeXZyYnM?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 20:55:58 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866259+00:00"
+  },
+  {
     "id": "524acb519acf",
     "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
     "source": "Apple",
-    "summary": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27&nbsp;&nbsp;AppleApple WWDC 2026: The 7 biggest announcements&nbsp;&nbsp;The VergeiCloud+ subscribers will get new benefits in iOS 27&nbsp;&nbsp;9to5MacApple debuts software updates amid Siri overhaul&nbsp;&nbsp;AxiosApple's Tim Cook opens WW",
+    "summary": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27&nbsp;&nbsp;AppleApple Delays Siri AI for iPhone Users in the EU, Says Regulators Refusing to Engage&nbsp;&nbsp;Bloomberg.comThe new Siri won’t be available on iPhones in the EU, due to Digital Markets Act&nbsp;&nbsp;9to5MacSiri AI For iPhone",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BpTlY3QUNEczZDZU1fUk5lOGE2dXcyTW1DLWMydGh0RzJRZEhTOHI0SmdRVDk0ZDdOS3VObGRGZXI2UHVYU1hNSm1FNFFJNEJUN1pySDV1YUJHMVRZLThmN21NTjkxdnJHUEVGOW1JY1A0M282MHB2UEM5ODVKWHRiU3JGLUlTRjFGZkk1ZUN1NnpYMUViT0w2MTcyUQ?oc=5",
     "image": "",
     "published_at": "Mon, 08 Jun 2026 18:20:13 GMT",
-    "fetched_at": "2026-06-08T19:25:57.533183+00:00"
+    "fetched_at": "2026-06-08T21:55:59.866302+00:00"
+  },
+  {
+    "id": "44de8b89ad83",
+    "title": "iOS 27 gives AirPods custom EQ and heart rate sync",
+    "source": "9to5Mac",
+    "summary": "iOS 27 gives AirPods custom EQ and heart rate sync&nbsp;&nbsp;9to5MacApple's AirPods Are Finally Getting Custom Equalizer Settings&nbsp;&nbsp;CNETAirPods are getting a custom EQ.&nbsp;&nbsp;The VergeApple to Bring Custom EQ to AirPods&nbsp;&nbsp;MacRumorsAirPods Are Getting A Customizable EQ In iOS ",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnVKUHFPd2dQNnF2S0F2UXRQTC1NaUlBZlMxUnF0THJabllSb2h4ck0xanBneDgzVUtJSmZZOHN0bXNjS1pQZTNuN1pxMENYaXhVaU5rbThPaTI5U2NzWVdGR0ZCZENvZGtENHYwNDhxb0dzbDR5SkxDRkVkbW9qbnJra1VrUlNKYWc?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 18:36:00 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866330+00:00"
+  },
+  {
+    "id": "e3381d886ce9",
+    "title": "iOS 27 Gets New AI Photo Editing Tools",
+    "source": "Engadget",
+    "summary": "iOS 27 Gets New AI Photo Editing Tools&nbsp;&nbsp;EngadgetSiri Mode coming to the iPhone Camera app&nbsp;&nbsp;MashableApple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27&nbsp;&nbsp;WIREDApple’s Image Playground doesn’t suck anymore&nbsp;&nbsp;TechCrunchSpatial Reframing will fix your bad i",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUYVJPandnTUZmOURzalc3VXRra3Z5OXk5UHRKZS1sX0l5T1FBOWFrU2JCSjVITlBJNmNYeVFldmRFMXJ2S3hkUWU0U1NXYnhfX2JDVE5kOEN3alIteHlldFBpeVNuWTdqelZLRnBaeTdfWTFtU0pIc1VwNGQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 18:25:58 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866362+00:00"
   },
   {
     "id": "613a8c2e0edf",
     "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
     "source": "The Verge",
-    "summary": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources&nbsp;&nbsp;The VergeDo better research with NotebookLM&nbsp;&nbsp;blog.googleGemini 3.5 and Antigravity come to Google NotebookLM&nbsp;&nbsp;Ars TechnicaNotebookLM’s new update will help you build source repository from c",
+    "summary": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources&nbsp;&nbsp;The VergeDo better research with NotebookLM&nbsp;&nbsp;blog.googleGemini 3.5 and Antigravity come to Google NotebookLM&nbsp;&nbsp;Ars TechnicaNotebookLM Is Getting Google's Latest Gemini AI Model&nbsp;&nbsp;CNE",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSXUzQ2RRUF9Uc0NYby1SNWRxYTJwSFhlenkxeWZZZzlZOU1la2w3RC1YVzVZdlRDVzIyZUxJYWY1OHpHbVQtdllUdE8zdnBfY19xLVpWUDV0UkkzQ2lDdTEwQl9GNUpjX2NRVldWY1Z0WXc4MEhIMmpKVQ?oc=5",
     "image": "",
     "published_at": "Mon, 08 Jun 2026 16:00:00 GMT",
-    "fetched_at": "2026-06-08T19:25:57.533248+00:00"
+    "fetched_at": "2026-06-08T21:55:59.866396+00:00"
+  },
+  {
+    "id": "efd1125a26fe",
+    "title": "Apple announces macOS 27 Golden Gate at WWDC: New Siri AI tools, Liquid Glass tweaks",
+    "source": "Mashable",
+    "summary": "Apple announces macOS 27 Golden Gate at WWDC: New Siri AI tools, Liquid Glass tweaks&nbsp;&nbsp;MashablemacOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era&nbsp;&nbsp;Ars TechnicamacOS Golden Gate: Here’s the list of Macs compatible with the update&nbsp;&nbsp;9to5MacThis One MacOS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uRFFXaHI3WThySmJJSTBvMVl1emtoMDVuRVRHV2lxemphU3ZuUlZyRU14cWZpMF8wY3VoRmhKbnAxRmNXVTBoeS01LTJHQ1lpZlBtRmw5cXh5S04zTjYtQy1QdmlUSmc?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 21:26:31 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866433+00:00"
+  },
+  {
+    "id": "97e2dddba725",
+    "title": "Apple introduces systemwide dictation",
+    "source": "TechCrunch",
+    "summary": "Apple introduces systemwide dictation&nbsp;&nbsp;TechCrunchSee more headlines & perspectives on Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53clBqWkJtQVhDSjRNYzJTRnBEM1lkX0dtTEZFV2lEQ2s2aFZxS3pSYjF3NDhJSmN2Y2d3YTh6OThiLThrVF82eHNIUXVibmlqZXhhbDgwckc2d0VzbHZGN2E0WE1hQkF2dElGRk5OSUZWRDZzSXZSWERJR3g?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 18:00:09 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866453+00:00"
   },
   {
     "id": "076dea850435",
-    "title": "watchOS 27 Drops Support for Apple Watch Series 9, Ultra 1, SE 2, and Older",
+    "title": "watchOS 27 Drops Support for Apple Watch Series 8, Ultra 1, SE 2, and Older",
     "source": "MacRumors",
-    "summary": "watchOS 27 Drops Support for Apple Watch Series 9, Ultra 1, SE 2, and Older&nbsp;&nbsp;MacRumorswatchOS 27 beta 1 now available for Apple Watch&nbsp;&nbsp;9to5MacCoaching, wellness features & AI make the biggest impact in watchOS 27&nbsp;&nbsp;AppleInsiderThe Apple Watch needs a better Siri more tha",
+    "summary": "watchOS 27 Drops Support for Apple Watch Series 8, Ultra 1, SE 2, and Older&nbsp;&nbsp;MacRumorsApple drops support for a long list of Apple Watches and iPads with latest OS updates&nbsp;&nbsp;The VergewatchOS 27 for Apple Watch unveiled with these features&nbsp;&nbsp;9to5MacApple announces watchOS ",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUlMSXQ2YlM1TWt4QXhIWW9CUWtXN3pSU2VyNjVFQjg4Z2VQQ3Ewcmxmb1F0c2ZJWEJhMUpWQnNEQW9zNzhwNnpQLUpyM0RVUHd4ZlRvd2RvYkhzSk05dzVibTY4Rlk3YkpCMVAwVXJpalk3N21tNGc3Qk5YbzVrYUk3bU1PT3Q1MmFpd1dnQ3FQVzZDOG82eUFQYTRqcWs?oc=5",
     "image": "",
     "published_at": "Mon, 08 Jun 2026 18:37:37 GMT",
-    "fetched_at": "2026-06-08T19:25:57.533285+00:00"
+    "fetched_at": "2026-06-08T21:55:59.866486+00:00"
+  },
+  {
+    "id": "4f1a264c8d87",
+    "title": "Anker launches air-cooled 3-in-1 wireless charger with built-in touchscreen",
+    "source": "Gizmochina",
+    "summary": "Anker launches air-cooled 3-in-1 wireless charger with built-in touchscreen&nbsp;&nbsp;GizmochinaSee more headlines & perspectives on Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDVveGwxZWZCUVp5UlVLdTlQZ0QyQmFtSXhQLVRMTi1lYjFmdEk5dkY4bzRBRDBXc3FwZEhTcnJ0T21SRXFJRWVxS2ZaV3JWcEwxYmZTbU8teWJiTjN3a0JBWXZWSWJvVTg3dGJaRDQ4QmNPRXN5dmVyNDNWQmFiUmFaUC1rTGd1T2pLWHEyb0tmX0lBSV9kU1J0Wk9HeU5NR2ljVFRHckdKZnhjMHAtWENNTFg?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 04:03:13 GMT",
+    "fetched_at": "2026-06-08T21:55:59.866503+00:00"
+  },
+  {
+    "id": "84484e62005b",
+    "title": "ITI Reacts to the Great American AI Act",
+    "source": "Information Technology Industry Council (ITI)",
+    "summary": "ITI Reacts to the Great American AI Act&nbsp;&nbsp;Information Technology Industry Council (ITI)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkhsSUZlN0g4ZkVGRF9ab0s4OG1EX0J3VmQ1QTB0dWhodHpkZGo0MExwZnBVZE1qcGV0S3pER0FoX19iMDVzazgzMXBUYW5KQS15OG83QjhsaENSb0VxUWtYZ3Q3N2RsUXhrOHc4ekJBTkg5ZElDX1d6dlpLcVBEbkJ0UDBPMzM5RFRKU0dNZw?oc=5",
+    "image": "",
+    "published_at": "Sun, 07 Jun 2026 23:20:57 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351663+00:00"
+  },
+  {
+    "id": "537ce09ea409",
+    "title": "Technology Sector Leads U.S. Layoff Plans",
+    "source": "WSJ",
+    "summary": "Technology Sector Leads U.S. Layoff Plans&nbsp;&nbsp;WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3ZXckppRFdDREtmSWV0bDNZRzkwUk5DNTJiRjFINi1KT0JFQXlZRzRoRlF0THJvdHJiYXdXcjQzNDRzcWtubks5S1AtTTBrMXZJRzRwZERXN0QwdlZpRmlDZkRTbEVRODFNRXJBYmNmcjhObWVhbDVFTFVuV2dsUHBiTzl2NkZndEE?oc=5",
+    "image": "",
+    "published_at": "Thu, 04 Jun 2026 10:44:00 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351690+00:00"
+  },
+  {
+    "id": "d817cd1731da",
+    "title": "OpenAI Files to Go Public as A.I. Companies Rush to Wall St.",
+    "source": "The New York Times",
+    "summary": "OpenAI Files to Go Public as A.I. Companies Rush to Wall St.&nbsp;&nbsp;The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90QWIzaHhCR2xlRVVmWEZyWWNrMXkyOUtCZFJJN2dSOHp0ZWtLdkg1dGdIdU9rVEtVMG5ZeGVVRFZIemFLalZhSnQySFE0VnM4VmNmSEY3eHB1aXl6SmRpQ01QLWw4ZUdKV2h4bXpn?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 21:25:18 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351706+00:00"
+  },
+  {
+    "id": "af7bf416c02e",
+    "title": "Are Computer and Technology Stocks Lagging Applied Materials (AMAT) This Year?",
+    "source": "Yahoo Finance",
+    "summary": "Are Computer and Technology Stocks Lagging Applied Materials (AMAT) This Year?&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWkxMW12TkswUnNQMU56YnVTemVoQS1aS08wUmcxdTlLR0UzMGNSZmQxcWVSTTNzb1pqR2dDRFBUdDFKZEllV0FmamtrZko5eEs3X0tCY21ld2dsYkpZdHhfejB1VTlEQ2U1R0Z5UE00dkZyYUlZZVJ1TXhJM0R5UFVDb3l3OTdzYVhVaXdLRVE4LUROLVRMLV9Panl4LW9qT0dyS0R4VGVIcGM?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 13:40:04 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351723+00:00"
+  },
+  {
+    "id": "44e857b0b6ea",
+    "title": "LiveVoice Releases Industry Report on the Growing Adoption of AI Translation Technology in Church Services",
+    "source": "The Malone Telegram",
+    "summary": "LiveVoice Releases Industry Report on the Growing Adoption of AI Translation Technology in Church Services&nbsp;&nbsp;The Malone Telegram",
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcTVLSXlXVEtqRFloOF9UMUdXQmJoWThOaHl4dkdsRXBkYWl3SkhnZmp3TzRjRUxxcURoVDZRUzhaSGNVWklOajExdEx5ek9TdGk3Q21fR2l5c0lpc2NVSHBxTHFhMF9SY216VExITEktNlNCcmZGVHJzdWwyZWtSeUZxUlBUSkhnNGtXbHV0V2tIb2lIdjU4azl3Z3p4MWhzTlJBQXVCb0JtODlQVjZFZHAzVThoa213WEZaQU83YUZaQXYzUk9samVqcHBOYWFhVFJhM21GZkxOeDBtR3MtanVKTjJOUkY0MmVuT1MtMlVqS1hVOFhtS2NPQVJoQldqNmpaZW9pMTZpY18yT01GR2F4dDh5VXFWajZlUmhGb0F5WEtJVm00M3FMeHBnb1dDUFgyeVc5Z2ZGZkNxV1hyOGt3?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 18:10:00 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351742+00:00"
+  },
+  {
+    "id": "14516fd752e3",
+    "title": "Industry 4.0: putting a spotlight on the connector technology shaping the future",
+    "source": "Army Technology",
+    "summary": "Industry 4.0: putting a spotlight on the connector technology shaping the future&nbsp;&nbsp;Army Technology",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjBiYU9pUUp0WjJEZ2lQSzVjdGxqRGhleEh2ZW5TNE5OUmxTUy1oNkswUUNFaU94cnNmUkpMUVRISEtuWFUzQ1JPWUFNTl9HaTVwNXNvR3JGX3VNRXoyNUpZSWZ0ajhVd3o3T2gxTXNpQXVYc0REMXF5enRQZzFyWDZ6XzJWQWhqR2pnSUtWc2t3Y2dqMHJPYTZncTFveG1LZ2NHZGpIcVJZTjNYM2hIdVpicU5EYmJaXzg1ZzR5MA?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 10:17:44 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351756+00:00"
+  },
+  {
+    "id": "07ee0f8cbf0d",
+    "title": "2024 Technology Industry Outlook",
+    "source": "Deloitte",
+    "summary": "2024 Technology Industry Outlook&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTBXYkFtQVdpNERDWmhMVUFDN1FxbVhBWGFRdlZOS3gwUzlPaFJ3RzlSVkxrLU9mdGdzaUtjOERJSjJfdzdURHZQX0VCOGE2bXFlUm9tTjl6N1hxZHA1SS1xVnFjZjZtUFQzdFRBc0RndUtHdi10V3BUZUJsUDVEUTEwdmpvRU51bWQ4WUVxU2c?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Apr 2026 12:09:20 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351766+00:00"
+  },
+  {
+    "id": "08619ce58e2d",
+    "title": "Trending Industry Today: Marvell Technology Leads Gains In Semiconductors Stocks",
+    "source": "Moomoo",
+    "summary": "Trending Industry Today: Marvell Technology Leads Gains In Semiconductors Stocks&nbsp;&nbsp;Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHNmeEdtVUg4UGJvRjJnNmFPUUU5d2xmUWRBTEN2ckFzeE1sWkZiVDctaDV2dWlrNElEaG9oUHQtMkFBX0dKQmdOTl9JbThmSlFlRFBldmg3dTNISzNMYU4wQWJ3NktOMlpVdHM0SWVldlR1WDJMc0RCRUJTT3NzNWpmeGVlV2ZwR3hxY3Mtak9mdURwMlpxaVVSQnJPZFZTdlBoZDU3ajc3RDN4VEJNamVOa0xNejQtODdzV3RR?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 18:21:19 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351778+00:00"
+  },
+  {
+    "id": "8a114bd86f4e",
+    "title": "AI industry rejects utility effort to restrict competition",
+    "source": "E&E News by POLITICO",
+    "summary": "AI industry rejects utility effort to restrict competition&nbsp;&nbsp;E&E News by POLITICO",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGdkcXpnZFdCZ3lfT2tHZ1hXeTlhOUN3eEV1YlkxMjA1TllCWDdzZC02cFp6QkdMS1FnaDVhODd2T1QyRWRoZzRlVERLUUVscEwwUkFweGswNjJWZlhsWlpPcDk4bVQ0VkJmS090ZmpTZVIxQWpFYVpMM0tuSXIyNnVLT2lEa2FTQjM2VWI0MGZkZUV6Nnc?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 10:57:00 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351791+00:00"
+  },
+  {
+    "id": "2f1643479a5b",
+    "title": "Tech industry cut 38,242 jobs in May, worst since 2024",
+    "source": "Computerworld",
+    "summary": "Tech industry cut 38,242 jobs in May, worst since 2024&nbsp;&nbsp;Computerworld",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk9Kblg4VU9ubHBESnpBRUtscGc4akhZSm1UUXF1NDU2TVk2T1BseHZtbS1za2c0SGp2V2J5OHFBVXMyNFV4WElTaEI5SlR5ZnU0LTMtTGdFSUk3OWJvTTgxd3liTWJYNjAwRHJidmw5eWJzVmZ3RFNSaFN2U0VDY3dSUDZuVTlGcU9MaTdOeGlKaG1lQVUwbUdUSEZVb1pmeVNkRUx3?oc=5",
+    "image": "",
+    "published_at": "Fri, 05 Jun 2026 16:37:16 GMT",
+    "fetched_at": "2026-06-08T21:56:00.351805+00:00"
+  },
+  {
+    "id": "d9f1b87d0dbd",
+    "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
+    "source": "NVIDIA Newsroom",
+    "summary": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories&nbsp;&nbsp;NVIDIA Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uXzBzR3NhYkhmOFNSb0tua2s2U1RCRHQ5RXpRcUxKS0xMUkFMNlYxMDltR3N3bmVSdWFQc1lMWDcwaC1yVnNnWEdkMEt3QkZOaGZvaXY0cHRHMVBaLUp1SzFDejc?oc=5",
+    "image": "",
+    "published_at": "Sun, 07 Jun 2026 23:11:04 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375829+00:00"
+  },
+  {
+    "id": "73757f016009",
+    "title": "Intel vs. Lattice Semiconductor: Which AI Chip Stock is a Better Buy?",
+    "source": "Yahoo Finance",
+    "summary": "Intel vs. Lattice Semiconductor: Which AI Chip Stock is a Better Buy?&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0VyTmxNUGQtYkVKaFV0N2dEVUFUZFJZUDNpWUo0Z0cyNTJzdWpYa0NoTEI5NThQd21BN0xJVXFtSUFDUEduY1lOTVFLX2hrOG55VTRpcXcySE5URDFTd1o3ell6UzI3ZDBLMlhLZXZKVWxuaVhWOGRIZnlPSktTRS1fOGFrY2F5YTBjOTlBZE9rZVhuLVJjVXA2VmZLWWs?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 15:18:00 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375861+00:00"
+  },
+  {
+    "id": "dc497877b90f",
+    "title": "Semiconductor rally lifts Nasdaq as AI optimism revives Wall Street - CHOSUNBIZ",
+    "source": "Chosunbiz",
+    "summary": "Semiconductor rally lifts Nasdaq as AI optimism revives Wall Street - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblRBN1ExVmVtcGNoYlM4R2N3OW9tckxQWjFYQ2RtLXZxb1cwbVh3ZnYyYmUwc3ljaUtDMHJjT19nOWpHUk4zYnlIQi0yeUoyNHF2UnRzUjNNT3hrTFAwS0R1Y0FZSWxrNnVVT1ozeTJLTnR5dEJGZngwbnRCam81NWYtdDBrUndq0gGcAUFVX3lxTFB0LUZvYjg4aUNGdktJRXFyb285M3dmS3FaUG5UVWlqcHVWbGMtZVhPd0kwREVQNjM1UHRRZkdZX295ekZoOG81bDVoa2ZyZlJGYTUxX0o3UU94RWlwdG1HOGZmUnNyNEFyZnNWOU1ETGdIeTJpM0Q3b0VjNlNTYWJ0cFZfcjliTWJLN3l1UExoNFZvaDc5MmNBUk9YTA?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 21:39:00 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375877+00:00"
+  },
+  {
+    "id": "28b70f7cc4a2",
+    "title": "Exclusive: The semiconductor battle behind AI data centers and EVs",
+    "source": "digitimes",
+    "summary": "Exclusive: The semiconductor battle behind AI data centers and EVs&nbsp;&nbsp;digitimes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUpQZXVFQl96Rm9fR21nbXFGdjQtUEZ4WjN6di1wdDhmUjh5enYzMGhUS25ZWWJtcXZ6UVJYVUxGOFNNaWRXajFHbUE0dVlNcHJZRWpLN3dkUmI1MGtWR2xmeFBMZnBZVDlSMllneE5uNDdEOEdKTU9ab1RsMVNKcktGY1pjMksxdklnRlJpVElNd3hIX1lZMHF2bw?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 07:14:09 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375891+00:00"
+  },
+  {
+    "id": "6d30e0952958",
+    "title": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI",
+    "source": "EE Times Asia",
+    "summary": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI&nbsp;&nbsp;EE Times Asia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0xmZHhySnpSUW04Y3FUYXNDUkxyWHNzNWpMdHByRHV5OE1sTHpIR280bGRoVzllX3podjVEaE91UVpyejR3RWxsU2phbF84aGpKd1lLLXpzVXY2UlJIQUNxVDdzX1JxTmxsNFkweU5SNmtVNWMtWGRaLXBCbGZkWTQzNWdVaGZobG5OVE1uU3duMmwyZEkzQlNtSGpWSGYwSWJ0WmxSODNsUGZsSjV5TGh3?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 08:07:46 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375906+00:00"
+  },
+  {
+    "id": "eadb448360be",
+    "title": "Down 20%, Should You Buy Broadcom Stock on the Dip? The Answer Might Surprise You.",
+    "source": "The Motley Fool",
+    "summary": "Down 20%, Should You Buy Broadcom Stock on the Dip? The Answer Might Surprise You.&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemdKTy1TeGtZcTFhUHNCRXRMUHUweEY0UjVyLXJBQlp4UlRvYVYwN3EwQVJHeWNRak9Vd2Q4dklsNWNFZFlsb292ajBVdjJYUXNISlFYczZtYWlUTGExd2dtNXo5NURBWTBkb2pBWE5MTjVwcUtzQ2l1YVdYYTJVSC1teFNwNklkVjcwck1kRDRDY3pIYkQ3ag?oc=5",
+    "image": "",
+    "published_at": "Sun, 07 Jun 2026 10:39:00 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375921+00:00"
+  },
+  {
+    "id": "34f14bea6e1b",
+    "title": "Can AI Capex Extend The Semiconductor Cycle?",
+    "source": "Seeking Alpha",
+    "summary": "Can AI Capex Extend The Semiconductor Cycle?&nbsp;&nbsp;Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHpNYldXa1A4ai1WMjJkV20wMkt3UGJLcHVncWV0YTNxUUkyVTlKT3Qzb1dGMUQtQ3pabThGR1pHT0hzc2Z5LWF1eDJTMjFBUFlKZGhmYzE4RmJ4Zjd3Mlk0VnlFWHM1cHdYNTlQWXNqUXl5SlJWQkhJLUJXOS1YWWlFWTExVlRZbGl0dw?oc=5",
+    "image": "",
+    "published_at": "Sat, 06 Jun 2026 10:21:29 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375933+00:00"
+  },
+  {
+    "id": "3e73c29b60fa",
+    "title": "Taiwan Semiconductor's AI message is a positive sign for the long-term: Wedbush (TSM:NYSE)",
+    "source": "Seeking Alpha",
+    "summary": "Taiwan Semiconductor's AI message is a positive sign for the long-term: Wedbush (TSM:NYSE)&nbsp;&nbsp;Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEJxY0dxanhBcFNRaEFpX0hfdzdCOGVtQV9RT1BqMVMxbHU2QlE5TWZEUFRiaFgwRlN0NUxVelRCMy03VnVaSzBQb044eTVRb2JtR2M3X1haMTVNV0IzcjJYLUZvbE5YTnA2ODQ5ZTliOEprWGlhSUZ5TzByNkhfcEhlcThvb1Z4UXlqMlViOFBsRFNodEVwY0R2dE1GdVNkTTZQNThxdjdBS0NwS1hSWFhHamhndw?oc=5",
+    "image": "",
+    "published_at": "Fri, 05 Jun 2026 11:41:04 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375948+00:00"
+  },
+  {
+    "id": "8631162e8bf6",
+    "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120%",
+    "source": "The Motley Fool",
+    "summary": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120%&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVlzbWVSSllZWmp6UGpaSDZYcmFCX3JieUdJUUxoYlU1ZFgwNENUUXA5SWNJMEdNLXZOTWNjMzAzamVGTnFEVzU0dmRaaFd2OVljcUdnaGpkNWpHVzlSRlJGNzZnenQzdlVzQkJGaVVvRlJpd3Y4Q05wclkzQnh4UXR1Uk5CNjBwY1lkVWMzY3oxaktzSVE?oc=5",
+    "image": "",
+    "published_at": "Fri, 05 Jun 2026 14:45:00 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375961+00:00"
+  },
+  {
+    "id": "08b2d7062c97",
+    "title": "Broadcom’s AI Backlog Is Becoming Too Big to Ignore. Here’s Why AVGO Is a Buy Now.",
+    "source": "Yahoo Finance",
+    "summary": "Broadcom’s AI Backlog Is Becoming Too Big to Ignore. Here’s Why AVGO Is a Buy Now.&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSk44ZHJNTHBXRU1ZQ185dW1GandoYzJfeXd5UkZfbGROemJaRV9aQ3pEeHowLWFNMUZfaDFlT3dfem9iVWQ0bkgweXVPVV9tUGtncC1IXy1jUHJtRzVzYjIxUVhVdUFUaHJlSk0zTHgteXlSN09YZk16LVJOSTB1UmRLQXd2dF9tNV83OEtsTHpmbV9KX3JoWFgxU0ZKUQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 05 Jun 2026 14:49:57 GMT",
+    "fetched_at": "2026-06-08T21:56:01.375986+00:00"
+  },
+  {
+    "id": "ebe6abbf73bf",
+    "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+    "source": "TechCrunch",
+    "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended direct",
+    "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+    "image": "",
+    "published_at": "Thu, 04 Dec 2025 05:37:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.235494+00:00"
+  },
+  {
+    "id": "6aac02d1f4a7",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "source": "TechCrunch",
+    "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content cr",
+    "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "image": "",
+    "published_at": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.235953+00:00"
+  },
+  {
+    "id": "d6588d418b59",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
+    "source": "TechCrunch",
+    "summary": "&nbsp;In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only emp",
+    "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "image": "",
+    "published_at": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.236438+00:00"
+  },
+  {
+    "id": "071402f71008",
+    "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
+    "source": "TechCrunch",
+    "summary": "&nbsp;In this article, we explore the top 10 AI tools that are driving innovation and efficiency in various industries. These tools are designed to automate repetitive tasks, improve workflow, and increase productivity. The tools included in our list are some of the most advanced and widely used in ",
+    "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
+    "image": "",
+    "published_at": "Wed, 25 Jan 2023 19:52:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.237157+00:00"
+  },
+  {
+    "id": "08835a787364",
+    "title": "Top 10 AI Content Generator & Writer Tools in 2022",
+    "source": "TechCrunch",
+    "summary": "Are you looking for a way to create content that is both effective and efficient? If so, then you should consider using an AI content generator. AI content generators are a great way to create content that is both engaging and relevant to your audience.&nbsp;There are a number of different AI conten",
+    "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
+    "image": "",
+    "published_at": "Tue, 15 Nov 2022 08:58:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.238158+00:00"
+  },
+  {
+    "id": "59fde58c53dc",
+    "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
+    "source": "TechCrunch",
+    "summary": "Image by vectorjuice on FreepikIn this CJ Affiliate guide, I will share with you everything you need to get started on the platform, I will give you an in-depth look at the network and how it works.You will learn how to earn money with the platform. If you're not interested, I'll share some of the b",
+    "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
+    "image": "",
+    "published_at": "Sat, 10 Sep 2022 08:57:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.238672+00:00"
+  },
+  {
+    "id": "c9a51bd59628",
+    "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
+    "source": "TechCrunch",
+    "summary": "&nbsp;&nbsp;&nbsp;The marketing industry is turning to artificial intelligence (AI) as a way to save time and execute smarter, more personalized campaigns. 61% of marketers say AI software is the most important aspect of their data strategy.&nbsp; If you’re late to the AI party, don’t worry. It’s ea",
+    "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
+    "image": "",
+    "published_at": "Wed, 13 Jul 2022 15:25:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.239192+00:00"
+  },
+  {
+    "id": "05af36d15aeb",
+    "title": "Most Frequently Asked Questions About Affiliate Marketing",
+    "source": "TechCrunch",
+    "summary": "There are lots of questions floating around about how affiliate marketing works, what to do and what not to do when it comes to setting up a business. With so much uncertainty surrounding both personal and business aspects of affiliate marketing. In this post, we will answer the most frequently aske",
+    "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
+    "image": "",
+    "published_at": "Wed, 01 Jun 2022 13:03:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.239552+00:00"
+  },
+  {
+    "id": "8dde3734dc3a",
+    "title": "What is Blockchain: Everything You Need to Know (2022)",
+    "source": "TechCrunch",
+    "summary": "If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, these methods may become old.Imagine a world in which you can do transactions and many other things with",
+    "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
+    "image": "",
+    "published_at": "Mon, 18 Apr 2022 05:49:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.239952+00:00"
+  },
+  {
+    "id": "9e9611266d4d",
+    "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+    "source": "TechCrunch",
+    "summary": "ProWritingAid VS Grammarly:&nbsp;&nbsp;When it comes to English grammar, there are two Big Players that everyone knows of: the Grammarly and ProWritingAid. but you are wondering which one to choose so here we write a detail article which will help you to choose the best one for you so Let's startWha",
+    "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
+    "image": "",
+    "published_at": "Sun, 13 Mar 2022 15:04:00 +0000",
+    "fetched_at": "2026-06-08T21:56:07.240395+00:00"
   },
   {
     "id": "c1adfe02dec2",
@@ -110,86 +480,6 @@
     "fetched_at": "2026-06-08T19:25:57.936495+00:00"
   },
   {
-    "id": "537ce09ea409",
-    "title": "Technology Sector Leads U.S. Layoff Plans",
-    "source": "WSJ",
-    "summary": "Technology Sector Leads U.S. Layoff Plans&nbsp;&nbsp;WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3ZXckppRFdDREtmSWV0bDNZRzkwUk5DNTJiRjFINi1KT0JFQXlZRzRoRlF0THJvdHJiYXdXcjQzNDRzcWtubks5S1AtTTBrMXZJRzRwZERXN0QwdlZpRmlDZkRTbEVRODFNRXJBYmNmcjhObWVhbDVFTFVuV2dsUHBiTzl2NkZndEE?oc=5",
-    "image": "",
-    "published_at": "Thu, 04 Jun 2026 10:44:00 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936527+00:00"
-  },
-  {
-    "id": "44e857b0b6ea",
-    "title": "LiveVoice Releases Industry Report on the Growing Adoption of AI Translation Technology in Church Services",
-    "source": "The Malone Telegram",
-    "summary": "LiveVoice Releases Industry Report on the Growing Adoption of AI Translation Technology in Church Services&nbsp;&nbsp;The Malone Telegram",
-    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcTVLSXlXVEtqRFloOF9UMUdXQmJoWThOaHl4dkdsRXBkYWl3SkhnZmp3TzRjRUxxcURoVDZRUzhaSGNVWklOajExdEx5ek9TdGk3Q21fR2l5c0lpc2NVSHBxTHFhMF9SY216VExITEktNlNCcmZGVHJzdWwyZWtSeUZxUlBUSkhnNGtXbHV0V2tIb2lIdjU4azl3Z3p4MWhzTlJBQXVCb0JtODlQVjZFZHAzVThoa213WEZaQU83YUZaQXYzUk9samVqcHBOYWFhVFJhM21GZkxOeDBtR3MtanVKTjJOUkY0MmVuT1MtMlVqS1hVOFhtS2NPQVJoQldqNmpaZW9pMTZpY18yT01GR2F4dDh5VXFWajZlUmhGb0F5WEtJVm00M3FMeHBnb1dDUFgyeVc5Z2ZGZkNxV1hyOGt3?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 18:10:00 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936546+00:00"
-  },
-  {
-    "id": "14516fd752e3",
-    "title": "Industry 4.0: putting a spotlight on the connector technology shaping the future",
-    "source": "Army Technology",
-    "summary": "Industry 4.0: putting a spotlight on the connector technology shaping the future&nbsp;&nbsp;Army Technology",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjBiYU9pUUp0WjJEZ2lQSzVjdGxqRGhleEh2ZW5TNE5OUmxTUy1oNkswUUNFaU94cnNmUkpMUVRISEtuWFUzQ1JPWUFNTl9HaTVwNXNvR3JGX3VNRXoyNUpZSWZ0ajhVd3o3T2gxTXNpQXVYc0REMXF5enRQZzFyWDZ6XzJWQWhqR2pnSUtWc2t3Y2dqMHJPYTZncTFveG1LZ2NHZGpIcVJZTjNYM2hIdVpicU5EYmJaXzg1ZzR5MA?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 10:17:44 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936561+00:00"
-  },
-  {
-    "id": "84484e62005b",
-    "title": "ITI Reacts to the Great American AI Act",
-    "source": "Information Technology Industry Council (ITI)",
-    "summary": "ITI Reacts to the Great American AI Act&nbsp;&nbsp;Information Technology Industry Council (ITI)",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkhsSUZlN0g4ZkVGRF9ab0s4OG1EX0J3VmQ1QTB0dWhodHpkZGo0MExwZnBVZE1qcGV0S3pER0FoX19iMDVzazgzMXBUYW5KQS15OG83QjhsaENSb0VxUWtYZ3Q3N2RsUXhrOHc4ekJBTkg5ZElDX1d6dlpLcVBEbkJ0UDBPMzM5RFRKU0dNZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 04 Jun 2026 17:07:36 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936576+00:00"
-  },
-  {
-    "id": "08619ce58e2d",
-    "title": "Trending Industry Today: Marvell Technology Leads Gains In Semiconductors Stocks",
-    "source": "Moomoo",
-    "summary": "Trending Industry Today: Marvell Technology Leads Gains In Semiconductors Stocks&nbsp;&nbsp;Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHNmeEdtVUg4UGJvRjJnNmFPUUU5d2xmUWRBTEN2ckFzeE1sWkZiVDctaDV2dWlrNElEaG9oUHQtMkFBX0dKQmdOTl9JbThmSlFlRFBldmg3dTNISzNMYU4wQWJ3NktOMlpVdHM0SWVldlR1WDJMc0RCRUJTT3NzNWpmeGVlV2ZwR3hxY3Mtak9mdURwMlpxaVVSQnJPZFZTdlBoZDU3ajc3RDN4VEJNamVOa0xNejQtODdzV3RR?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 18:21:19 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936590+00:00"
-  },
-  {
-    "id": "07ee0f8cbf0d",
-    "title": "2024 Technology Industry Outlook",
-    "source": "Deloitte",
-    "summary": "2024 Technology Industry Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTBXYkFtQVdpNERDWmhMVUFDN1FxbVhBWGFRdlZOS3gwUzlPaFJ3RzlSVkxrLU9mdGdzaUtjOERJSjJfdzdURHZQX0VCOGE2bXFlUm9tTjl6N1hxZHA1SS1xVnFjZjZtUFQzdFRBc0RndUtHdi10V3BUZUJsUDVEUTEwdmpvRU51bWQ4WUVxU2c?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Apr 2026 12:09:20 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936632+00:00"
-  },
-  {
-    "id": "8a114bd86f4e",
-    "title": "AI industry rejects utility effort to restrict competition",
-    "source": "E&E News by POLITICO",
-    "summary": "AI industry rejects utility effort to restrict competition&nbsp;&nbsp;E&E News by POLITICO",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGdkcXpnZFdCZ3lfT2tHZ1hXeTlhOUN3eEV1YlkxMjA1TllCWDdzZC02cFp6QkdMS1FnaDVhODd2T1QyRWRoZzRlVERLUUVscEwwUkFweGswNjJWZlhsWlpPcDk4bVQ0VkJmS090ZmpTZVIxQWpFYVpMM0tuSXIyNnVLT2lEa2FTQjM2VWI0MGZkZUV6Nnc?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 10:57:00 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936652+00:00"
-  },
-  {
-    "id": "2f1643479a5b",
-    "title": "Tech industry cut 38,242 jobs in May, worst since 2024",
-    "source": "Computerworld",
-    "summary": "Tech industry cut 38,242 jobs in May, worst since 2024&nbsp;&nbsp;Computerworld",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk9Kblg4VU9ubHBESnpBRUtscGc4akhZSm1UUXF1NDU2TVk2T1BseHZtbS1za2c0SGp2V2J5OHFBVXMyNFV4WElTaEI5SlR5ZnU0LTMtTGdFSUk3OWJvTTgxd3liTWJYNjAwRHJidmw5eWJzVmZ3RFNSaFN2U0VDY3dSUDZuVTlGcU9MaTdOeGlKaG1lQVUwbUdUSEZVb1pmeVNkRUx3?oc=5",
-    "image": "",
-    "published_at": "Fri, 05 Jun 2026 16:37:16 GMT",
-    "fetched_at": "2026-06-08T19:25:57.936665+00:00"
-  },
-  {
     "id": "e98ce531dc5d",
     "title": "Tech layoffs 2026: Over 150,000 jobs cut at Meta, LinkedIn, Wix, Groupon and more",
     "source": "Yahoo Tech",
@@ -200,16 +490,6 @@
     "fetched_at": "2026-06-08T19:25:57.936683+00:00"
   },
   {
-    "id": "d9f1b87d0dbd",
-    "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
-    "source": "NVIDIA Newsroom",
-    "summary": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories&nbsp;&nbsp;NVIDIA Newsroom",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uXzBzR3NhYkhmOFNSb0tua2s2U1RCRHQ5RXpRcUxKS0xMUkFMNlYxMDltR3N3bmVSdWFQc1lMWDcwaC1yVnNnWEdkMEt3QkZOaGZvaXY0cHRHMVBaLUp1SzFDejc?oc=5",
-    "image": "",
-    "published_at": "Sun, 07 Jun 2026 23:11:04 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068681+00:00"
-  },
-  {
     "id": "35c499a811fb",
     "title": "Are semiconductor stocks, AI trade in recovery mode after selloff?",
     "source": "Yahoo Finance",
@@ -218,285 +498,5 @@
     "image": "",
     "published_at": "Mon, 08 Jun 2026 13:30:35 GMT",
     "fetched_at": "2026-06-08T19:25:59.068710+00:00"
-  },
-  {
-    "id": "28b70f7cc4a2",
-    "title": "Exclusive: The semiconductor battle behind AI data centers and EVs",
-    "source": "digitimes",
-    "summary": "Exclusive: The semiconductor battle behind AI data centers and EVs&nbsp;&nbsp;digitimes",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUpQZXVFQl96Rm9fR21nbXFGdjQtUEZ4WjN6di1wdDhmUjh5enYzMGhUS25ZWWJtcXZ6UVJYVUxGOFNNaWRXajFHbUE0dVlNcHJZRWpLN3dkUmI1MGtWR2xmeFBMZnBZVDlSMllneE5uNDdEOEdKTU9ab1RsMVNKcktGY1pjMksxdklnRlJpVElNd3hIX1lZMHF2bw?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 07:14:09 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068725+00:00"
-  },
-  {
-    "id": "6d30e0952958",
-    "title": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI",
-    "source": "EE Times Asia",
-    "summary": "Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI&nbsp;&nbsp;EE Times Asia",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0xmZHhySnpSUW04Y3FUYXNDUkxyWHNzNWpMdHByRHV5OE1sTHpIR280bGRoVzllX3podjVEaE91UVpyejR3RWxsU2phbF84aGpKd1lLLXpzVXY2UlJIQUNxVDdzX1JxTmxsNFkweU5SNmtVNWMtWGRaLXBCbGZkWTQzNWdVaGZobG5OVE1uU3duMmwyZEkzQlNtSGpWSGYwSWJ0WmxSODNsUGZsSjV5TGh3?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 08:07:46 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068741+00:00"
-  },
-  {
-    "id": "eadb448360be",
-    "title": "Down 20%, Should You Buy Broadcom Stock on the Dip? The Answer Might Surprise You.",
-    "source": "The Motley Fool",
-    "summary": "Down 20%, Should You Buy Broadcom Stock on the Dip? The Answer Might Surprise You.&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemdKTy1TeGtZcTFhUHNCRXRMUHUweEY0UjVyLXJBQlp4UlRvYVYwN3EwQVJHeWNRak9Vd2Q4dklsNWNFZFlsb292ajBVdjJYUXNISlFYczZtYWlUTGExd2dtNXo5NURBWTBkb2pBWE5MTjVwcUtzQ2l1YVdYYTJVSC1teFNwNklkVjcwck1kRDRDY3pIYkQ3ag?oc=5",
-    "image": "",
-    "published_at": "Sun, 07 Jun 2026 10:39:00 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068760+00:00"
-  },
-  {
-    "id": "34f14bea6e1b",
-    "title": "Can AI Capex Extend The Semiconductor Cycle?",
-    "source": "Seeking Alpha",
-    "summary": "Can AI Capex Extend The Semiconductor Cycle?&nbsp;&nbsp;Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHpNYldXa1A4ai1WMjJkV20wMkt3UGJLcHVncWV0YTNxUUkyVTlKT3Qzb1dGMUQtQ3pabThGR1pHT0hzc2Z5LWF1eDJTMjFBUFlKZGhmYzE4RmJ4Zjd3Mlk0VnlFWHM1cHdYNTlQWXNqUXl5SlJWQkhJLUJXOS1YWWlFWTExVlRZbGl0dw?oc=5",
-    "image": "",
-    "published_at": "Sat, 06 Jun 2026 10:21:29 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068772+00:00"
-  },
-  {
-    "id": "73757f016009",
-    "title": "Intel vs. Lattice Semiconductor: Which AI Chip Stock is a Better Buy?",
-    "source": "Yahoo Finance",
-    "summary": "Intel vs. Lattice Semiconductor: Which AI Chip Stock is a Better Buy?&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0VyTmxNUGQtYkVKaFV0N2dEVUFUZFJZUDNpWUo0Z0cyNTJzdWpYa0NoTEI5NThQd21BN0xJVXFtSUFDUEduY1lOTVFLX2hrOG55VTRpcXcySE5URDFTd1o3ell6UzI3ZDBLMlhLZXZKVWxuaVhWOGRIZnlPSktTRS1fOGFrY2F5YTBjOTlBZE9rZVhuLVJjVXA2VmZLWWs?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 15:18:00 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068787+00:00"
-  },
-  {
-    "id": "8631162e8bf6",
-    "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120%",
-    "source": "The Motley Fool",
-    "summary": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120%&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVlzbWVSSllZWmp6UGpaSDZYcmFCX3JieUdJUUxoYlU1ZFgwNENUUXA5SWNJMEdNLXZOTWNjMzAzamVGTnFEVzU0dmRaaFd2OVljcUdnaGpkNWpHVzlSRlJGNzZnenQzdlVzQkJGaVVvRlJpd3Y4Q05wclkzQnh4UXR1Uk5CNjBwY1lkVWMzY3oxaktzSVE?oc=5",
-    "image": "",
-    "published_at": "Fri, 05 Jun 2026 14:45:00 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068802+00:00"
-  },
-  {
-    "id": "3e73c29b60fa",
-    "title": "Taiwan Semiconductor's AI message is a positive sign for the long-term: Wedbush (TSM:NYSE)",
-    "source": "Seeking Alpha",
-    "summary": "Taiwan Semiconductor's AI message is a positive sign for the long-term: Wedbush (TSM:NYSE)&nbsp;&nbsp;Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEJxY0dxanhBcFNRaEFpX0hfdzdCOGVtQV9RT1BqMVMxbHU2QlE5TWZEUFRiaFgwRlN0NUxVelRCMy03VnVaSzBQb044eTVRb2JtR2M3X1haMTVNV0IzcjJYLUZvbE5YTnA2ODQ5ZTliOEprWGlhSUZ5TzByNkhfcEhlcThvb1Z4UXlqMlViOFBsRFNodEVwY0R2dE1GdVNkTTZQNThxdjdBS0NwS1hSWFhHamhndw?oc=5",
-    "image": "",
-    "published_at": "Fri, 05 Jun 2026 11:41:04 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068815+00:00"
-  },
-  {
-    "id": "b157c828188e",
-    "title": "Chip Stocks 2026: Identifying the Semiconductor Winners vs. AI Hype",
-    "source": "Barron's",
-    "summary": "Chip Stocks 2026: Identifying the Semiconductor Winners vs. AI Hype&nbsp;&nbsp;Barron's",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVFkbXZPOS0wNWlYazJmYzBVU2hLSk1PdTA1cnVoVEZBaS1weElxR2NjTVRSRnA5Qzl0ekN4eXBVT2JSN1p4Z0hHZ3kwUEhYcWtxeVRDMmpKNWtzWHpSVms2V1dZUjhiQ2VIbkJfaWtDWmlpQzNOQTlJZ0k3Mmw4X0gwaU9TdklCUlVyVjZqNTZJSnUtM2dHRWVR?oc=5",
-    "image": "",
-    "published_at": "Mon, 01 Jun 2026 12:50:00 GMT",
-    "fetched_at": "2026-06-08T19:25:59.068828+00:00"
-  },
-  {
-    "id": "ebe6abbf73bf",
-    "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
-    "source": "TechCrunch",
-    "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended direct",
-    "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-    "image": "",
-    "published_at": "Thu, 04 Dec 2025 05:37:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.137290+00:00"
-  },
-  {
-    "id": "6aac02d1f4a7",
-    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
-    "source": "TechCrunch",
-    "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content cr",
-    "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
-    "image": "",
-    "published_at": "Thu, 02 Jan 2025 09:26:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.137770+00:00"
-  },
-  {
-    "id": "d6588d418b59",
-    "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
-    "source": "TechCrunch",
-    "summary": "&nbsp;In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only emp",
-    "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
-    "image": "",
-    "published_at": "Tue, 12 Dec 2023 16:10:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.138244+00:00"
-  },
-  {
-    "id": "071402f71008",
-    "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
-    "source": "TechCrunch",
-    "summary": "&nbsp;In this article, we explore the top 10 AI tools that are driving innovation and efficiency in various industries. These tools are designed to automate repetitive tasks, improve workflow, and increase productivity. The tools included in our list are some of the most advanced and widely used in ",
-    "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
-    "image": "",
-    "published_at": "Wed, 25 Jan 2023 19:52:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.138980+00:00"
-  },
-  {
-    "id": "08835a787364",
-    "title": "Top 10 AI Content Generator & Writer Tools in 2022",
-    "source": "TechCrunch",
-    "summary": "Are you looking for a way to create content that is both effective and efficient? If so, then you should consider using an AI content generator. AI content generators are a great way to create content that is both engaging and relevant to your audience.&nbsp;There are a number of different AI conten",
-    "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
-    "image": "",
-    "published_at": "Tue, 15 Nov 2022 08:58:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.139969+00:00"
-  },
-  {
-    "id": "59fde58c53dc",
-    "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
-    "source": "TechCrunch",
-    "summary": "Image by vectorjuice on FreepikIn this CJ Affiliate guide, I will share with you everything you need to get started on the platform, I will give you an in-depth look at the network and how it works.You will learn how to earn money with the platform. If you're not interested, I'll share some of the b",
-    "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
-    "image": "",
-    "published_at": "Sat, 10 Sep 2022 08:57:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.140457+00:00"
-  },
-  {
-    "id": "c9a51bd59628",
-    "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
-    "source": "TechCrunch",
-    "summary": "&nbsp;&nbsp;&nbsp;The marketing industry is turning to artificial intelligence (AI) as a way to save time and execute smarter, more personalized campaigns. 61% of marketers say AI software is the most important aspect of their data strategy.&nbsp; If you’re late to the AI party, don’t worry. It’s ea",
-    "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
-    "image": "",
-    "published_at": "Wed, 13 Jul 2022 15:25:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.140984+00:00"
-  },
-  {
-    "id": "05af36d15aeb",
-    "title": "Most Frequently Asked Questions About Affiliate Marketing",
-    "source": "TechCrunch",
-    "summary": "There are lots of questions floating around about how affiliate marketing works, what to do and what not to do when it comes to setting up a business. With so much uncertainty surrounding both personal and business aspects of affiliate marketing. In this post, we will answer the most frequently aske",
-    "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
-    "image": "",
-    "published_at": "Wed, 01 Jun 2022 13:03:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.141340+00:00"
-  },
-  {
-    "id": "8dde3734dc3a",
-    "title": "What is Blockchain: Everything You Need to Know (2022)",
-    "source": "TechCrunch",
-    "summary": "If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, these methods may become old.Imagine a world in which you can do transactions and many other things with",
-    "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
-    "image": "",
-    "published_at": "Mon, 18 Apr 2022 05:49:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.141804+00:00"
-  },
-  {
-    "id": "9e9611266d4d",
-    "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
-    "source": "TechCrunch",
-    "summary": "ProWritingAid VS Grammarly:&nbsp;&nbsp;When it comes to English grammar, there are two Big Players that everyone knows of: the Grammarly and ProWritingAid. but you are wondering which one to choose so here we write a detail article which will help you to choose the best one for you so Let's startWha",
-    "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
-    "image": "",
-    "published_at": "Sun, 13 Mar 2022 15:04:00 +0000",
-    "fetched_at": "2026-06-08T19:26:05.142245+00:00"
-  },
-  {
-    "id": "76ce105723bd",
-    "title": "WWDC 2026: What to expect, from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
-    "source": "TechCrunch",
-    "summary": "WWDC 2026: What to expect, from Siri's highly anticipated revamp to Apple Intelligence and iOS 27&nbsp;&nbsp;TechCrunchApple WWDC preview: Apple gets a second shot at its AI rollout&nbsp;&nbsp;Yahoo FinanceApple to make big announcement about popular iPhone feature at annual conference&nbsp;&nbsp;AL",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHBYRXBhbW1SQkFteXBpMzJtWlc1T25jd25MOG1LV3dnVmRIaFplZmNYbGM1SWtOQzc1ZmVUS2F5ZmRvOU9nZ0ZpTWlRUFJ6T3dpbENCQzhnWWUtUXJ0MVJDVDM4enpwSnhCbHN6bkVRRzJxZ1ZWR3RndFhBb1FIUlZfdFUwSXMyM2NwRXVXZVRzYVJBNlp5d0xxN2xtYkludGdBa3RUclFDbG56NG82MzR2czdiWUdmUmlWQ2szM3A4Q1lzWDVRNQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 15:34:59 GMT",
-    "fetched_at": "2026-06-08T16:07:46.389988+00:00"
-  },
-  {
-    "id": "3ec01cab1067",
-    "title": "Another Pixel-exclusive feature just vanished, and the replacement comes with strings attached",
-    "source": "PhoneArena",
-    "summary": "Another Pixel-exclusive feature just vanished, and the replacement comes with strings attached&nbsp;&nbsp;PhoneArenaGoogle shuts down Pixel Studio with the latest app update&nbsp;&nbsp;9to5GoogleGoogle just pulled the plug on Pixel's AI image generator&nbsp;&nbsp;Android CentralPixel Studio's latest",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkRnc1ZtcEpaVTBXMnNNVWVHMUE2SnQ2SkFHa2MzblJJUWVaYWY2LTZUNXRmd0taYlJuSGNFRDNPQUxYYk1NTmFTRW9CekRTWW1na1hJN0xpbUtKTUhmQlliNHh1U1h0MmJjNGVRVkJVTllvazRoZW9BWTl4UE4wd3pSdDd1cnlvTHZDZ3k2cGhiZExsM2doZW10YkdOT0VfSHBJdFhyMTNNT1psalhoZjNkVUM3TGxPMjZCd2FISzItdDhHVjJHV3dhYkRXckE?oc=5",
-    "image": "",
-    "published_at": "Sun, 07 Jun 2026 21:04:36 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390091+00:00"
-  },
-  {
-    "id": "0aa2008b4deb",
-    "title": "New MkIV Space Marines deploy to the Horus Heresy",
-    "source": "Warhammer Community",
-    "summary": "New MkIV Space Marines deploy to the Horus Heresy&nbsp;&nbsp;Warhammer Community#New40k – Download new Space Marine Faction Packs today&nbsp;&nbsp;Warhammer CommunityWarhammer 40K: Space Marine New Detachments – Best of the Best&nbsp;&nbsp;Bell of Lost SoulsUnder cover of 11th edition hype, GW unvei",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaF9rV1J1eHkxUGFmZ0t6RE83T1VfZ0R3ZWpFUTgyLVZRblpVU195alZUenNiR0NUMlFZMmY0enVadHl5MXpVaGs4ODlTN0hhdEE1U3N5T1F0UzkxY1NPQURvZ0FMUjRsWnQ0REVfX3JOampUR0tJN1o0ZUxpRlE5SXNtRVpUdFVfdTVnMXVubEhSbFZjZ3JKdFF4V0xlb2F1V1poaC1FSmpDSU44X3pF?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 13:58:19 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390130+00:00"
-  },
-  {
-    "id": "3dd45e038790",
-    "title": "How To Get Your Money's Worth From YouTube Premium",
-    "source": "Engadget",
-    "summary": "How To Get Your Money's Worth From YouTube Premium&nbsp;&nbsp;EngadgetYour YouTube Premium Price is Going Up Right Now&nbsp;&nbsp;Droid LifeYouTube Premium price hike kicks in this month – will you cancel? [Poll]&nbsp;&nbsp;9to5GoogleYouTube Premium’s June 2026 Price Hike Raises Subscription Costs f",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3YUdEd3c2RHdlNDVFQnFZNy1Md3FCem5vYmpjYjFWSlpVVVhXV19xSlBIeUxManA1S2FyUzV3THREeEtNSGs0LW9pMXQxVE1nVmJDSnQ4Z3NhNkRUczFHejROVkVBbFlTakFqZXpkY2N3U01FbXc?oc=5",
-    "image": "",
-    "published_at": "Sun, 07 Jun 2026 13:30:00 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390166+00:00"
-  },
-  {
-    "id": "cc66a3cd02b5",
-    "title": "iOS 27 Beta Available Today With These 12 New Features",
-    "source": "MacRumors",
-    "summary": "iOS 27 Beta Available Today With These 12 New Features&nbsp;&nbsp;MacRumorsiOS 27 beta release date: When you can install the new iPhone update&nbsp;&nbsp;9to5MaciOS 26 gave us Liquid Glass. Now iOS 27 will make it fluid&nbsp;&nbsp;MacworldApple iOS 27 Release Date: Every iPhone Dropped And What It ",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1BISk8wWm8tWDBxTUZaRVE1ME1VRFEwWW4wREt0elk3cThBclFCLTVNM0RhY3NTa2lubWE4MnVhS0dRWFBZXzN4YVlVOV9xbkhoX1l3cFVFSGJWcHFCSE5hNmVZNS1lZWZVa09zVm5iWFI5NkFMY2k1WmcxcEtQeWlQRHExWldk?oc=5",
-    "image": "",
-    "published_at": "Sun, 07 Jun 2026 15:39:13 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390198+00:00"
-  },
-  {
-    "id": "c117f58d80ee",
-    "title": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon",
-    "source": "Space",
-    "summary": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon&nbsp;&nbsp;SpaceNASA’s astronauts will wear a Prada-designed onesie to keep cool on the moon&nbsp;&nbsp;Scientific AmericanNASA to wear Prada as ",
-    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVUJzWlZYM1pyLThVMUoxWkJNc1psUFN6WkJYZWhWaW1CbDhpSFpid01jZFhPdHE3QVNnbGVlOTVJX3NldXlBMzJtLWZTdHhIMDJFSFAycEVSU0V0eGExbl9oWThNcnVKQlZVMEt2dE96dm5sNHRNLWxvaF8zV19hbXlHY3Bsb3BPdmsySEFBY2x1Qm1YcnBGclpfcUcyVThFSm1KdzF1ZlVMUHYzM1o0NXBGR0g4ak5oR1gtZUpIbFVqdXVNdzJVZXppLTRtYnM2MV8tSHQyODFHYlhqVm4wWUZxZXdwT21MeUlpX0x6SkRWZmVsbDQ2X3lKdHlKR1ZrSkZtcmZlaHdOUDg1T2doU3cyNE9MLVFNM2lkelBYbmg3amJBY1FvQ1RsUlpPVFg2?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 12:00:00 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390238+00:00"
-  },
-  {
-    "id": "9aebd841f256",
-    "title": "Nintendo Direct Announced For Tomorrow, 9th June 2026",
-    "source": "Nintendo Life",
-    "summary": "Nintendo Direct Announced For Tomorrow, 9th June 2026&nbsp;&nbsp;Nintendo LifeNintendo Direct 6.9.2026 + Nintendo Treehouse: Live | June 2026&nbsp;&nbsp;nintendo.comNintendo’s next Direct showcase is on June 9th&nbsp;&nbsp;The VergeNintendo Direct announced for June 9&nbsp;&nbsp;Nintendo EverythingN",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1lvZlJmVEl4U05JaWRwLUJnRUhjeHJ1ZmVCeUJlblo0NlRrOTVrUTBGSTVNcFp4STlSeFRLR094Q2IwN3JQeW5TY2hkZjNnTXhZZ0xZcWg5VlZvT2NNOG5XYzZ0LTN5VVBiem1vUmRHZlN2ajVuU21pTFRZNGk2d0RNaEV3Ylc0a3lsdnRSNEJvUG56aGRDNjJR?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 13:50:00 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390271+00:00"
-  },
-  {
-    "id": "cb8726529c41",
-    "title": "Discover the Gears of War: E-Day Collector’s Edition",
-    "source": "XBOX Wire",
-    "summary": "Discover the Gears of War: E-Day Collector’s Edition&nbsp;&nbsp;XBOX WireHalo: Campaign Evolved arrives July 28th&nbsp;&nbsp;The VergeHalo: Campaign Evolved Reveals New Space Combat Missions, Imminent Release Date&nbsp;&nbsp;IGNHalo Campaign Evolved, Gears of War E-Day and Fable are all getting Coll",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0M2NEhCN0lrOFA5WjZUTDRnMmtHYm1zNmY5TGpMVzRDakF3MUowUU1UTnFZQTdPRkoyVDJQR2dfcWxLUGNGRE5rWWdIVEpQLVZzampIaTItLUU4ZHF3SmVneFFQMGRmdWV6dFRfUkx5bDhnWmVBVTBraUE5bFBmcVI1TWpFbjZxT21Ccms3YXNPVFdQMVZCY0NfV2pHbnBMQlNkUw?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 14:01:56 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390310+00:00"
-  },
-  {
-    "id": "7752f948eb11",
-    "title": "Fable is getting some post-launch DLC already, with an extended look at gameplay planned for later this week",
-    "source": "Eurogamer",
-    "summary": "Fable is getting some post-launch DLC already, with an extended look at gameplay planned for later this week&nbsp;&nbsp;EurogamerFable: Meet the Incredible Cast – Including the Villain Played by Hayley Atwell&nbsp;&nbsp;XBOX WireNew Fable Footage Reveals Its Villain, Isabel Hero Of Wraithmarsh, Play",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1URnJhQXh1REpBZ2lzZVFiQUl5ZVVyMF85UlJIZmowQkcwR19zbE1mNFBqaEhGcW5nN2tqUGNsM1FEV3hBYnowTENqa05nck1HSk5yMlNRdHZnZmxGdFB3ZFduYWN6QlU?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 08:40:00 GMT",
-    "fetched_at": "2026-06-08T16:07:46.390350+00:00"
-  },
-  {
-    "id": "70cf0f0d6a2d",
-    "title": "Information Technology Sector & Industry Performance",
-    "source": "Bloomberg.com",
-    "summary": "Information Technology Sector & Industry Performance&nbsp;&nbsp;Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSeUlLTXpfdm84dW5GRkFiU3h3V2Fub1o3MHpVcFhFZzBwWjFFbGhjOV9zUWdUZUJibjBReUxmOXhYMm1pREZtY0FzZGE1ay01U0R4NFpBd2Jlb3JnajJ0SlBaYjRqWHhMR0tkN1owaC1Bdw?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 09:40:51 GMT",
-    "fetched_at": "2026-06-08T16:07:46.980170+00:00"
   }
 ]
