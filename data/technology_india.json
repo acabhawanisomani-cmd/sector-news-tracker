@@ -1,5 +1,205 @@
 [
   {
+    "id": "0d389e260f25",
+    "title": "The Latest: G7 summit focuses on contentious future of AI and US dominance of the industry",
+    "source": "LiveMint",
+    "summary": "The Latest: G7 summit focuses on contentious future of AI and US dominance of the industry",
+    "url": "https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 13:04:59 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872444+00:00"
+  },
+  {
+    "id": "f7df1d99f515",
+    "title": "From leaked question papers to piracy and CSAM - why is Telegram always in trouble in one country or another?",
+    "source": "LiveMint",
+    "summary": "While this is the first time Telegram has faced such a restriction in India, the platform launched by Russia-born Pavel Durov in August 2013 has come under bans or other punitive actions in several countries in the past.",
+    "url": "https://www.livemint.com/technology/tech-news/telegram-trouble-telegram-india-ban-online-piracy-illegal-activities-pavel-durov-arrest-11781678657673.html",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 12:38:43 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872480+00:00"
+  },
+  {
+    "id": "bcb89a0f23e6",
+    "title": "WWDC 2026: Apple reveals devices eligible for iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27",
+    "source": "LiveMint",
+    "summary": "Apple's new software updates bring the Liquid Glass design and enhanced AI features, but advanced Siri AI capabilities will be limited to select high-end devices, including the iPhone 17 Pro lineup, M4-powered iPads, M3-powered Macs and the Apple Vision Pro (M5).",
+    "url": "https://www.livemint.com/technology/tech-news/wwdc-2026-apple-reveals-devices-eligible-for-ios-27-ipados-27-macos-27-golden-gate-and-watchos-27-11781617451321.html",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 19:44:29 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872514+00:00"
+  },
+  {
+    "id": "bdc53b851305",
+    "title": "Mint Explainer | Can connected cars help India cut road fatalities?",
+    "source": "LiveMint",
+    "summary": "Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive, pre-crash interventions to mitigate these issues.",
+    "url": "https://www.livemint.com/technology/auto-industry-india-tech-companies-india-road-accidents-india-v2x-spectrum-11781592441642.html",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 15:19:10 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872533+00:00"
+  },
+  {
+    "id": "de31fa87a592",
+    "title": "Indias 5G subscriptions to reach 1.1 billion by 2031, says Ericsson report",
+    "source": "LiveMint",
+    "summary": "India's 5G subscriptions to reach 1.1 billion by 2031, says Ericsson report",
+    "url": "https://www.livemint.com/technology/indias-5g-subscriptions-to-reach-1-1-billion-by-2031-says-ericsson-report-11781599429754.html",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 14:13:49 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872545+00:00"
+  },
+  {
+    "id": "59fabab6b69c",
+    "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
+    "source": "LiveMint",
+    "summary": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
+    "url": "https://www.livemint.com/technology/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models-11781553380357.html",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 01:26:20 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872559+00:00"
+  },
+  {
+    "id": "6692ca3327f1",
+    "title": "What is Kali365? FBI warns Telegram-based phishing service targeting Microsoft 365 users",
+    "source": "LiveMint",
+    "summary": "The platform, first detected in April 2026, is being actively distributed through Telegram channels and is designed to help even low-skilled attackers conduct sophisticated phishing campaigns.",
+    "url": "https://www.livemint.com/technology/tech-news/what-is-kali365-fbi-warns-telegram-based-phishing-service-targeting-microsoft-365-users-11781549456445.html",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 00:32:33 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872575+00:00"
+  },
+  {
+    "id": "3dd9462ef917",
+    "title": "Microsoft CEO Satya Nadella issues stark warning on future of business – ‘AI firms could capture all the value’",
+    "source": "LiveMint",
+    "summary": "Microsoft CEO Satya Nadella said companies will succeed in the AI era by building learning systems powered by human and token capital, not merely by using advanced models. He warned of a future in which a handful of AI providers capture most of the economic value.",
+    "url": "https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html",
+    "image": "",
+    "published_at": "Mon, 15 Jun 2026 18:21:42 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872602+00:00"
+  },
+  {
+    "id": "76dd186564ad",
+    "title": "PM-WANI reforms to enhance adoption of public Wi-Fi, boost internet accessibility: Experts",
+    "source": "LiveMint",
+    "summary": "PM-WANI reforms to enhance adoption of public Wi-Fi, boost internet accessibility: Experts",
+    "url": "https://www.livemint.com/technology/pmwani-reforms-to-enhance-adoption-of-public-wi-fi-boost-internet-accessibility-experts-11781524769149.html",
+    "image": "",
+    "published_at": "Mon, 15 Jun 2026 17:29:28 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872615+00:00"
+  },
+  {
+    "id": "2b42c5ab7998",
+    "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+    "source": "LiveMint",
+    "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+    "url": "https://www.livemint.com/technology/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms-11781378372141.html",
+    "image": "",
+    "published_at": "Sun, 14 Jun 2026 00:49:31 +0530",
+    "fetched_at": "2026-06-17T09:57:11.872627+00:00"
+  },
+  {
+    "id": "53de7be357bd",
+    "title": "UK regulator sets out conduct requirements for Google's search services",
+    "source": "Economic Times",
+    "summary": "The first ‌requires ​Google ​to ⁠improve transparency and fairness in how ​search results are ​ranked, while the second requires Google to allow users ‌to move their search ​data to authorised ​third ⁠parties, the Competition and Markets Authority said in ​a statement on Wednesday.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/uk-regulator-sets-out-conduct-requirements-for-googles-search-services/articleshow/131794403.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 15:08:15 +0530",
+    "fetched_at": "2026-06-17T09:57:11.954967+00:00"
+  },
+  {
+    "id": "e3ffa4957703",
+    "title": "Blue Origin will 'fly this year' following May explosion, CEO says",
+    "source": "Economic Times",
+    "summary": "Limp was speaking ‌alongside Blue Origin founder ​Jeff ​Bezos at ⁠the VivaTech conference in Paris.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/blue-origin-will-fly-this-year-following-may-explosion-ceo-says/articleshow/131794235.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 14:59:12 +0530",
+    "fetched_at": "2026-06-17T09:57:11.954992+00:00"
+  },
+  {
+    "id": "f6e860cf3ccb",
+    "title": "Everything you need to know about Specs, Snap’s latest venture into augmented reality",
+    "source": "Economic Times",
+    "summary": "Snap has positioned the glasses as a standalone AR device that overlays 3D digital content onto the real world, aiming to bridge the gap between lightweight smart glasses such as Meta’s Ray-Ban smart glasses, and bulkier mixed-reality headsets such as Oculus VR.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/everything-you-need-to-know-about-specs-snaps-latest-venture-into-augmented-reality/articleshow/131793252.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 14:14:14 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955017+00:00"
+  },
+  {
+    "id": "2691e2a1164e",
+    "title": "US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say",
+    "source": "Economic Times",
+    "summary": "DeepSeek, CXMT and other companies were approved by an interagency committee last year for addition to the Commerce Department's Entity List, which is being ​reported for the first time. Reuters is also exclusively reporting the large number of companies awaiting publication on the list.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-risks-sources-say/articleshow/131792903.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 14:00:21 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955040+00:00"
+  },
+  {
+    "id": "557c8bfee345",
+    "title": "ChatGPT’s market share dips below 50%: Key AI trends to know",
+    "source": "Economic Times",
+    "summary": "Hit by Google Gemini's continued expansion and Claude's recent growth, ChatGPT's share of the AI assistant market fell below 50% for the first time in March 2026, as per a report published by market intelligence firm Sensor Tower.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/chatgpts-market-share-dips-below-50-key-ai-trends-to-know/articleshow/131792884.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 13:58:23 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955059+00:00"
+  },
+  {
+    "id": "3ca8aa57af72",
+    "title": "Companies need flexibility, choice as AI becomes a geopolitical issue",
+    "source": "Economic Times",
+    "summary": "India is one of the fastest growing markets for Databricks, and last year the firm announced a $250 million investment in India to ramp up research and development capabilities and expand the India market.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-flexibility-choice-as-ai-becomes-a-geopolitical-issue/articleshow/131791035.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 12:58:53 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955076+00:00"
+  },
+  {
+    "id": "e2b30b17c791",
+    "title": "Peak XV, Nexus set for 7-9x returns from Turtlemint IPO share sale",
+    "source": "Economic Times",
+    "summary": "Turtlemint has set a price band of Rs 144-152 per share for its Rs 883 crore IPO, which opens on June 19. The IPO comprises a fresh issue of Rs 660.72 crore and an offer for sale of Rs 221.94 crore at the upper band. At the upper end, the company will be valued at about Rs 4,513 crore, or $475 milli",
+    "url": "https://economictimes.indiatimes.com/tech/startups/peak-xv-nexus-set-for-7-9x-returns-from-turtlemint-ipo-share-sale/articleshow/131790835.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 12:51:52 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955101+00:00"
+  },
+  {
+    "id": "bb0b6b1ebc58",
+    "title": "Telegram moves Delhi HC against temporary ban",
+    "source": "Economic Times",
+    "summary": "Social messaging app Telegram has moved Delhi High Court challenging the decision of central government to temporarily restrict the access to platform in India.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/telegram-moves-delhi-hc-against-temporary-ban/articleshow/131787901.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 11:31:22 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955115+00:00"
+  },
+  {
+    "id": "974ada6bb7d0",
+    "title": "India's Wipro opens AI centre for Anthropic's Claude in Bengaluru",
+    "source": "Economic Times",
+    "summary": "Wipro has launched a new AI hub in Bengaluru. This centre focuses on Anthropic's Claude models. It aims to help businesses adopt AI more widely. Wipro will train thousands of employees. This move comes as AI impacts traditional IT services. Rival TCS also recently partnered with Anthropic for AI sca",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-wipro-opens-ai-centre-for-anthropics-claude-in-bengaluru/articleshow/131787099.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 10:43:27 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955135+00:00"
+  },
+  {
+    "id": "37616df2406d",
+    "title": "Europe frets about US AI as tech world flocks to France for G7, VivaTech",
+    "source": "Economic Times",
+    "summary": "European leaders and tech executives are focusing on technological sovereignty. Discussions at G7 and VivaTech highlight concerns about American AI dominance. Europe aims to build its own AI champions. This involves boosting regional cloud and chip industries. The goal is to reduce reliance on U.S. ",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-frets-about-us-ai-as-tech-world-flocks-to-france-for-g7-vivatech/articleshow/131786988.cms",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 10:36:12 +0530",
+    "fetched_at": "2026-06-17T09:57:11.955156+00:00"
+  },
+  {
     "id": "52bb19d2e3b8",
     "title": "Minecraft Java 26.2 Chaos Cubed update patch notes: New biome, mob, and blocks revealed",
     "source": "The Times of India",
@@ -298,205 +498,5 @@
     "image": "",
     "published_at": "Wed, 17 Jun 2026 08:25:21 +0530",
     "fetched_at": "2026-06-17T04:54:27.879792+00:00"
-  },
-  {
-    "id": "bcb89a0f23e6",
-    "title": "WWDC 2026: Apple reveals devices eligible for iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27",
-    "source": "LiveMint",
-    "summary": "Apple's new software updates bring the Liquid Glass design and enhanced AI features, but advanced Siri AI capabilities will be limited to select high-end devices, including the iPhone 17 Pro lineup, M4-powered iPads, M3-powered Macs and the Apple Vision Pro (M5).",
-    "url": "https://www.livemint.com/technology/tech-news/wwdc-2026-apple-reveals-devices-eligible-for-ios-27-ipados-27-macos-27-golden-gate-and-watchos-27-11781617451321.html",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 19:44:29 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879821+00:00"
-  },
-  {
-    "id": "bdc53b851305",
-    "title": "Mint Explainer | Can connected cars help India cut road fatalities?",
-    "source": "LiveMint",
-    "summary": "Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive, pre-crash interventions to mitigate these issues.",
-    "url": "https://www.livemint.com/technology/auto-industry-india-tech-companies-india-road-accidents-india-v2x-spectrum-11781592441642.html",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 15:19:10 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879839+00:00"
-  },
-  {
-    "id": "de31fa87a592",
-    "title": "Indias 5G subscriptions to reach 1.1 billion by 2031, says Ericsson report",
-    "source": "LiveMint",
-    "summary": "India's 5G subscriptions to reach 1.1 billion by 2031, says Ericsson report",
-    "url": "https://www.livemint.com/technology/indias-5g-subscriptions-to-reach-1-1-billion-by-2031-says-ericsson-report-11781599429754.html",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 14:13:49 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879851+00:00"
-  },
-  {
-    "id": "59fabab6b69c",
-    "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
-    "source": "LiveMint",
-    "summary": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
-    "url": "https://www.livemint.com/technology/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models-11781553380357.html",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 01:26:20 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879862+00:00"
-  },
-  {
-    "id": "6692ca3327f1",
-    "title": "What is Kali365? FBI warns Telegram-based phishing service targeting Microsoft 365 users",
-    "source": "LiveMint",
-    "summary": "The platform, first detected in April 2026, is being actively distributed through Telegram channels and is designed to help even low-skilled attackers conduct sophisticated phishing campaigns.",
-    "url": "https://www.livemint.com/technology/tech-news/what-is-kali365-fbi-warns-telegram-based-phishing-service-targeting-microsoft-365-users-11781549456445.html",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 00:32:33 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879877+00:00"
-  },
-  {
-    "id": "3dd9462ef917",
-    "title": "Microsoft CEO Satya Nadella issues stark warning on future of business – ‘AI firms could capture all the value’",
-    "source": "LiveMint",
-    "summary": "Microsoft CEO Satya Nadella said companies will succeed in the AI era by building learning systems powered by human and token capital, not merely by using advanced models. He warned of a future in which a handful of AI providers capture most of the economic value.",
-    "url": "https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html",
-    "image": "",
-    "published_at": "Mon, 15 Jun 2026 18:21:42 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879898+00:00"
-  },
-  {
-    "id": "76dd186564ad",
-    "title": "PM-WANI reforms to enhance adoption of public Wi-Fi, boost internet accessibility: Experts",
-    "source": "LiveMint",
-    "summary": "PM-WANI reforms to enhance adoption of public Wi-Fi, boost internet accessibility: Experts",
-    "url": "https://www.livemint.com/technology/pmwani-reforms-to-enhance-adoption-of-public-wi-fi-boost-internet-accessibility-experts-11781524769149.html",
-    "image": "",
-    "published_at": "Mon, 15 Jun 2026 17:29:28 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879910+00:00"
-  },
-  {
-    "id": "2b42c5ab7998",
-    "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-    "source": "LiveMint",
-    "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-    "url": "https://www.livemint.com/technology/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms-11781378372141.html",
-    "image": "",
-    "published_at": "Sun, 14 Jun 2026 00:49:31 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879921+00:00"
-  },
-  {
-    "id": "77c452da6d56",
-    "title": "India wont be second to anybody in developing foundational AI models: IT Secretary",
-    "source": "LiveMint",
-    "summary": "India won't be second to anybody in developing foundational AI models: IT Secretary",
-    "url": "https://www.livemint.com/technology/india-wont-be-second-to-anybody-in-developing-foundational-ai-models-it-secretary-11781266679635.html",
-    "image": "",
-    "published_at": "Fri, 12 Jun 2026 17:47:59 +0530",
-    "fetched_at": "2026-06-17T04:54:27.879933+00:00"
-  },
-  {
-    "id": "3919ed9ec77f",
-    "title": "Snap CEO Evan Spiegel defends Specs as long-term bet, pushes back against activist pressure",
-    "source": "Economic Times",
-    "summary": "Snap CEO Evan Spiegel is pushing back on investor calls to cut its augmented-reality glasses unit. The company launched its new AR glasses, called Specs, at $2,195. Spiegel stated Snap is committed to its long-term vision and independence. He indicated more details on partnerships will be shared lat",
-    "url": "https://economictimes.indiatimes.com/tech/technology/snap-ceo-evan-spiegel-defends-specs-as-long-term-bet-pushes-back-against-activist-pressure/articleshow/131786164.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 09:48:10 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966808+00:00"
-  },
-  {
-    "id": "c588358c8a96",
-    "title": "Intel's new manufacturing tech enters initial production",
-    "source": "Economic Times",
-    "summary": "Intel CEO ​Lip-Bu Tan has started recognizing 18A as a potential offering for external clients, reversing ​his earlier view that the ⁠process would ‌generate returns only through Intel's ​own products, ​finance chief David Zinsner said ⁠in March.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/intels-new-manufacturing-tech-enters-initial-production/articleshow/131785220.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 08:41:20 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966837+00:00"
-  },
-  {
-    "id": "e865458bd42b",
-    "title": "Amazon may face penalties from potential FTC ad suit, Bloomberg News reports",
-    "source": "Economic Times",
-    "summary": "The FTC has a possible complaint against Amazon ‌as part ⁠of ⁠an ongoing probe, Bloomberg reported, citing people familiar with ​the matter. Several state attorneys general are also participating.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/amazon-may-face-penalties-from-potential-ftc-ad-suit-bloomberg-news-reports/articleshow/131784945.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 08:28:24 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966858+00:00"
-  },
-  {
-    "id": "29e8bdd733e1",
-    "title": "Nvidia's Jensen Huang pledges AI will boost manufacturing jobs",
-    "source": "Economic Times",
-    "summary": "The factory represents a fundamental test of whether, as Huang believes, AI will be a source of job creation instead of a technology that supplants workers as it becomes possible to write software, analyze a spreadsheet, run an assembly line or even drive an automobile without much human effort.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-jensen-huang-pledges-ai-will-boost-manufacturing-jobs/articleshow/131784907.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 08:25:57 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966878+00:00"
-  },
-  {
-    "id": "d43e21ea7163",
-    "title": "BigBasket founder's exit; Pocket FM’s reverse flip",
-    "source": "Economic Times",
-    "summary": "Amazon veteran Amit Nanda, currently director of selling partner services, now takes over as CEO.",
-    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/bigbasket-founders-exit-pocket-fms-reverse-flip/articleshow/131783994.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 07:16:02 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966890+00:00"
-  },
-  {
-    "id": "f7ee01928bb9",
-    "title": "The Indian workers training AI robots to take their jobs",
-    "source": "Economic Times",
-    "summary": "With a smartphone strapped to her head, Nagireddy Sriramyachandra films herself slicing mangoes in her kitchen in India to train AI-powered robots to take on household jobs in the future. \"I may get a robot myself in the future,\" she added.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-indian-workers-training-ai-robots-to-take-their-jobs/articleshow/131783972.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:51:21 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966908+00:00"
-  },
-  {
-    "id": "368278427397",
-    "title": "Ola Electric files application to settle Sebi probe over false information allegations",
-    "source": "Economic Times",
-    "summary": "Ola Electric and founder Bhavish Aggarwal have approached Sebi to settle allegations of disseminating false information to inflate stock prices. The company seeks an amicable closure without admitting guilt, following Sebi's notice regarding discrepancies in service network expansion, sales figures,",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-files-application-to-settle-sebi-probe-over-false-information-allegations/articleshow/131780809.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:01:00 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966927+00:00"
-  },
-  {
-    "id": "2df582048d4e",
-    "title": "Pocket FM begins reverse flip talks; eyes potential India IPO",
-    "source": "Economic Times",
-    "summary": "Audio entertainment startup Pocket FM is reportedly in discussions to shift its holding structure back to India, signalling potential plans for a domestic public listing. This move follows rival Kuku Technologies' formal steps towards an IPO, intensifying focus on India's growing audio and mobile-fi",
-    "url": "https://economictimes.indiatimes.com/tech/startups/pocket-fm-begins-reverse-flip-talks-eyes-potential-india-ipo/articleshow/131781036.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:00:00 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966945+00:00"
-  },
-  {
-    "id": "3de7c5c4e985",
-    "title": "Inside Cursor's journey to a $60 billion deal with Elon Musk’s SpaceX",
-    "source": "Economic Times",
-    "summary": "SpaceX has acquired AI coding assistant Cursor for $60 billion in an all-stock deal, significantly bolstering its AI ambitions. This move positions SpaceX strongly in the AI coding tools segment, competing with giants like OpenAI and Anthropic. Cursor, cofounded by Indian-origin entrepreneur Aman Sa",
-    "url": "https://economictimes.indiatimes.com/tech/technology/inside-spacexs-60-billion-cursor-deal-and-what-it-means-for-the-ai-race/articleshow/131779716.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:00:00 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966966+00:00"
-  },
-  {
-    "id": "a532afa16766",
-    "title": "Trackk enters broking as wealthtech startups chase Gen Z investors",
-    "source": "Economic Times",
-    "summary": "Gen Z-focused investment platform Trackk is now venturing into broking, offering equity and F&amp;O trading. Shifting from its previous sub-broker role, the platform aims to build its own financial infrastructure to better serve its young user base. Trackk targets 500,000 accounts in the next year, ",
-    "url": "https://economictimes.indiatimes.com/tech/startups/trackk-enters-broking-as-wealthtech-startups-chase-gen-z-investors/articleshow/131778982.cms",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:00:00 +0530",
-    "fetched_at": "2026-06-17T04:54:27.966985+00:00"
-  },
-  {
-    "id": "89976ff3c615",
-    "title": "Sonos is updating its app with new volume controls and navigation.",
-    "source": "The Verge",
-    "summary": "Sonos is updating its app with new volume controls and navigation.&nbsp;&nbsp;The VergeThe Sonos app is getting a major refresh this week – here's what's new&nbsp;&nbsp;What Hi-Fi?The Sonos app is finally getting its long-awaited upgrades to make it easier to use&nbsp;&nbsp;MSN",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVS1rMm9BYmg0MUY0NzZydmlRM1dFRGVZQjNQOU83ZTNlWmIyclZ1OEpIa0dRT2QxMXJpZ1NoalZ5N3pRcnVoNENyVTNfTk1VdHM1UHd1N3puZXI4UUtFQi1pY0NFdERCZVFMVGlxaGJaaF9ONWpHQUJoV1ltbUlPLUJIX2FIYkkxc1otbllMUmI1aWJfWGJtdzZiNHVQc3hOQ3BnNA?oc=5",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 20:11:00 GMT",
-    "fetched_at": "2026-06-16T23:40:17.974205+00:00"
   }
 ]
