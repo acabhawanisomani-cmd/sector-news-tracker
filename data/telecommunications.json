@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTB3T05ZZndDLWpreHF0ZGRud29KZjRWX0lwSi00ZHNxczM1UHpJYmFiU0dMUmlPYU9yVGRBVEdKNTZzQnVfVlQ1dEdQOXEzeUxhRV9OR1hjQXVSRDE2SkZqR0NPYkR6ck9zaVBTR3dNNWM3cEtfN0YzVEJYaTNTYTYybUdERzMyOUJNcE16Rm1aZUowa0V1MG16dVNDV2tXRkxzMVJJQXd6VWRLcTBJZ0tn?oc=5",
     "image": "",
     "published_at": "Thu, 25 Jun 2026 15:11:12 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408613+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589598+00:00"
   },
   {
     "id": "65768d670791",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWE1bWtTQ3VZNEh4ZFQ5XzlwWkZ0YXdGdkNnQnpnRVM5N3hTUk4xU0lqbExySzNnVG1wOFV2QmN2M0lKNkJCdXQ5NENhVUVqWlZRbUJ6enNJVHhBUG5ZdFFvUDdLaVVfYlVfZnlWNkE3MHZURFJnemczVVZTNkxHQVhn?oc=5",
     "image": "",
     "published_at": "Tue, 23 Jun 2026 09:58:49 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408643+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589627+00:00"
   },
   {
     "id": "187f166ec946",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObC1na3ZiRGQ4RWlzdjFYd3JMbnRETFlXaXNFUW1keVM1YkY4VnF2R0JqdDc5TDJqbko3eTFzUTc5OVltRkk0c2xFQTVWU0dxdENCS2ZQRkkzNXo5UExTVHlGTjFVWXZDcWtjenlpMGtWUVh1VFpaQ2ZWNmZJdW15OHBxdUo1LTA4Q1pJblBPMVZOTS11TDhqN0gzVTJIeEtMeDk0M1FB?oc=5",
     "image": "",
     "published_at": "Thu, 25 Jun 2026 02:09:08 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408661+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589647+00:00"
   },
   {
     "id": "2a4eb6ac30bb",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDNYZGowR2w1Q3lwb09rRFZzMUFxSk5Vdmc2UEJpeldNS0NvZU1mc2pBeThXeWdoc0IwVkdlaUxwQnZQTjFLU0lDQzdWZmZqRGFJQjZCcjdRZ1hwRmQtX0ZCLXRkcElWOHE4UHdRS0dIRU5hT3EwX1ZSWkJvRV9SeEFkOXRUSm5ESXN3NXU4TU1rLXdlMzc4cnI4cUgteFRTVGVsTVQtejRjMVM5SlJtcGRYeG9WcENBMG1RTGtxSnR2TUpH?oc=5",
     "image": "",
     "published_at": "Thu, 25 Jun 2026 05:12:58 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408677+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589665+00:00"
   },
   {
     "id": "35119b5dce95",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWENyT2VsQ1Y1STNQWWlvODBqU0llRndXdkhCTHVLZ1Y0VnV1TjZXanhEVnZlc1lQQnRsemdzTnBFU3pnb21JRFp5SDZSdkhlWlRqQ0V1NXJ4dGlEV3AyTkpmejZ4cVJOR1gxelFRd0dpbVNWMjBhYVZFbXVBOUh4cDl5TjA4LVBFX0JnWGc5Q0Z2aklzdWZDdnN6WEdqVnpHdjJqRDdnZFRqdUNKQVdLbUhYZHZ4X011cVY0eHFzVjFraFZveF9FOTd0NXhyXzNfaElfVVJOWG42VGg4WEE?oc=5",
     "image": "",
     "published_at": "Wed, 17 Jun 2026 01:53:53 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408692+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589681+00:00"
   },
   {
     "id": "f2af7b9ebb9c",
@@ -57,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjdJeWhuUTZqbzJPNm5fX0ZtSFNxMGlxblF6WG1UZ2o3V0NBWGpJVWp3VnBUSWx0OHp3bHRTODhZVWlXRU1pakVBclBMVnFxUEdoNU1DYjhjZFpLVUFISmtOSUpCWmNZVEZIeGxOSlN6WlNnTjhRMFl6RFUtUW5xRWhkcEI2WklsZVNuNldoTzFza2xPU1k4MmlkU0hneXFUbDQtdE8tY0IyaldkZ21VS1c0eWlFamdOSkkyQTVn?oc=5",
     "image": "",
     "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408708+00:00"
+    "fetched_at": "2026-06-25T20:12:58.589697+00:00"
+  },
+  {
+    "id": "51f506a60f15",
+    "title": "European Telecom Industry 2026: 5G Standalone, AI and FMC Drive Growth Despite Revenue Challenges",
+    "source": "TelecomLead",
+    "summary": "European Telecom Industry 2026: 5G Standalone, AI and FMC Drive Growth Despite Revenue Challenges&nbsp;&nbsp;TelecomLead",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYnlGbWpfeGJIaUxzbWxHYTQ0QkFCMmh1Nk4xNjNqemRRaldLQ0dpRVpua0h0TFBxWkgtY19BcGFYNUJNcFlmeklsV2xOdnE2Z3BKcEZwMjZkcHlxUEhLUHRDX1hLYW5yRnAtbk9DOXJrLVdSVm5sQ0lVek5ncmJtdWY4aDFtYlFxbks0VVBHcXpzLWppNXg2X3JiUWdKeW1hUG5JWG5kUmlrNjNzN1pYTnNaalBKdW9lczR6d0hDVWJJRVhzbkxiMHMyeU95Wk9WUVF1cmxUWFFyajTSAeMBQVVfeXFMTlpZQUNoTUhXdkdMQnBxZEhzbVNkSmNIQ0NBXzNEUjZtT2t1bmJ2ZTU5VHctWl9fVmtlNzhnaFhLWElLNXdUN1h4dUw5WERmX2tjYXRqQll3Z1k3aS1JWEZlc0Jjb2lSbUNtY3FRRjhQNVJFVWlEalFuVDdXNHBVblA4Wk1YaWlFRVFRWUFmb0hDZEdkTXJtM2lLVzlPWF9QYnZtX0FlOWNJaGg3UTV0aW1EWjIxRmFSU19URU5fbEh1QzZrU01PampsWnVLbWwwNmNSNjdNWkxYbFA1aUluNlZRaFk?oc=5",
+    "image": "",
+    "published_at": "Mon, 22 Jun 2026 03:55:02 GMT",
+    "fetched_at": "2026-06-25T20:12:58.589716+00:00"
+  },
+  {
+    "id": "240aa76084a9",
+    "title": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections",
+    "source": "Omdia",
+    "summary": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections&nbsp;&nbsp;Omdia",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUy12a25yakdPblZtakVRM0EzZGRMOTdxcmpKVXZuMGRkZTRlelBKN09CUGFWZUF1LXd3QkJHWmRPU1pqWDdkV2E0WVpKdU1tNWpsSG04UUpPaDc3VUpGOUFSTkhIdU1mMnpOWkpmb2N3MURtVFYtWUVMS0FOeDFFc2N0Z2RrZldDdTYtdmYwTVFvXzFfb0FtT3RubXpfdjJlUXQ1TFJuUFEwdFhxVHBWS3kzYVQ3N29feDEwLWpiOUFFOE1LTUN0Uk8xWVdKWTdjRWdWeXhR?oc=5",
+    "image": "",
+    "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:58.589733+00:00"
+  },
+  {
+    "id": "930c252b3e8e",
+    "title": "Global 5G Network Expansion Accelerates as Telecom Giants Invest Billions in Next-Generation Connectivity",
+    "source": "Spherical Insights",
+    "summary": "Global 5G Network Expansion Accelerates as Telecom Giants Invest Billions in Next-Generation Connectivity&nbsp;&nbsp;Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3Q5bTNlbzFRejVZWjZVR1FWN3RUTGVzcFV4WGdJWThKUUplbnk0TDR3d09rU2swbFZzcnZiMmRxN2lsSWQ3Y0RzZzhFam9nZ2l3NnFneEZrM2lwcUlxYUdNdElrMldrZmlfTUU3bzN5WWJFSW11dUpIYm9nczg5am1SY1AtbzNHQlZ4di11ZmY1U0J6MlBVVkpMTjFqUEJTa2s1X28xQTdWVDNHXzVYaXM3V1hab0EtaDRWYTA0MHN1c0Vqa1l1d29NTVFYNWFYYkR3cG5sdXZZUDhRTXc?oc=5",
+    "image": "",
+    "published_at": "Thu, 11 Jun 2026 13:56:42 GMT",
+    "fetched_at": "2026-06-25T20:12:58.589751+00:00"
+  },
+  {
+    "id": "d1c8dd2726ca",
+    "title": "AmpliTech Adds Senior Telecom Leaders to Accelerate 5G Open RAN Commercial Growth",
+    "source": "The Fast Mode",
+    "summary": "AmpliTech Adds Senior Telecom Leaders to Accelerate 5G Open RAN Commercial Growth&nbsp;&nbsp;The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3Y0bW1Rb1JOWkRUNEhnZGp2WEQ0TDMxbFUwSWNhV3pTdDFOOW04SnVocHdfSjBhMGZmVk14c0hZVlNOcF95ZDhIZTJkLURscExjWGNzLVVZd0t2M0ZMd0NmTFlYTG5QelZuMG16bGN6Q1kta1kwX0JMRDNOUk9GcHgyY0R5VXEwdlg2c2ZGQnRMYmNra2dnYkFua2JQUno0ZlptajUxZ0ZzZzd1bzZjcTRwaGFxUElLNEdOVldlUTNPdnJmZXRUR043WUVtSnpVVEpuTFpMSEw?oc=5",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 02:23:17 GMT",
+    "fetched_at": "2026-06-25T20:12:58.589766+00:00"
+  },
+  {
+    "id": "c9ff8d73a2cd",
+    "title": "Mali Reclaims Telecom Crown as $277 Million Deal Returns SOTELMA to State Control",
+    "source": "The Voice of Africa",
+    "summary": "Mali Reclaims Telecom Crown as $277 Million Deal Returns SOTELMA to State Control&nbsp;&nbsp;The Voice of Africa",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWUE0Q2tVS3Y5RVd3X0Z1amZVeXg0Vk0zbnNUOVJhS1BXSkRWSnJwYTVGMDRiR2wySU1BOGJBSnJBZnhrank3ODdaS0R5UWxrYWN4dHFNQVY1RzBORDZiZzN5TVFneDl4aGFOckVzS3JkNmhXNUVsdnBNYVpiVU80ekhkMC1oMENDMHBQeldNUHZDSXBfcmh6c1JMTGVsUQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 25 Jun 2026 11:56:30 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625628+00:00"
+  },
+  {
+    "id": "ae80ae96497d",
+    "title": "AzerTelecom and Telecom Armenia Sign Internet Traffic Transit Agreement",
+    "source": "Caspian News",
+    "summary": "AzerTelecom and Telecom Armenia Sign Internet Traffic Transit Agreement&nbsp;&nbsp;Caspian News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVhkN0dwbmZBS3dOMG1kV0NBclNUQ0Jtd3FzeXJOQ05Vc2ZubGRITkJuS3p1TzFJT3hxYUpTb1hsZGh0NnRtZFBuV1p5cnFLem11NkFveG1SR1M1S0sxT2hkdzRwdkJmVjJkZjdnVlA4LU1XLXc0OUdOdmduaGM5dkpfbW1kUzltTkxnelE4NGkzUjhncHpURWlnZ2tnVjlKcnRYQ0xpeUFwZkY3Wl9WUFVnU0dGenJyRnRuVQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 23 Jun 2026 21:40:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625657+00:00"
+  },
+  {
+    "id": "572852fad9ba",
+    "title": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money",
+    "source": "Britannica",
+    "summary": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money&nbsp;&nbsp;Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbHpTN3J4clltbUlhWGpKanVpc0tRWGJDZmtaMUJCeDEzSmxhalE1WTBiOFdpdVlSQXB2bXV4SGpQWG9SYThZakpVeUFsd3YzZWF5Sg?oc=5",
+    "image": "",
+    "published_at": "Sun, 21 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625677+00:00"
+  },
+  {
+    "id": "5993f57e3d6a",
+    "title": "Lackawanna County man accused in more than $2 million theft from telecommunications company",
+    "source": "WNEP",
+    "summary": "Lackawanna County man accused in more than $2 million theft from telecommunications company&nbsp;&nbsp;WNEP",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQME05VmQyZGVvQ25QSTJCS3pVNmdjNWJCbWN5cWtNblpJeVpSdFJfYUhtZTNZTTZRQzJUYmJsdF9XOTkzMXg0Tm9JWUU0WlFHMHk1M01lSjA0UjdSSjdURzd1TzhfT1EybVQ1dzdDMG5xUHRYYVA5SmFYTkg3cVk2MXRQUWp5SzIwZ09GX2JTcy1UT0kzNFVlQVJaanVtVlNzOHBGSmlsNkhPTlpoRlRzU0NyMUR5VEFSZC14WGhiNWhnOF9yZ2dWNU9kdm1JVTZLNl8yYXpaLTVNX0JvUzZwYUVWSWZjbGhkU0IzclU2b1NwOTB2TmM1bnl5bi1qNFZmbjBvd3FxOEJtWkotZEh1R0hIWkJESXZZcTJ2eGhyRFJ5R0o0NXZB?oc=5",
+    "image": "",
+    "published_at": "Tue, 16 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625695+00:00"
+  },
+  {
+    "id": "76f2abb028b6",
+    "title": "Satellite, Space & Telecom Industry News & Insights",
+    "source": "SatellitePro ME",
+    "summary": "Satellite, Space & Telecom Industry News & Insights&nbsp;&nbsp;SatellitePro ME",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2NSMVhBbjlhTmlMS2JlR3ljRkpCM2NJX05fWXZPUk83Y1djYno2NFpkYVk5eG1aSFV0UlNtTnZPZThfQk5nNXZjdUU5dmk0V29fbklmanlPSks5NmthTUl1ZmtqT1VEWW83Q1QwenFJZ2pLRURZOVNnUUoyT2kyeFdwd0FNR2FjS0RoUXBMZWFaS19nX1VfQ241QUE0cG8?oc=5",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 06:46:46 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625710+00:00"
+  },
+  {
+    "id": "bbb343da4d30",
+    "title": "AT&T AI Partnerships Target New Growth Beyond Core Telecom Business",
+    "source": "Yahoo Finance",
+    "summary": "AT&T AI Partnerships Target New Growth Beyond Core Telecom Business&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWE2QUIzU3RXNUFtZElRaC1mM0xPTUZGU0RORE1SVDVBY0dWS2RxSU5PWVFaZTBHYlAtZnRCOW5HVWpnUGlOdE5CMV9aY0FDamhKdEt6X0NkWEtWamNOYXlKMkVld2lJZWctdE1WanBJTmtOZ3B1akR3WENHVnlHUWZVVW1UN2ZfSTZ6dFlFVnR5N0lhYzZWQTdzajM?oc=5",
+    "image": "",
+    "published_at": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625725+00:00"
+  },
+  {
+    "id": "4dfb83799f9f",
+    "title": "Supreme Court sides with Trump administration on federal regulation of telecom companies",
+    "source": "WRAL",
+    "summary": "Supreme Court sides with Trump administration on federal regulation of telecom companies&nbsp;&nbsp;WRAL",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVdDWXFLTUZQSkhkcXEzM29PLUFONlNXeVhiX2haS2tmb1BMckxUQWRsc0JRZUVidnpwVTF5ZmZ3RzE1N3F3eV8zcXhjY0FJbjJ2N0p6NWh3VFpHallBQ0J3NGZYNk5tM1h0WTlpQnJkYjJFR0tVUWtxZ2cwb2V1UkxZSnJDaGlHcW13bGcwc3V1Z3M3TXZjbmd6Z0U2TnhzWnp2b0t6QjdDRXphWkVHdUI2Vk1iVHExVU92S09jQWxEdw?oc=5",
+    "image": "",
+    "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625740+00:00"
+  },
+  {
+    "id": "13ebf3e11d46",
+    "title": "Kazakhstan’s Telecom Sector Set for Potential US-Backed Investment",
+    "source": "The Astana Times",
+    "summary": "Kazakhstan’s Telecom Sector Set for Potential US-Backed Investment&nbsp;&nbsp;The Astana Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDNIOU9pZFFPeURFbXhzUHFYVTdpVGhlUlpSZHRPV1dkcDVDVXE0eFljVWU2QW1oSDIwODlBT2hadWhnc0h2ZWwwTzRfNUplbDEtVFE2WXR1M3RTWEJsSGxlV193Z0dUWkt0Vl8zRmgwbGZRNWdvT3VEekR1N0ozNGYtY2lucDBVOXlTdWFscDI1b2xkczl4cVpabE0xZkE?oc=5",
+    "image": "",
+    "published_at": "Thu, 18 Jun 2026 04:36:01 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625760+00:00"
+  },
+  {
+    "id": "f1791f18ea43",
+    "title": "Telecommunications companies are adapting to natural disasters by investing in new tech",
+    "source": "NBC News",
+    "summary": "Telecommunications companies are adapting to natural disasters by investing in new tech&nbsp;&nbsp;NBC News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlFJNlh0WV9Fc2pqM0VLUk5YV1YzSzM4eEczMS1FbzNGa0d6Q1NrZGx2UVVxbDZqM05KbUlhWTRBNjMydHNCLUhhaDVXODBOc2U1dGQ5RFRnTnNhanVSQ2NWRzNOZDROSGZtdGJUcG5RZ0RaNDdHME1UWFVHc2tXaHBlQ3lFYTlOVDRPbVhoYkhQSmd1MHRRVFhiSmMxQ1FMOWxpUlFRMjRRUzNHUlczeUl2VlFfOHh0ZkhHMVpoSzdWbkk0WU1DSGdHVzNSV1U?oc=5",
+    "image": "",
+    "published_at": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625777+00:00"
+  },
+  {
+    "id": "7004bfe6fdde",
+    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
+    "source": "Bain & Company",
+    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
+    "image": "",
+    "published_at": "Thu, 28 May 2026 07:00:00 GMT",
+    "fetched_at": "2026-06-25T20:12:59.625791+00:00"
   },
   {
     "id": "f4e4eadc2476",
@@ -70,26 +210,6 @@
     "fetched_at": "2026-06-25T17:20:46.408723+00:00"
   },
   {
-    "id": "51f506a60f15",
-    "title": "European Telecom Industry 2026: 5G Standalone, AI and FMC Drive Growth Despite Revenue Challenges",
-    "source": "TelecomLead",
-    "summary": "European Telecom Industry 2026: 5G Standalone, AI and FMC Drive Growth Despite Revenue Challenges&nbsp;&nbsp;TelecomLead",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYnlGbWpfeGJIaUxzbWxHYTQ0QkFCMmh1Nk4xNjNqemRRaldLQ0dpRVpua0h0TFBxWkgtY19BcGFYNUJNcFlmeklsV2xOdnE2Z3BKcEZwMjZkcHlxUEhLUHRDX1hLYW5yRnAtbk9DOXJrLVdSVm5sQ0lVek5ncmJtdWY4aDFtYlFxbks0VVBHcXpzLWppNXg2X3JiUWdKeW1hUG5JWG5kUmlrNjNzN1pYTnNaalBKdW9lczR6d0hDVWJJRVhzbkxiMHMyeU95Wk9WUVF1cmxUWFFyajTSAeMBQVVfeXFMTlpZQUNoTUhXdkdMQnBxZEhzbVNkSmNIQ0NBXzNEUjZtT2t1bmJ2ZTU5VHctWl9fVmtlNzhnaFhLWElLNXdUN1h4dUw5WERmX2tjYXRqQll3Z1k3aS1JWEZlc0Jjb2lSbUNtY3FRRjhQNVJFVWlEalFuVDdXNHBVblA4Wk1YaWlFRVFRWUFmb0hDZEdkTXJtM2lLVzlPWF9QYnZtX0FlOWNJaGg3UTV0aW1EWjIxRmFSU19URU5fbEh1QzZrU01PampsWnVLbWwwNmNSNjdNWkxYbFA1aUluNlZRaFk?oc=5",
-    "image": "",
-    "published_at": "Mon, 22 Jun 2026 03:55:02 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408739+00:00"
-  },
-  {
-    "id": "240aa76084a9",
-    "title": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections",
-    "source": "Omdia",
-    "summary": "Omdia: Global telecom connectivity revenues grew by 4% in 2025, with 5G surpassing 3bn connections&nbsp;&nbsp;Omdia",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUy12a25yakdPblZtakVRM0EzZGRMOTdxcmpKVXZuMGRkZTRlelBKN09CUGFWZUF1LXd3QkJHWmRPU1pqWDdkV2E0WVpKdU1tNWpsSG04UUpPaDc3VUpGOUFSTkhIdU1mMnpOWkpmb2N3MURtVFYtWUVMS0FOeDFFc2N0Z2RrZldDdTYtdmYwTVFvXzFfb0FtT3RubXpfdjJlUXQ1TFJuUFEwdFhxVHBWS3kzYVQ3N29feDEwLWpiOUFFOE1LTUN0Uk8xWVdKWTdjRWdWeXhR?oc=5",
-    "image": "",
-    "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:46.408754+00:00"
-  },
-  {
     "id": "91ef1c5a57d0",
     "title": "T-Mobile's 'kinetic token' may be a non-starter for most telcos",
     "source": "Light Reading",
@@ -98,86 +218,6 @@
     "image": "",
     "published_at": "Tue, 23 Jun 2026 05:35:01 GMT",
     "fetched_at": "2026-06-25T17:20:46.408767+00:00"
-  },
-  {
-    "id": "ae80ae96497d",
-    "title": "AzerTelecom and Telecom Armenia Sign Internet Traffic Transit Agreement",
-    "source": "Caspian News",
-    "summary": "AzerTelecom and Telecom Armenia Sign Internet Traffic Transit Agreement&nbsp;&nbsp;Caspian News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVhkN0dwbmZBS3dOMG1kV0NBclNUQ0Jtd3FzeXJOQ05Vc2ZubGRITkJuS3p1TzFJT3hxYUpTb1hsZGh0NnRtZFBuV1p5cnFLem11NkFveG1SR1M1S0sxT2hkdzRwdkJmVjJkZjdnVlA4LU1XLXc0OUdOdmduaGM5dkpfbW1kUzltTkxnelE4NGkzUjhncHpURWlnZ2tnVjlKcnRYQ0xpeUFwZkY3Wl9WUFVnU0dGenJyRnRuVQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 23 Jun 2026 21:40:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357591+00:00"
-  },
-  {
-    "id": "572852fad9ba",
-    "title": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money",
-    "source": "Britannica",
-    "summary": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money&nbsp;&nbsp;Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbHpTN3J4clltbUlhWGpKanVpc0tRWGJDZmtaMUJCeDEzSmxhalE1WTBiOFdpdVlSQXB2bXV4SGpQWG9SYThZakpVeUFsd3YzZWF5Sg?oc=5",
-    "image": "",
-    "published_at": "Sun, 21 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357625+00:00"
-  },
-  {
-    "id": "5993f57e3d6a",
-    "title": "Lackawanna County man accused in more than $2 million theft from telecommunications company",
-    "source": "WNEP",
-    "summary": "Lackawanna County man accused in more than $2 million theft from telecommunications company&nbsp;&nbsp;WNEP",
-    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQME05VmQyZGVvQ25QSTJCS3pVNmdjNWJCbWN5cWtNblpJeVpSdFJfYUhtZTNZTTZRQzJUYmJsdF9XOTkzMXg0Tm9JWUU0WlFHMHk1M01lSjA0UjdSSjdURzd1TzhfT1EybVQ1dzdDMG5xUHRYYVA5SmFYTkg3cVk2MXRQUWp5SzIwZ09GX2JTcy1UT0kzNFVlQVJaanVtVlNzOHBGSmlsNkhPTlpoRlRzU0NyMUR5VEFSZC14WGhiNWhnOF9yZ2dWNU9kdm1JVTZLNl8yYXpaLTVNX0JvUzZwYUVWSWZjbGhkU0IzclU2b1NwOTB2TmM1bnl5bi1qNFZmbjBvd3FxOEJtWkotZEh1R0hIWkJESXZZcTJ2eGhyRFJ5R0o0NXZB?oc=5",
-    "image": "",
-    "published_at": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357645+00:00"
-  },
-  {
-    "id": "76f2abb028b6",
-    "title": "Satellite, Space & Telecom Industry News & Insights",
-    "source": "SatellitePro ME",
-    "summary": "Satellite, Space & Telecom Industry News & Insights&nbsp;&nbsp;SatellitePro ME",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2NSMVhBbjlhTmlMS2JlR3ljRkpCM2NJX05fWXZPUk83Y1djYno2NFpkYVk5eG1aSFV0UlNtTnZPZThfQk5nNXZjdUU5dmk0V29fbklmanlPSks5NmthTUl1ZmtqT1VEWW83Q1QwenFJZ2pLRURZOVNnUUoyT2kyeFdwd0FNR2FjS0RoUXBMZWFaS19nX1VfQ241QUE0cG8?oc=5",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 06:46:46 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357661+00:00"
-  },
-  {
-    "id": "bbb343da4d30",
-    "title": "AT&T AI Partnerships Target New Growth Beyond Core Telecom Business",
-    "source": "Yahoo Finance",
-    "summary": "AT&T AI Partnerships Target New Growth Beyond Core Telecom Business&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWE2QUIzU3RXNUFtZElRaC1mM0xPTUZGU0RORE1SVDVBY0dWS2RxSU5PWVFaZTBHYlAtZnRCOW5HVWpnUGlOdE5CMV9aY0FDamhKdEt6X0NkWEtWamNOYXlKMkVld2lJZWctdE1WanBJTmtOZ3B1akR3WENHVnlHUWZVVW1UN2ZfSTZ6dFlFVnR5N0lhYzZWQTdzajM?oc=5",
-    "image": "",
-    "published_at": "Wed, 10 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357677+00:00"
-  },
-  {
-    "id": "13ebf3e11d46",
-    "title": "Kazakhstan’s Telecom Sector Set for Potential US-Backed Investment",
-    "source": "The Astana Times",
-    "summary": "Kazakhstan’s Telecom Sector Set for Potential US-Backed Investment&nbsp;&nbsp;The Astana Times",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDNIOU9pZFFPeURFbXhzUHFYVTdpVGhlUlpSZHRPV1dkcDVDVXE0eFljVWU2QW1oSDIwODlBT2hadWhnc0h2ZWwwTzRfNUplbDEtVFE2WXR1M3RTWEJsSGxlV193Z0dUWkt0Vl8zRmgwbGZRNWdvT3VEekR1N0ozNGYtY2lucDBVOXlTdWFscDI1b2xkczl4cVpabE0xZkE?oc=5",
-    "image": "",
-    "published_at": "Thu, 18 Jun 2026 04:36:01 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357697+00:00"
-  },
-  {
-    "id": "f1791f18ea43",
-    "title": "Telecommunications companies are adapting to natural disasters by investing in new tech",
-    "source": "NBC News",
-    "summary": "Telecommunications companies are adapting to natural disasters by investing in new tech&nbsp;&nbsp;NBC News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlFJNlh0WV9Fc2pqM0VLUk5YV1YzSzM4eEczMS1FbzNGa0d6Q1NrZGx2UVVxbDZqM05KbUlhWTRBNjMydHNCLUhhaDVXODBOc2U1dGQ5RFRnTnNhanVSQ2NWRzNOZDROSGZtdGJUcG5RZ0RaNDdHME1UWFVHc2tXaHBlQ3lFYTlOVDRPbVhoYkhQSmd1MHRRVFhiSmMxQ1FMOWxpUlFRMjRRUzNHUlczeUl2VlFfOHh0ZkhHMVpoSzdWbkk0WU1DSGdHVzNSV1U?oc=5",
-    "image": "",
-    "published_at": "Tue, 02 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357715+00:00"
-  },
-  {
-    "id": "7004bfe6fdde",
-    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
-    "source": "Bain & Company",
-    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
-    "image": "",
-    "published_at": "Thu, 28 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T17:20:47.357730+00:00"
   },
   {
     "id": "0ef61b630411",
@@ -198,26 +238,6 @@
     "image": "",
     "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
     "fetched_at": "2026-06-25T17:20:47.357762+00:00"
-  },
-  {
-    "id": "930c252b3e8e",
-    "title": "Global 5G Network Expansion Accelerates as Telecom Giants Invest Billions in Next-Generation Connectivity",
-    "source": "Spherical Insights",
-    "summary": "Global 5G Network Expansion Accelerates as Telecom Giants Invest Billions in Next-Generation Connectivity&nbsp;&nbsp;Spherical Insights",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3Q5bTNlbzFRejVZWjZVR1FWN3RUTGVzcFV4WGdJWThKUUplbnk0TDR3d09rU2swbFZzcnZiMmRxN2lsSWQ3Y0RzZzhFam9nZ2l3NnFneEZrM2lwcUlxYUdNdElrMldrZmlfTUU3bzN5WWJFSW11dUpIYm9nczg5am1SY1AtbzNHQlZ4di11ZmY1U0J6MlBVVkpMTjFqUEJTa2s1X28xQTdWVDNHXzVYaXM3V1hab0EtaDRWYTA0MHN1c0Vqa1l1d29NTVFYNWFYYkR3cG5sdXZZUDhRTXc?oc=5",
-    "image": "",
-    "published_at": "Thu, 11 Jun 2026 13:56:42 GMT",
-    "fetched_at": "2026-06-25T14:47:43.309696+00:00"
-  },
-  {
-    "id": "d1c8dd2726ca",
-    "title": "AmpliTech Adds Senior Telecom Leaders to Accelerate 5G Open RAN Commercial Growth",
-    "source": "The Fast Mode",
-    "summary": "AmpliTech Adds Senior Telecom Leaders to Accelerate 5G Open RAN Commercial Growth&nbsp;&nbsp;The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3Y0bW1Rb1JOWkRUNEhnZGp2WEQ0TDMxbFUwSWNhV3pTdDFOOW04SnVocHdfSjBhMGZmVk14c0hZVlNOcF95ZDhIZTJkLURscExjWGNzLVVZd0t2M0ZMd0NmTFlYTG5QelZuMG16bGN6Q1kta1kwX0JMRDNOUk9GcHgyY0R5VXEwdlg2c2ZGQnRMYmNra2dnYkFua2JQUno0ZlptajUxZ0ZzZzd1bzZjcTRwaGFxUElLNEdOVldlUTNPdnJmZXRUR043WUVtSnpVVEpuTFpMSEw?oc=5",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 02:23:17 GMT",
-    "fetched_at": "2026-06-25T14:47:43.309711+00:00"
   },
   {
     "id": "c1028f47051e",
@@ -248,16 +268,6 @@
     "image": "",
     "published_at": "Mon, 22 Jun 2026 15:10:00 GMT",
     "fetched_at": "2026-06-25T08:28:54.606954+00:00"
-  },
-  {
-    "id": "4dfb83799f9f",
-    "title": "Supreme Court sides with Trump administration on federal regulation of telecom companies",
-    "source": "WRAL",
-    "summary": "Supreme Court sides with Trump administration on federal regulation of telecom companies&nbsp;&nbsp;WRAL",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVdDWXFLTUZQSkhkcXEzM29PLUFONlNXeVhiX2haS2tmb1BMckxUQWRsc0JRZUVidnpwVTF5ZmZ3RzE1N3F3eV8zcXhjY0FJbjJ2N0p6NWh3VFpHallBQ0J3NGZYNk5tM1h0WTlpQnJkYjJFR0tVUWtxZ2cwb2V1UkxZSnJDaGlHcW13bGcwc3V1Z3M3TXZjbmd6Z0U2TnhzWnp2b0t6QjdDRXphWkVHdUI2Vk1iVHExVU92S09jQWxEdw?oc=5",
-    "image": "",
-    "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-06-25T04:13:05.319724+00:00"
   },
   {
     "id": "0e82ed090cd3",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
     "fetched_at": "2026-06-22T05:12:27.810566+00:00"
-  },
-  {
-    "id": "6a1273713fd5",
-    "title": "2024 Telecom Industry Outlook",
-    "source": "Deloitte",
-    "summary": "2024 Telecom Industry Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTJIV2pPSFE5ZGt2UkRtQ0hsODJfWFRWczFUeUZQZ1g1OF82R255VGFzenZ5SDFzcnB1bWZuclA4LVJKcm5Nb2xjZzhDVkpsaDRNNUVMYURRMXA1RlktN2J3V09xcm9GcVI5dzNYSWxJLXNFUTZpQnhhQ0VVU2FOc3dmRmJ4emwxQ3dhWnhhLUhZT0dvSTRvRzFuNA?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 18:07:26 GMT",
-    "fetched_at": "2026-06-22T05:12:27.810662+00:00"
   }
 ]
