@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR0FiOEZKeS1SQlZPZmFyRmVJd29ZTExQOTRaTzJOTDF5bThLMS11TU90QUdzTHN4Z2I4cjhtQmIwbko3VkFlRUxubnkzYWU5bFl2dFJRSFJlc3FRRGEybEU4NlozWXhoTlpncExINWRJSllwX3lTWFVmXzQwR2NfYkItdDJPOUpGZF9KLTdiSG5GVDJkQ2NydWxWS045NFhxNGpmOHY0VnRmRWlPdEFBYzVEblZvbElCWjQyZ1ltRnJ3UXZ6UHJlWTFTb2dCSEFKNVRWRE5BeDFib1o5bzJnWtIB5gFBVV95cUxQVkJrVG53TWZIRGpDZjJ3RHdNbEt0VkdqYWUtS3hRYUFKamVsQ0t5X1c1UzRIVDhKQkFENlBMa0hxYTk2aTd6NWdxYnlQaUd1UlFmRG1TYkFZRktSVnVob3pEQlhsdjdLeUdtelgzQTMzc1Y2cG5aUlNzRnZtMlItV1A1cjU1elF5Y3FFNFNEYkVkQWpOOG8zVDg5NnQweklJalM3VVE0bDJZRTY4dTAybjZleW5HU053VzdMZ3JsNmk5czh4SVgxZzlRZnl1YWpNRzlERnNOR3lka19kVnBWQktNSkZMQQ?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 12:31:42 GMT",
-    "fetched_at": "2026-07-08T10:27:04.080979+00:00"
+    "fetched_at": "2026-07-08T12:26:58.274600+00:00"
   },
   {
     "id": "566e7df24e61",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0lSNEhBUmYtdVR4c3RNVHlQSVFwQmFlZGJmOHU4cnYtVVdPWHBpa09kSk5HdUJJajdsbWt5bGU0MWhFa0ZWOHVCT2U0V1ZQUy03eXJRRVphbEw3UWQwRHJpVVVyaUxsOEhiRk1nNEZuWC1UZno0aDNiUWx1cUs5ZGxZWXBoZy1GQ1R1Sy12RmZZNGNYMEZsZTE3ZTB1RVZfd0pLaDVsWTlIMU95c3MtLUFtT3hzQV9tbDdQZUR3?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 16:53:13 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081010+00:00"
+    "fetched_at": "2026-07-08T12:26:58.274636+00:00"
   },
   {
     "id": "ad0aadbe5a80",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFNBQzYzUnlPVnEwS3NaNzRDUXphdzJrcHQzQ1dfWWhtc1kyM0lBUmowV3JpLTJLR1J1eWNIblg2UVUxZHN0WS1yMjNkdHVjc2lfVVl5czBDbWpIaG1YZHJEODlwd1p1bzA2eTktMW9hU2NVaXpFR19pTzJoX2NQRmw1dmEwTnM?oc=5",
     "image": "",
     "published_at": "Wed, 01 Jul 2026 07:15:32 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081024+00:00"
+    "fetched_at": "2026-07-08T12:26:58.274649+00:00"
   },
   {
     "id": "fa1003688588",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjFjdkptamlRTVhYVXhwS3NaOXNfMGM4UEtyYkltaGpmUlk0VmlUNEg1VDQ1cXBhU0U4OU9ycUQzZ2paQlRycVpRSVN2MWNZSy1odktyamtmdlk4bU9tQV9ZdURTSUtTcEx5eFJ1Zll5bFptQkpmM05ZVHNoVnpVU1ZiUWx0UHQ4UVRoWjIyY3ZicFNzQlJCUmpfblZFSS1FTkZWUkxFNUc4S003LUJOcmt0aU5PZ0U?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 21:47:49 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081039+00:00"
+    "fetched_at": "2026-07-08T12:26:58.274663+00:00"
   },
   {
     "id": "afb59c850d13",
@@ -47,7 +47,157 @@
     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdW5pdFNEU2RycHBBUkp4WEVCb1F5dDRsTUZaUFhlNmZnQ1hwY2NLX0poaDZZeVlYNEpMQU1xUW1UTmVFQlFjbjZUai16Tm40cDgxTGYwWG5pWlV3Q0RsY2JmWXVvZ3QxeTJqYkQ1cEd3THh0cy12dlZkMnQ3V3pEdWR5eVBGQV9aTEV4YTJkZUhEOHl4d2NUdGxUMjJMUUxKUW8tTVJ1V3NfMWNGa0hkZUowdEktX1R2MG5IVUxMcFJrNEpuXzdiVGl6bHdQUDZucVUxd3Y5RHh3WlhRVk1mdnJuNVBaTnBNN3pndUJsVWpKM0NVMmkxcmI5dDdodEh1Sm5z0gGIAkFVX3lxTE5LY0VkR1cxazIwdDNTVnBkTlFtYUhPUEVUSnM0VkRlTXpZTFp6bXZsbzdTRlZ6RnE1Q0NCaWVtaGF2UUpNVVhQQUNWbU8yUHJrU2NNVVJCcEhpUUg5ZmpQazViVDQ4MFNtVXVJdEhhbDNfWmNpVWo3RGRNbG9yaUU5WXBRRVZ3WXpjVGU1ZW1BcTN0cHNoNngzVUFpV2dDYmRwV0Zqd0htbldMRVhRRWhFSnNMUERKNFpwZW9GSlI3VUphV0RYYlVGcDdnOXJmczh1dEFWMG90MFRUR0dwOTA2SEZmNzVLaG4wNzRtR2NRZ3UtOVZ1NXJxRENSRnkxRWlJSmU0X1JabQ?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 14:49:28 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081065+00:00"
+    "fetched_at": "2026-07-08T12:26:58.274689+00:00"
+  },
+  {
+    "id": "925c03806e8f",
+    "title": "AM/NS India gets ₹240 crore PM-SETU mandate in Gujarat",
+    "source": "Manufacturing Today India",
+    "summary": "AM/NS India gets ₹240 crore PM-SETU mandate in Gujarat&nbsp;&nbsp;Manufacturing Today India",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEtST1lGMGNFdUtYVEVBMUJzZjU1QjBTYzVxMFB5TExmYTAwd3NsZEREOEdNdFNYeVc3aW1wb3ZWMENlQmlIaDBNcWJYaHdmTmk4dkVRQWxOYmFRS2VIYzZPbWVOdEliZlpiNlZiZmFyM2djUmhxQUVOdnVMMkdSOHZ6N21GMGFwTlR5OWtud3YySTNQdDBabzhLMWlPVF9VdVYtQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 05:49:20 GMT",
+    "fetched_at": "2026-07-08T12:26:58.274705+00:00"
+  },
+  {
+    "id": "478011bd9384",
+    "title": "Productivity up, wages flat: How India’s manufacturing growth has stopped working for its workers",
+    "source": "Ideas for India",
+    "summary": "Productivity up, wages flat: How India’s manufacturing growth has stopped working for its workers&nbsp;&nbsp;Ideas for India",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGVaQkN6U3FoMGh3aXluamZEcGFoQjlBbXZYRmhWaGdIa3I1RWxwTXRUckdnQW83RG1WZUViazFMZ0UtRmkzdHg1RHVuQlRKWmY4TjNaYlNGeDN1bW9CYjNoUjRIODY4YllBV1N2TTB2alRtQjE0eXlLU1o0TWU3M1g0Q3JNbmtUOVhaUUVlVEJjeGdtNGZzc2otZE50QUp5V1pRNTFMWkFSbUpaUjcycEl5VHBkYzJWS2g5Z2Y1U3ZyWXBjVnFvODRCbWRzSW5JWmNGeVp0a0lTXzF3QkE?oc=5",
+    "image": "",
+    "published_at": "Fri, 19 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-08T12:26:58.274723+00:00"
+  },
+  {
+    "id": "d11c211add98",
+    "title": "India outpaces global manufacturing growth as supply chain shift boosts its appeal: ASSOCHAM study",
+    "source": "Fortune India",
+    "summary": "India outpaces global manufacturing growth as supply chain shift boosts its appeal: ASSOCHAM study&nbsp;&nbsp;Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDkxQmRWMTFiUGVveGtJSEtEdlo2MnRpTDJ2S1dwdHAtMWdvWG1YcjM0UFl2N2J5VTNfWG0wUjktT3h6ZVo5WnRMdElwQWdmamI0cS1BaFhlSUtROVVlMk1oNnBNRXpSSll0QXUxS1JtSU03OXdITmdCMmZqTW9uZWtvc3hmUlQ1c3hxbXhSZ3hVS1VCY1Y2LTVsU3paelc5YzRfakExZnNwcDhPZ3FNYTRWS2Z2RElCVmxwVTY1cHZfZHF5bjFEcnZlclIxRGktWFNIWXFpNjjSAeYBQVVfeXFMTzM2UnJpanJDbVBneEI1WTBlekFZWEd0bjNpa1FiZVlTYUNBaGNhRkp6c3ZBSE1qTTZ0NjV1QkRDSFlzTHlHdzdEUnJjX2xLcW5oREg1cUFrYmVPODlnZDRRekhXQkZzMTJ3RzFTVFlsRjF2ZUcwaUphOXExeVRoQk9pR3dQc3pUMXkxSzBXQkdJdHp4MFlMeVBvOUpQRHQzZ2M1cEtFR01qWUMtR0N1UU1RS3Npa2UzQ1NLZHdPLXBDTFFuVXlPaGtOZXk0ZTF6dUZHZmx1WXFZMFkySVJWT1FpWktrQ3c?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 12:51:08 GMT",
+    "fetched_at": "2026-07-08T12:26:58.274740+00:00"
+  },
+  {
+    "id": "a017dd527554",
+    "title": "State-level deregulation key to attracting more FDI: CRF's Fellow Rupa Dutta",
+    "source": "Awaz The Voice",
+    "summary": "State-level deregulation key to attracting more FDI: CRF's Fellow Rupa Dutta&nbsp;&nbsp;Awaz The Voice",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHBveFVhSnVwLTZqU0hlbUJiVWRjYlVrUTNFTUEtb2hUV012V0tuTVFWeTdZX09yRUJzS2ptdFN2bXc5eU1pYnNpSFNjdklXVmFtMC1faTdkSWVHSlBsLVYtTjctRUFqcHhhQUZfOFdxcXdXUWlwOEdab2dYa2lDa3FMMWxWRFh2VDZXa3Z4WXF6U1pyUlJYNDNjTEJWR0dhaGloMnY5MjdWcDJ6aGFaYXY1WEJRX1NobEJwTmRtTnRyRDI2cmVn?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 07:20:36 GMT",
+    "fetched_at": "2026-07-08T12:26:58.274754+00:00"
+  },
+  {
+    "id": "21c8307d9553",
+    "title": "AG Organica Marks Three Decades Of Manufacturing Excellence, Showcasing India’s Rise As A Global Cosmetic Manufacturing Hub.",
+    "source": "TRIPURA STAR NEWS",
+    "summary": "AG Organica Marks Three Decades Of Manufacturing Excellence, Showcasing India’s Rise As A Global Cosmetic Manufacturing Hub.&nbsp;&nbsp;TRIPURA STAR NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGlHam5paUgzWE9lcXBRTjZfbmd1OWxqeVRsZlZZbXFOR1I1LU5WLXp1dzVOcDdyRkhEUDlyZTJpdEtCRWRncTBFVTI1b2sxajA2UHJpVE9Ba0tFbDRtSlRrTHJpWjlmdnJ0N0ZwUFVSVzY3aTAtdk5URHdJUFpTeFFfOGhiTXhwak5LTFpWZ2ZoN0VvYXloZVpYR1Etd050bGJnLUtFY1NJeFNDZ2VhM0V2M1V4dnZCQWZwbUNlZzc4LVJVY2E5MUN1WEstYWFVWE4weUhTS2lOaGZsc3NLbFJqNjd5WndBT2c?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 07:23:10 GMT",
+    "fetched_at": "2026-07-08T12:26:58.274774+00:00"
+  },
+  {
+    "id": "286e57512445",
+    "title": "PM Modi launches development projects worth Rs 11,000 crore in Kerala’s Kochi to boost infrastructure and industry",
+    "source": "DD News",
+    "summary": "PM Modi launches development projects worth Rs 11,000 crore in Kerala’s Kochi to boost infrastructure and industry&nbsp;&nbsp;DD News",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2dKNFJGY2pzeUNZMmF1VzZ1b25MbENIWjAzTUk4UVlIZjJ3ek1nNFN4cjJvcGc2cmN4elVyd2hNNDZzZGNJb0IxeWd4QXpXdldMajdPSFN5b0JNTmdrRHNjMmN5aFdlbHZwTy1xVTFMQWRMMFRLQl9nUXFKTllUWHlGTmYxdHJ1Ql9pREVKcWNPVkFJOUhMZEpRMm5TSGtUd1JjWW04a3V1LUFZV01VNWtxdXZVVDBIb192amhvUld2SER4Z0dURmItbE9ZcmRvQl9NZw?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 23:41:12 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328037+00:00"
+  },
+  {
+    "id": "c952ec906c86",
+    "title": "Tourism in India: Infrastructure Growth Driving Travel & Economic Development",
+    "source": "IBEF",
+    "summary": "Tourism in India: Infrastructure Growth Driving Travel & Economic Development&nbsp;&nbsp;IBEF",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDZObi1fUDFKU0cxWjFfNGtMRnFRZ19kV2I3WlNMa0hHUG5mT1lkM1dqQXZtTTNUd1BRUXQxWFUySmszRVp0MjNsY0dzc1ZpLUNtTUlDQ1lYVmVmUnJuUXRDNDN3dlkyTllWUnh0N3J1TjdSM3FDVXoyUGZibHRIZ0Jha1EwVkYyY1hZdlhQbXJzTGxMdjJUS0ZMNUVSTHE2d3J4akQwdXllUDNVV2ltdVdITGNpZw?oc=5",
+    "image": "",
+    "published_at": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328074+00:00"
+  },
+  {
+    "id": "baa126e98971",
+    "title": "Indian Railways sanctions infrastructure projects across Northern, Southern and Eastern Railway zones",
+    "source": "News On AIR",
+    "summary": "Indian Railways sanctions infrastructure projects across Northern, Southern and Eastern Railway zones&nbsp;&nbsp;News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW9tNVV4cHdLbGRMWFp2dTNfNTdNdkhmdWVFSWsxWlhGZjBtU3pTUWVUck9FTXJCb3JWZkNtVG5Ja0ZkMW0zZFBCNURaZjFEWmVyeUUyQ0FlSWQ4VldvYVRGcm9wbGYwSUwxMGI2V0xkVFQ5Sy1hMVVONl9IaEhHRUtNT1ZiT3VPMkIxUF8zUlRNQmo2UlJobVBnU2toSVJmSndFWm1uOTEtOHdTRnFuNGIxMng4dFNxNE94SnRZUlJ4bXVI?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 18:31:02 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328092+00:00"
+  },
+  {
+    "id": "6ad92183fe92",
+    "title": "Transforming India Through Integrated Infrastructure Development",
+    "source": "Drishti IAS",
+    "summary": "Transforming India Through Integrated Infrastructure Development&nbsp;&nbsp;Drishti IAS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUVPRlhIems5TnUtOFF0M0s3U0xIWjJqcXpOdC1CM0htVHJMNlR4Q1U3QW5vTmU0dGVkdUV1U1prSjZNVVVaYWR4aTBRUTNkWmJwVlNJbjhKWk1STzhlaFEyVTVXX21BMDNIcm1sR1h4QWNWbTVrUVRJa0MySzN1WXZBcFdMbU1ab1VIRXdWMU9mY0FreGFuQXc5VlQwM2xydzU3eVVPcnNIN0pUZlhGZW9LQmFyVHZsRmMtUFFiVGdwX3c?oc=5",
+    "image": "",
+    "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328125+00:00"
+  },
+  {
+    "id": "2c2827630c38",
+    "title": "Kaushalya Infrastructure Development Corpn Ltd leads losers in 'B' group",
+    "source": "Business Standard",
+    "summary": "Kaushalya Infrastructure Development Corpn Ltd leads losers in 'B' group&nbsp;&nbsp;Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSFdjQ0l0OWRsa3RxOUVGOUZ6Nm1vV1BfaDFmM0lucllsSlZIaFpiejlfei0wZUFCWFhwZXA3SjVRN25HdjNFMWtnS2p3eGdzbHZnMlFyZXB6N3pzNTBkM0FyZGJ4Yk5kUlVCQmZUbHVEUGdUQ2M3eE9jcmJmajZsS1BGSnlWTWdvTXNNMTduSWtfZ0xTOWZHMG9NNVJTZW83S1I3VEc2T3BpaWhrLTR1Qnc3bThDc3FYZ1ZtTVo4V3Q3NjRURUVINFhHZzVIZHhTZW5YU3RXZkZiV0hLRkNmaEQ4R2Q4OTDSAewBQVVfeXFMTVY5YTB3UjFpTFB6dlFKSGFYeXlwc3JuV2ZHbkdON0V0d0o0akhHX0k2aHJEOHVFOWo1NENudHYtY3UxajYzdHJyNk1iV1hUOUVyeFFhQzJwbmtMQVlDR1F1RnpVbWx6a0hzTDltRGdNNmJzV0s0dXlPOUtBTG1ueVF3NDVremhOTHlKdDAwc1ltV3BrZklic042dk05WTdZZG9IUlBfM2tSVG1vdE9YWk1qXzh0WGhYc2ZCZjdoSUxfRDdKVE4zWXdteFNuTnFENkg2cmhGR05vMzMwSHNpYkFBa3RRT0txalZPR2w?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 09:34:59 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328139+00:00"
+  },
+  {
+    "id": "c0f666620a5e",
+    "title": "Enlight Metals Expands Slotted Angle and Cable Tray Portfolio, Boosts Manufacturing Capacity",
+    "source": "Energetica India Magazine",
+    "summary": "Enlight Metals Expands Slotted Angle and Cable Tray Portfolio, Boosts Manufacturing Capacity&nbsp;&nbsp;Energetica India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1FIcGlCZkRVNUJZeDFwYUpwXy1DTHFOczN2OF9qdF9ybjdRdUhfZlp4Z2RqcHZNQXpnVGpVUU1wSy1Xc184ZkZPY3lydmNONlZlLVAxcmZOeE5yVllzaTJsOUFlemRGZzU3REFFZVRXc040MGNzMDlBdnZUOElaa3VGVTNQRmVnd3dDWFIwcmRBdTNfY2RCSTdWaTc4WDJkaml6MHFoRkJDUDN2cFYtb3VIam1rM0k1Q014RlNWNmJpTVo3TURLcw?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 10:37:54 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328154+00:00"
+  },
+  {
+    "id": "01c8ffd282a3",
+    "title": "Infrastructure, alternative assets, technology draw India’s real estate growth map | Hindustan Times",
+    "source": "Hindustan Times",
+    "summary": "Infrastructure, alternative assets, technology draw India’s real estate growth map | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRzA1VmJQcGtqYkVwR2UwQ3ZlV3hmUlVWVTUzOXNzNFdHbjdkNkFHNzY4d0hKcDQtTmlVYkJLcjVwLTc0LXlta3FLaDctRWk3T1dhWTZET1BSX3RZcm9xU0V2WWNhb2hNcjFNcG5OS2tTdUI2Undpa0poZXBVX2NLaTJISlZTcF81ME1BellEaHRQSFY4ZV9PdHFoc2d2ZXVLV3NhZGRWRUZqaUpmd043TVA0RTlqS0xpamhlMmNTcVhCZEotdjU2NllyQ1pNNjRLS2FrZWIyWdIB3AFBVV95cUxPdy1teTZ1RG5tU2VNclk2c2oxUEJFYXBEaXlRYWdiRWJRdS1iLXBFQ1RmTWw5dXowRy1iNUxWeHM2QU1fdVIwdDhtdkRWMWtHZlQ5N3RlLUZBcERYa0t5ZEVVYjZhVTRURzFYRk9JTXF4Vy1EMmE3Y3ZBdy11MWV5LVV3NW1LaF93RUdHZ3hXd1R1dUZpUGNjYVpXNmVjNFh4ZnJTbVFYdk02d2lGUWZldEVtUUVZeEtacjJmOVRkM09EZC1CTURtUGVNNVVKM1dwaUtHNUNPdUtFal9G?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 04:50:44 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328175+00:00"
+  },
+  {
+    "id": "3f55ccbecbc9",
+    "title": "India Launches Major Infrastructure and Energy Projects in Rajasthan",
+    "source": "OpenGov Asia",
+    "summary": "India Launches Major Infrastructure and Energy Projects in Rajasthan&nbsp;&nbsp;OpenGov Asia",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkJac0ZNVnViNVZCQ1puSU80NklDVXJScVBTM3pmS1NTRnl1Z1lqZGk1ekR6cGlvckFORXdyX2pFckVuTGF2dEpfOTExRkVnNm1hZC1YOXdnckJlbnNHU1hKSnh2Y0d1RTZhUTY0NmFsalp2anNacFY4SGpqV1cxVVRtbUNxVUFURWxMZDFSRmdfbVlPemt1Vw?oc=5",
+    "image": "",
+    "published_at": "Sat, 04 Jul 2026 14:49:22 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328188+00:00"
+  },
+  {
+    "id": "da083e0efe06",
+    "title": "Konstelec Engineers Joins HCC to Target 14,300 MW Nuclear Infrastructure Expansion in India",
+    "source": "Sahi",
+    "summary": "Konstelec Engineers Joins HCC to Target 14,300 MW Nuclear Infrastructure Expansion in India&nbsp;&nbsp;Sahi",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3BQVUIzbC1MZHprOFp5RmxLZ0E3ZjYtaFFTOFI2Ri1YYzNTR09Idm1iLUZNazFGUFB6Q21zVk9NYnpmWVl6X0sybENrM3oxSVhXb1V6ZkgyTzYydHNkNmlraTIzWUZpbW5lbnUxVm9TY3gtcld5bDNsTWJycTRpOEUtN0Vya21FazR2d2ZMbzI2dHplTlJxSXhUY19NcEluVXQzWUEwaEZGZjhPT3JfQlM2ZUJLblpwMC1QWEM3TjhqMFBWandMV3Zn?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 00:08:52 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328204+00:00"
+  },
+  {
+    "id": "f50bc1f2f079",
+    "title": "Large-Scale Infrastructure Expansion Opens up Opportunities for Budding Engineers",
+    "source": "India Education Diary",
+    "summary": "Large-Scale Infrastructure Expansion Opens up Opportunities for Budding Engineers&nbsp;&nbsp;India Education Diary",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlduMW8tUjRaUENRd2N2TmM1TWxBcWpBcjhnS0xQTEFnLVdvVFF6WEFoc3RCdXlMdGVVZmNkZE9Sa05XdDJ5bTFFZFNsRENYMlBiMC03SUFnQkF6bGJpYWstcEp5Mjh1UVRYM3BoNVFTN1RrMmtta1Itd1M4TEVnYm8wbTl5XzhmY01reTdWVzBOTDQyWTI5R0RlNk1mRllaX2xXNWxEWWszbWcxbTktTUV2bw?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 07:07:50 GMT",
+    "fetched_at": "2026-07-08T12:26:59.328217+00:00"
   },
   {
     "id": "7d63b4ee73a0",
@@ -60,96 +210,6 @@
     "fetched_at": "2026-07-08T10:27:04.081083+00:00"
   },
   {
-    "id": "d11c211add98",
-    "title": "India outpaces global manufacturing growth as supply chain shift boosts its appeal: ASSOCHAM study",
-    "source": "Fortune India",
-    "summary": "India outpaces global manufacturing growth as supply chain shift boosts its appeal: ASSOCHAM study&nbsp;&nbsp;Fortune India",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDkxQmRWMTFiUGVveGtJSEtEdlo2MnRpTDJ2S1dwdHAtMWdvWG1YcjM0UFl2N2J5VTNfWG0wUjktT3h6ZVo5WnRMdElwQWdmamI0cS1BaFhlSUtROVVlMk1oNnBNRXpSSll0QXUxS1JtSU03OXdITmdCMmZqTW9uZWtvc3hmUlQ1c3hxbXhSZ3hVS1VCY1Y2LTVsU3paelc5YzRfakExZnNwcDhPZ3FNYTRWS2Z2RElCVmxwVTY1cHZfZHF5bjFEcnZlclIxRGktWFNIWXFpNjjSAeYBQVVfeXFMTzM2UnJpanJDbVBneEI1WTBlekFZWEd0bjNpa1FiZVlTYUNBaGNhRkp6c3ZBSE1qTTZ0NjV1QkRDSFlzTHlHdzdEUnJjX2xLcW5oREg1cUFrYmVPODlnZDRRekhXQkZzMTJ3RzFTVFlsRjF2ZUcwaUphOXExeVRoQk9pR3dQc3pUMXkxSzBXQkdJdHp4MFlMeVBvOUpQRHQzZ2M1cEtFR01qWUMtR0N1UU1RS3Npa2UzQ1NLZHdPLXBDTFFuVXlPaGtOZXk0ZTF6dUZHZmx1WXFZMFkySVJWT1FpWktrQ3c?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 12:51:08 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081102+00:00"
-  },
-  {
-    "id": "925c03806e8f",
-    "title": "AM/NS India gets ₹240 crore PM-SETU mandate in Gujarat",
-    "source": "Manufacturing Today India",
-    "summary": "AM/NS India gets ₹240 crore PM-SETU mandate in Gujarat&nbsp;&nbsp;Manufacturing Today India",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEtST1lGMGNFdUtYVEVBMUJzZjU1QjBTYzVxMFB5TExmYTAwd3NsZEREOEdNdFNYeVc3aW1wb3ZWMENlQmlIaDBNcWJYaHdmTmk4dkVRQWxOYmFRS2VIYzZPbWVOdEliZlpiNlZiZmFyM2djUmhxQUVOdnVMMkdSOHZ6N21GMGFwTlR5OWtud3YySTNQdDBabzhLMWlPVF9VdVYtQQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 05:49:20 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081118+00:00"
-  },
-  {
-    "id": "478011bd9384",
-    "title": "Productivity up, wages flat: How India’s manufacturing growth has stopped working for its workers",
-    "source": "Ideas for India",
-    "summary": "Productivity up, wages flat: How India’s manufacturing growth has stopped working for its workers&nbsp;&nbsp;Ideas for India",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGVaQkN6U3FoMGh3aXluamZEcGFoQjlBbXZYRmhWaGdIa3I1RWxwTXRUckdnQW83RG1WZUViazFMZ0UtRmkzdHg1RHVuQlRKWmY4TjNaYlNGeDN1bW9CYjNoUjRIODY4YllBV1N2TTB2alRtQjE0eXlLU1o0TWU3M1g0Q3JNbmtUOVhaUUVlVEJjeGdtNGZzc2otZE50QUp5V1pRNTFMWkFSbUpaUjcycEl5VHBkYzJWS2g5Z2Y1U3ZyWXBjVnFvODRCbWRzSW5JWmNGeVp0a0lTXzF3QkE?oc=5",
-    "image": "",
-    "published_at": "Fri, 19 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081137+00:00"
-  },
-  {
-    "id": "a017dd527554",
-    "title": "State-level deregulation key to attracting more FDI: CRF's Fellow Rupa Dutta",
-    "source": "Awaz The Voice",
-    "summary": "State-level deregulation key to attracting more FDI: CRF's Fellow Rupa Dutta&nbsp;&nbsp;Awaz The Voice",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHBveFVhSnVwLTZqU0hlbUJiVWRjYlVrUTNFTUEtb2hUV012V0tuTVFWeTdZX09yRUJzS2ptdFN2bXc5eU1pYnNpSFNjdklXVmFtMC1faTdkSWVHSlBsLVYtTjctRUFqcHhhQUZfOFdxcXdXUWlwOEdab2dYa2lDa3FMMWxWRFh2VDZXa3Z4WXF6U1pyUlJYNDNjTEJWR0dhaGloMnY5MjdWcDJ6aGFaYXY1WEJRX1NobEJwTmRtTnRyRDI2cmVn?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 07:20:36 GMT",
-    "fetched_at": "2026-07-08T10:27:04.081154+00:00"
-  },
-  {
-    "id": "286e57512445",
-    "title": "PM Modi launches development projects worth Rs 11,000 crore in Kerala’s Kochi to boost infrastructure and industry",
-    "source": "DD News",
-    "summary": "PM Modi launches development projects worth Rs 11,000 crore in Kerala’s Kochi to boost infrastructure and industry&nbsp;&nbsp;DD News",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2dKNFJGY2pzeUNZMmF1VzZ1b25MbENIWjAzTUk4UVlIZjJ3ek1nNFN4cjJvcGc2cmN4elVyd2hNNDZzZGNJb0IxeWd4QXpXdldMajdPSFN5b0JNTmdrRHNjMmN5aFdlbHZwTy1xVTFMQWRMMFRLQl9nUXFKTllUWHlGTmYxdHJ1Ql9pREVKcWNPVkFJOUhMZEpRMm5TSGtUd1JjWW04a3V1LUFZV01VNWtxdXZVVDBIb192amhvUld2SER4Z0dURmItbE9ZcmRvQl9NZw?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 23:41:12 GMT",
-    "fetched_at": "2026-07-08T10:27:05.093929+00:00"
-  },
-  {
-    "id": "baa126e98971",
-    "title": "Indian Railways sanctions infrastructure projects across Northern, Southern and Eastern Railway zones",
-    "source": "News On AIR",
-    "summary": "Indian Railways sanctions infrastructure projects across Northern, Southern and Eastern Railway zones&nbsp;&nbsp;News On AIR",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW9tNVV4cHdLbGRMWFp2dTNfNTdNdkhmdWVFSWsxWlhGZjBtU3pTUWVUck9FTXJCb3JWZkNtVG5Ja0ZkMW0zZFBCNURaZjFEWmVyeUUyQ0FlSWQ4VldvYVRGcm9wbGYwSUwxMGI2V0xkVFQ5Sy1hMVVONl9IaEhHRUtNT1ZiT3VPMkIxUF8zUlRNQmo2UlJobVBnU2toSVJmSndFWm1uOTEtOHdTRnFuNGIxMng4dFNxNE94SnRZUlJ4bXVI?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 18:31:02 GMT",
-    "fetched_at": "2026-07-08T10:27:05.093961+00:00"
-  },
-  {
-    "id": "c952ec906c86",
-    "title": "Tourism in India: Infrastructure Growth Driving Travel & Economic Development",
-    "source": "IBEF",
-    "summary": "Tourism in India: Infrastructure Growth Driving Travel & Economic Development&nbsp;&nbsp;IBEF",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDZObi1fUDFKU0cxWjFfNGtMRnFRZ19kV2I3WlNMa0hHUG5mT1lkM1dqQXZtTTNUd1BRUXQxWFUySmszRVp0MjNsY0dzc1ZpLUNtTUlDQ1lYVmVmUnJuUXRDNDN3dlkyTllWUnh0N3J1TjdSM3FDVXoyUGZibHRIZ0Jha1EwVkYyY1hZdlhQbXJzTGxMdjJUS0ZMNUVSTHE2d3J4akQwdXllUDNVV2ltdVdITGNpZw?oc=5",
-    "image": "",
-    "published_at": "Fri, 26 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-08T10:27:05.093977+00:00"
-  },
-  {
-    "id": "6ad92183fe92",
-    "title": "Transforming India Through Integrated Infrastructure Development",
-    "source": "Drishti IAS",
-    "summary": "Transforming India Through Integrated Infrastructure Development&nbsp;&nbsp;Drishti IAS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUVPRlhIems5TnUtOFF0M0s3U0xIWjJqcXpOdC1CM0htVHJMNlR4Q1U3QW5vTmU0dGVkdUV1U1prSjZNVVVaYWR4aTBRUTNkWmJwVlNJbjhKWk1STzhlaFEyVTVXX21BMDNIcm1sR1h4QWNWbTVrUVRJa0MySzN1WXZBcFdMbU1ab1VIRXdWMU9mY0FreGFuQXc5VlQwM2xydzU3eVVPcnNIN0pUZlhGZW9LQmFyVHZsRmMtUFFiVGdwX3c?oc=5",
-    "image": "",
-    "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-08T10:27:05.093991+00:00"
-  },
-  {
-    "id": "01c8ffd282a3",
-    "title": "Infrastructure, alternative assets, technology draw India’s real estate growth map | Hindustan Times",
-    "source": "Hindustan Times",
-    "summary": "Infrastructure, alternative assets, technology draw India’s real estate growth map | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRzA1VmJQcGtqYkVwR2UwQ3ZlV3hmUlVWVTUzOXNzNFdHbjdkNkFHNzY4d0hKcDQtTmlVYkJLcjVwLTc0LXlta3FLaDctRWk3T1dhWTZET1BSX3RZcm9xU0V2WWNhb2hNcjFNcG5OS2tTdUI2Undpa0poZXBVX2NLaTJISlZTcF81ME1BellEaHRQSFY4ZV9PdHFoc2d2ZXVLV3NhZGRWRUZqaUpmd043TVA0RTlqS0xpamhlMmNTcVhCZEotdjU2NllyQ1pNNjRLS2FrZWIyWdIB3AFBVV95cUxPdy1teTZ1RG5tU2VNclk2c2oxUEJFYXBEaXlRYWdiRWJRdS1iLXBFQ1RmTWw5dXowRy1iNUxWeHM2QU1fdVIwdDhtdkRWMWtHZlQ5N3RlLUZBcERYa0t5ZEVVYjZhVTRURzFYRk9JTXF4Vy1EMmE3Y3ZBdy11MWV5LVV3NW1LaF93RUdHZ3hXd1R1dUZpUGNjYVpXNmVjNFh4ZnJTbVFYdk02d2lGUWZldEVtUUVZeEtacjJmOVRkM09EZC1CTURtUGVNNVVKM1dwaUtHNUNPdUtFal9G?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 04:50:44 GMT",
-    "fetched_at": "2026-07-08T10:27:05.094011+00:00"
-  },
-  {
     "id": "6b5a3ac9a7a2",
     "title": "Silver Touch Wins RITES Order to Build India's 1st AI Infrastructure Project Appraisal Platform",
     "source": "Sahi",
@@ -158,16 +218,6 @@
     "image": "",
     "published_at": "Tue, 07 Jul 2026 15:08:46 GMT",
     "fetched_at": "2026-07-08T10:27:05.094028+00:00"
-  },
-  {
-    "id": "f50bc1f2f079",
-    "title": "Large-Scale Infrastructure Expansion Opens up Opportunities for Budding Engineers",
-    "source": "India Education Diary",
-    "summary": "Large-Scale Infrastructure Expansion Opens up Opportunities for Budding Engineers&nbsp;&nbsp;India Education Diary",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlduMW8tUjRaUENRd2N2TmM1TWxBcWpBcjhnS0xQTEFnLVdvVFF6WEFoc3RCdXlMdGVVZmNkZE9Sa05XdDJ5bTFFZFNsRENYMlBiMC03SUFnQkF6bGJpYWstcEp5Mjh1UVRYM3BoNVFTN1RrMmtta1Itd1M4TEVnYm8wbTl5XzhmY01reTdWVzBOTDQyWTI5R0RlNk1mRllaX2xXNWxEWWszbWcxbTktTUV2bw?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 07:07:50 GMT",
-    "fetched_at": "2026-07-08T10:27:05.094041+00:00"
   },
   {
     "id": "6a8b04e1df66",
@@ -188,26 +238,6 @@
     "image": "",
     "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
     "fetched_at": "2026-07-08T10:27:05.094075+00:00"
-  },
-  {
-    "id": "3f55ccbecbc9",
-    "title": "India Launches Major Infrastructure and Energy Projects in Rajasthan",
-    "source": "OpenGov Asia",
-    "summary": "India Launches Major Infrastructure and Energy Projects in Rajasthan&nbsp;&nbsp;OpenGov Asia",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkJac0ZNVnViNVZCQ1puSU80NklDVXJScVBTM3pmS1NTRnl1Z1lqZGk1ekR6cGlvckFORXdyX2pFckVuTGF2dEpfOTExRkVnNm1hZC1YOXdnckJlbnNHU1hKSnh2Y0d1RTZhUTY0NmFsalp2anNacFY4SGpqV1cxVVRtbUNxVUFURWxMZDFSRmdfbVlPemt1Vw?oc=5",
-    "image": "",
-    "published_at": "Sat, 04 Jul 2026 14:49:22 GMT",
-    "fetched_at": "2026-07-08T10:27:05.094089+00:00"
-  },
-  {
-    "id": "21c8307d9553",
-    "title": "AG Organica Marks Three Decades Of Manufacturing Excellence, Showcasing India’s Rise As A Global Cosmetic Manufacturing Hub.",
-    "source": "TRIPURA STAR NEWS",
-    "summary": "AG Organica Marks Three Decades Of Manufacturing Excellence, Showcasing India’s Rise As A Global Cosmetic Manufacturing Hub.&nbsp;&nbsp;TRIPURA STAR NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGlHam5paUgzWE9lcXBRTjZfbmd1OWxqeVRsZlZZbXFOR1I1LU5WLXp1dzVOcDdyRkhEUDlyZTJpdEtCRWRncTBFVTI1b2sxajA2UHJpVE9Ba0tFbDRtSlRrTHJpWjlmdnJ0N0ZwUFVSVzY3aTAtdk5URHdJUFpTeFFfOGhiTXhwak5LTFpWZ2ZoN0VvYXloZVpYR1Etd050bGJnLUtFY1NJeFNDZ2VhM0V2M1V4dnZCQWZwbUNlZzc4LVJVY2E5MUN1WEstYWFVWE4weUhTS2lOaGZsc3NLbFJqNjd5WndBT2c?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 07:23:10 GMT",
-    "fetched_at": "2026-07-08T07:35:46.002691+00:00"
   },
   {
     "id": "a5f6a88e706c",
@@ -468,35 +498,5 @@
     "image": "",
     "published_at": "Mon, 15 Jun 2026 07:00:00 GMT",
     "fetched_at": "2026-07-07T04:04:09.674520+00:00"
-  },
-  {
-    "id": "8e90502a88d9",
-    "title": "Press Note Details: Press Information Bureau",
-    "source": "PIB",
-    "summary": "Press Note Details: Press Information Bureau&nbsp;&nbsp;PIB",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTJVLWVCNThsQzBtY1NqMUp4dE1hNTZTeFJWbm9VYjE0TXZ6UzdIRmhlS0ZkbFdsb3lNRUw2U1FPWWNUN1RiX2F2R2d6anlCTTFNdnlCdmRqVGlyRE5KX1E2enl1RVB0dTg2LW5lcHhUWV90cGNYSG04bjJXQmV3amEyUnMwOVNISXc?oc=5",
-    "image": "",
-    "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-07T04:04:09.674532+00:00"
-  },
-  {
-    "id": "8d89ed132c52",
-    "title": "How you can ride India’s infrastructure wave",
-    "source": "Value Research",
-    "summary": "How you can ride India’s infrastructure wave&nbsp;&nbsp;Value Research",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5hMU44Y0Z6Yk9vUlhCdE1OSmNSTUZqM003VlZvV1VVaDU1RUJ3ZTJIRFhxbVVYd3FoeFhfRGFQcjk1WkFYd0d4bnhxNHVvX0NCekVYWGtpdTVhSlhCY21yWWUyb1l3WDVQMmJQbEdLLW1xMUJNUzBzNnVIb180LVJnRVNfbjVYWEJxQTN1VFdSVWdvMTZCRw?oc=5",
-    "image": "",
-    "published_at": "Tue, 30 Jun 2026 18:30:24 GMT",
-    "fetched_at": "2026-07-07T04:04:09.674547+00:00"
-  },
-  {
-    "id": "3622f99f4fac",
-    "title": "Hindenburg report was a conspiracy to tarnish the image of India’s industrial sector using the Adani Group as a pretext",
-    "source": "organiser.org",
-    "summary": "Hindenburg report was a conspiracy to tarnish the image of India’s industrial sector using the Adani Group as a pretext&nbsp;&nbsp;organiser.org",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTG9Nb2ZmS2d1U1JPQ3lkNzFVenRiVU94TmFpRjdDZ25oY2FxczJ0V21RZjBfYnlCTmVZdTBXcDRRc1k5X1VwcDVEdUhwY3c0Y1VldTlYVXNhcXNTNFJzeDhwdXBtU21qVnJpLUFVdmlYNEh0R3Vnc2xDZHVRdGZBWXVqQlllc19QWWNUNmtDWVR4UTl3ZFlGeHV4Y3hMOUpKdUlqcEw3amhwaHBhYlVSYjN3OS1yaEZDeUx0NU8xX0NyN1VrenBSakpBbVh5WmlDYUV1ZEdDaU1NbHVEU0ZWUjBYTTZOaU1qN01DNk9IYU94NW5xRjR6Ug?oc=5",
-    "image": "",
-    "published_at": "Mon, 06 Jul 2026 16:32:42 GMT",
-    "fetched_at": "2026-07-06T23:14:52.773872+00:00"
   }
 ]
