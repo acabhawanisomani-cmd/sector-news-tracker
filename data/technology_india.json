@@ -1,5 +1,205 @@
 [
   {
+    "id": "8c39570e3fa7",
+    "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
+    "source": "LiveMint",
+    "summary": "Meta is developing AI-powered smart glasses that capture images and audio throughout the day.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 10:29:16 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822318+00:00"
+  },
+  {
+    "id": "c956bd41e0dc",
+    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
+    "source": "LiveMint",
+    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822358+00:00"
+  },
+  {
+    "id": "e37083f4b706",
+    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
+    "source": "LiveMint",
+    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
+    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822372+00:00"
+  },
+  {
+    "id": "416959b34e0a",
+    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
+    "source": "LiveMint",
+    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
+    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822391+00:00"
+  },
+  {
+    "id": "7bf2035214f5",
+    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
+    "source": "LiveMint",
+    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822404+00:00"
+  },
+  {
+    "id": "44520f529ff2",
+    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
+    "source": "LiveMint",
+    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822418+00:00"
+  },
+  {
+    "id": "10aadac9d1b8",
+    "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
+    "source": "LiveMint",
+    "summary": "Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone.",
+    "url": "https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html",
+    "image": "",
+    "published_at": "Mon, 06 Jul 2026 12:15:54 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822432+00:00"
+  },
+  {
+    "id": "629e64e3e67e",
+    "title": "New AI agent can hack systems and deploy ransomware without human help",
+    "source": "LiveMint",
+    "summary": "A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html",
+    "image": "",
+    "published_at": "Mon, 06 Jul 2026 09:14:44 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822446+00:00"
+  },
+  {
+    "id": "cdda60f1f4ba",
+    "title": "iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know",
+    "source": "LiveMint",
+    "summary": "Apple could be teasing a new AirPods Pro with cameras with the latest beta version of iOS 27 beta.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/ios-27-beta-2-leak-reveals-new-clue-about-apples-camera-equipped-airpods-heres-what-we-know-11783218215836.html",
+    "image": "",
+    "published_at": "Sun, 05 Jul 2026 09:59:35 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822459+00:00"
+  },
+  {
+    "id": "14bd9887824c",
+    "title": "WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in",
+    "source": "LiveMint",
+    "summary": "As digital platforms evolve in India, the way people identify themselves online is clearly changing too. WhatsApp's move towards usernames is more than a feature update.",
+    "url": "https://www.livemint.com/technology/tech-news/whatsapp-usernames-will-they-make-indias-digital-conversations-safer-or-less-trustworthy-experts-weigh-in-zoho-signal-11783060388147.html",
+    "image": "",
+    "published_at": "Fri, 03 Jul 2026 12:29:36 +0530",
+    "fetched_at": "2026-07-09T07:49:04.822474+00:00"
+  },
+  {
+    "id": "dff7edb09393",
+    "title": "Cerebras says to invest billions in Europe",
+    "source": "Economic Times",
+    "summary": "The Californian company operates three data centres in France, Finland and Norway, which are to be expanded to reach 200MW of computing capacity by 2027.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/cerebras-says-to-invest-billions-in-europe/articleshow/132280255.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 12:57:51 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877508+00:00"
+  },
+  {
+    "id": "7a6a35eea74a",
+    "title": "Honasa Consumer expects strong Q1 growth, led by Mamaearth",
+    "source": "Economic Times",
+    "summary": "On a reported basis, however, the company expects revenue growth in the mid-twenties, due to a change in revenue recognition by the Flipkart group, which has impacted how marketplace sellers such as Honasa account for revenue. The company reported its highest-ever quarterly revenue of Rs 682 crore i",
+    "url": "https://economictimes.indiatimes.com/tech/technology/honasa-consumer-expects-strong-q1-growth-led-by-mamaearth/articleshow/132278855.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 11:59:23 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877545+00:00"
+  },
+  {
+    "id": "e33cb2cb8812",
+    "title": "Binance co-CEO says platform's trading in US assets exceeds $3 billion",
+    "source": "Economic Times",
+    "summary": "Richard ​Teng, co-chief ⁠executive of ‌cryptocurrency ​exchange ​Binance, said that trading ​in U.S. ​stocks and exchange-traded funds in the company has ⁠exceeded $3 ⁠billion ​since the activity's launch ​a month ago",
+    "url": "https://economictimes.indiatimes.com/tech/technology/binance-co-ceo-says-platforms-trading-in-us-assets-exceeds-3-billion/articleshow/132279102.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 11:58:35 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877574+00:00"
+  },
+  {
+    "id": "1c35428d2c87",
+    "title": "Temasek keeps 25% of portfolio liquid to weather shocks and seize trends, CIO says",
+    "source": "Economic Times",
+    "summary": "Temasek also aimed to lift its exposure to artificial intelligence companies to as much as 15% ​of its portfolio over the next five years ⁠from 6% ‌now",
+    "url": "https://economictimes.indiatimes.com/tech/technology/temasek-keeps-25-of-portfolio-liquid-to-weather-shocks-and-seize-trends-cio-says/articleshow/132278643.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 11:34:19 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877594+00:00"
+  },
+  {
+    "id": "7c47649fbddf",
+    "title": "Blackstone, TPG seek over $4 billion for Hologic's surgical unit",
+    "source": "Economic Times",
+    "summary": "The ⁠two firms are working with advisers on ​a sale of the division, which makes surgical equipment used ​by gynecologists, FT reported.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/blackstone-tpg-seek-over-4-billion-for-hologics-surgical-unit/articleshow/132278378.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 11:20:40 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877611+00:00"
+  },
+  {
+    "id": "60e1b797ce5a",
+    "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
+    "source": "Economic Times",
+    "summary": "Meta has doubled down on AI, pledging hundreds of billions of dollars to build large AI data centers in the U.S. The Alberta announcement represents the company's 33rd data center ‌globally.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-build-c13-billion-alberta-data-center-its-first-in-canada/articleshow/132276591.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 09:26:55 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877629+00:00"
+  },
+  {
+    "id": "eea31fd59671",
+    "title": "Apple supplier Luxshare drops 4% in Hong Kong debut",
+    "source": "Economic Times",
+    "summary": "Shares in Chinese electronics manufacturer Luxshare dropped by more than four percent in its Hong Kong debut on Thursday, after raising around US$3.1 billion to become the finance hub's largest listing this year. Hong Kong stock exchange was abuzz with listing celebrations on Thursday, welcoming fiv",
+    "url": "https://economictimes.indiatimes.com/tech/technology/apple-supplier-luxshare-drops-4-in-hong-kong-debut/articleshow/132276225.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 09:10:06 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877654+00:00"
+  },
+  {
+    "id": "591ebb208563",
+    "title": "US crackdown on top AI fuels open-source surge",
+    "source": "Economic Times",
+    "summary": "The US government's shock moves to restrict access to top artificial intelligence systems from Anthropic and OpenAI have sparked growing interest in open-source models -- especially ones from China. Around the same time, China's Zhipu AI (also known as Z. ai) released GLM-5.2, an open model that per",
+    "url": "https://economictimes.indiatimes.com/tech/technology/us-crackdown-on-top-ai-fuels-open-source-surge/articleshow/132275996.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 08:45:11 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877677+00:00"
+  },
+  {
+    "id": "42e6a573f7d6",
+    "title": "EU moves closer to kicking kids off social media",
+    "source": "Economic Times",
+    "summary": "Restrictions on children's use of social media in the European Union could come as early as this summer, as a long-awaited expert report next week is expected to recommend limiting minors' access to online platforms. \"It is not the question when children or teenagers would have access to social medi",
+    "url": "https://economictimes.indiatimes.com/tech/technology/eu-moves-closer-to-kicking-kids-off-social-media/articleshow/132275781.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 08:26:14 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877702+00:00"
+  },
+  {
+    "id": "e319ce6478c9",
+    "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
+    "source": "Economic Times",
+    "summary": "SpaceXAI on Wednesday launched the Grok 4.5 AI model, calling ​it the company's most intelligent ​offering to date designed for coding and agentic tasks.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks/articleshow/132275752.cms",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 08:22:09 +0530",
+    "fetched_at": "2026-07-09T07:49:04.877718+00:00"
+  },
+  {
     "id": "e0827e0e8ecc",
     "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak - GSMArena.com news",
     "source": "GSMArena.com",
@@ -290,96 +490,6 @@
     "fetched_at": "2026-07-09T04:02:05.969654+00:00"
   },
   {
-    "id": "c956bd41e0dc",
-    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
-    "source": "LiveMint",
-    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
-    "fetched_at": "2026-07-09T04:02:10.769981+00:00"
-  },
-  {
-    "id": "e37083f4b706",
-    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
-    "source": "LiveMint",
-    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
-    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770011+00:00"
-  },
-  {
-    "id": "416959b34e0a",
-    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
-    "source": "LiveMint",
-    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
-    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770031+00:00"
-  },
-  {
-    "id": "7bf2035214f5",
-    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
-    "source": "LiveMint",
-    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770047+00:00"
-  },
-  {
-    "id": "44520f529ff2",
-    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
-    "source": "LiveMint",
-    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770060+00:00"
-  },
-  {
-    "id": "10aadac9d1b8",
-    "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
-    "source": "LiveMint",
-    "summary": "Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone.",
-    "url": "https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html",
-    "image": "",
-    "published_at": "Mon, 06 Jul 2026 12:15:54 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770073+00:00"
-  },
-  {
-    "id": "629e64e3e67e",
-    "title": "New AI agent can hack systems and deploy ransomware without human help",
-    "source": "LiveMint",
-    "summary": "A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html",
-    "image": "",
-    "published_at": "Mon, 06 Jul 2026 09:14:44 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770087+00:00"
-  },
-  {
-    "id": "cdda60f1f4ba",
-    "title": "iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know",
-    "source": "LiveMint",
-    "summary": "Apple could be teasing a new AirPods Pro with cameras with the latest beta version of iOS 27 beta.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/ios-27-beta-2-leak-reveals-new-clue-about-apples-camera-equipped-airpods-heres-what-we-know-11783218215836.html",
-    "image": "",
-    "published_at": "Sun, 05 Jul 2026 09:59:35 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770099+00:00"
-  },
-  {
-    "id": "14bd9887824c",
-    "title": "WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in",
-    "source": "LiveMint",
-    "summary": "As digital platforms evolve in India, the way people identify themselves online is clearly changing too. WhatsApp's move towards usernames is more than a feature update.",
-    "url": "https://www.livemint.com/technology/tech-news/whatsapp-usernames-will-they-make-indias-digital-conversations-safer-or-less-trustworthy-experts-weigh-in-zoho-signal-11783060388147.html",
-    "image": "",
-    "published_at": "Fri, 03 Jul 2026 12:29:36 +0530",
-    "fetched_at": "2026-07-09T04:02:10.770113+00:00"
-  },
-  {
     "id": "883874851235",
     "title": "WhatsApp username row: Zoho's Arattai to disable username feature",
     "source": "LiveMint",
@@ -388,115 +498,5 @@
     "image": "",
     "published_at": "Fri, 03 Jul 2026 11:44:59 +0530",
     "fetched_at": "2026-07-09T04:02:10.770125+00:00"
-  },
-  {
-    "id": "eea31fd59671",
-    "title": "Apple supplier Luxshare drops 4% in Hong Kong debut",
-    "source": "Economic Times",
-    "summary": "Shares in Chinese electronics manufacturer Luxshare dropped by more than four percent in its Hong Kong debut on Thursday, after raising around US$3.1 billion to become the finance hub's largest listing this year. Hong Kong stock exchange was abuzz with listing celebrations on Thursday, welcoming fiv",
-    "url": "https://economictimes.indiatimes.com/tech/technology/apple-supplier-luxshare-drops-4-in-hong-kong-debut/articleshow/132276225.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 09:10:06 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925147+00:00"
-  },
-  {
-    "id": "591ebb208563",
-    "title": "US crackdown on top AI fuels open-source surge",
-    "source": "Economic Times",
-    "summary": "The US government's shock moves to restrict access to top artificial intelligence systems from Anthropic and OpenAI have sparked growing interest in open-source models -- especially ones from China. Around the same time, China's Zhipu AI (also known as Z. ai) released GLM-5.2, an open model that per",
-    "url": "https://economictimes.indiatimes.com/tech/technology/us-crackdown-on-top-ai-fuels-open-source-surge/articleshow/132275996.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 08:45:11 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925186+00:00"
-  },
-  {
-    "id": "42e6a573f7d6",
-    "title": "EU moves closer to kicking kids off social media",
-    "source": "Economic Times",
-    "summary": "Restrictions on children's use of social media in the European Union could come as early as this summer, as a long-awaited expert report next week is expected to recommend limiting minors' access to online platforms. \"It is not the question when children or teenagers would have access to social medi",
-    "url": "https://economictimes.indiatimes.com/tech/technology/eu-moves-closer-to-kicking-kids-off-social-media/articleshow/132275781.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 08:26:14 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925213+00:00"
-  },
-  {
-    "id": "e319ce6478c9",
-    "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
-    "source": "Economic Times",
-    "summary": "SpaceXAI on Wednesday launched the Grok 4.5 AI model, calling ​it the company's most intelligent ​offering to date designed for coding and agentic tasks.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks/articleshow/132275752.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 08:22:09 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925234+00:00"
-  },
-  {
-    "id": "2379b1eaca38",
-    "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
-    "source": "Economic Times",
-    "summary": "U.S. District Judge Sparkle Sooknanan in Washington, D.C., said she ​had only a limited role in assessing whether the settlement meets minimum standards of fairness and reasonableness, or instead \"makes a mockery of judicial power,\" and questioned whether the Trump administration let the world's ric",
-    "url": "https://economictimes.indiatimes.com/tech/technology/us-judge-approves-elon-musk-settlement-with-sec-despite-misgivings-red-flags/articleshow/132275719.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 08:19:46 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925258+00:00"
-  },
-  {
-    "id": "71292909158d",
-    "title": "CarDekho joins IPO queue; Tech’s quiet job cuts",
-    "source": "Economic Times",
-    "summary": "Happy Thursday! CarDekho is finally hitting the accelerator on its long-planned IPO. This and more in today’s ETtech Morning Dispatch.",
-    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/cardekho-joins-ipo-queue-techs-quiet-job-cuts/articleshow/132275097.cms",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 07:28:07 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925274+00:00"
-  },
-  {
-    "id": "e3f37dc2804b",
-    "title": "US launches major H-1B visa fraud investigation; official names Cognizant",
-    "source": "Economic Times",
-    "summary": "The Office of the Inspector General (OIG) under the Department of Labour has uncovered widespread schemes in which employers and labour brokers submitted fraudulent applications, exploited foreign workers through coercive wage-kickback arrangements, and undercut American workers by flooding the mark",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/us-launches-major-h-1b-visa-fraud-investigation-official-names-cognizant/articleshow/132270227.cms",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 23:25:40 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925294+00:00"
-  },
-  {
-    "id": "dcdb7e0f5bde",
-    "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
-    "source": "Economic Times",
-    "summary": "The IPO-bound ​AI startup said it will ​roll ⁠out two ‌versions of ​GPT-Live - ​GPT-Live-1 and ⁠GPT-Live-1 mini - to users ​globally on Wednesday.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-live-voice-models-that-listen-and-speak-simultaneously/articleshow/132270096.cms",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 23:20:45 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925310+00:00"
-  },
-  {
-    "id": "2d9a71bc0a1d",
-    "title": "Federal Judge rejects Kalshi bid to block New York gambling enforcement law",
-    "source": "Economic Times",
-    "summary": "In a decision on Tuesday, US District Judge Analisa Torres in Manhattan said Kalshi did not deserve a preliminary injunction, because the ‌federal Commodity ⁠Exchange Act ⁠did not supersede New York's gambling laws as applied to Kalshi's sports-event contracts.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/federal-judge-rejects-kalshi-bid-to-block-new-york-gambling-enforcement-law/articleshow/132269709.cms",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 23:09:30 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925330+00:00"
-  },
-  {
-    "id": "aa0039419410",
-    "title": "BofA extends first $520 million loan to OpenAI ahead of IPO",
-    "source": "Economic Times",
-    "summary": "The loan makes BofA one of OpenAI's largest lenders and bolsters its credentials as a market leader ‌in AI-related capital ⁠markets ⁠financing, the source said, requesting anonymity to discuss confidential information.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bofa-extends-first-520-million-loan-to-openai-ahead-of-ipo/articleshow/132269559.cms",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 23:06:12 +0530",
-    "fetched_at": "2026-07-09T04:02:10.925348+00:00"
-  },
-  {
-    "id": "e73abc1162e2",
-    "title": "OpenAI GPT-Live Brings Search Into ChatGPT Voice",
-    "source": "Search Engine Journal",
-    "summary": "OpenAI GPT-Live Brings Search Into ChatGPT Voice&nbsp;&nbsp;Search Engine JournalOpenAI releases new voice models for more natural live conversations&nbsp;&nbsp;TechCrunchOpenAI launches GPT-Live voice models that listen and speak simultaneously&nbsp;&nbsp;The Economic TimesThe Future Is Always List",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkxKSVBOdTR4aU5Xd2NVcFcxYkRON2I5eWZnTVN1c0VlbGpSTlFmZFlrRVdCM2NBekFEc2dvRUZ3d2N6cy0zQTB0aDhLdms0Q2xmSjMxa3pmZ1czTUZJeUZvUGstTVFXckNTNmdpUXdaSnk1UEhTZ1RFbnhQSi1La2xxWUQzSWtfeXhMUlNncHc4TlRNVXp3?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 18:18:27 GMT",
-    "fetched_at": "2026-07-08T23:15:25.822790+00:00"
   }
 ]
