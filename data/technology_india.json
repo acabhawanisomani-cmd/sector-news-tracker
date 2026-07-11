@@ -1,243 +1,43 @@
 [
   {
-    "id": "ea98fc2bcf0e",
-    "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
-    "source": "LiveMint",
-    "summary": "Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and Anthropic in the rapidly expanding market for enterprise AI models.",
-    "url": "https://www.livemint.com/technology/tech-news/mark-zuckerberg-returns-to-x-after-3-years-to-unveil-metas-muse-spark-1-1-ai-model-developer-api-11783622111314.html",
+    "id": "520aea1aa3df",
+    "title": "The more famous people tell me to use AI, the less I want to — it turns out I'm not alone",
+    "source": "TechRadar",
+    "summary": "The more famous people tell me to use AI, the less I want to — it turns out I'm not alone&nbsp;&nbsp;TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUUN3QzByMVZTeUFlWUs2Uk43dG44ZnZ0QXFNbGlOdk1QNWhET2wwTlQxU1o0ZEJiaDMtUXZXbnNxZ2FLX0Nlbkxsc1ZRWDFfdFJwaEwtTWl0M3ZJRE9QamV6RERGRVZqYmhQU2lhUkJfTzYxMjhZSXo1WkFpQVNpN1VFX0NyVjJ0QUlfMnk1Yk5IZkRTdDE4NDlneGhKd18yOUxvanBDYUVOQUVtVGY1QVl2WXJlQVRlZ0tHZTRUZWZEb2kzd2pfUVZqWlQ1QXFB?oc=5",
     "image": "",
-    "published_at": "Fri, 10 Jul 2026 00:14:11 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091493+00:00"
-  },
-  {
-    "id": "4375de112b9d",
-    "title": "Lava to launch ‘Virat’ series phones in India, Flipkart availability confirmed",
-    "source": "LiveMint",
-    "summary": "Lava will soon launch its new ‘Virat’ series of smartphones in India via Flipkart. The company has confirmed that its new online-first series will feature both 4G and 5G devices",
-    "url": "https://www.livemint.com/technology/gadgets/lava-to-launch-virat-series-phones-in-india-flipkart-availability-confirmed-11783608904681.html",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 20:51:13 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091527+00:00"
-  },
-  {
-    "id": "8c39570e3fa7",
-    "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
-    "source": "LiveMint",
-    "summary": "Meta is developing AI-powered smart glasses that capture images and audio throughout the day.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 10:29:16 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091550+00:00"
-  },
-  {
-    "id": "c956bd41e0dc",
-    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
-    "source": "LiveMint",
-    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091565+00:00"
-  },
-  {
-    "id": "e37083f4b706",
-    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
-    "source": "LiveMint",
-    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
-    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091578+00:00"
-  },
-  {
-    "id": "416959b34e0a",
-    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
-    "source": "LiveMint",
-    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
-    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091594+00:00"
-  },
-  {
-    "id": "7bf2035214f5",
-    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
-    "source": "LiveMint",
-    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091608+00:00"
-  },
-  {
-    "id": "44520f529ff2",
-    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
-    "source": "LiveMint",
-    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091623+00:00"
-  },
-  {
-    "id": "10aadac9d1b8",
-    "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
-    "source": "LiveMint",
-    "summary": "Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone.",
-    "url": "https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html",
-    "image": "",
-    "published_at": "Mon, 06 Jul 2026 12:15:54 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091638+00:00"
-  },
-  {
-    "id": "629e64e3e67e",
-    "title": "New AI agent can hack systems and deploy ransomware without human help",
-    "source": "LiveMint",
-    "summary": "A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html",
-    "image": "",
-    "published_at": "Mon, 06 Jul 2026 09:14:44 +0530",
-    "fetched_at": "2026-07-11T06:21:36.091654+00:00"
-  },
-  {
-    "id": "d70eb42e0a4e",
-    "title": "Bill Gates heir’s shopping app claimed sales it didn’t drive",
-    "source": "Economic Times",
-    "summary": "Phia, co-founded by Phoebe Gates, faces accusations of violating affiliate marketing policies. The browser extension allegedly claimed sales it did not drive by injecting its own referral codes. Independent researchers and competitors like Capital One Shopping highlighted these concerning practices.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/gates-heirs-shopping-app-claimed-sales-it-didnt-drive/articleshow/132324402.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 09:39:46 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140414+00:00"
-  },
-  {
-    "id": "3899aaa898f3",
-    "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "source": "Economic Times",
-    "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the feature missed the mark ",
-    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:42:15 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140451+00:00"
-  },
-  {
-    "id": "5aecb12e7b7c",
-    "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
-    "source": "Economic Times",
-    "summary": "The United States has eased export controls on the United Arab Emirates. This change allows easier access to Nvidia AI chips and military equipment. Approved UAE companies and US firms operating there will receive license-free advanced computing items. This move strengthens US-UAE relations and supp",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:42:10 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140476+00:00"
-  },
-  {
-    "id": "a76a942d9b37",
-    "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
-    "source": "Economic Times",
-    "summary": "Altera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing in the near future. They have reduced reliance on Intel and",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:42:00 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140500+00:00"
-  },
-  {
-    "id": "166dd43cf2c9",
-    "title": "Meta appeals verdict in social media addiction lawsuit",
-    "source": "Economic Times",
-    "summary": "Meta has appealed a landmark social media addiction lawsuit verdict in Los Angeles. The company challenges the jury's determination that its platforms were designed to hook young users. This appeal follows a jury finding negligence by Meta and Google's YouTube. The jury awarded a young woman three m",
-    "url": "https://economictimes.indiatimes.com/tech/technology/meta-appeals-verdict-in-social-media-addiction-lawsuit/articleshow/132323642.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:12:09 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140522+00:00"
-  },
-  {
-    "id": "59fdaa94ce21",
-    "title": "Music industry launches AI-generated content labels",
-    "source": "Economic Times",
-    "summary": "Music organisations have introduced a voluntary labeling system for AI-generated content. This system aims to inform listeners about the use of artificial intelligence in music. Two labels will distinguish between fully AI-generated and AI-assisted recordings. Streaming services are closely monitori",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/music-industry-launches-ai-generated-content-labels/articleshow/132323648.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:10:40 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140544+00:00"
-  },
-  {
-    "id": "551bbff3d069",
-    "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
-    "source": "Economic Times",
-    "summary": "The UK government has identified Microsoft, Google, Amazon, and Oracle as essential cloud providers, implying new regulatory measures for these tech giants. This initiative is designed to bolster the resilience of the financial sector against potential cyber threats and service interruptions, introd",
-    "url": "https://economictimes.indiatimes.com/tech/technology/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability/articleshow/132323603.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 07:57:49 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140568+00:00"
-  },
-  {
-    "id": "b25961ec726b",
-    "title": "WhatsApp username rollout put on hold after govt notice",
-    "source": "Economic Times",
-    "summary": "Telegram has also submitted its response to the government that last week issued formal notices to the messaging platforms, directing them to immediately halt the rollout of the username feature. These platforms currently rely on mobile phone numbers for user identification.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/whatsapp-username-rollout-put-on-hold-after-govt-notice/articleshow/132319288.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 06:02:00 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140586+00:00"
-  },
-  {
-    "id": "2bd6fe586421",
-    "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
-    "source": "Economic Times",
-    "summary": "\"We forecast that next year ​will be the worst year in the industry's history from the supply perspective,\" Kwak Noh-jung told Reuters ​in an interview on ⁠Friday, the ‌day the South Korean memory chipmaker ​began trading ​on the Nasdaq.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-in-2027-says-demand-to-outstrip-supply-beyond-2030/articleshow/132318932.cms",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 23:52:57 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140609+00:00"
-  },
-  {
-    "id": "af0aa516a822",
-    "title": "People 'disdain' AI, says director Christopher Nolan",
-    "source": "Economic Times",
-    "summary": "Oscar-he believed the kind of movies he makes -- big-budget action films shot mostly on location -- would survive the spread of AI, a technology he says many people \"disdain\". The AI industry has touted the potential of the technology to replace actors, writers and camera operators -- claims that ha",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/people-disdain-ai-says-director-christopher-nolan/articleshow/132318831.cms",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 23:51:45 +0530",
-    "fetched_at": "2026-07-11T06:21:36.140631+00:00"
+    "published_at": "Sat, 11 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:26.543109+00:00"
   },
   {
     "id": "a404823090f7",
     "title": "Apple Loop: iPhone 18 Pro Specs, Apple TV’s Emmy Success, iPhone Ultra Delays",
     "source": "Forbes",
-    "summary": "Apple Loop: iPhone 18 Pro Specs, Apple TV’s Emmy Success, iPhone Ultra Delays&nbsp;&nbsp;ForbesInfographic: iPhone 17 Pro Max vs iPhone 18 Pro Max (E) BoM Cost Comparison&nbsp;&nbsp;Counterpoint ResearchiPhone 18 Pro Max leaks: Check what Apple may change in the battery, design and overall look this",
+    "summary": "Apple Loop: iPhone 18 Pro Specs, Apple TV’s Emmy Success, iPhone Ultra Delays&nbsp;&nbsp;ForbesInfographic: iPhone 17 Pro Max vs iPhone 18 Pro Max (E) BoM Cost Comparison&nbsp;&nbsp;Counterpoint ResearchApple's iPhone 18 Pro Max might come with a massive battery&nbsp;&nbsp;MashableiPhone 18 Pro Max ",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWUlza3ZXMUhKVjU0aWIzMHFYMGctQmxMQ0RPbUpQYk1GWEp6V3AxWFZFQ01DTUdOY1hZUGtCaTZNSXFpSEg2VENnT0Y2RW1aeHVQMGZlS25BdTVpMUZyZFRmdi00ZmtDWURLYXZMQ3ZaWU5PVWJLNGxHc0FrSmxHYzRoenFJMFNER196VGxXeUdvWHlyckY1UXJZanFUblE3UThVVkJWTVU2dU1md0I1MHRLOE1pZlhxUGgzbnJod0xBVHladW5mQk5jck51b3JrR2xj?oc=5",
     "image": "",
     "published_at": "Sat, 11 Jul 2026 01:16:08 GMT",
-    "fetched_at": "2026-07-11T03:24:01.560729+00:00"
-  },
-  {
-    "id": "f24106b50c09",
-    "title": "Top Xbox employee in India exits as part of Microsoft layoffs",
-    "source": "The Hindu",
-    "summary": "Top Xbox employee in India exits as part of Microsoft layoffs&nbsp;&nbsp;The HinduGame over? Xbox layoffs by Indian-American CEO Asha Sharma ignites H-1B furor&nbsp;&nbsp;The Times of IndiaUpdate: 136 workers have been laid off at id Software&nbsp;&nbsp;Game DeveloperResetting XBOX&nbsp;&nbsp;XBOX W",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVBVQzJoOG1JWlY2SXJfS0RNTDIxQVhzZDQ4emtIemlqQnNONzVVRG1oTHBoOVBwODMyY29mQTByclpZUmc3VmV2aFRXRmF0NDhTZF96dExDTFlOQlZLSXZtT2FPRElKdk5BWFk3dmNwTlFrazJLMVozQnVUa1lQT0txTWUwNkhZU0M2cEVtem1FeUZta2p1cXI5a240RXk1cFVDVC00aDZ0SGVaZTd5R083QXlIUdIBvAFBVV95cUxQeENqam02eVZNUncydzI2MlZ4YmlLY1pvN0RFdjI4LVlqSXRUdjh6Z3c0V19Fcy1LUFBxUnpCZHlldG96RjNFNzlWNG53M051el8xVV9hNksxLS12d2pYcFpzVmtWaENXU2s3b3ZHNWJ3Z0hraGpxdHpBcEM3UExoUnZUZHl6ZlRhUlNFdDZ0QWViOGJJTGJHN25xTUxKWXBHUDNYQVdnYUV0aFUwalZQRUpsQmVvOUpsa19SeA?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 16:08:10 GMT",
-    "fetched_at": "2026-07-11T03:24:01.560801+00:00"
+    "fetched_at": "2026-07-11T08:52:26.543164+00:00"
   },
   {
     "id": "c6cfe6a8517c",
     "title": "Motorola Edge 70 Max launch date and key specs revealed",
     "source": "GSMArena.com",
-    "summary": "Motorola Edge 70 Max launch date and key specs revealed&nbsp;&nbsp;GSMArena.comMotorola Edge 70 Pro review&nbsp;&nbsp;GSMArena.comMotorola Edge 70 Pro+ vs Galaxy A27: value or premium?&nbsp;&nbsp;MSNMotorola Edge 70 Max India Launch Confirmed With Qi2 Charging&nbsp;&nbsp;TechgenyzMotorola Edge 70 Ma",
+    "summary": "Motorola Edge 70 Max launch date and key specs revealed&nbsp;&nbsp;GSMArena.comMotorola Edge 70 Pro review&nbsp;&nbsp;GSMArena.comMotorola Edge 70 Pro+ vs Galaxy A27: value or premium?&nbsp;&nbsp;MSNMotorola Edge 70 Max India launch: Check launch date, expected price, camera, specifications and feat",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXVFeWtKZ2dSNTFubmx4WFQ0dEd6NnNyTHZvdEZCNUFWUGNOMmkya0lfTmlRbXo2ZmduTVFmNnN5UkozWWJvYnhyelJRR0Zmb09DdTNwVEQ0WGpjdzRDMWJIVkdFaTJmeGZaUFZNWXpFWkFzVXBWeHVhU3pYMmdLSGw1MFhCcy1VYnBndktMbjByOHFwWE9YbHFPdw?oc=5",
     "image": "",
     "published_at": "Fri, 10 Jul 2026 11:58:02 GMT",
-    "fetched_at": "2026-07-11T03:24:01.560853+00:00"
+    "fetched_at": "2026-07-11T08:52:26.543198+00:00"
   },
   {
-    "id": "a3c4870ae50d",
-    "title": "Assassin's Creed Black Flag Resynced Sets Franchise Steam Player Record, Sells 2 Million Copies",
-    "source": "80 Level",
-    "summary": "Assassin's Creed Black Flag Resynced Sets Franchise Steam Player Record, Sells 2 Million Copies&nbsp;&nbsp;80 LevelAssassin's Creed Black Flag Resynced: 50 GPU Benchmark&nbsp;&nbsp;TechSpotAssassin’s Creed: Black Flag Resynced boasts unique ship combat in an unmatched world&nbsp;&nbsp;The HinduCrack",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVBVWnhBVWRMWm9na3dsMWxoQVA0NnNpTHRqTWFOM3dFck5DSlJWeGVxb2VZOFNycWNieDY2OFVKTDNGTkdmdGxrR2tpOGpVUUxidlBreVZGSlluOVJjTERtQ2l2cVFRNHNHSWJJNXRfNnZvdlBxQ09GenctUW5xYXRUb1VJczdMdmxwRkpzNlB2aGVMc0JZN2kwR3Rwbmk5RzZibjFSZ3hTZ1ZFNlN0VmI3WmgyTUFr?oc=5",
+    "id": "f24106b50c09",
+    "title": "Top Xbox employee in India exits as part of Microsoft layoffs",
+    "source": "The Hindu",
+    "summary": "Top Xbox employee in India exits as part of Microsoft layoffs&nbsp;&nbsp;The HinduGame over? Xbox layoffs by Indian-American CEO Asha Sharma ignites H-1B furor&nbsp;&nbsp;The Times of IndiaUpdate: 136 workers have been laid off at id Software&nbsp;&nbsp;Game DeveloperMicrosoft Layoffs: Here's How Mu",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVBVQzJoOG1JWlY2SXJfS0RNTDIxQVhzZDQ4emtIemlqQnNONzVVRG1oTHBoOVBwODMyY29mQTByclpZUmc3VmV2aFRXRmF0NDhTZF96dExDTFlOQlZLSXZtT2FPRElKdk5BWFk3dmNwTlFrazJLMVozQnVUa1lQT0txTWUwNkhZU0M2cEVtem1FeUZta2p1cXI5a240RXk1cFVDVC00aDZ0SGVaZTd5R083QXlIUdIBvAFBVV95cUxQeENqam02eVZNUncydzI2MlZ4YmlLY1pvN0RFdjI4LVlqSXRUdjh6Z3c0V19Fcy1LUFBxUnpCZHlldG96RjNFNzlWNG53M051el8xVV9hNksxLS12d2pYcFpzVmtWaENXU2s3b3ZHNWJ3Z0hraGpxdHpBcEM3UExoUnZUZHl6ZlRhUlNFdDZ0QWViOGJJTGJHN25xTUxKWXBHUDNYQVdnYUV0aFUwalZQRUpsQmVvOUpsa19SeA?oc=5",
     "image": "",
-    "published_at": "Fri, 10 Jul 2026 20:32:23 GMT",
-    "fetched_at": "2026-07-11T03:24:01.560935+00:00"
+    "published_at": "Fri, 10 Jul 2026 16:08:10 GMT",
+    "fetched_at": "2026-07-11T08:52:26.543232+00:00"
   },
   {
     "id": "abae412630a1",
@@ -247,17 +47,37 @@
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlRBZEgyZDlvMU54MVFFMFI5MDkzQUVBSEpHaEtOLXJrai1IeF85VmtMUjFFS2w4aUVVakZyX05Vc1hkQmI5QmYxSnJ1WFEtRDRzbFp5RFFLTWJITkgtbzdpTWZBdkNxREZCZ3dfSnM0cjVUTlJTZ0lrZXdqX2F0UjF5S1JEM3JJMjJiOXFieW1LcU1ELXlBUFh3QmloZFo1bzdta3pMdDBUUGptOG5sUWNZOFpGbVI1X2d4OF9oLXhmcjEzcHpnWFJBWmxsaUx5aXhDZmlMd204b19LU2c?oc=5",
     "image": "",
     "published_at": "Sat, 11 Jul 2026 01:14:43 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561008+00:00"
+    "fetched_at": "2026-07-11T08:52:26.543275+00:00"
+  },
+  {
+    "id": "92cd93ff368e",
+    "title": "5 Mini Gadgets To Buy In July 2026 (And 3 To Skip)",
+    "source": "bgr.com",
+    "summary": "5 Mini Gadgets To Buy In July 2026 (And 3 To Skip)&nbsp;&nbsp;bgr.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53bDhWV28zbjg5LU9NZElLMkRMdUhybW5wVzkzYjVmM1dWQ3BERDI1OHNfaDlSempDWXRwaUYwMm1Lb0JMWS11ODJweXFsVTZUaU8wYTJ1aHdLMGNZSnZCNmVtaHdnRUt4MkhCR2VfeHV4cHFjLXc?oc=5",
+    "image": "",
+    "published_at": "Fri, 10 Jul 2026 20:02:00 GMT",
+    "fetched_at": "2026-07-11T08:52:26.543289+00:00"
   },
   {
     "id": "fd2411e349b7",
     "title": "Xiaomi officially confirms 7-inch OLED display and large battery for Redmi Note 17",
     "source": "Notebookcheck",
-    "summary": "Xiaomi officially confirms 7-inch OLED display and large battery for Redmi Note 17&nbsp;&nbsp;NotebookcheckRedmi Note 17 series launch set for July 14 in China&nbsp;&nbsp;MSNRedmi Note 17 to sport a 7-inch OLED display, more details revealed - GSMArena.com news&nbsp;&nbsp;GSMArena.comRedmi Note 17 a",
+    "summary": "Xiaomi officially confirms 7-inch OLED display and large battery for Redmi Note 17&nbsp;&nbsp;NotebookcheckRedmi Note 17 series launch set for July 14 in China&nbsp;&nbsp;MSNRedmi Note 17 Pro confirmed to pack a 9,000mAh battery - GSMArena.com news&nbsp;&nbsp;GSMArena.comXiaomi Redmi Note 17 Pro Lau",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTZzeGJrdW9SYWRwM2Y0RkVWcUROem5oWG9VbVZqc1BfbWU4TjVnc1ZEb1M0eWRMR0UyQkt4Q1ktRjJYVlA5WWdYNTZ1N3M4ODUyd1Q5QmtLMXdCT2dOWWpEeXNxeFVUeDQyaHpLTG5DbzBhY0JlMWtVV05LUjF2QW1BSmJBVGkwV19tODZyQnd1TFZ3a3FVNUNyYThFTXprRWJ1LTBlZHFyc3pkWkg5UElxNkxTYk4tbkJqMkIwcXdmSDlFc1E?oc=5",
     "image": "",
     "published_at": "Fri, 10 Jul 2026 12:46:00 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561066+00:00"
+    "fetched_at": "2026-07-11T08:52:26.543318+00:00"
+  },
+  {
+    "id": "c258d615cc61",
+    "title": "Asha Sharma, the outsider handed the Xbox controls",
+    "source": "Financial Times",
+    "summary": "Asha Sharma, the outsider handed the Xbox controls&nbsp;&nbsp;Financial TimesWho Is Xbox CEO Asha Sharma, Facing MAGA Backlash For ‘Firing 3,200 Americans’?&nbsp;&nbsp;News18Asha Sharma Is Microsoft’s Pain Sponge&nbsp;&nbsp;AftermathWho Is Asha Sharma? Xbox CEO's Career, Education and Why She's Tren",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUN0NWo2YjE0bWFMY3lfM0RiLXNuSFJmbzNDZ29uenk4UHJmSXZSMUs1M0V3YkltMllhdFpwN0k1TjJUUzNHSHZRekRrYlR2ZVlLdHhGLTJQdTRlckZSSW5HRGQ1ekdYWUpmRDg2bDQ2d3hpSXlZbXpRR292ZWJMQklsUFo?oc=5",
+    "image": "",
+    "published_at": "Fri, 10 Jul 2026 16:29:19 GMT",
+    "fetched_at": "2026-07-11T08:52:26.543350+00:00"
   },
   {
     "id": "d1129131df70",
@@ -267,37 +87,17 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTJaSENjUFhleWNldE9zdEpYUnNxQ3NyVWNwMC1vXzJSNkhXOXQ5bXkwdXVwWl9Ya1BEUGVRMlg3bWQyRXZ5NW40dG5kZk12WkxqTnF5d0xXY1lJelVSOGZIOFVCTjd3X0dMMGVlOFBWaUlHQVpxMEt5dDNQOVp6a1RLdjdCN1k?oc=5",
     "image": "",
     "published_at": "Thu, 09 Jul 2026 23:53:34 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561114+00:00"
+    "fetched_at": "2026-07-11T08:52:26.543377+00:00"
   },
   {
-    "id": "27c28a6c584f",
-    "title": "GTA 6 Fans Are Getting Excited Again For A Date In August, As Take-Two Makes A Notable Change",
-    "source": "GameSpot",
-    "summary": "GTA 6 Fans Are Getting Excited Again For A Date In August, As Take-Two Makes A Notable Change&nbsp;&nbsp;GameSpotGTA 6 fans, mark your calendars: Rockstar Games reveals when you can download the game early&nbsp;&nbsp;The Times of India'I honestly think the next step is a gameplay trailer' — GTA 6 fa",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXlYTlF0ZVRINkp2ZWdURFlRTkpjOWRZWXhRX3dxNjNGM3d0b0NnZk54bVRkeEpRMEFOcEVvdm1fdW1ranEzWEV1Q0FLaktSS1B6aGFhYTJsMGZxTzlJd3NfQnM4dUpxNkp1TVc1amwwZE95TmFZMlFsYnh0WDRtcHVUNlFxbmJSWTV3ZFN1N1VweG0zSmhEUk1LcTgtaVFjR0Z2emUyUk5kdWdrei0wTnJpcXljbl9qWl95cElqNXFNcnFRYkE?oc=5",
+    "id": "8e0c51b925d8",
+    "title": "Motorola phones with silicon-carbon batteries beat Pixels, iPhones for battery health",
+    "source": "Android Authority",
+    "summary": "Motorola phones with silicon-carbon batteries beat Pixels, iPhones for battery health&nbsp;&nbsp;Android AuthorityMotorola's premium phones beat Pixel, iPhone for long-term battery health&nbsp;&nbsp;PhoneArenaSilicon-carbon batteries are already old news, and the next ones last days&nbsp;&nbsp;MakeU",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXVZWXVBRzN6SW1pdXhjY0RreXpQTTU3YTVWUUVhV0U4NjkxLWVsWWY4Y1RnTU5jNGh6ejhhOXRoWlVSTm0zSUg1X2xMREZLM0ZWY0hDVUFCcmNVX21sTGJ1WFFjdTF6dE1TYlNHb3NKZlprdEtucVlSSE0xRTFuZ25PSVFONXcyQjJvWkM1Q0xzTXJy?oc=5",
     "image": "",
-    "published_at": "Thu, 09 Jul 2026 13:02:51 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561175+00:00"
-  },
-  {
-    "id": "6892a7f80cab",
-    "title": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides",
-    "source": "Pokémon GO Hub",
-    "summary": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides&nbsp;&nbsp;Pokémon GO HubGet Ready for Pokémon GO Fest 2026: Global&nbsp;&nbsp;Pokemon.comMeet Ashish, Triggered Insaan & Techno at Pokémon GO Fest 2026 | Outlook Respawn&nbsp;&nbsp;Outlook RespawnA Bay Area guide to get t",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS05KWE1tMGxWc1RKeWZsUDZUVmhxS1BLS2V2YV9pMFB5X2FUVzBqRmFQXzRiZHRSXzRJcF82UEx5eFFVOVBLenhpbFVVckY4eDFwZFItVEVjbFVtS213cDBxdkIzT0V5dUVsLUY4a0w3V2U3bnl0VmhmQXl3M1BUcmpWMXA0emNGV3ZENTdYT3lWT0pyWW1Jc3dYbWVZRDktWnNndlg5Qm1tOEVVaW1F?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 10:19:58 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561230+00:00"
-  },
-  {
-    "id": "027c1289c0e9",
-    "title": "OpenAI launches GPT-Live-1 for ChatGPT Voice",
-    "source": "Digital Watch Observatory",
-    "summary": "OpenAI launches GPT-Live-1 for ChatGPT Voice&nbsp;&nbsp;Digital Watch ObservatoryOpenAI’s GPT-Live-1 debuts with full-duplex voice upgrade&nbsp;&nbsp;MSNChatGPT gets more human. OpenAI launches new voice model for natural conversations&nbsp;&nbsp;ThePrintOpenAI rolls out new GPT-Live to power ChatGP",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WLTFsVWdHbkVOTFhRN1FsVndRNmx3NnItX2dkZmNUTjZMdVJRZ0lwSXRtV2Ryak0wZ1c3M1VQV1dSaUJtaTExY0w2cXVqZ3ZvRlB4NTlWZEhoSy1xSHJV?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 05:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:01.561277+00:00"
+    "published_at": "Fri, 10 Jul 2026 11:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:26.543397+00:00"
   },
   {
     "id": "85eece3ab168",
@@ -307,7 +107,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEJ1M2g3YWhKa3poNV8ySVRhbHBUUXUzODZsWTJQU1RXRXc1YzJZM3dCVXQ3ODltWFF6MzFFYVlQUGJZS2IxaFNQeUtKaENwanBjLVYydDB0UFdYMXMzODJIX1JjYUNJQ1FmU2ZqZDEwS2hnUFFOal9KYjl5ZDJLSEViZkJwREwtVzI4WW5GYlJkUlQ4NXNPMlcwbEVxcFJlVmVGOFNYdndZdHdZczgtRGVXdzNnSXdMVVN0RlY3U04?oc=5",
     "image": "",
     "published_at": "Wed, 08 Jul 2026 05:03:33 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044346+00:00"
+    "fetched_at": "2026-07-11T08:52:27.055833+00:00"
   },
   {
     "id": "f6b4abfbac18",
@@ -317,7 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa0VVdzhuZHVsaHg5YkVoZHJZTU1ueENvYUhBeUZKaFBLME9nbXJDc2pLd09hRjI1QUhzY19yQ0V4eW03eWlJVzJBS0RoNzRtdWRUZ2UwTm5qTGRkMkJLTjZiZTZKZ084bUpRMWNJQl9ubnZHZW5SYmZuRFJ1WU5mbWd3cl9YeUo2MTk5RXFUNHNWSm45UlRnV0ZxWTc5YXk3X1JSajRLUE1FdEJzWVZYY1RubkVTTUZDS0xHM1licHl2LXhGc1V1YzdYX0xIWm92RjJfdWdjckJITmZkekFhbVdnY0tPT05ud1Z6WmZmX2xpRXhGbGVKMEJiZ3Nhei1YU2hQTlZzNHJiNmttYmhV0gGUAkFVX3lxTE91OFU4cm9HalVWX2N6R2NfWUJJY093YmJzQ1lreF9KYndpWkhHSzFtaFd2c3RkZTRKVnFJMjVNcHdRNk5xZDFPcFRueTBoZXVCalFyLUlzN0k0ZVFWVFZyeVpJV3hCOEFkTHd4a21fU1dDcmROYjE3cTkzVmZXQWRyUmFWcU5oc3dVWlVGWkN4ckJDdHRLNmhwczBoQzdDYW92a2ZUc0tFODVmSnVTRWZ2N2tVMXdvNHpZVmdoNlR3WUFLQVZWSEVHZ3d6V3FjRFBoQlctRG9zVm9nbWIyWFJZRDZ0OGZ4TkpkUXRyLWJJa01KQnFNNjZBcEdtNGluamZlRUdJbU9aN2dtWEYwY3FIYmFBSw?oc=5",
     "image": "",
     "published_at": "Thu, 09 Jul 2026 08:32:00 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044394+00:00"
+    "fetched_at": "2026-07-11T08:52:27.055871+00:00"
   },
   {
     "id": "69c554367d1a",
@@ -327,7 +127,27 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlJCY0xjZHZad0RyYjN5M2ZXazVWcUpXd1RoUVoxVk9ZcVczU0tDUDVueVg3ZWx3NHU5S1RLdVVzM0VSRFdXamFoTU1xelkzWGU2LUhfWUpaNHc0SF9IRGR4aFRVQy1vQ2s5NnYtWG01YnFRYVkya19jQ3k4b2ExZ0hiYjdOQXd2V29uZHZfODRZb1NaaG5V?oc=5",
     "image": "",
     "published_at": "Wed, 08 Jul 2026 12:23:12 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044418+00:00"
+    "fetched_at": "2026-07-11T08:52:27.055888+00:00"
+  },
+  {
+    "id": "f6f9205a0313",
+    "title": "Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India’s Telecom Sector and establishing a dedicated “Communication Technology Task Force”",
+    "source": "orissadiary.com",
+    "summary": "Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India’s Telecom Sector and establishing a dedicated “Communication Technology Task Force”&nbsp;&nbsp;orissadiary.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQV3RVYjVUUEVnbWhhbWR6dWFULTZvS3hzLW5TOVJkTmtSLVpUVmZiZVl2VWZlN2lLUE9EQ0l5aU1ydUdodDlCaWtudVdaVXUzbTNYNkJERjFpR3FjbmFNdzVvUVlmQjZSMGtCSGpsZjZJaDQxc2lYMkM4NXBxZUM2SUNWb1lLeml1NUd6YUpRRUQteFFDMFBfRy1vMmYxNnMzWGVWeG5oaVoyY2JKNF9mQnBUcmVRMUU4MjFPb1Rxd1V3M29yb0lHcTdncUo5UnNuTkxaTndGczBuYi1iZHphUWIzMC1jM2NRYlIwcHFEajNSU0ZSbHlWVEZKQWVCVXdHZkVuTEF2d2tISjdSekxKa3dtbGtWMzMxYUREN21uTVpVQ2dXb3VnMVdlcw?oc=5",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 06:35:50 GMT",
+    "fetched_at": "2026-07-11T08:52:27.055916+00:00"
+  },
+  {
+    "id": "8b4850d54ca1",
+    "title": "India Tech’s Next Innings: Signals, Shifts and Considerations",
+    "source": "Boston Consulting Group",
+    "summary": "India Tech’s Next Innings: Signals, Shifts and Considerations&nbsp;&nbsp;Boston Consulting Group",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjN4M3l5MG1jTHFoWngwTDFSd205MWNFenhpSURfUkQ2WEp4RENlQmo2YTB6ellzWWxZM05qbUltLThXV183Z3JmUThJNTlYRjB5ak9Sd25PSjRRWXVDVEdpeHNmNTM2R1llRDFYWnlnV1U3cWNndFBseXJKRkY0SGVKQkNLMm5yZTNwcXlST1ByZXphejBRdTk0TUI?oc=5",
+    "image": "",
+    "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:27.055931+00:00"
   },
   {
     "id": "ebe7bfac94aa",
@@ -337,17 +157,7 @@
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE03bTQ0UGo1Q3AyQVFhMlZ5VU5jTnc5WlhRbmhRNnI1akVianN3bHhIWVRFM3hUYWJDazhycHlpcXk4U3pZMVFyMU8zM3JLZ3RhRGdIM29nZ2tVWWdmb3ZBbTExcjRSLV96OHBHYTg1YW9BQVBRTmFRaV9RSzJHdk9kTXRXa0pJZmRCbnRZWWNBRFJ3b0VUMUNxdi0tSGNZaEVvSUUzc1YxbHQ4Q3ZpdkE2RVh0U1NneFNmbW8wZ3g4OEM0Y196akZXd1Z0M093czlEWG9KUdIB3AFBVV95cUxQOU9ENjBMQm1zTHl1Uk5ISHdOV0FhYy1VTkpSM3ozdUJRcHdxTGtkak9RM1pyclUzNUYtOTd1aVZxay0ybEJRVEJjeGJWMWs4THNsU1hBR2VUbzZQRnlqdmtMa2kwNVQ3VkNuZ2d0R2hCWkthU1Zmb3VEaVQya1hwaTVfUmR2MzN0TFlrMDlCWFYwbmEwemZjTXlLeHMzVTEwaGM2RUVhMUVRb0J4T3cwdFk2Z2I0blVydER0eUJWMEI1SWxwLVhXQXcxdHFTVS1QUUFVUDYtR2s1TnM1?oc=5",
     "image": "",
     "published_at": "Sun, 05 Jul 2026 18:35:00 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044444+00:00"
-  },
-  {
-    "id": "b6996408b01c",
-    "title": "India IT stocks climb as strong TCS earnings lift sector sentiment",
-    "source": "Investing.com",
-    "summary": "India IT stocks climb as strong TCS earnings lift sector sentiment&nbsp;&nbsp;Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnQydFpIaWNvbGpkUTV0bDFKOUd4SWY3aWNCbUNQZ2xidWo2SzBsZXVQSklkRzZqamJ0RTQtNE5VWktZSEludkdid2Y0SWY2Zk03VlZ5OXN0aEpyYmJOUTh0SmpLa0U2OHVZdmVreGpGMHBRSTUyaktjTnZ4cWs4VDVXaTJnZkdJMnlsdWhFcHYzMG9kQTZwMkZrUFFwNGk5ZUR3eGkyWjhLUGY2c2s4WUJqSEk4dE5NaHBacnRGOGI?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 06:03:08 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044467+00:00"
+    "fetched_at": "2026-07-11T08:52:27.055948+00:00"
   },
   {
     "id": "a421c0a37e7b",
@@ -357,17 +167,27 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdnRwcUYxNjdZc3dPblpNazZBVnhKSTR1THBVRkl6U0dKZFVET1BRNWc0TnZvVU5pa1FWYmxQeGZJanBBY1RGdU1VX1BNVFlqT0N4dF9PenpVRVZzVDJzS1Q0d3N4YmNkcFBVb21oWVRPd05WS1FQUkVfTTczZkpUVHVuNXJpSHljNHVGOTVoQVcwQ2ttTlh5MU5NYV9XYTQ0Z3FRWjZkSFk3UkhiQVBFMTBVWFdKbEI5b0FqTmFhcTl0WkQtd1JsUk1HeEJrWE92MEtXRXFfQWN4MU0y?oc=5",
     "image": "",
     "published_at": "Wed, 08 Jul 2026 09:11:45 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044492+00:00"
+    "fetched_at": "2026-07-11T08:52:27.055965+00:00"
   },
   {
-    "id": "5079764a0611",
-    "title": "From Gift Nifty, TCS Q1 results to US tech stocks rally: 10 key things that changed for Indian stock market overnight",
-    "source": "livemint.com",
-    "summary": "From Gift Nifty, TCS Q1 results to US tech stocks rally: 10 key things that changed for Indian stock market overnight&nbsp;&nbsp;livemint.com",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMnh5TE5FOVRwNmxtSFJ6MWlBN1RpLU1KTXpJLUF5TF9fNEI5WjlsdHJMUlljejc2amJJZWd5Z0ZVanZpeEpKZGJOaVI2UU1TYnJXSndWa1V0RzhZSGluc0JYaW5qdUNJTTBOajVKUHRFeHJSTU5QdWVqM2VpRFZFS015aFF4SEdFNVlDLXN2bzR4b29fMkRVRURmWHc2bTktcnd5TGRaMVBRZVZqTElzMlM1LVp1TkZ1QVEyNkttRENyTnNOU0JFM05CZmtiMzVtZTl1WDNDR1RsX0lsRDd0RFczWmVkT1c0Q0RqYnBTOGFEbWhWTFRXZlpVM0ZsUkFPcEZnQUxBTUlpNEM4OHpfV2xLTdIBmAJBVV95cUxPNENSVEN3SjRtTlRFU1VfUjRYc0h1Q3dneVpCS3ZQc1lkREZhdy1XbXFySUd6SWoxT0NyTmplb0djRy1kRURuNFc4aW55d3pPbVJWRlh2NFRNS0pNLWp3a0lhZy1aU1BGQ3NRb001TF9Dal9qQllWSlBkYkhoV0hvQlRoU2JlZm5BTlZudDRuS0RrRkFFU0xvUFpBRzhmX09CT0gxbC1PdDFKN1BzTW50OGpwYnRQNjh6MG1TRGh2REdiVDhQRUhNODY2b09uTnV1VjJWRUg5NkNvak5hblhnLXdWLXRienZ5eHd0dllXVUZON1hjZGlHd2pwdUF1My16MHR3eEQ2aEtOUkZDYlE3aGI1a1RQdnJZ?oc=5",
+    "id": "b6996408b01c",
+    "title": "India IT stocks climb as strong TCS earnings lift sector sentiment",
+    "source": "Investing.com",
+    "summary": "India IT stocks climb as strong TCS earnings lift sector sentiment&nbsp;&nbsp;Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnQydFpIaWNvbGpkUTV0bDFKOUd4SWY3aWNCbUNQZ2xidWo2SzBsZXVQSklkRzZqamJ0RTQtNE5VWktZSEludkdid2Y0SWY2Zk03VlZ5OXN0aEpyYmJOUTh0SmpLa0U2OHVZdmVreGpGMHBRSTUyaktjTnZ4cWs4VDVXaTJnZkdJMnlsdWhFcHYzMG9kQTZwMkZrUFFwNGk5ZUR3eGkyWjhLUGY2c2s4WUJqSEk4dE5NaHBacnRGOGI?oc=5",
     "image": "",
-    "published_at": "Fri, 10 Jul 2026 01:40:11 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044521+00:00"
+    "published_at": "Fri, 10 Jul 2026 06:03:08 GMT",
+    "fetched_at": "2026-07-11T08:52:27.055979+00:00"
+  },
+  {
+    "id": "ccceeda3de83",
+    "title": "How AI is Rewriting the Economics of India’s $300 Bn IT Services Sector",
+    "source": "TechGraph",
+    "summary": "How AI is Rewriting the Economics of India’s $300 Bn IT Services Sector&nbsp;&nbsp;TechGraph",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDFEdE90NVhrTmVBWTI4ckZGVWR1V2N6VlJTeHpmREZ2R0dwR0doWXhRaGltOG01TFFZTmlIZWdCX2lYT25wbXlzeGNNcDIzY3Rfa2MzalAtdzY5OXFUckxSYUdXRlMtR1RPX09vZVZabGtZd2ZBTWRsN1o5Y0xmMzdTMVRSNGxoa0c0ZUlpU0p0MWFH?oc=5",
+    "image": "",
+    "published_at": "Tue, 26 May 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:27.055995+00:00"
   },
   {
     "id": "065aa2887f43",
@@ -377,27 +197,7 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmpJaFZSVFNGV2VmS1JUaVZ4czBCWUZDNUpSa1MyQTJYXzNIMllOZEQ3azY0TlFkakd6dmo0aTdpa3pJbmRZYXcwSThvcGM4cHFMWE5iNGlzb0ZNbkR3RURwaGdESWMtLVkxOXVnR2VrZmExTzBnNXVBUmtYek44VXlwVjlTb0lJMWRETw?oc=5",
     "image": "",
     "published_at": "Fri, 26 Jun 2026 15:19:03 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044542+00:00"
-  },
-  {
-    "id": "5002e56c6185",
-    "title": "JPMorgan sees India's IT sector recovery delayed to FY30",
-    "source": "MSN",
-    "summary": "JPMorgan sees India's IT sector recovery delayed to FY30&nbsp;&nbsp;MSN",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMC1nc0RqNjBvazlsdEFBOW52THZvVWo2WjBDY3dIalhlMFJLMXpHdTFjYlc4RTBFcmlIVUR6OEx4T3NqWkVPeHUtTHpRZVJUV2ZzTDZ0ckRtVzBxalJkVkt4amZvcFNTTTdwamlWdFJZcGhwNkRhZGRDNG1iLWxSMHFRVF85S2VQMThvbUgxRzBBT0NMX0dyX2p5ZzNGSWVvbkhyWExtbXp0ZkZnT0N0bFVmMTZ3LTNGRTdfZ2QwSml2QWhxRnJxWFg4RnQyVFdidy05Nm15aWtWRGlfZkV2V2p4c1ZwMndGZlFrQjJTckNuc2JNZmJOaFU1WWRFc2FTV3hXYmVVN0w5MVFOSVNNQ2dEbnRSYWNPcE1SeHhuOENUUQ?oc=5",
-    "image": "",
-    "published_at": "Sun, 28 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044562+00:00"
-  },
-  {
-    "id": "990dea6d11d2",
-    "title": "India-US tech partnership turns to private sector for AI and chip projects",
-    "source": "India Today",
-    "summary": "India-US tech partnership turns to private sector for AI and chip projects&nbsp;&nbsp;India Today",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnRReGs5ekx5blBITTZUTVpoYkJoV2owOG5yRUVWdDhWUE9ybzRpb3BWeXp3WktadS1VZGhsOVhEOXlNR0MzV3MxMlJiUHF6VmdkZm9oWjBjOUdYZDBXTzl5UF9DWnVRRFAtQzZvM05OX2FqQ1NNdFNCNE5vNVpWMWdjT1lyZmhtNHFVUGhlVFF3U2NaeUROeHIzNS1kS29FNVQteDMybUFEMWJkT3ZudTAyYTdEV09LTVo0MjFLV01LM0Fhd3VwTWtXX2txazV1WkdJMTM3MNIB3AFBVV95cUxPZ3VpWUs5THNSYUdmTW5aWVIwWU1ySFVzd00tZVd5akkwdWl0bWN0aWpYWm1oQlh3U0RrRXJwN1JkTXNRX1RacmZUdzlUUzNDSzRMcGItNnhDb3JWQ3BTdDJXVmFfQ1ZLemRXNDZ5bUJfMjV5aG5SVXNnN2M5bEF0OXRHbVdZXzg5NG1mMng2OFNhNlFwaUtpaW1TOEdUdDRpcy16VjBFeWJrT25kZGtNNkVWQTJkM2pMZTZQb2FSWXl3TEZOenhrY2U4TXMtdjJmUzR2RkJ5OHRJeG5M?oc=5",
-    "image": "",
-    "published_at": "Sun, 28 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:02.044585+00:00"
+    "fetched_at": "2026-07-11T08:52:27.056008+00:00"
   },
   {
     "id": "657f9e8a7206",
@@ -407,57 +207,17 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG4xOXY0REwyUEFqQ25zVDNGQmNIOHNtaFFvTWZqdFZCa2U3VDJkcFgxbVVGTW1DQV9Ja0ExalYxQnBhUDgyUXlKZGJ0T0VNbC1LZ21tWGozeGhLd0FIVU1rRnIteHRCWW5WVFFyUkVJNEUtTGZidnpPMkdiUDZWNWlGZUo?oc=5",
     "image": "",
     "published_at": "Wed, 01 Jul 2026 09:32:17 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014164+00:00"
+    "fetched_at": "2026-07-11T08:52:28.057058+00:00"
   },
   {
-    "id": "7f14bb61aa3a",
-    "title": "Indian IT industry wants to take on ‘unglamorous’ AI work for American companies",
-    "source": "Scroll.in",
-    "summary": "Indian IT industry wants to take on ‘unglamorous’ AI work for American companies&nbsp;&nbsp;Scroll.in",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkotSTZUMTFucHViMU5McTBjbkJSZHREQ2lxODBTN09xVjhEbU1taXJkeUJ2cEZseGdlTUd2TTVtRVdYZkxxNXZpMUxsdHBxMkRHR1NuSDZuVjI5ZUtCSmxMaXV5d09DV3l1LXBYbHd6cWdiYUhSLU40UHBGUU50Yk5TaFhpM2FmNXZQSncyRlpIVGFidGtvSE81V3RQUE1ibV9KanhQb3pfcGJSNl8yZUVn0gG3AUFVX3lxTE5XZUhDcWp6SzZJb1J3VHExX3Nyek5NaU5kcnVFbmtpWHppN3ByeTVjQUF2RnNWU2hMbEhoVndzR0lMOG45UnJPQVFDQmRlenVRYUFiamUzMC1kSFROR1FuX0ZyMEhUQk54SGtFTnF2cnhZUTcxMmpuLURZM0ZRZy04NW85dGdXaDZCMEQ3SGVVTFd4NXA4azJQTy1LMXdnV0twa2huTUJIUjJoMENnSEplaUhwMVk1cw?oc=5",
+    "id": "b9b5d98515a6",
+    "title": "Total export and domestic market size of IT industry in India FY 2015-2021",
+    "source": "Statista",
+    "summary": "Total export and domestic market size of IT industry in India FY 2015-2021&nbsp;&nbsp;Statista",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGY2VThWanRKT1JKMEE0NWUwbk81LWdQbHRMOFdtb2VKX1ozaUs0ajZOTUIyWDIwWTEwRW9xSmt2XzNwZHc1dmpPenVuWXdQMXFSLU1QVUhyWHRTRks5bGdQN1RPcUtyOHhJc194bFFuaFRBSDJIWHJpUWk4YVNVWUQ0dUFCY2s1RnJITU1kbmNNbmc?oc=5",
     "image": "",
-    "published_at": "Sat, 20 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014202+00:00"
-  },
-  {
-    "id": "4e12b1c5b103",
-    "title": "How India’s life insurance sector funds government expenditure",
-    "source": "The Hindu",
-    "summary": "How India’s life insurance sector funds government expenditure&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTgxUW5wQmlkUnVSQzZBVER0LTNIZmlFbzdJZ09FTlhkSWR4ZXdzaXVQd2t4eExBdm1tSUNCUEhvSFZPVXBvdmZWTExxaENIU3dTWUtCX1Ytc1F6REtKSzMwMjhReXpOaGlyNzNqaHczd1c0VlhoUlBpdkVjOFo1UTRrdDVUQ3BMRkxQa0V2NmlWY0hpRzJDQ3ZrWERwclNkbEtqYnlJajJDSGx3Y3ZTZHZ4anFCbC00UDJNb2I5UzXSAccBQVVfeXFMUFRSNnI2ZkJLM3NlUWFsR0dJeTV1amNpZXpYNG5BdWpfVmZDblllenA3YjJDdEl2ZWtmRkxrUWNjWXZKbmFoYklIbXE0VHpLcXJpU1Z5UGFrOW90NjYxaXN6eVEtS29JYTkyc21hTUczd3BITXl2TlVZZVRPQ3ZyLXJIM3dyZHJKNm5XVk5oYmRWa2l1VFlTb2ZObHFlTWpXOFJpdDRQaVdacmFndXM5VEt3NVZCN2hjNXh0dXZBNU1WZGNwamdrbw?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 02:30:00 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014221+00:00"
-  },
-  {
-    "id": "1c2de85bb44b",
-    "title": "India’s Textile Parks Are Half Empty. Do We Need More?",
-    "source": "Indiaspend",
-    "summary": "India’s Textile Parks Are Half Empty. Do We Need More?&nbsp;&nbsp;Indiaspend",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeEptOG9IT3FMbDBzMHZwYkFTUjJ3VXo3QnJtX2dBcWVLcW51U0ZxM0REamRvQ2tkazdNRWNFeG52YXgtRkdKNnFVVTVCWW0zdjBQeXB2VHFKUVZYbDhnLUFtOGZMbnNaRmhXel9sbU1DMXVlbVl0MHJjb0J6dk1xUzlTd0tMSW1oNVlfekVCR2ptb3czeWtxVVZn?oc=5",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 02:46:23 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014239+00:00"
-  },
-  {
-    "id": "f36f23c7518a",
-    "title": "Indian industry pushes back against USTR’s Section 301 tariff plan",
-    "source": "BusinessLine",
-    "summary": "Indian industry pushes back against USTR’s Section 301 tariff plan&nbsp;&nbsp;BusinessLine",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWJnOU9NTmJ1VUhLWEVrRUF1MndjUm9ic2I1YjNOalc5eGtZbG9UdE1VOWtWbWZMaXpiell4R3JLTGJpOUJpS2FGSzZ5cUY4bDV5Vk5nQno2Q2pjZi00S3FJdmJsNkVkT2ZRSjR0NXBYem5XR1ljZkZtV29jNnU5QlZhaGxlSjV1SUxRQl9WQWtFaEIzMnJDalJ1ZGZTN21xa1hKZFZWcVBZQ1JhbU9teFd6bUx5NHZaWlBCWi1JLXJMb0JrX0pUbTlR0gHQAUFVX3lxTFBNWnpyWlNZbTF1SEdLSHJiUXBNc01qRy1URW5JWk5XZ09lT05EYVNlLTF6VVFkMk1EOHFwT3VwUFY4NlcxUEU1OVdsOVp6NnNzRms1V1JGWERQNXA0dnZmdXNOYkVXQUNtaE1ZWlJlUHc0YmJXWEt2VjRrTGROTzRweHktTkYyd1NuOS12c0hCMDJUYXJubU9RY2QwQ1l0dkxFMnBNNHJ0d3JJUWtpbDdFS3NEZUhXLWNxX0VmckF0RFJ0eDZ1SXpCTk9rSGNyUEs?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 14:07:54 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014258+00:00"
-  },
-  {
-    "id": "026fef4d0e77",
-    "title": "Indian Wealth Management Sector Posts 74% Profit Growth Amid High HNI Market Participation",
-    "source": "Sahi",
-    "summary": "Indian Wealth Management Sector Posts 74% Profit Growth Amid High HNI Market Participation&nbsp;&nbsp;Sahi",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDhGMWdRVUJIQmJ1MDY4SWkzUU8tc0pJV0JhaUhIbEpLTGhOa19yM2Myb3dqMjJiWDFQMWF6aFd3dW5XN3lSbjFZVVdNSUVfM1NBLWRWWUpkaFVJVVhxSERaSXFqeDJPcXppbmlNY2tFUzdSSmNuNHk3TFZBZXBYT3pkX1NEUUFESWdfcXlMX1JqYV9fT2tKeFRMRXV1N3B4Ni1yT2UtdEtvX1plU3FYNVBIMFpFNUt0N1d2MUVnckVLTmNzZVY0?oc=5",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 00:19:03 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014278+00:00"
+    "published_at": "Mon, 06 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057086+00:00"
   },
   {
     "id": "e366e1506159",
@@ -467,17 +227,67 @@
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWTc5N0RTNXktNkREbzNPRlRTSTlncWFIcWpJZldjVHFfeXRkSWVhaVVQY3RSOE4wYzdCcTVsSGxSLWEzbGZkNDFybzJ0VDJ6bUNhMmlxVnA1OHBHc2J4a2wza0t2ZzFqTGUwLVhVWUdHclBUMVpReXcxVUlTZUdKcEF3bWFZNU1BTW5rbi1pVzdnTEpHVGFiRG56RGhwV3BuNjdiRWRtZUZaYk96bF9wcjVIVC1RTDVDNVdnUVM2bjBqN0F3ek1YZXNxdVlQbUlUckdVc0NaWkdKSnRFY0szOVBvZ28tQ2xVUWpKZl9TRdIB9AFBVV95cUxOVkJvY0xpMVBvNURjY1RIN1F5S2ZZdlhJbFNjbEktWmkwd0FvTmk4T19GRHhYX3BYZE5FQXZtU3dCam1MOUQ0MWhrbFJEYkZuYV91M3BscmF4cjNLU3BuaHdlMTllcU9ZajNDX1BvVmJ3QjhtWmF5OWVVajgxYlBadDdsUGVGRnl1RzNwd1VLTHh0cWRRMEpDcTRDREpmNjA2QngyNHJQcmI2U3gxZkpnRGlUVWlMeFFSNlRpR1lidzRKckZNeGM4ZVA3WWFUTHlfdk0zdFBhN2xzdmlKeVBTekN0eVpVY3ZzYmF1UDdHcXVsXzFy?oc=5",
     "image": "",
     "published_at": "Sun, 28 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014298+00:00"
+    "fetched_at": "2026-07-11T08:52:28.057105+00:00"
   },
   {
-    "id": "2cdca1721d46",
-    "title": "EV surge pushes auto parts industry into trade deficit",
-    "source": "Forbes India",
-    "summary": "EV surge pushes auto parts industry into trade deficit&nbsp;&nbsp;Forbes India",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmVKbmdzeWhFZk9DNjlUWEFFZ0FvYjJVclR2dWthOUJUeXJrbGZoOURmeUVJME4tZHlFZ0hTX0FLRTFWYk1RZm1uV3dUdktVa3l2R1R6MVdpOF92YWJzNDh2WVREbkNWRTJFRHZBMkI4bFQ5aUNzMlA1YThEX1RMdURNUHdYUllfdHFEUVlGR1pqcWNmQUVfZ0JLRXdRcEJiR04wSXYtMUdZd09rYVRPU2k0ekZfQdIBuwFBVV95cUxQbnMySTJnUjVLd0oxU2xNWm80TEw0UDA0SF9UTG9fSDYzbFctNFdnQ19JVEI5Y2tJNmg5WGNnU3dCUEtvdHVIdkdmVDVmMG9aRERzQzJWbThPMGU2Tm01TFJVNGZWYXJUTzRjT1VZd3R4dmd5M2lvb19lOXgtWU5abFNTRmkwWU0zNkltRXFseVBKa3JtNWRLWlFadm9HTjZpN3E4TTloa3B6NF9RUnJMam9vX0k0aEwtTVp3?oc=5",
+    "id": "7f14bb61aa3a",
+    "title": "Indian IT industry wants to take on ‘unglamorous’ AI work for American companies",
+    "source": "Scroll.in",
+    "summary": "Indian IT industry wants to take on ‘unglamorous’ AI work for American companies&nbsp;&nbsp;Scroll.in",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkotSTZUMTFucHViMU5McTBjbkJSZHREQ2lxODBTN09xVjhEbU1taXJkeUJ2cEZseGdlTUd2TTVtRVdYZkxxNXZpMUxsdHBxMkRHR1NuSDZuVjI5ZUtCSmxMaXV5d09DV3l1LXBYbHd6cWdiYUhSLU40UHBGUU50Yk5TaFhpM2FmNXZQSncyRlpIVGFidGtvSE81V3RQUE1ibV9KanhQb3pfcGJSNl8yZUVn0gG3AUFVX3lxTE5XZUhDcWp6SzZJb1J3VHExX3Nyek5NaU5kcnVFbmtpWHppN3ByeTVjQUF2RnNWU2hMbEhoVndzR0lMOG45UnJPQVFDQmRlenVRYUFiamUzMC1kSFROR1FuX0ZyMEhUQk54SGtFTnF2cnhZUTcxMmpuLURZM0ZRZy04NW85dGdXaDZCMEQ3SGVVTFd4NXA4azJQTy1LMXdnV0twa2huTUJIUjJoMENnSEplaUhwMVk1cw?oc=5",
     "image": "",
-    "published_at": "Wed, 08 Jul 2026 07:00:21 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014314+00:00"
+    "published_at": "Sat, 20 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057128+00:00"
+  },
+  {
+    "id": "1c2de85bb44b",
+    "title": "India’s Textile Parks Are Half Empty. Do We Need More?",
+    "source": "Indiaspend",
+    "summary": "India’s Textile Parks Are Half Empty. Do We Need More?&nbsp;&nbsp;Indiaspend",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeEptOG9IT3FMbDBzMHZwYkFTUjJ3VXo3QnJtX2dBcWVLcW51U0ZxM0REamRvQ2tkazdNRWNFeG52YXgtRkdKNnFVVTVCWW0zdjBQeXB2VHFKUVZYbDhnLUFtOGZMbnNaRmhXel9sbU1DMXVlbVl0MHJjb0J6dk1xUzlTd0tMSW1oNVlfekVCR2ptb3czeWtxVVZn?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 02:46:23 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057144+00:00"
+  },
+  {
+    "id": "4e12b1c5b103",
+    "title": "How India’s life insurance sector funds government expenditure",
+    "source": "The Hindu",
+    "summary": "How India’s life insurance sector funds government expenditure&nbsp;&nbsp;The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTgxUW5wQmlkUnVSQzZBVER0LTNIZmlFbzdJZ09FTlhkSWR4ZXdzaXVQd2t4eExBdm1tSUNCUEhvSFZPVXBvdmZWTExxaENIU3dTWUtCX1Ytc1F6REtKSzMwMjhReXpOaGlyNzNqaHczd1c0VlhoUlBpdkVjOFo1UTRrdDVUQ3BMRkxQa0V2NmlWY0hpRzJDQ3ZrWERwclNkbEtqYnlJajJDSGx3Y3ZTZHZ4anFCbC00UDJNb2I5UzXSAccBQVVfeXFMUFRSNnI2ZkJLM3NlUWFsR0dJeTV1amNpZXpYNG5BdWpfVmZDblllenA3YjJDdEl2ZWtmRkxrUWNjWXZKbmFoYklIbXE0VHpLcXJpU1Z5UGFrOW90NjYxaXN6eVEtS29JYTkyc21hTUczd3BITXl2TlVZZVRPQ3ZyLXJIM3dyZHJKNm5XVk5oYmRWa2l1VFlTb2ZObHFlTWpXOFJpdDRQaVdacmFndXM5VEt3NVZCN2hjNXh0dXZBNU1WZGNwamdrbw?oc=5",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 02:30:00 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057160+00:00"
+  },
+  {
+    "id": "f36f23c7518a",
+    "title": "Indian industry pushes back against USTR’s Section 301 tariff plan",
+    "source": "BusinessLine",
+    "summary": "Indian industry pushes back against USTR’s Section 301 tariff plan&nbsp;&nbsp;BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWJnOU9NTmJ1VUhLWEVrRUF1MndjUm9ic2I1YjNOalc5eGtZbG9UdE1VOWtWbWZMaXpiell4R3JLTGJpOUJpS2FGSzZ5cUY4bDV5Vk5nQno2Q2pjZi00S3FJdmJsNkVkT2ZRSjR0NXBYem5XR1ljZkZtV29jNnU5QlZhaGxlSjV1SUxRQl9WQWtFaEIzMnJDalJ1ZGZTN21xa1hKZFZWcVBZQ1JhbU9teFd6bUx5NHZaWlBCWi1JLXJMb0JrX0pUbTlR0gHQAUFVX3lxTFBNWnpyWlNZbTF1SEdLSHJiUXBNc01qRy1URW5JWk5XZ09lT05EYVNlLTF6VVFkMk1EOHFwT3VwUFY4NlcxUEU1OVdsOVp6NnNzRms1V1JGWERQNXA0dnZmdXNOYkVXQUNtaE1ZWlJlUHc0YmJXWEt2VjRrTGROTzRweHktTkYyd1NuOS12c0hCMDJUYXJubU9RY2QwQ1l0dkxFMnBNNHJ0d3JJUWtpbDdFS3NEZUhXLWNxX0VmckF0RFJ0eDZ1SXpCTk9rSGNyUEs?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 14:07:54 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057176+00:00"
+  },
+  {
+    "id": "12f398cb4ef4",
+    "title": "Indian Institute of Internship Expands Industry-Focused Internship Opportunities",
+    "source": "The Tribune",
+    "summary": "Indian Institute of Internship Expands Industry-Focused Internship Opportunities&nbsp;&nbsp;The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0dtS1BYRzFVQ01JS0JHRW9YQk9lMWNCbkZrNXlHdWhUSEZ0UUVDSDZBSlFXOVlvaWp4Y250a2NWdXp3NFFac3oybk1wWlZwRjlpY2tZcF9la0RrcFIyd3FYR3dTNFBGWnVUNUNyUDZyb0NoSmh4YnYyNjNiQjhPdVMxLWZDaDRtaUJiQkUxUXNyNTAxOXhzVEpSWmtDS3QyUXV2ak8zSnJzWFZyWnp3RnVXcVlnUktoXzZ3bG1UUVFvZ9IBxgFBVV95cUxNcUNxWDlacTk0RlVPRVBmSHBVZU9zVlFoa1JmYXFmSTRyQnlKVHhYeXFiVC1QUll6RkQ3SndhV2xCcWJkaWdKZkktWk4xNVY2Ry1DODltYmRIZmhaWDluV3RfNFlHVUJuNEVGOUhMbW5KcERwZ2tJQ21QZnZUQ3gyWUpNdXBCeUZZdDh3d21WM0luN2pZUU1ZRF9ZS1VXNldtQVIxSlM2OXdiaEpXTlE4cE9Bd21SSnJXRlJLWFp6YjNyY3BqOVE?oc=5",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 07:38:38 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057191+00:00"
+  },
+  {
+    "id": "026fef4d0e77",
+    "title": "Indian Wealth Management Sector Posts 74% Profit Growth Amid High HNI Market Participation",
+    "source": "Sahi",
+    "summary": "Indian Wealth Management Sector Posts 74% Profit Growth Amid High HNI Market Participation&nbsp;&nbsp;Sahi",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDhGMWdRVUJIQmJ1MDY4SWkzUU8tc0pJV0JhaUhIbEpLTGhOa19yM2Myb3dqMjJiWDFQMWF6aFd3dW5XN3lSbjFZVVdNSUVfM1NBLWRWWUpkaFVJVVhxSERaSXFqeDJPcXppbmlNY2tFUzdSSmNuNHk3TFZBZXBYT3pkX1NEUUFESWdfcXlMX1JqYV9fT2tKeFRMRXV1N3B4Ni1yT2UtdEtvX1plU3FYNVBIMFpFNUt0N1d2MUVnckVLTmNzZVY0?oc=5",
+    "image": "",
+    "published_at": "Fri, 10 Jul 2026 00:19:03 GMT",
+    "fetched_at": "2026-07-11T08:52:28.057207+00:00"
   },
   {
     "id": "4f8173e0d361",
@@ -487,16 +297,206 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDNqYUg4ZS1zM3MwT0Z2LWYwTXVnbVpQMERkNXpSdVdNemx5b3ZOX3gydDlQS1hwQklQaERTOEJDLXI3d29xSTNOcGVUNkJZV2FvdGNVV3l0dV9nampac2J4UHdaWTRBTDloVklqQzg1Q010TFZ4M1Zjcjh3aDdNZXRoUTBPWjVVMDRrRHktempqWFZJUHg3aVVrWTYwZ1VfYlhLMVN0MmRWR2lUOUVjQjAtb1RJbmpQdTQ0NE91eUlpV1M4?oc=5",
     "image": "",
     "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014331+00:00"
+    "fetched_at": "2026-07-11T08:52:28.057221+00:00"
   },
   {
-    "id": "4f269af72519",
-    "title": "Indian auto component industry hits Rs 7.6 Lakh Crore",
-    "source": "Manufacturing Today India",
-    "summary": "Indian auto component industry hits Rs 7.6 Lakh Crore&nbsp;&nbsp;Manufacturing Today India",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FQ21hUEhaVEo3b1U0dDYwSlp0dFBnLXczTWFzbUY3dHo2WEJ1ZlEySVU3bVRYcThJb1d6Sk1feHAyeHAwbkdXOGdUbHE2WWx5YTJsQ1IwYlhsZ2pZeXdaVmh2UFlhWEZtejhQMmxKVkdYYmdRLUZJWmx3?oc=5",
+    "id": "ea98fc2bcf0e",
+    "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
+    "source": "LiveMint",
+    "summary": "Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and Anthropic in the rapidly expanding market for enterprise AI models.",
+    "url": "https://www.livemint.com/technology/tech-news/mark-zuckerberg-returns-to-x-after-3-years-to-unveil-metas-muse-spark-1-1-ai-model-developer-api-11783622111314.html",
     "image": "",
-    "published_at": "Wed, 08 Jul 2026 04:34:00 GMT",
-    "fetched_at": "2026-07-11T03:24:03.014346+00:00"
+    "published_at": "Fri, 10 Jul 2026 00:14:11 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182580+00:00"
+  },
+  {
+    "id": "4375de112b9d",
+    "title": "Lava to launch ‘Virat’ series phones in India, Flipkart availability confirmed",
+    "source": "LiveMint",
+    "summary": "Lava will soon launch its new ‘Virat’ series of smartphones in India via Flipkart. The company has confirmed that its new online-first series will feature both 4G and 5G devices",
+    "url": "https://www.livemint.com/technology/gadgets/lava-to-launch-virat-series-phones-in-india-flipkart-availability-confirmed-11783608904681.html",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 20:51:13 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182613+00:00"
+  },
+  {
+    "id": "8c39570e3fa7",
+    "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
+    "source": "LiveMint",
+    "summary": "Meta is developing AI-powered smart glasses that capture images and audio throughout the day.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 10:29:16 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182630+00:00"
+  },
+  {
+    "id": "c956bd41e0dc",
+    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
+    "source": "LiveMint",
+    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182649+00:00"
+  },
+  {
+    "id": "e37083f4b706",
+    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
+    "source": "LiveMint",
+    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
+    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182664+00:00"
+  },
+  {
+    "id": "416959b34e0a",
+    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
+    "source": "LiveMint",
+    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
+    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182680+00:00"
+  },
+  {
+    "id": "7bf2035214f5",
+    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
+    "source": "LiveMint",
+    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182695+00:00"
+  },
+  {
+    "id": "44520f529ff2",
+    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
+    "source": "LiveMint",
+    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182711+00:00"
+  },
+  {
+    "id": "10aadac9d1b8",
+    "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
+    "source": "LiveMint",
+    "summary": "Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone.",
+    "url": "https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html",
+    "image": "",
+    "published_at": "Mon, 06 Jul 2026 12:15:54 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182726+00:00"
+  },
+  {
+    "id": "629e64e3e67e",
+    "title": "New AI agent can hack systems and deploy ransomware without human help",
+    "source": "LiveMint",
+    "summary": "A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html",
+    "image": "",
+    "published_at": "Mon, 06 Jul 2026 09:14:44 +0530",
+    "fetched_at": "2026-07-11T08:52:33.182743+00:00"
+  },
+  {
+    "id": "c423ef11af35",
+    "title": "Swiggy Instamart gets 9 FSSAI notices following customer complaints on contaminated food, milk",
+    "source": "Economic Times",
+    "summary": "FSSAI has issued nine notices to Swiggy Instamart due to multiple consumer complaints. Allegations include supplying expired, spoiled, and contaminated food products to customers. Specific products like eggs and protein powder were found unfit for consumption. The regulator also noted issues with FS",
+    "url": "https://economictimes.indiatimes.com/tech/technology/fssai-issues-9-notices-to-swiggy-instamart-following-customer-complaints-on-contaminated-food-milk/articleshow/132326918.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 12:09:27 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273297+00:00"
+  },
+  {
+    "id": "d70eb42e0a4e",
+    "title": "Bill Gates heir’s shopping app claimed sales it didn’t drive",
+    "source": "Economic Times",
+    "summary": "Phia, co-founded by Phoebe Gates, faces accusations of violating affiliate marketing policies. The browser extension allegedly claimed sales it did not drive by injecting its own referral codes. Independent researchers and competitors like Capital One Shopping highlighted these concerning practices.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/gates-heirs-shopping-app-claimed-sales-it-didnt-drive/articleshow/132324402.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 09:39:46 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273333+00:00"
+  },
+  {
+    "id": "3899aaa898f3",
+    "title": "Meta scraps AI image feature days after launch following privacy backlash",
+    "source": "Economic Times",
+    "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the feature missed the mark ",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:42:15 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273359+00:00"
+  },
+  {
+    "id": "5aecb12e7b7c",
+    "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+    "source": "Economic Times",
+    "summary": "The United States has eased export controls on the United Arab Emirates. This change allows easier access to Nvidia AI chips and military equipment. Approved UAE companies and US firms operating there will receive license-free advanced computing items. This move strengthens US-UAE relations and supp",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:42:10 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273383+00:00"
+  },
+  {
+    "id": "a76a942d9b37",
+    "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+    "source": "Economic Times",
+    "summary": "Altera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing in the near future. They have reduced reliance on Intel and",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:42:00 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273407+00:00"
+  },
+  {
+    "id": "166dd43cf2c9",
+    "title": "Meta appeals verdict in social media addiction lawsuit",
+    "source": "Economic Times",
+    "summary": "Meta has appealed a landmark social media addiction lawsuit verdict in Los Angeles. The company challenges the jury's determination that its platforms were designed to hook young users. This appeal follows a jury finding negligence by Meta and Google's YouTube. The jury awarded a young woman three m",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-appeals-verdict-in-social-media-addiction-lawsuit/articleshow/132323642.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:12:09 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273431+00:00"
+  },
+  {
+    "id": "59fdaa94ce21",
+    "title": "Music industry launches AI-generated content labels",
+    "source": "Economic Times",
+    "summary": "Music organisations have introduced a voluntary labeling system for AI-generated content. This system aims to inform listeners about the use of artificial intelligence in music. Two labels will distinguish between fully AI-generated and AI-assisted recordings. Streaming services are closely monitori",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/music-industry-launches-ai-generated-content-labels/articleshow/132323648.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:10:40 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273452+00:00"
+  },
+  {
+    "id": "551bbff3d069",
+    "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
+    "source": "Economic Times",
+    "summary": "The UK government has identified Microsoft, Google, Amazon, and Oracle as essential cloud providers, implying new regulatory measures for these tech giants. This initiative is designed to bolster the resilience of the financial sector against potential cyber threats and service interruptions, introd",
+    "url": "https://economictimes.indiatimes.com/tech/technology/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability/articleshow/132323603.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 07:57:49 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273477+00:00"
+  },
+  {
+    "id": "b25961ec726b",
+    "title": "WhatsApp username rollout put on hold after govt notice",
+    "source": "Economic Times",
+    "summary": "Telegram has also submitted its response to the government that last week issued formal notices to the messaging platforms, directing them to immediately halt the rollout of the username feature. These platforms currently rely on mobile phone numbers for user identification.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/whatsapp-username-rollout-put-on-hold-after-govt-notice/articleshow/132319288.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 06:02:00 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273495+00:00"
+  },
+  {
+    "id": "4088217733f6",
+    "title": "ET Graphics: Domestic investors overtake foreign funds at Swiggy in a show of home advantage",
+    "source": "Economic Times",
+    "summary": "Domestic investors now hold majority stakes in Swiggy, reducing foreign holdings. Several foreign institutional investors have significantly reduced their stakes in the hyperlocal platform. Meanwhile, domestic institutional investors have increased their holdings in Swiggy. This shift moves Swiggy c",
+    "url": "https://economictimes.indiatimes.com/tech/funding/et-graphics-domestic-investors-overtake-foreign-funds-at-swiggy-in-a-show-of-home-advantage/articleshow/132325947.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 00:02:50 +0530",
+    "fetched_at": "2026-07-11T08:52:33.273519+00:00"
   }
 ]
