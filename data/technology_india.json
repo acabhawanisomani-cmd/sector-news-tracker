@@ -1,5 +1,205 @@
 [
   {
+    "id": "26bc6d78e8de",
+    "title": "‘Elon is obsessed with me again’: Sam Altman hits back as Musk invokes Apple lawsuit against OpenAI",
+    "source": "LiveMint",
+    "summary": "OpenAI CEO Sam Altman and SpaceX's Elon Musk engage in a social media dispute following the launch of GPT-5.6, with Musk targeting Altman in memes.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/elon-is-obsessed-with-me-again-sam-altman-takes-fresh-swipe-at-musk-after-gpt-5-6-launch-11783835354190.html",
+    "image": "",
+    "published_at": "Sun, 12 Jul 2026 13:44:12 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310413+00:00"
+  },
+  {
+    "id": "eb608906ac99",
+    "title": "OpenAI is hiring to build ChatGPT for families. Here's what we know",
+    "source": "LiveMint",
+    "summary": "OpenAI is hiring a product manager to develop AI experiences for families, caregivers, and older adults.",
+    "url": "https://www.livemint.com/technology/tech-news/openai-is-hiring-to-build-chatgpt-for-families-heres-what-we-know-11783825718218.html",
+    "image": "",
+    "published_at": "Sun, 12 Jul 2026 10:35:30 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310442+00:00"
+  },
+  {
+    "id": "ea98fc2bcf0e",
+    "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
+    "source": "LiveMint",
+    "summary": "Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and Anthropic in the rapidly expanding market for enterprise AI models.",
+    "url": "https://www.livemint.com/technology/tech-news/mark-zuckerberg-returns-to-x-after-3-years-to-unveil-metas-muse-spark-1-1-ai-model-developer-api-11783622111314.html",
+    "image": "",
+    "published_at": "Fri, 10 Jul 2026 00:14:11 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310460+00:00"
+  },
+  {
+    "id": "4375de112b9d",
+    "title": "Lava to launch ‘Virat’ series phones in India, Flipkart availability confirmed",
+    "source": "LiveMint",
+    "summary": "Lava will soon launch its new ‘Virat’ series of smartphones in India via Flipkart. The company has confirmed that its new online-first series will feature both 4G and 5G devices",
+    "url": "https://www.livemint.com/technology/gadgets/lava-to-launch-virat-series-phones-in-india-flipkart-availability-confirmed-11783608904681.html",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 20:51:13 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310477+00:00"
+  },
+  {
+    "id": "8c39570e3fa7",
+    "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
+    "source": "LiveMint",
+    "summary": "Meta is developing AI-powered smart glasses that capture images and audio throughout the day.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 10:29:16 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310489+00:00"
+  },
+  {
+    "id": "c956bd41e0dc",
+    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
+    "source": "LiveMint",
+    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310502+00:00"
+  },
+  {
+    "id": "e37083f4b706",
+    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
+    "source": "LiveMint",
+    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
+    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
+    "image": "",
+    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310514+00:00"
+  },
+  {
+    "id": "416959b34e0a",
+    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
+    "source": "LiveMint",
+    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
+    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310527+00:00"
+  },
+  {
+    "id": "7bf2035214f5",
+    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
+    "source": "LiveMint",
+    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310556+00:00"
+  },
+  {
+    "id": "44520f529ff2",
+    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
+    "source": "LiveMint",
+    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
+    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
+    "fetched_at": "2026-07-12T11:17:44.310569+00:00"
+  },
+  {
+    "id": "09b9f6b04028",
+    "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "source": "Economic Times",
+    "summary": "Tata Consultancy Services is building a large team of forward-deployed engineers. The company is also actively seeking artificial intelligence acquisitions. This strategy aims to create new business opportunities rather than disrupt outsourcing. TCS believes deep client knowledge is key to integrati",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/articleshow/132343064.cms",
+    "image": "",
+    "published_at": "Sun, 12 Jul 2026 14:25:15 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471223+00:00"
+  },
+  {
+    "id": "4ad4f788c1b3",
+    "title": "LTM profit jumps 17% to Rs 1,468 crore in April-June quarter",
+    "source": "Economic Times",
+    "summary": "LTM chief executive Venu Lambu declared AI revenue separately for the first time in the earnings call, at $150 million for the quarter, in addition to announcing the completed transition to outcome-based pricing across its top 10 clients. The deal flow remained steady on a quarter-on-quarter basis a",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 20:28:47 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471261+00:00"
+  },
+  {
+    "id": "43ad2627e036",
+    "title": "India to augment AI compute capacity: Ashwini Vaishnaw",
+    "source": "Economic Times",
+    "summary": "Vaishnaw said rapid advances in AI are reshaping the global technology landscape and require continuous learning and innovation. He urged the IT industry to seize the opportunity by developing next-generation technology solutions and strengthening India's position as a global technology leader.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-to-augment-ai-compute-capacity-ashwini-vaishnaw/articleshow/132332909.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 20:11:44 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471279+00:00"
+  },
+  {
+    "id": "16139427ab02",
+    "title": "Karnataka IT minister Priyank Kharge, Anthropic India discuss AI collaboration for Karnataka",
+    "source": "Economic Times",
+    "summary": "Karnataka's IT Minister met Anthropic India's MD to discuss the state's AI vision. Discussions focused on building advanced AI skillsets and forging strategic partnerships for skilling. According to a statement from the minister's office, the two sides also deliberated on establishing Centres of Exc",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/karnataka-it-minister-priyank-kharge-anthropic-india-discuss-ai-collaboration-for-karnataka/articleshow/132330446.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 17:48:40 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471300+00:00"
+  },
+  {
+    "id": "955bd5c6ebb4",
+    "title": "SoftBank names ex-Goldman Sachs trader Mark Agne to lead Vision Fund finances",
+    "source": "Economic Times",
+    "summary": "SoftBank Vision Fund has appointed Mark Agne to lead finance and technology roles. The move follows a series of staffing changes at SoftBank as its focus shifts alongside founder Masayoshi Son’s quest for technologies underpinning AI services. Agne joined SoftBank in 2019 after 17 years at Goldman S",
+    "url": "https://economictimes.indiatimes.com/tech/technology/softbank-names-ex-goldman-sachs-trader-mark-agne-to-lead-vision-fund-finances/articleshow/132330292.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 17:45:19 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471329+00:00"
+  },
+  {
+    "id": "d4ab84f711ac",
+    "title": "Union Minister Ashwini Vaishnaw urges IT industry to capitalise on global semiconductor talent shortage",
+    "source": "Economic Times",
+    "summary": "India's IT sector can address the global semiconductor talent shortage of one million people. Prime Minister Modi's focus has led to twelve plants developing chips for export. Electronics exports have now become the country's third largest export category. Mobile phones are now the largest exported ",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/union-minister-ashwini-vaishnaw-urges-it-industry-to-capitalise-on-global-semiconductor-talent-shortage/articleshow/132328165.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 15:08:42 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471351+00:00"
+  },
+  {
+    "id": "86eb2e6e6288",
+    "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
+    "source": "Economic Times",
+    "summary": "India's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intelligence and cross-border infrastructure. The country's finte",
+    "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 14:54:46 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471371+00:00"
+  },
+  {
+    "id": "c423ef11af35",
+    "title": "Swiggy Instamart gets 9 FSSAI notices following customer complaints on contaminated food, milk",
+    "source": "Economic Times",
+    "summary": "FSSAI has issued nine notices to Swiggy Instamart due to multiple consumer complaints. Allegations include supplying expired, spoiled, and contaminated food products to customers. Specific products like eggs and protein powder were found unfit for consumption. The regulator also noted issues with FS",
+    "url": "https://economictimes.indiatimes.com/tech/technology/fssai-issues-9-notices-to-swiggy-instamart-following-customer-complaints-on-contaminated-food-milk/articleshow/132326918.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 12:09:27 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471392+00:00"
+  },
+  {
+    "id": "d70eb42e0a4e",
+    "title": "Bill Gates heir’s shopping app claimed sales it didn’t drive",
+    "source": "Economic Times",
+    "summary": "Phia, co-founded by Phoebe Gates, faces accusations of violating affiliate marketing policies. The browser extension allegedly claimed sales it did not drive by injecting its own referral codes. Independent researchers and competitors like Capital One Shopping highlighted these concerning practices.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/gates-heirs-shopping-app-claimed-sales-it-didnt-drive/articleshow/132324402.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 09:39:46 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471415+00:00"
+  },
+  {
+    "id": "3899aaa898f3",
+    "title": "Meta scraps AI image feature days after launch following privacy backlash",
+    "source": "Economic Times",
+    "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advocates, creators and enter",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+    "image": "",
+    "published_at": "Sat, 11 Jul 2026 08:42:15 +0530",
+    "fetched_at": "2026-07-12T11:17:44.471437+00:00"
+  },
+  {
     "id": "76f0f3138f3f",
     "title": "Samsung Hikes Galaxy M47 5G Price Eight Days After Launch",
     "source": "TelecomTalk",
@@ -290,196 +490,6 @@
     "fetched_at": "2026-07-12T09:07:46.640114+00:00"
   },
   {
-    "id": "26bc6d78e8de",
-    "title": "‘Elon is obsessed with me again’: Sam Altman hits back as Musk invokes Apple lawsuit against OpenAI",
-    "source": "LiveMint",
-    "summary": "OpenAI CEO Sam Altman and SpaceX's Elon Musk engage in a social media dispute following the launch of GPT-5.6, with Musk targeting Altman in memes.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/elon-is-obsessed-with-me-again-sam-altman-takes-fresh-swipe-at-musk-after-gpt-5-6-launch-11783835354190.html",
-    "image": "",
-    "published_at": "Sun, 12 Jul 2026 13:44:12 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427364+00:00"
-  },
-  {
-    "id": "eb608906ac99",
-    "title": "OpenAI is hiring to build ChatGPT for families. Here's what we know",
-    "source": "LiveMint",
-    "summary": "OpenAI is hiring a product manager to develop AI experiences for families, caregivers, and older adults.",
-    "url": "https://www.livemint.com/technology/tech-news/openai-is-hiring-to-build-chatgpt-for-families-heres-what-we-know-11783825718218.html",
-    "image": "",
-    "published_at": "Sun, 12 Jul 2026 10:35:30 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427392+00:00"
-  },
-  {
-    "id": "ea98fc2bcf0e",
-    "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
-    "source": "LiveMint",
-    "summary": "Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and Anthropic in the rapidly expanding market for enterprise AI models.",
-    "url": "https://www.livemint.com/technology/tech-news/mark-zuckerberg-returns-to-x-after-3-years-to-unveil-metas-muse-spark-1-1-ai-model-developer-api-11783622111314.html",
-    "image": "",
-    "published_at": "Fri, 10 Jul 2026 00:14:11 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427411+00:00"
-  },
-  {
-    "id": "4375de112b9d",
-    "title": "Lava to launch ‘Virat’ series phones in India, Flipkart availability confirmed",
-    "source": "LiveMint",
-    "summary": "Lava will soon launch its new ‘Virat’ series of smartphones in India via Flipkart. The company has confirmed that its new online-first series will feature both 4G and 5G devices",
-    "url": "https://www.livemint.com/technology/gadgets/lava-to-launch-virat-series-phones-in-india-flipkart-availability-confirmed-11783608904681.html",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 20:51:13 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427430+00:00"
-  },
-  {
-    "id": "8c39570e3fa7",
-    "title": "Meta's new AI glasses may continuously record what users see and hear: Report",
-    "source": "LiveMint",
-    "summary": "Meta is developing AI-powered smart glasses that capture images and audio throughout the day.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 10:29:16 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427442+00:00"
-  },
-  {
-    "id": "c956bd41e0dc",
-    "title": "Moto G77 Power launched in India: Check price, specifications and sale date",
-    "source": "LiveMint",
-    "summary": "Motorola has launched the Moto G77 Power in India, featuring a 7,000mAh battery, 50MP camera, and MediaTek Dimensity 6400 processor.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/gadgets/moto-g77-power-launched-in-india-check-price-specifications-and-sale-date-11783492954239.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 13:54:34 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427456+00:00"
-  },
-  {
-    "id": "e37083f4b706",
-    "title": "Pixel 11 launch date revealed: Made by Google event announced for August 12",
-    "source": "LiveMint",
-    "summary": "Google's next Made by Google launch event is set for August 12, 2026, in New York City.",
-    "url": "https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html",
-    "image": "",
-    "published_at": "Wed, 08 Jul 2026 09:39:39 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427469+00:00"
-  },
-  {
-    "id": "416959b34e0a",
-    "title": "ChatGPT image generation down- OpenAI says ‘implementing mitigation’",
-    "source": "LiveMint",
-    "summary": "ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images and accessing past chats. OpenAI confirms it's investigating.",
-    "url": "https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 18:49:28 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427483+00:00"
-  },
-  {
-    "id": "7bf2035214f5",
-    "title": "Apple now asks users before sending Apple Intelligence requests to Google Cloud",
-    "source": "LiveMint",
-    "summary": "Apple's integration of Google's AI has improved features but requires sharing user data with Google Cloud.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 12:06:08 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427496+00:00"
-  },
-  {
-    "id": "44520f529ff2",
-    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
-    "source": "LiveMint",
-    "summary": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
-    "url": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 10:05:50 +0530",
-    "fetched_at": "2026-07-12T09:07:51.427510+00:00"
-  },
-  {
-    "id": "4ad4f788c1b3",
-    "title": "LTM profit jumps 17% to Rs 1,468 crore in April-June quarter",
-    "source": "Economic Times",
-    "summary": "LTM chief executive Venu Lambu declared AI revenue separately for the first time in the earnings call, at $150 million for the quarter, in addition to announcing the completed transition to outcome-based pricing across its top 10 clients. The deal flow remained steady on a quarter-on-quarter basis a",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 20:28:47 +0530",
-    "fetched_at": "2026-07-12T09:07:51.510950+00:00"
-  },
-  {
-    "id": "43ad2627e036",
-    "title": "India to augment AI compute capacity: Ashwini Vaishnaw",
-    "source": "Economic Times",
-    "summary": "Vaishnaw said rapid advances in AI are reshaping the global technology landscape and require continuous learning and innovation. He urged the IT industry to seize the opportunity by developing next-generation technology solutions and strengthening India's position as a global technology leader.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-to-augment-ai-compute-capacity-ashwini-vaishnaw/articleshow/132332909.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 20:11:44 +0530",
-    "fetched_at": "2026-07-12T09:07:51.510983+00:00"
-  },
-  {
-    "id": "16139427ab02",
-    "title": "Karnataka IT minister Priyank Kharge, Anthropic India discuss AI collaboration for Karnataka",
-    "source": "Economic Times",
-    "summary": "Karnataka's IT Minister met Anthropic India's MD to discuss the state's AI vision. Discussions focused on building advanced AI skillsets and forging strategic partnerships for skilling. According to a statement from the minister's office, the two sides also deliberated on establishing Centres of Exc",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/karnataka-it-minister-priyank-kharge-anthropic-india-discuss-ai-collaboration-for-karnataka/articleshow/132330446.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 17:48:40 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511008+00:00"
-  },
-  {
-    "id": "955bd5c6ebb4",
-    "title": "SoftBank names ex-Goldman Sachs trader Mark Agne to lead Vision Fund finances",
-    "source": "Economic Times",
-    "summary": "SoftBank Vision Fund has appointed Mark Agne to lead finance and technology roles. The move follows a series of staffing changes at SoftBank as its focus shifts alongside founder Masayoshi Son’s quest for technologies underpinning AI services. Agne joined SoftBank in 2019 after 17 years at Goldman S",
-    "url": "https://economictimes.indiatimes.com/tech/technology/softbank-names-ex-goldman-sachs-trader-mark-agne-to-lead-vision-fund-finances/articleshow/132330292.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 17:45:19 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511059+00:00"
-  },
-  {
-    "id": "d4ab84f711ac",
-    "title": "Union Minister Ashwini Vaishnaw urges IT industry to capitalise on global semiconductor talent shortage",
-    "source": "Economic Times",
-    "summary": "India's IT sector can address the global semiconductor talent shortage of one million people. Prime Minister Modi's focus has led to twelve plants developing chips for export. Electronics exports have now become the country's third largest export category. Mobile phones are now the largest exported ",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/union-minister-ashwini-vaishnaw-urges-it-industry-to-capitalise-on-global-semiconductor-talent-shortage/articleshow/132328165.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 15:08:42 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511087+00:00"
-  },
-  {
-    "id": "86eb2e6e6288",
-    "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
-    "source": "Economic Times",
-    "summary": "India's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intelligence and cross-border infrastructure. The country's finte",
-    "url": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 14:54:46 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511110+00:00"
-  },
-  {
-    "id": "c423ef11af35",
-    "title": "Swiggy Instamart gets 9 FSSAI notices following customer complaints on contaminated food, milk",
-    "source": "Economic Times",
-    "summary": "FSSAI has issued nine notices to Swiggy Instamart due to multiple consumer complaints. Allegations include supplying expired, spoiled, and contaminated food products to customers. Specific products like eggs and protein powder were found unfit for consumption. The regulator also noted issues with FS",
-    "url": "https://economictimes.indiatimes.com/tech/technology/fssai-issues-9-notices-to-swiggy-instamart-following-customer-complaints-on-contaminated-food-milk/articleshow/132326918.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 12:09:27 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511133+00:00"
-  },
-  {
-    "id": "d70eb42e0a4e",
-    "title": "Bill Gates heir’s shopping app claimed sales it didn’t drive",
-    "source": "Economic Times",
-    "summary": "Phia, co-founded by Phoebe Gates, faces accusations of violating affiliate marketing policies. The browser extension allegedly claimed sales it did not drive by injecting its own referral codes. Independent researchers and competitors like Capital One Shopping highlighted these concerning practices.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/gates-heirs-shopping-app-claimed-sales-it-didnt-drive/articleshow/132324402.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 09:39:46 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511157+00:00"
-  },
-  {
-    "id": "3899aaa898f3",
-    "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "source": "Economic Times",
-    "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advocates, creators and enter",
-    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 08:42:15 +0530",
-    "fetched_at": "2026-07-12T09:07:51.511180+00:00"
-  },
-  {
     "id": "5aecb12e7b7c",
     "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
     "source": "Economic Times",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Sat, 11 Jul 2026 08:42:10 +0530",
     "fetched_at": "2026-07-12T09:07:51.511203+00:00"
-  },
-  {
-    "id": "9d6d7faf7e15",
-    "title": "iPhone Ultra, iPhone 18 Pro to launch soon: Battery, price and other details leak",
-    "source": "India Today",
-    "summary": "iPhone Ultra, iPhone 18 Pro to launch soon: Battery, price and other details leak&nbsp;&nbsp;India TodayApple's iPhone 18 Pro Max might come with a massive battery&nbsp;&nbsp;MashableInfographic: iPhone 17 Pro Max vs iPhone 18 Pro Max (E) BoM Cost Comparison&nbsp;&nbsp;Counterpoint ResearchiPhone 18",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkw1MmUwOWU0U002VndacUF2TXh1cXFNVWZCOUJ3LWlvVzlvemVoeUZRWVMyWF9CQ182elZNN3VBR2ZYdEpNRjVpM0RldmFndWkwVV9IUEFsbFFqWmliaUFvOXZGNS05a0xhbUxYQXZwOVY2WmtZRE03U0hCSlRaQktrQUxYUUFTWVVtblBreFVpTFJSWmpoU1EwXzBpcHRQMjR2Q0VKY1JZUk5BYXVvVHUzNTRXbnNoRzJFMlJjR3JFdW13TGfSAcsBQVVfeXFMTV9ielZkb1RGczBpUTJoRWFfSndCWjV5eGQ0dXFlSXpCdVB0Uk9sejNNZlpBWEtadjRPNGV3bks1VUZRT19udDBqc3Npc2FuQzY2RmVybnlVNjhES1NWdnlFYVhHSTFwdVZJX19OMzlfVUhxdXFJMzk2aXdQcnRrNThpenJ0RFFEbktMUnZ0cVo3NGZ2aWFFM0wxMDdoOThQblpCNWNzZDVJajBqRkRZcFJqa2ZFQ2RpeFFYVFdhdVdXTVNRMXNtVDNJYlE?oc=5",
-    "image": "",
-    "published_at": "Sat, 11 Jul 2026 00:00:56 GMT",
-    "fetched_at": "2026-07-12T06:40:41.484068+00:00"
   }
 ]
