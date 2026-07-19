@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVpkVkIybjRwc0pCT0ZqOTIyRTdyejQtNVJxMzFMWmRPRHVGOXlXWm9iLWEtNG5mZElGWDdPaXVaT2ZxM0VYRmp4ZlNmVUswNHVBS3pUMEVKUUpYTWxxRnVFSnVlWmpxLU9jNVR4Z2hQRndEOGtFdmM4clRPLTBZTWt0RnI5aWlGeHdrNGpEREY2bUdfYnNzMkp1X2ZWbUJwdU5Nd0lSZVZGUWR5YVRTYWFDc3kwZW90QVJ5S1gxeld5NU15SkRuNG1ORWczSXc?oc=5",
     "image": "",
     "published_at": "Sun, 19 Jul 2026 16:13:52 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333890+00:00"
+    "fetched_at": "2026-07-19T21:00:23.335977+00:00"
   },
   {
     "id": "e9342495931a",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnU4dkZqRHdKV1NPaDNxQURRYjRKb0ttQmowbUsyVDNYRVUzTEJpRTJDeWZFY0dWR005X2tzRDI1N1RjMm8wdXVUX0YwUWlENy0wRlpJZVlJM3pudzFVdHNGUUx6VE01R1dTdFNLVGd4R3ZkZVdPQXd2anhoZGdab0l0V2tYTjU4eDZoZA?oc=5",
     "image": "",
     "published_at": "Thu, 16 Jul 2026 13:41:45 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333919+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336007+00:00"
   },
   {
     "id": "985bcf79f368",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXNEdklIQkxNZkRvdE1RS3dfVm5LRkJWTzExVzgtNG5ZOGJlRTR4ZnAwRmpxT2FHcFJjcm5nUzZydWp6ME5sS3NtZjZURWhtLVp6cC1HekJScmpwTVFBLUhRTXhQSXh4WVhUYjRhQkNKdVY3S0NGS1dQQnI0bHhXV3kwTVNqSWZTMzNETFFvNU1QZGpab29UMjBMbjJVM0FSMVg3TjNBMEJhVkk5WlM2dEZ0SDVoRlRXVVpmUGFHV0xfVmZ4bGZZ?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333937+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336026+00:00"
   },
   {
     "id": "ed8067c431ec",
@@ -37,17 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTFoXzA0QnB6UWs2ZzdsVElnamt6VVR0eUlGMTRfT0VTb2JoNkw2X0M4M2ZTMWZMTm1rUmVrTGo5UlhmaXFDWThIRGFORDhfRzNiSlRraW5ZeWFiSHc2UDFpakRTUW1SbF8tU0xvTDNMRnpadVIyMnpseElLUWFrLUxKbGM?oc=5",
     "image": "",
     "published_at": "Fri, 17 Jul 2026 21:35:29 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333953+00:00"
-  },
-  {
-    "id": "990582e3c621",
-    "title": "Cambodia’s large-scale industrial plants surge 25% by June",
-    "source": "Khmer Times",
-    "summary": "Cambodia’s large-scale industrial plants surge 25% by June&nbsp;&nbsp;Khmer Times",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeERBUmY2djMxNmNKSVRROEgtSlJFNUJlY2txUXJYdzBpZzliMHlUQ2ZlYXdjTHVSTkNPdEFnWW1YODhVREY3T2t3WUI0Y2drcnJKakdIU25PcUJmWFJzcTk0S3FFQk1hcEpPbUVRVURTRnZjVWZMUW03UjJkLS1hbHVqQ3UxRjBWYW9KX3FRQ3o0VTlnZ0s3aFBiTjQ?oc=5",
-    "image": "",
-    "published_at": "Sun, 19 Jul 2026 17:17:18 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333972+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336043+00:00"
   },
   {
     "id": "fda8c7146fcb",
@@ -57,7 +47,17 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUYtOGRQU0FpUVRJRXktXzN6UU1CQ0l6X3lIVm56Y3p0V1pmTkM5Ung5WnF4bEtVTFVYaHN5VmlVLUZDME11Q3dJbHJNNHk2Z0hYLW1taDZvdXdFcWc3ZVZpaWlaMHJUV3E3aVotSGltM2MtVmlsNkNUZEluSmhrZE1BV2JxNW4yZGVyZFNXemVRaXFtRUJ4OTdCNnlXNEpCbVZVVlkwOS1KemxRMDVKWkNJaW5xaXZtYlBseDNMdEQ?oc=5",
     "image": "",
     "published_at": "Fri, 27 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-07-19T19:16:35.333986+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336062+00:00"
+  },
+  {
+    "id": "990582e3c621",
+    "title": "Cambodia’s large-scale industrial plants surge 25% by June",
+    "source": "Khmer Times",
+    "summary": "Cambodia’s large-scale industrial plants surge 25% by June&nbsp;&nbsp;Khmer Times",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeERBUmY2djMxNmNKSVRROEgtSlJFNUJlY2txUXJYdzBpZzliMHlUQ2ZlYXdjTHVSTkNPdEFnWW1YODhVREY3T2t3WUI0Y2drcnJKakdIU25PcUJmWFJzcTk0S3FFQk1hcEpPbUVRVURTRnZjVWZMUW03UjJkLS1hbHVqQ3UxRjBWYW9KX3FRQ3o0VTlnZ0s3aFBiTjQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 19 Jul 2026 17:17:18 GMT",
+    "fetched_at": "2026-07-19T21:00:23.336078+00:00"
   },
   {
     "id": "5019772a37ae",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5",
     "image": "",
     "published_at": "Fri, 17 Jul 2026 14:18:29 GMT",
-    "fetched_at": "2026-07-19T19:16:35.334001+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336094+00:00"
   },
   {
     "id": "f96c91167a5f",
@@ -77,7 +77,7 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWgtVzQ1dEFSNnhzSnh1NFRSRVpzUVRTYkUxOUh5cVpRbDFfcE16OXhZeTZKV0RGWnE2ZFhNWlNYVHZpQUlVVjNYRjZDTlJOTUtfSVpnNzdJb2lycW1RTkFKdjdYVEpMOTNhUjVSOHhLSkdpc2dEQXBtSDF2NVRxSGFqNDVPengtRWtIWHlEcTc3TVp3Y2J0Njc5SXNIbUQzamNCbk5YMWJNOXgyMmQ4Y3g3SHhlYnlwTjZyeVJlY1Q5ZEF3eC1HSlJ2aEZYR3FYbmUwd1gwZW0?oc=5",
     "image": "",
     "published_at": "Fri, 17 Jul 2026 18:00:01 GMT",
-    "fetched_at": "2026-07-19T19:16:35.334022+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336116+00:00"
   },
   {
     "id": "92b363d80593",
@@ -87,7 +87,117 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTFlKR0NBdXRSYWZ6RHJnOWsxdmJCcDNUVzVoZ05JMHpDRnBxdGZIRDVlVGtzU1o0YzFFQUh0VktnOEdtMFlrY1RYeG9oMF9BdDdWUzlZMjdHOUx2eFRIUGV4MmNPY29zQ2YwSTZjVXcyeERKMVdJWjdabjRmQQ?oc=5",
     "image": "",
     "published_at": "Sun, 19 Jul 2026 08:00:00 GMT",
-    "fetched_at": "2026-07-19T19:16:35.334035+00:00"
+    "fetched_at": "2026-07-19T21:00:23.336130+00:00"
+  },
+  {
+    "id": "4bd47bbd2746",
+    "title": "Distributor Executives See Industrial Upswing Keeping Pace",
+    "source": "IndustryWeek",
+    "summary": "Distributor Executives See Industrial Upswing Keeping Pace&nbsp;&nbsp;IndustryWeek",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMklFT01PNlJQelNlSktlblhuUzhlc3JKeTRpZXp0bFlDMHdSYUpwTUVqZWh0b1NtQkNvWVZLTGN5LTV5WUxzNlJCM0JpZmgwOFlsaDl0U2VDSE9fZlByUEFfQUR6TDV5NWVmQkowWHBJMWNxV0VfY3FPMnpfQ1lnOHhhRnBuQUJmZEJ4RVVheTNjVlExMmtKNUNKdjE5b0FTZU1kY0lHTWgxUVdJQnFvckMtXzFxUGEwUVlrc3F6MXFTQkd3UHR1VjJ3MGhVZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 16 Jul 2026 13:42:09 GMT",
+    "fetched_at": "2026-07-19T21:00:23.336143+00:00"
+  },
+  {
+    "id": "2dec3667e746",
+    "title": "Breaking Silos: Strategic collaboration works to transform ALRE supply chain",
+    "source": "dla.mil",
+    "summary": "Breaking Silos: Strategic collaboration works to transform ALRE supply chain&nbsp;&nbsp;dla.mil",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNajI0RHBrV3RJbm8xaEM2bXRQQ3dBYjJ2QzFOeGZ4UENoU1VEUU5zaHBsTXRpamJHUFNjZzJkZGZKdWtiX25qYmg4MFp4anRVVEVjWDI3OUo2VUF4SVFBano4OGt3NDdVXzlheXhpT1lZSVZYSVJvWlQwbEtmYTZHYWJZQUxKcUItNWVTcE9ROVc0OWs1dzFhSTFPSmtrLURKRFR5QlI4a1ZOMV8xaUxUQUdodkVwWnM5QXBXMmxvRkwydExVMGdNUDZGTUhMZEMwM0I0Y3J0SERQaHh3TUE?oc=5",
+    "image": "",
+    "published_at": "Sun, 19 Jul 2026 20:59:10 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293512+00:00"
+  },
+  {
+    "id": "27deb137dbab",
+    "title": "Above the Fold: Supply Chain Logistics News (July 17, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (July 17, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBYTXlWZURqZUJXekxJWHRiUmhZcWxzcDZ4dllNclhHcXBNaFhBQU1hSlhuWVFtM3RrTVhNZ2Z1MFlYR3ZWQ2Z6UDhZby04ZUlLY3FUS3VIMmthR1hqSU5ISG0yZjBJTXpKQVVLbUszN0E0Q1VYTm1PWlQwY2VjNEpsb1R6N0RuQmdtc2xwZnphbWRCTVV0WFNuRUY?oc=5",
+    "image": "",
+    "published_at": "Fri, 17 Jul 2026 15:17:31 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293541+00:00"
+  },
+  {
+    "id": "5031c6e40551",
+    "title": "Supply Chain and Logistics News Round Up (July 13th-17th 2026)",
+    "source": "Logistics Viewpoints",
+    "summary": "Supply Chain and Logistics News Round Up (July 13th-17th 2026)&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm1uU1RZc1BNYWVPaWt0MDBGb0ZOcXJvWEZ5dmhPM0VJR0FpQzZBa3ZDZF9VSkFHeFM1MkRDME1vSF9xLU0tYlRKaGZBVEZ5cEQ1cmI5Q2dnRFRFaVRuU0trR0s0WWZkT1l2ZzJQcTh2V1Q3cmVtdDItZThTVFpjQkIwdUdQemh2OWM3YUsxQURiS2w2Qlg0dkxDa1VtRU52RnNjWkRVQQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 17 Jul 2026 09:00:44 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293558+00:00"
+  },
+  {
+    "id": "7d850fd03757",
+    "title": "Tech The hidden flaw in global supply chains: why optimisation alone is no longer enough",
+    "source": "The Loadstar",
+    "summary": "Tech The hidden flaw in global supply chains: why optimisation alone is no longer enough&nbsp;&nbsp;The Loadstar",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWkxSFY3cFJ5SGVua2xtQU9NRzYzaWpIZUpuY0h5MFlfY0k5OWFlaGRBUFFJd3o2N3dYZlNBeEducmFkMkxOU0dZQVEwZ1N4ZDJ1MHJ1STl4RjE3bDRLTWwzTjNTb2VfR0VwQWxHNEJsVVhDaVN4ZGF0MVZwRXFLR045MGFnZ1ptb2VDLXN0ck8xTDV5Rk1saUoxS0hoS0o2VkVMN2M1c21jTHc?oc=5",
+    "image": "",
+    "published_at": "Sun, 19 Jul 2026 19:27:26 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293575+00:00"
+  },
+  {
+    "id": "28bfcea36aed",
+    "title": "Why RFID Is Becoming a Strategic Advantage in Supply Chain and Logistics",
+    "source": "Supply Chain Brain",
+    "summary": "Why RFID Is Becoming a Strategic Advantage in Supply Chain and Logistics&nbsp;&nbsp;Supply Chain Brain",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0ZER2YwOG51YlFzVDhFUE1WckxDbmFtZTZzQVQ3S21IUDNTNFNSYTFrcHdVY2RxRmxwSnM4MlVtNjNzdmUtZnc1TjY5S0JCWm9tSTRIV1Q1cDRKalRLZmJKcFhUTUZEbjBLUFM3cFpsaUhwMWxxbWRTLWpBaFpNbWg3cFNJS0lNTGZSa1hsS21fcTFzSmlvajFROUZSQnlMZ3BpSEotUDJTcTZrenFGRTN1VEdSNkRkclg1Mg?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Jul 2026 04:00:00 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293592+00:00"
+  },
+  {
+    "id": "6efc24eed3af",
+    "title": "Beyond the Supply Chain: South Africa’s China Dilemma",
+    "source": "Foreign Policy Research Institute",
+    "summary": "Beyond the Supply Chain: South Africa’s China Dilemma&nbsp;&nbsp;Foreign Policy Research Institute",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanJ4YUwwN3BpQkxJUTRxaFNBSFBYMVcxNTRpcTRoU2lsTWxHSGlGLWFSOVFYZ3NmNlVMN0thQVlhckFnekRSSFRlb2c5NGNoNWpTTlQ3THVWaktvdENmRHRQMDZvdU11NURLSTgtNXlaOE4wX1VxLV9JMHNTWF9ycHlfeER1bXNzMmRFMjJUdmFuMnM?oc=5",
+    "image": "",
+    "published_at": "Thu, 16 Jul 2026 20:24:33 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293613+00:00"
+  },
+  {
+    "id": "f1b099be7c9d",
+    "title": "Report: Supply Chain Growth Jumps Despite Persistent Cost Pressures",
+    "source": "Florida Atlantic University",
+    "summary": "Report: Supply Chain Growth Jumps Despite Persistent Cost Pressures&nbsp;&nbsp;Florida Atlantic University",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGc3U09ucDlGRTdjZ211blUtSEFqdUNiQjl2TmJBZEt5UlVhY2FXcEtwR2lUei1TdmFFT0wyclZpVWZGSEFKd3ljU2xvcmNVUkhCM1NIZGFwdTB5ektnZy1lUFpxTGRrQjJhUDJYT2ZubUtEVlRLZkI2UnIwZG01NEdrSEhWT3dCYkV3cC1GWk56Y3c?oc=5",
+    "image": "",
+    "published_at": "Thu, 09 Jul 2026 11:33:56 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293629+00:00"
+  },
+  {
+    "id": "123bc535660f",
+    "title": "IBM, Baringa, and MegaCorp Logistics detail the shift from reactive to predictive supply chain AI",
+    "source": "MarketScale",
+    "summary": "IBM, Baringa, and MegaCorp Logistics detail the shift from reactive to predictive supply chain AI&nbsp;&nbsp;MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjNZV3pSbnBiMjZmQ1dfQllKcDQ5bGxhOTh3NFpUUVVweDNJWlNwSWxCTy1neXFRcE9VbkszN3p6S2dTRFlKN2ZpOUF4SVI0TldiMmU0and4dnUzQU5CVjhBWGRtZlJEMl9FTjRJSkJOTUNxazlxaGk0emFsMk1Nd2tUUHZ4SWc2TThpNndjV2tsTDVTR1RURlZTcDNkelM3MXVXS2kzUWRod19KSVhlOUlBbzA3bVo0T3FJdlRVWWJnSnFHdXdqeEl4R1J2QkVTSzM1cm9uNHpETVFoTGVTUVdXZw?oc=5",
+    "image": "",
+    "published_at": "Wed, 15 Jul 2026 22:38:24 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293646+00:00"
+  },
+  {
+    "id": "110bf2904266",
+    "title": "Redefining Sales, Inventory & Operations Planning in manufacturing businesses",
+    "source": "Today's Medical Developments",
+    "summary": "Redefining Sales, Inventory & Operations Planning in manufacturing businesses&nbsp;&nbsp;Today's Medical Developments",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGdTM0FkaWlnczJ2WkVFQ01qRGFZN1JMRmxWOUE3QTlFZktXbVpaLXNuRXhjZ1NGNldOQjduZnNFclV0eVh6cy1udi10X0ZLYktLLTV1c1B6R1VsNTl5VUNrNTd1aFFXTWthd1FBM043eV81NC1jYlRab1FnWU1vMVlXMFFTU0dUMGdqYU5XMXc5TXRqVkdGNmN0eEZsanV6UE9wRWxOOXkxZC1oSXRyQk5CRzd3OEp2Qzh3?oc=5",
+    "image": "",
+    "published_at": "Sun, 19 Jul 2026 06:00:00 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293663+00:00"
+  },
+  {
+    "id": "258eabca85f8",
+    "title": "The biggest barrier to AI in supply chains isn’t technology",
+    "source": "Supply Chain Management Review",
+    "summary": "The biggest barrier to AI in supply chains isn’t technology&nbsp;&nbsp;Supply Chain Management Review",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNUZEdQUzZfMUphQVhCRlFIT1pTek8wUjVMdkVBN2l2SGdCVU5KNkFpdS16ODI4dk9Xb3kxVFhzRnpOWGVLV0N5N19sbk9NWFh4dTRCNkZuZVhsSnJIS1lQLTlsVlZvNm5jUXV0amVXUUdNeDlrelBvLVJVMjZ5S2h1ZktTOE90RVBBMGhCNlU?oc=5",
+    "image": "",
+    "published_at": "Thu, 16 Jul 2026 13:40:00 GMT",
+    "fetched_at": "2026-07-19T21:00:24.293680+00:00"
   },
   {
     "id": "131b268bdae0",
@@ -100,66 +210,6 @@
     "fetched_at": "2026-07-19T19:16:35.334051+00:00"
   },
   {
-    "id": "27deb137dbab",
-    "title": "Above the Fold: Supply Chain Logistics News (July 17, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (July 17, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBYTXlWZURqZUJXekxJWHRiUmhZcWxzcDZ4dllNclhHcXBNaFhBQU1hSlhuWVFtM3RrTVhNZ2Z1MFlYR3ZWQ2Z6UDhZby04ZUlLY3FUS3VIMmthR1hqSU5ISG0yZjBJTXpKQVVLbUszN0E0Q1VYTm1PWlQwY2VjNEpsb1R6N0RuQmdtc2xwZnphbWRCTVV0WFNuRUY?oc=5",
-    "image": "",
-    "published_at": "Fri, 17 Jul 2026 15:17:31 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227052+00:00"
-  },
-  {
-    "id": "5031c6e40551",
-    "title": "Supply Chain and Logistics News Round Up (July 13th-17th 2026)",
-    "source": "Logistics Viewpoints",
-    "summary": "Supply Chain and Logistics News Round Up (July 13th-17th 2026)&nbsp;&nbsp;Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm1uU1RZc1BNYWVPaWt0MDBGb0ZOcXJvWEZ5dmhPM0VJR0FpQzZBa3ZDZF9VSkFHeFM1MkRDME1vSF9xLU0tYlRKaGZBVEZ5cEQ1cmI5Q2dnRFRFaVRuU0trR0s0WWZkT1l2ZzJQcTh2V1Q3cmVtdDItZThTVFpjQkIwdUdQemh2OWM3YUsxQURiS2w2Qlg0dkxDa1VtRU52RnNjWkRVQQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 17 Jul 2026 09:00:44 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227079+00:00"
-  },
-  {
-    "id": "28bfcea36aed",
-    "title": "Why RFID Is Becoming a Strategic Advantage in Supply Chain and Logistics",
-    "source": "Supply Chain Brain",
-    "summary": "Why RFID Is Becoming a Strategic Advantage in Supply Chain and Logistics&nbsp;&nbsp;Supply Chain Brain",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0ZER2YwOG51YlFzVDhFUE1WckxDbmFtZTZzQVQ3S21IUDNTNFNSYTFrcHdVY2RxRmxwSnM4MlVtNjNzdmUtZnc1TjY5S0JCWm9tSTRIV1Q1cDRKalRLZmJKcFhUTUZEbjBLUFM3cFpsaUhwMWxxbWRTLWpBaFpNbWg3cFNJS0lNTGZSa1hsS21fcTFzSmlvajFROUZSQnlMZ3BpSEotUDJTcTZrenFGRTN1VEdSNkRkclg1Mg?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Jul 2026 04:00:00 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227096+00:00"
-  },
-  {
-    "id": "6efc24eed3af",
-    "title": "Beyond the Supply Chain: South Africa’s China Dilemma",
-    "source": "Foreign Policy Research Institute",
-    "summary": "Beyond the Supply Chain: South Africa’s China Dilemma&nbsp;&nbsp;Foreign Policy Research Institute",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanJ4YUwwN3BpQkxJUTRxaFNBSFBYMVcxNTRpcTRoU2lsTWxHSGlGLWFSOVFYZ3NmNlVMN0thQVlhckFnekRSSFRlb2c5NGNoNWpTTlQ3THVWaktvdENmRHRQMDZvdU11NURLSTgtNXlaOE4wX1VxLV9JMHNTWF9ycHlfeER1bXNzMmRFMjJUdmFuMnM?oc=5",
-    "image": "",
-    "published_at": "Thu, 16 Jul 2026 20:24:33 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227116+00:00"
-  },
-  {
-    "id": "f1b099be7c9d",
-    "title": "Report: Supply Chain Growth Jumps Despite Persistent Cost Pressures",
-    "source": "Florida Atlantic University",
-    "summary": "Report: Supply Chain Growth Jumps Despite Persistent Cost Pressures&nbsp;&nbsp;Florida Atlantic University",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGc3U09ucDlGRTdjZ211blUtSEFqdUNiQjl2TmJBZEt5UlVhY2FXcEtwR2lUei1TdmFFT0wyclZpVWZGSEFKd3ljU2xvcmNVUkhCM1NIZGFwdTB5ektnZy1lUFpxTGRrQjJhUDJYT2ZubUtEVlRLZkI2UnIwZG01NEdrSEhWT3dCYkV3cC1GWk56Y3c?oc=5",
-    "image": "",
-    "published_at": "Thu, 09 Jul 2026 11:33:56 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227131+00:00"
-  },
-  {
-    "id": "123bc535660f",
-    "title": "IBM, Baringa, and MegaCorp Logistics detail the shift from reactive to predictive supply chain AI",
-    "source": "MarketScale",
-    "summary": "IBM, Baringa, and MegaCorp Logistics detail the shift from reactive to predictive supply chain AI&nbsp;&nbsp;MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjNZV3pSbnBiMjZmQ1dfQllKcDQ5bGxhOTh3NFpUUVVweDNJWlNwSWxCTy1neXFRcE9VbkszN3p6S2dTRFlKN2ZpOUF4SVI0TldiMmU0and4dnUzQU5CVjhBWGRtZlJEMl9FTjRJSkJOTUNxazlxaGk0emFsMk1Nd2tUUHZ4SWc2TThpNndjV2tsTDVTR1RURlZTcDNkelM3MXVXS2kzUWRod19KSVhlOUlBbzA3bVo0T3FJdlRVWWJnSnFHdXdqeEl4R1J2QkVTSzM1cm9uNHpETVFoTGVTUVdXZw?oc=5",
-    "image": "",
-    "published_at": "Wed, 15 Jul 2026 22:38:24 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227147+00:00"
-  },
-  {
     "id": "a9f66b133358",
     "title": "Supply Chain Trends: RFID, AI Robots & Reverse Logistics",
     "source": "Inbound Logistics",
@@ -170,26 +220,6 @@
     "fetched_at": "2026-07-19T19:16:36.227161+00:00"
   },
   {
-    "id": "110bf2904266",
-    "title": "Redefining Sales, Inventory & Operations Planning in manufacturing businesses",
-    "source": "Today's Medical Developments",
-    "summary": "Redefining Sales, Inventory & Operations Planning in manufacturing businesses&nbsp;&nbsp;Today's Medical Developments",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGdTM0FkaWlnczJ2WkVFQ01qRGFZN1JMRmxWOUE3QTlFZktXbVpaLXNuRXhjZ1NGNldOQjduZnNFclV0eVh6cy1udi10X0ZLYktLLTV1c1B6R1VsNTl5VUNrNTd1aFFXTWthd1FBM043eV81NC1jYlRab1FnWU1vMVlXMFFTU0dUMGdqYU5XMXc5TXRqVkdGNmN0eEZsanV6UE9wRWxOOXkxZC1oSXRyQk5CRzd3OEp2Qzh3?oc=5",
-    "image": "",
-    "published_at": "Sun, 19 Jul 2026 06:00:00 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227175+00:00"
-  },
-  {
-    "id": "258eabca85f8",
-    "title": "The biggest barrier to AI in supply chains isn’t technology",
-    "source": "Supply Chain Management Review",
-    "summary": "The biggest barrier to AI in supply chains isn’t technology&nbsp;&nbsp;Supply Chain Management Review",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNUZEdQUzZfMUphQVhCRlFIT1pTek8wUjVMdkVBN2l2SGdCVU5KNkFpdS16ODI4dk9Xb3kxVFhzRnpOWGVLV0N5N19sbk9NWFh4dTRCNkZuZVhsSnJIS1lQLTlsVlZvNm5jUXV0amVXUUdNeDlrelBvLVJVMjZ5S2h1ZktTOE90RVBBMGhCNlU?oc=5",
-    "image": "",
-    "published_at": "Thu, 16 Jul 2026 13:40:00 GMT",
-    "fetched_at": "2026-07-19T19:16:36.227192+00:00"
-  },
-  {
     "id": "3bd8f22acedb",
     "title": "Is AI the Next Digital Brokerage Hype Cycle? | Logistics & Supply Chain",
     "source": "Yahoo Finance",
@@ -198,16 +228,6 @@
     "image": "",
     "published_at": "Wed, 15 Jul 2026 19:52:00 GMT",
     "fetched_at": "2026-07-19T19:16:36.227224+00:00"
-  },
-  {
-    "id": "4bd47bbd2746",
-    "title": "Distributor Executives See Industrial Upswing Keeping Pace",
-    "source": "IndustryWeek",
-    "summary": "Distributor Executives See Industrial Upswing Keeping Pace&nbsp;&nbsp;IndustryWeek",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMklFT01PNlJQelNlSktlblhuUzhlc3JKeTRpZXp0bFlDMHdSYUpwTUVqZWh0b1NtQkNvWVZLTGN5LTV5WUxzNlJCM0JpZmgwOFlsaDl0U2VDSE9fZlByUEFfQUR6TDV5NWVmQkowWHBJMWNxV0VfY3FPMnpfQ1lnOHhhRnBuQUJmZEJ4RVVheTNjVlExMmtKNUNKdjE5b0FTZU1kY0lHTWgxUVdJQnFvckMtXzFxUGEwUVlrc3F6MXFTQkd3UHR1VjJ3MGhVZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 16 Jul 2026 13:42:09 GMT",
-    "fetched_at": "2026-07-19T17:06:50.651270+00:00"
   },
   {
     "id": "29160276ee3b",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Fri, 17 Jul 2026 16:19:17 GMT",
     "fetched_at": "2026-07-18T11:10:59.979579+00:00"
-  },
-  {
-    "id": "f0efa97d85a0",
-    "title": "Metal Gear Component Market Forecast Points Higher Toward 2035, Driven by Automation and Precision Manufacturing Expansion",
-    "source": "IndexBox",
-    "summary": "Metal Gear Component Market Forecast Points Higher Toward 2035, Driven by Automation and Precision Manufacturing Expansion&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbjlDM1N5ZzVQRVNxMUQyeWduaVZqX2p6YV9scXlMZkxrMmZoVE5DWmtZUUVpVGtSNXBWZFdzQlN2RlpHcEdseVNjMlh3NHUtcFNzQ3I4cURXNzZqYU1qT3RVcFJOWVZWbjFpUko1b0lfVi1PTFRqbEYzQVI3QWRWUWpLWW95UjNHczdSMTctVkdZb0pwSmZXUlUxX09zUEVEd0pDZVJWMmRXc0tLUEt0dUw4c1YtZnRvazY2QVhiczY0VURtLXE4cHltUU5maG1LTkhtOUJMQnRfaUJtbnV1VTlldUJYdw?oc=5",
-    "image": "",
-    "published_at": "Sat, 18 Jul 2026 10:36:13 GMT",
-    "fetched_at": "2026-07-18T11:10:59.979595+00:00"
-  },
-  {
-    "id": "c494d931143e",
-    "title": "Artificial intelligence for supply chain advantage",
-    "source": "Aerospace Manufacturing and Design",
-    "summary": "Artificial intelligence for supply chain advantage&nbsp;&nbsp;Aerospace Manufacturing and Design",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFdjb0JxeVdXbHdvbmtTSDdfZ2lsUHhLT3VlY0JNLURDSnZiTmJSbUVmVXExZUZLYzRNREFZY3huYkNOWkx6QjM2aWtjbVJXUi0tUVdmUkJxWksxQlpwTzh4SnB5YTBpNnFfaGhVaUx6OWxNMlR0OWc4U0ZOaFlDcGhqdFVNYTY1NGNaZTlJYmZobGd4ckFWSUhpdzRVcWU5bVE?oc=5",
-    "image": "",
-    "published_at": "Sat, 18 Jul 2026 05:00:00 GMT",
-    "fetched_at": "2026-07-18T09:40:52.995760+00:00"
   }
 ]
