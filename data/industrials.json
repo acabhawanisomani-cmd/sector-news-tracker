@@ -1,15 +1,5 @@
 [
   {
-    "id": "2ffae75c1638",
-    "title": "Technology in manufacturing: the operational trends shaping factory floors in mid-2026",
-    "source": "MarketScale",
-    "summary": "Technology in manufacturing: the operational trends shaping factory floors in mid-2026&nbsp;&nbsp;MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHV1Mk5nUGU3b1dQVjlsTlU1ZUd3X09rN1prRlBDNzlMcEVvRUdVRUNia0NGTWltT2UyUmUzOU1EZU1hbm5YZVJwTzFKSG9oSllpbGhJZU9CV1RJcUdiV2dPSTFlU0EyUWItODZwXzdRX1BlSGFpZnF2SzhxUkg2b25KejRBV2p4dGQ2X2I1R05EMFF4d0U0THEtNGh2czktUWxFOWJ5Nk9YSmxCcF80ZTNTZHgzT3pzaWVkUXhiS0pNVlhiVTJJNVk1TmxhY0hremJXdW5n?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 13:48:08 GMT",
-    "fetched_at": "2026-07-22T09:32:52.912933+00:00"
-  },
-  {
     "id": "3b5dfdeeaced",
     "title": "US Manufacturing Labor Productivity Growth Has Stagnated | Blogs | Jul 20, 2026",
     "source": "Information Technology and Innovation Foundation (ITIF)",
@@ -17,7 +7,17 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0p4endpNlUzc080RXZKNjdHS2dGcDVBb3pKVV9ETVMxQUpmRkFjeDhkd2RfQ2ptdHNzYzdRdENkS1Zmd0x5WlB1RUNmMHYtOHZYU29sbTVZaXZXZEh4SW83Vm55TTg4WWZ2ckxzblZxc1czQUN2cVdiVFgtcGlLMkw3N0o3aDBoOWFlQTJnVTFDeHNfQ2hRa2xJRm1jVWc?oc=5",
     "image": "",
     "published_at": "Mon, 20 Jul 2026 14:16:24 GMT",
-    "fetched_at": "2026-07-22T09:32:52.912977+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201454+00:00"
+  },
+  {
+    "id": "2ffae75c1638",
+    "title": "Technology in manufacturing: the operational trends shaping factory floors in mid-2026",
+    "source": "MarketScale",
+    "summary": "Technology in manufacturing: the operational trends shaping factory floors in mid-2026&nbsp;&nbsp;MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHV1Mk5nUGU3b1dQVjlsTlU1ZUd3X09rN1prRlBDNzlMcEVvRUdVRUNia0NGTWltT2UyUmUzOU1EZU1hbm5YZVJwTzFKSG9oSllpbGhJZU9CV1RJcUdiV2dPSTFlU0EyUWItODZwXzdRX1BlSGFpZnF2SzhxUkg2b25KejRBV2p4dGQ2X2I1R05EMFF4d0U0THEtNGh2czktUWxFOWJ5Nk9YSmxCcF80ZTNTZHgzT3pzaWVkUXhiS0pNVlhiVTJJNVk1TmxhY0hremJXdW5n?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 13:48:08 GMT",
+    "fetched_at": "2026-07-22T11:54:04.201488+00:00"
   },
   {
     "id": "144d5f6970dc",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOREdTaWlYdllQUEJjcEoyMEkxOU9yekV2Q1dFVERJT1lCQmctTGh6MU92by1USVBkR2lnaU5DYUJTQmZ6V1l0S0s3SVVTQV9NNnYwbzhYSmc0NXpZM0t6ZHlOYkN3Mm5vQ0Z6MlJtX2xnZHA2U05IZ01KYkZvLWhGaG5yam5YOU1EdVlKUEVfN0VrTWpObWRVcFBpUkFIcTBRbWRJTTF5UHpIVWhjMkFkWmR3M2wxU1E0M1FJNzFmVnhEZTgtN0xac3NQRU5ZUkdicUZxNUJ1SGF1YUpfNGdwQ3V2N0NZMFlhc25BMTg3WmRJUF9VUXlHX192TnpqbjN0R1BQWFR0OWdHckoxdzVkTnlnX25jSVZMQ3hYZVU5LTZSd3d5WVpDMXVzazU?oc=5",
     "image": "",
     "published_at": "Tue, 21 Jul 2026 11:09:04 GMT",
-    "fetched_at": "2026-07-22T09:32:52.912998+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201512+00:00"
   },
   {
     "id": "696f89dafc72",
@@ -37,27 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1oxOXk4UVduSjcwSmRHdENQTnJEeXFqVEZOMGotU0kwN0dGWVdKOEJwTzJBWHNrNjhvZFdKNlBnVk9YYTU1R3RuUEYzM1c2WVRNdENjY0I0M1kyTkZCYXQ0ZFZCWmNKUnF3NnZoYmIxY1BwRTBlNWlTOUo5RW9iamR3NTFSd2hmd3ZKNEE2cXU2bUNELWtxd1BNSGJGZjU2OXFXMFZYNzhWdHJNX2hjNXNSX2Fpdw?oc=5",
     "image": "",
     "published_at": "Wed, 22 Jul 2026 09:22:30 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913013+00:00"
-  },
-  {
-    "id": "e603ef05ed70",
-    "title": "New Industrial, Manufacturing and Supply Chain Facility Projects Signal Sustained Capital Investment Across the Southeast in Q2 2026",
-    "source": "Send2Press",
-    "summary": "New Industrial, Manufacturing and Supply Chain Facility Projects Signal Sustained Capital Investment Across the Southeast in Q2 2026&nbsp;&nbsp;Send2Press",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR1d1eFl0YVBYN1Y5RmdPZzZrZlpsMUU3bTZLN2d4b0dCby1pVFJWS2Z5UWxhUVZHdHdudlBNeElQQlVkc1lWSzJFeURRSXYtYi1CREk1c0lSOHBlNVB3QUJrZkgyejNXZnQta19FcmxxRm9OTXJsWWZvcGJabnU3bktlNFJ1RG9aYWpiRjdlelBXTE9ZenJXYWpFUUpwRzN1bXdIME55S0xQY2lwanJuZzBVUndKZGt2anhRTUVSN1Jya3VNS3VGbnRoQUZVZFF4WG9CVV9sTm45SGkzSFhPMGE4bXhVZFFuOXZPXzNJVzZJS1R4Wlcw?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 11:01:02 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913031+00:00"
-  },
-  {
-    "id": "dfbb9ddd32d9",
-    "title": "H.R. 1 at Work: 50 Manufacturing Tax Wins in 50 States - National Association of Manufacturers",
-    "source": "NAM",
-    "summary": "H.R. 1 at Work: 50 Manufacturing Tax Wins in 50 States&nbsp;&nbsp;National Association of Manufacturers - NAM",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56LWI2VnFDcmlLb1NEbE1PVUFKYlY2eDhGYVlzUk92bmdnTU5fdWl6ZlpWSnNKVUhKTHZKZW1kb2ZiLUJTUEExNFVLSC1TUzYzVEVvSFZNZW5hd1duV2xVYnotWVh6VWJXalY3VTV1c0ZZNjFrZUlIOQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 12:15:56 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913047+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201530+00:00"
   },
   {
     "id": "d53ea0dd2f89",
@@ -67,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEJheTYxOHU1ODFKSkUyNnhTQU5iZmhubWJCRGVtbm50ZGdweEQxN2Z2UjVpV1JUMldDN1BnbEJDdktVVzFLeXpQOTh0LXhEeVJKaUN6YmRUcmgxNkQwM3JYMXp3UEstMk5fWV85LUZyV19sd3NOMVAyQzhnazNLVGRaT1RGYW14dDhKUE1ma0xUbnFJcExzc2doZUMxNDI5YUFnRGlhakVQbHRnekhHV0ZjekxEZWgybHlmNEMtVXZIVGxlVmtz?oc=5",
     "image": "",
     "published_at": "Tue, 21 Jul 2026 09:26:58 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913060+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201547+00:00"
   },
   {
     "id": "e20cb5e348a7",
@@ -77,7 +57,27 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzFydHQwWGhlZkh0c1c2dmtybXhKUDRmbjBhQmJiTUxDQmQxR1NkOTBNS0dqZm9NbDlEdjAyVUFKY0xpbVpaLXVqbjUteldTS3Z6ejJ3eVQ0SS1SVDBKOUZ6YUhlSHNzUHFaNGVJYXZjT2VRUjhteXNrUHkwRHhGc1Y3SmdXUjVJazRBZ2tJdExjRHFaNTZtcy01Y0hOcDgw?oc=5",
     "image": "",
     "published_at": "Wed, 22 Jul 2026 09:00:00 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913074+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201563+00:00"
+  },
+  {
+    "id": "e603ef05ed70",
+    "title": "New Industrial, Manufacturing and Supply Chain Facility Projects Signal Sustained Capital Investment Across the Southeast in Q2 2026",
+    "source": "Send2Press",
+    "summary": "New Industrial, Manufacturing and Supply Chain Facility Projects Signal Sustained Capital Investment Across the Southeast in Q2 2026&nbsp;&nbsp;Send2Press",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR1d1eFl0YVBYN1Y5RmdPZzZrZlpsMUU3bTZLN2d4b0dCby1pVFJWS2Z5UWxhUVZHdHdudlBNeElQQlVkc1lWSzJFeURRSXYtYi1CREk1c0lSOHBlNVB3QUJrZkgyejNXZnQta19FcmxxRm9OTXJsWWZvcGJabnU3bktlNFJ1RG9aYWpiRjdlelBXTE9ZenJXYWpFUUpwRzN1bXdIME55S0xQY2lwanJuZzBVUndKZGt2anhRTUVSN1Jya3VNS3VGbnRoQUZVZFF4WG9CVV9sTm45SGkzSFhPMGE4bXhVZFFuOXZPXzNJVzZJS1R4Wlcw?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 11:01:02 GMT",
+    "fetched_at": "2026-07-22T11:54:04.201585+00:00"
+  },
+  {
+    "id": "dfbb9ddd32d9",
+    "title": "H.R. 1 at Work: 50 Manufacturing Tax Wins in 50 States - National Association of Manufacturers",
+    "source": "NAM",
+    "summary": "H.R. 1 at Work: 50 Manufacturing Tax Wins in 50 States&nbsp;&nbsp;National Association of Manufacturers - NAM",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56LWI2VnFDcmlLb1NEbE1PVUFKYlY2eDhGYVlzUk92bmdnTU5fdWl6ZlpWSnNKVUhKTHZKZW1kb2ZiLUJTUEExNFVLSC1TUzYzVEVvSFZNZW5hd1duV2xVYnotWVh6VWJXalY3VTV1c0ZZNjFrZUlIOQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 12:15:56 GMT",
+    "fetched_at": "2026-07-22T11:54:04.201604+00:00"
   },
   {
     "id": "df692d00ac12",
@@ -87,7 +87,117 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWhSSzBVajFTZ2VWNFRaSEg5T1hBOHh0X0dxaUpSYkpFa3NIUWpPeUpTd19xYl9NMVVmbVMxQXNwZ0c3YV9iYTkxdWJBZHFLNWV6TVJRWHUxZ1dMNkxYN1RTaTktb3ZsYWFlWHFhTldDbjlnQkx6d21DUnhRZ3N6Sw?oc=5",
     "image": "",
     "published_at": "Mon, 20 Jul 2026 14:21:11 GMT",
-    "fetched_at": "2026-07-22T09:32:52.913087+00:00"
+    "fetched_at": "2026-07-22T11:54:04.201620+00:00"
+  },
+  {
+    "id": "985bcf79f368",
+    "title": "Industrial Manufacturing Sector Posts 8.72% Q2 Growth as June Planned Projects Reach 162",
+    "source": "yourvalley.net",
+    "summary": "Industrial Manufacturing Sector Posts 8.72% Q2 Growth as June Planned Projects Reach 162&nbsp;&nbsp;yourvalley.net",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXNEdklIQkxNZkRvdE1RS3dfVm5LRkJWTzExVzgtNG5ZOGJlRTR4ZnAwRmpxT2FHcFJjcm5nUzZydWp6ME5sS3NtZjZURWhtLVp6cC1HekJScmpwTVFBLUhRTXhQSXh4WVhUYjRhQkNKdVY3S0NGS1dQQnI0bHhXV3kwTVNqSWZTMzNETFFvNU1QZGpab29UMjBMbjJVM0FSMVg3TjNBMEJhVkk5WlM2dEZ0SDVoRlRXVVpmUGFHV0xfVmZ4bGZZ?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-22T11:54:04.201639+00:00"
+  },
+  {
+    "id": "e502325e77d9",
+    "title": "Marcus Evans Announces the Supply Chain & Logistics Summit: 5 to 6 November 2026, Dallas",
+    "source": "Supply Chain Brain",
+    "summary": "Marcus Evans Announces the Supply Chain & Logistics Summit: 5 to 6 November 2026, Dallas&nbsp;&nbsp;Supply Chain Brain",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVpES3ZQd3RiWXlMWk9qVlJXSUNtNlRjdWlnd2Z4ZUNDWWZMcFQxUDBzeXJjVjlxaGhjUXpkd1NkME5xckdSVzViUmhDY2J0dmZCSmRLUlNSaW92bmN2V1pTXzVYNTFWWFFPSTdZU1hZUGVFbDJYTGh0cW5XdGVBUEtyQk1BeHduN0lUN0JuTEtRMzA3UUJIVDhsTlk1ZVBFblVhOWJHZy1uTHJwUjlITXE2RW1oLW8tYklrNXhBNm1oR1huZENjZ2NWQ3VkYmdlN2c?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 19:06:11 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339701+00:00"
+  },
+  {
+    "id": "0c6b94f913ac",
+    "title": "Supply Chain Alert: Bertha Could Disrupt Gulf Coast Logistics",
+    "source": "Yahoo Finance",
+    "summary": "Supply Chain Alert: Bertha Could Disrupt Gulf Coast Logistics&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUgxbi0xbXp6VUhUOXZVeTZxdkhZVUs0ckxra2d5UWlWSFEtLU0yaDVKTk9PWFFHTFJNVkk2dGR5TWliVE9heHJQVnVBS2lybXlBWUFldXR2azc0REpjcmFMUUpkSEVIRHBPcXlWQ1BvQU9qaWVuTW9mZzhHODFUX2tSR1Q0UU50ZjdWQkZ1QTdHQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Jul 2026 03:36:00 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339730+00:00"
+  },
+  {
+    "id": "f565d3e8af98",
+    "title": "Supply Chain needs a Single, Secure AI Agent",
+    "source": "Logistics Business",
+    "summary": "Supply Chain needs a Single, Secure AI Agent&nbsp;&nbsp;Logistics Business",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXhtRVV5WUd5bW4zSjBiVkx1MEJDYTJVU3B0dENDQ0wxbGZ5cEZIZzJ2Tk9XTzVHcm9zR0hESngyTjhSeTVfLTJ3b0l3MEp6Y1NGQzY5NWlUTTl2VjNmUDFfVllwX2x2U3lsZ2JfbW03cVpIZ1pRRmJ5ZVQ5ZVg0Rzhnc21FbS1pMVhQZnZza2VtbkZ2eW9qcw?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Jul 2026 10:23:42 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339747+00:00"
+  },
+  {
+    "id": "bdaf8f611693",
+    "title": "Top 10: Packing Solution Providers",
+    "source": "Supply Chain Digital",
+    "summary": "Top 10: Packing Solution Providers&nbsp;&nbsp;Supply Chain Digital",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LaXZUbmFCa0JxTGhmMEpWVzg0cnZEWnMwWEVmREtRTFJfSnFJZ2RnUFpLcVhaa2FhV1poU2xuWWRTV1ZWUVNoRzE5QVhDUW4xay1OaE1MYzRmUEZDbmpOZEtJQkFORU5OUFV3SEQ3U2hBRGVXZVlPdjZ3?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Jul 2026 10:34:40 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339760+00:00"
+  },
+  {
+    "id": "8dcb323f6b30",
+    "title": "Risk Management Is Transforming Supply Chain Organizations",
+    "source": "ISMworld.org",
+    "summary": "Risk Management Is Transforming Supply Chain Organizations&nbsp;&nbsp;ISMworld.org",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWmRqcXVFSF9LUEotT3psVUtaS0Q3cDZwdG9BbUkwNGotbURQQzV0aGpQQnpPUFo2SE1hczJBU01obDdUdHNvenZSUEdDMzJ1ZFI0RjgtQ29ZczJOSWhqSERmSXlIdEduLWhyRXNZeTFuNG9kYThxZzlHam90YW10NEpSMmY2ZEE1MVZQWVVsSHJlWDlHV3pZeGFZekZfeHNoUlpQdm1jaFBPWlAyZXpKamd6V0ZoMGJyMVNpdVA3MlZiRXIxTzJaS3dRY000NHcxbGRud05mYkItX0tyMDB4NVBRbTFWb3RCcTV4ZHptWnB4eVNhbkkwQ3Vka2p5RHl3S1doZUpzOFNjMFVid1doUTJ5Z1FVNnNG?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 16:26:29 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339774+00:00"
+  },
+  {
+    "id": "27deb137dbab",
+    "title": "Above the Fold: Supply Chain Logistics News (July 17, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (July 17, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBYTXlWZURqZUJXekxJWHRiUmhZcWxzcDZ4dllNclhHcXBNaFhBQU1hSlhuWVFtM3RrTVhNZ2Z1MFlYR3ZWQ2Z6UDhZby04ZUlLY3FUS3VIMmthR1hqSU5ISG0yZjBJTXpKQVVLbUszN0E0Q1VYTm1PWlQwY2VjNEpsb1R6N0RuQmdtc2xwZnphbWRCTVV0WFNuRUY?oc=5",
+    "image": "",
+    "published_at": "Fri, 17 Jul 2026 15:17:31 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339791+00:00"
+  },
+  {
+    "id": "4b9cae267fde",
+    "title": "CMA CGM to Acquire FedEx Supply Chain for $1.4 Billion to Boost North American Logistics Footprint - LM",
+    "source": "Logistics Manager",
+    "summary": "CMA CGM to Acquire FedEx Supply Chain for $1.4 Billion to Boost North American Logistics Footprint&nbsp;&nbsp;LM - Logistics Manager",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGxrWHVVNGNiQ0tqa2JnM2xpWTVlV2k4UGpOTzc0UjVjZzF3cDB5RUxWVjJyMEVCT0ZHeGh1M0w1Y2hoOVg4UzlqRmViUktpczAwU3ZLODU2Yll4TFprUXc5aFJkeGZTaHlwZFdSemNseHZPOGZINW1ETGE4dXp2RTNrWWtJQnUwMS1pWXUzVEVUVEl6VlY5ZGM3S2JVQjg0WV92alRGOEFLNWVNZkJxTWJCc1FQeWVHRGJZZ3J1SEZjMko2dFBR?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Jul 2026 05:25:36 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339811+00:00"
+  },
+  {
+    "id": "b0afdf77db59",
+    "title": "RELEX Solutions gets adopted by Eucatex to Transform Supply Chain",
+    "source": "PR Newswire",
+    "summary": "RELEX Solutions gets adopted by Eucatex to Transform Supply Chain&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ21DV1VXNDkxQ3lHM1VJTTNtXzd5bzlrRGRDdU16Smw2UWZrcW1xSVhLaEdfMkNGck1SQUI2WGt5VkpXdEVKMkREbUZDR0YxTU91ZFhnRDFIbm9UeV9CRTNVQ0pnYzBPWjA0REo0VUw2dll4SEVyWTB2cWtEWHEzblVhSzBWZDladDc0am8yN2NkalNpWnVBakk1SnpyZ0RyM3VnbHB3WEVobmZ3dlBXWFpqQUNRM2xiMkhieHd3?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Jul 2026 19:00:00 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339827+00:00"
+  },
+  {
+    "id": "9964b93e34c1",
+    "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing",
+    "source": "Bain Capital",
+    "summary": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing&nbsp;&nbsp;Bain Capital",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5",
+    "image": "",
+    "published_at": "Mon, 20 Jul 2026 04:00:00 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339846+00:00"
+  },
+  {
+    "id": "c50131c84189",
+    "title": "Logistics resiliency is critical as disruptions pile up in 2026",
+    "source": "Trucking Dive",
+    "summary": "Logistics resiliency is critical as disruptions pile up in 2026&nbsp;&nbsp;Trucking Dive",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTC1WN3BSTWNpRW1GM1VwZzBhcjNvTEE2VXg4VndCckJUcGttczg0MGVzcDBtVkpvU2F3WldRM3hxaC1TQ3dPYUVwT3FPSUZFZEh5bHFlLWluNUlkNElUVjZqV01WUDNRVjNMeW45U0VWSHU4d1A4cTg2bl8wal9YdW9KSmNHdnJsd09nczNMUnJQNm11d3dOdlJnN3F6a2kzc3NJb0ZNd3E?oc=5",
+    "image": "",
+    "published_at": "Mon, 20 Jul 2026 16:11:14 GMT",
+    "fetched_at": "2026-07-22T11:54:05.339861+00:00"
   },
   {
     "id": "001b9d7bdcc4",
@@ -100,66 +210,6 @@
     "fetched_at": "2026-07-22T09:32:52.913099+00:00"
   },
   {
-    "id": "e502325e77d9",
-    "title": "Marcus Evans Announces the Supply Chain & Logistics Summit: 5 to 6 November 2026, Dallas",
-    "source": "Supply Chain Brain",
-    "summary": "Marcus Evans Announces the Supply Chain & Logistics Summit: 5 to 6 November 2026, Dallas&nbsp;&nbsp;Supply Chain Brain",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVpES3ZQd3RiWXlMWk9qVlJXSUNtNlRjdWlnd2Z4ZUNDWWZMcFQxUDBzeXJjVjlxaGhjUXpkd1NkME5xckdSVzViUmhDY2J0dmZCSmRLUlNSaW92bmN2V1pTXzVYNTFWWFFPSTdZU1hZUGVFbDJYTGh0cW5XdGVBUEtyQk1BeHduN0lUN0JuTEtRMzA3UUJIVDhsTlk1ZVBFblVhOWJHZy1uTHJwUjlITXE2RW1oLW8tYklrNXhBNm1oR1huZENjZ2NWQ3VkYmdlN2c?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 19:06:11 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967880+00:00"
-  },
-  {
-    "id": "0c6b94f913ac",
-    "title": "Supply Chain Alert: Bertha Could Disrupt Gulf Coast Logistics",
-    "source": "Yahoo Finance",
-    "summary": "Supply Chain Alert: Bertha Could Disrupt Gulf Coast Logistics&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUgxbi0xbXp6VUhUOXZVeTZxdkhZVUs0ckxra2d5UWlWSFEtLU0yaDVKTk9PWFFHTFJNVkk2dGR5TWliVE9heHJQVnVBS2lybXlBWUFldXR2azc0REpjcmFMUUpkSEVIRHBPcXlWQ1BvQU9qaWVuTW9mZzhHODFUX2tSR1Q0UU50ZjdWQkZ1QTdHQQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 22 Jul 2026 03:36:00 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967906+00:00"
-  },
-  {
-    "id": "8dcb323f6b30",
-    "title": "Risk Management Is Transforming Supply Chain Organizations",
-    "source": "ISMworld.org",
-    "summary": "Risk Management Is Transforming Supply Chain Organizations&nbsp;&nbsp;ISMworld.org",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWmRqcXVFSF9LUEotT3psVUtaS0Q3cDZwdG9BbUkwNGotbURQQzV0aGpQQnpPUFo2SE1hczJBU01obDdUdHNvenZSUEdDMzJ1ZFI0RjgtQ29ZczJOSWhqSERmSXlIdEduLWhyRXNZeTFuNG9kYThxZzlHam90YW10NEpSMmY2ZEE1MVZQWVVsSHJlWDlHV3pZeGFZekZfeHNoUlpQdm1jaFBPWlAyZXpKamd6V0ZoMGJyMVNpdVA3MlZiRXIxTzJaS3dRY000NHcxbGRud05mYkItX0tyMDB4NVBRbTFWb3RCcTV4ZHptWnB4eVNhbkkwQ3Vka2p5RHl3S1doZUpzOFNjMFVid1doUTJ5Z1FVNnNG?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 16:26:29 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967921+00:00"
-  },
-  {
-    "id": "27deb137dbab",
-    "title": "Above the Fold: Supply Chain Logistics News (July 17, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (July 17, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBYTXlWZURqZUJXekxJWHRiUmhZcWxzcDZ4dllNclhHcXBNaFhBQU1hSlhuWVFtM3RrTVhNZ2Z1MFlYR3ZWQ2Z6UDhZby04ZUlLY3FUS3VIMmthR1hqSU5ISG0yZjBJTXpKQVVLbUszN0E0Q1VYTm1PWlQwY2VjNEpsb1R6N0RuQmdtc2xwZnphbWRCTVV0WFNuRUY?oc=5",
-    "image": "",
-    "published_at": "Fri, 17 Jul 2026 15:17:31 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967936+00:00"
-  },
-  {
-    "id": "4b9cae267fde",
-    "title": "CMA CGM to Acquire FedEx Supply Chain for $1.4 Billion to Boost North American Logistics Footprint - LM",
-    "source": "Logistics Manager",
-    "summary": "CMA CGM to Acquire FedEx Supply Chain for $1.4 Billion to Boost North American Logistics Footprint&nbsp;&nbsp;LM - Logistics Manager",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGxrWHVVNGNiQ0tqa2JnM2xpWTVlV2k4UGpOTzc0UjVjZzF3cDB5RUxWVjJyMEVCT0ZHeGh1M0w1Y2hoOVg4UzlqRmViUktpczAwU3ZLODU2Yll4TFprUXc5aFJkeGZTaHlwZFdSemNseHZPOGZINW1ETGE4dXp2RTNrWWtJQnUwMS1pWXUzVEVUVEl6VlY5ZGM3S2JVQjg0WV92alRGOEFLNWVNZkJxTWJCc1FQeWVHRGJZZ3J1SEZjMko2dFBR?oc=5",
-    "image": "",
-    "published_at": "Wed, 22 Jul 2026 05:25:36 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967972+00:00"
-  },
-  {
-    "id": "b0afdf77db59",
-    "title": "RELEX Solutions gets adopted by Eucatex to Transform Supply Chain",
-    "source": "PR Newswire",
-    "summary": "RELEX Solutions gets adopted by Eucatex to Transform Supply Chain&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ21DV1VXNDkxQ3lHM1VJTTNtXzd5bzlrRGRDdU16Smw2UWZrcW1xSVhLaEdfMkNGck1SQUI2WGt5VkpXdEVKMkREbUZDR0YxTU91ZFhnRDFIbm9UeV9CRTNVQ0pnYzBPWjA0REo0VUw2dll4SEVyWTB2cWtEWHEzblVhSzBWZDladDc0am8yN2NkalNpWnVBakk1SnpyZ0RyM3VnbHB3WEVobmZ3dlBXWFpqQUNRM2xiMkhieHd3?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 19:00:00 GMT",
-    "fetched_at": "2026-07-22T09:32:53.967987+00:00"
-  },
-  {
     "id": "a2b38999283d",
     "title": "Gartner: How Autonomous Tools are Reshaping Supply Chains",
     "source": "Supply Chain Digital",
@@ -168,26 +218,6 @@
     "image": "",
     "published_at": "Wed, 22 Jul 2026 08:15:23 GMT",
     "fetched_at": "2026-07-22T09:32:53.968000+00:00"
-  },
-  {
-    "id": "9964b93e34c1",
-    "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing",
-    "source": "Bain Capital",
-    "summary": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing&nbsp;&nbsp;Bain Capital",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5",
-    "image": "",
-    "published_at": "Mon, 20 Jul 2026 04:00:00 GMT",
-    "fetched_at": "2026-07-22T09:32:53.968016+00:00"
-  },
-  {
-    "id": "c50131c84189",
-    "title": "Logistics resiliency is critical as disruptions pile up in 2026",
-    "source": "Trucking Dive",
-    "summary": "Logistics resiliency is critical as disruptions pile up in 2026&nbsp;&nbsp;Trucking Dive",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTC1WN3BSTWNpRW1GM1VwZzBhcjNvTEE2VXg4VndCckJUcGttczg0MGVzcDBtVkpvU2F3WldRM3hxaC1TQ3dPYUVwT3FPSUZFZEh5bHFlLWluNUlkNElUVjZqV01WUDNRVjNMeW45U0VWSHU4d1A4cTg2bl8wal9YdW9KSmNHdnJsd09nczNMUnJQNm11d3dOdlJnN3F6a2kzc3NJb0ZNd3E?oc=5",
-    "image": "",
-    "published_at": "Mon, 20 Jul 2026 16:11:14 GMT",
-    "fetched_at": "2026-07-22T09:32:53.968029+00:00"
   },
   {
     "id": "5231394c44e4",
@@ -208,16 +238,6 @@
     "image": "",
     "published_at": "Tue, 21 Jul 2026 18:19:13 GMT",
     "fetched_at": "2026-07-22T06:36:59.040398+00:00"
-  },
-  {
-    "id": "985bcf79f368",
-    "title": "Industrial Manufacturing Sector Posts 8.72% Q2 Growth as June Planned Projects Reach 162",
-    "source": "yourvalley.net",
-    "summary": "Industrial Manufacturing Sector Posts 8.72% Q2 Growth as June Planned Projects Reach 162&nbsp;&nbsp;yourvalley.net",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXNEdklIQkxNZkRvdE1RS3dfVm5LRkJWTzExVzgtNG5ZOGJlRTR4ZnAwRmpxT2FHcFJjcm5nUzZydWp6ME5sS3NtZjZURWhtLVp6cC1HekJScmpwTVFBLUhRTXhQSXh4WVhUYjRhQkNKdVY3S0NGS1dQQnI0bHhXV3kwTVNqSWZTMzNETFFvNU1QZGpab29UMjBMbjJVM0FSMVg3TjNBMEJhVkk5WlM2dEZ0SDVoRlRXVVpmUGFHV0xfVmZ4bGZZ?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-22T06:36:59.040445+00:00"
   },
   {
     "id": "956bf84eb5c3",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Mon, 20 Jul 2026 14:58:00 GMT",
     "fetched_at": "2026-07-21T12:27:46.714755+00:00"
-  },
-  {
-    "id": "fa5a3e8dd764",
-    "title": "What Cold Chain Tech Trends Are Reshaping Pharma Logistics?",
-    "source": "Pharmaceutical Commerce",
-    "summary": "What Cold Chain Tech Trends Are Reshaping Pharma Logistics?&nbsp;&nbsp;Pharmaceutical Commerce",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVNYVlZERkF0Zmh1M1I0ZndOZFlYUFhNeUNzbjdQQzNrdmVHcjFES0x3eHBIMllTY0pBWjM1QlRfUGt0NlZRZjVDaHhqVndFeXhPcEFRWHRXajBYQW8tSXJSNXJYMkNLQWhtRWJlWFhvZW1xN1RnaEg4YWxpV0tKWUFWSDROZWJhQzRPOU5qLUktMm9OWFBtb1N5ZWJSV3RHakxWak1R?oc=5",
-    "image": "",
-    "published_at": "Mon, 20 Jul 2026 13:31:06 GMT",
-    "fetched_at": "2026-07-21T12:27:46.714783+00:00"
-  },
-  {
-    "id": "ac9884c46318",
-    "title": "4PL Market to Near $158.61 Billion by 2035 as Supply Chain Orchestration Becomes a Strategic Imperative",
-    "source": "EIN News",
-    "summary": "4PL Market to Near $158.61 Billion by 2035 as Supply Chain Orchestration Becomes a Strategic Imperative&nbsp;&nbsp;EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFMxWlVFMDl5ZGE3SVN4aFZSR0NGVmw5WkNsaDl3TmVFMC1zdFBPRGwtdEJ2SEFDMEw4X3VvS1RvV1A5bDU4UzNsaVBmTVRwc0tvNl94cVA2cWN5T2F6QWpuQ1h5WFdXNWNVTGFLY1Y4c011NF9DNjVBcXcxZVBSN2lYanNNSHp3LW5kb3dYeklvbnlTRThobGwtV0lxaDI3dzhfbVg2VjBCekw2bWxsYUtMc2JIc1Z6RWxKbThEc3NncDMtVExheGxmUnQ3MnNYUjdjQmVBbGE2VTNQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Jul 2026 12:11:00 GMT",
-    "fetched_at": "2026-07-21T12:27:46.714798+00:00"
   }
 ]
