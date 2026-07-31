@@ -1,5 +1,295 @@
 [
   {
+    "id": "306e9fe89130",
+    "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+    "source": "BBC",
+    "summary": "Anthropic's Claude AI escapes tests to hack three organisations&nbsp;&nbsp;BBCInvestigating three real-world incidents in our cybersecurity evaluations&nbsp;&nbsp;AnthropicAnthropic says its AI models hacked 3 organizations during testing&nbsp;&nbsp;KCRAAnthropic Says Its A.I. Systems Broke Into Com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 09:03:37 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199002+00:00"
+  },
+  {
+    "id": "3c1eea4cbeea",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "source": "TechCrunch",
+    "summary": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares&nbsp;&nbsp;TechCrunchAI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say&nbsp;&nbsp;CNBCExclusive | Citadel Buys Situational Awarene",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlo5ZkN3RDVwaWhVam9LRFVVeTk2QXp5VG9kS2dWU2JsMDUtYTl1T0ZGWkdiemxXNjBnU1NubzhSa09oZ19tTE1UaUg3ZzhvSVAyTTFqOElkUUQ4ZXRrLTlQd2tVb0pkVTBqWkJHWlVnZjEtUVBGbjF4c1pqdzEyaTBfWkw1NXd1YzRPYnZ3NEpXaElrZ3lTanI3SmxPM2FfNE9KTkJTV2t3YzJ2a2E1UzFMTjRvb2V3b0stRFhWa1dMeWhYRks1M0hSdThaQ3BKbWlJbHNuS1RneXM?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Jul 2026 23:25:58 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199061+00:00"
+  },
+  {
+    "id": "6bdb34302228",
+    "title": "Nasdaq futures rise as tech stocks lead sharp Wall Street rebound: Live updates",
+    "source": "CNBC",
+    "summary": "Nasdaq futures rise as tech stocks lead sharp Wall Street rebound: Live updates&nbsp;&nbsp;CNBCStock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up&nbsp;&nbsp;finance.yahoo.comFutures Rise As Apple, Amazon Diverge; What To Do After",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 09:43:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199103+00:00"
+  },
+  {
+    "id": "a100b9021333",
+    "title": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks",
+    "source": "AP News",
+    "summary": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 10:25:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199124+00:00"
+  },
+  {
+    "id": "201d23d495ae",
+    "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
+    "source": "AP News",
+    "summary": "Oil companies are expected to reap big profits because of US-Iran conflict&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVU4NU1jc1BmT0hoUWpPZ2QyR2VnNUFoN3V5YloyQVJLdkhpTzYwRjlxTklYdU5GamN5SlJHYmZCbjNfUENqLVM1bzJ2NFBmWExMWmZ0WHFLRTJNVUJaZDJTZjhkS01NRWh1dk16OEtBWjQ5SlQ5dXJZczVVcDYxUGxTeE1pSVVpcEcwdlAtTzhPS0RKYkpxRnhVbw?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 04:01:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199143+00:00"
+  },
+  {
+    "id": "f6f6153b8d74",
+    "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history",
+    "source": "finance.yahoo.com",
+    "summary": "Microsoft's stock rockets more than 15% for largest single-day jump in history&nbsp;&nbsp;finance.yahoo.comMicrosoft blinked a little in the AI capex race. Wall Street loved it.&nbsp;&nbsp;Business InsiderMicrosoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company&nbsp;&nbsp;WSJMeta sinks 8",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1d4clZGd29SUlVkemdZNzFwbm5nVUM2WFhjVXQwZWNqb25tMzVnQ0dvcXhYek92M3ZxODE1R2NjNjJrQXBCRzdVMjNOWkV3Sk9oX3RUTmtDbVdPV2tKMGd4TUFFcGFzYTBkYlA4ZVlrN3hneUx5LUY4SWRfRUhLaXZHMEFJcFJBUkJmNGZid0xLdkFCMkhxVUFPRDhHUmpwaktCNVRhWnlGZ0d4b3lHVU1WMVNicFFUNTZ1cXR3MFhKZnpYcEZEaWpjTGUxYWpRTVE?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Jul 2026 20:03:14 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199180+00:00"
+  },
+  {
+    "id": "146dbf47db2f",
+    "title": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal, WSJ Says",
+    "source": "Bloomberg.com",
+    "summary": "Tesla Weighs China Unit Sale Ahead of SpaceX Deal, WSJ Says&nbsp;&nbsp;Bloomberg.comExclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger&nbsp;&nbsp;WSJTesla ‘considers quitting China’&nbsp;&nbsp;The TelegraphMusk dismisses report of Tesla's potential China business",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHZ4NWR3S0R3MGc4TVF6X0E2a1dQZkttNG9kc09zekxxRmpmSXRsb3pHRWcyU0JZZHA4Q1BGS0F0cGNtbTUxTF9vSmtjZktZeDltbElOaEJTdWdMRTloSU0zc2pncnhBS2dKSmpBdENKclFjUmptNktUd2ZsdE5TS1VhcElUZ25kQlBWQXJSQ3R0bmJGTUl2VHlURFhxWG8zbzYwNy0wbVoxRWpGUEE?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 04:01:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199213+00:00"
+  },
+  {
+    "id": "915bfe98db5d",
+    "title": "Mortgage rates rise to 1-year high",
+    "source": "Fox Business",
+    "summary": "Mortgage rates rise to 1-year high&nbsp;&nbsp;Fox BusinessMortgage rates climb to highest level in a year&nbsp;&nbsp;CNNAverage 30-year U.S. mortgage rate rises to highest level in a year&nbsp;&nbsp;PBSMortgage Rates Jump to a One-Year High&nbsp;&nbsp;WSJThe Federal Reserve just froze interest rates",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwWDV5ZG9kNVU1dTBkQmFIaDlKUkk3Z3NjZDFTdkhya19pV1EtdEpvWFVIY3VfMjVlTWdBbVhrb2RQQ3hFY21OelZYSlI0NkJiXzQ4YVRKU1FNdXlTYUhXVGQtdkdYZEtDREYwUEJTUm8yMVdXNEtHT9IBfkFVX3lxTFBwaGdUNzlMUGNBM1ZsdWN6OTB6X2s5M09JMzhDaHBNMVNzOG5CYzN5RDl2M2tsUXNWNFFScl9yd3ExR3gyYUlfeDd2S01LeWIyUFlWcUVjRFBNTVg2aFlDSGNkOEhWTmotMUJwWkJsOTJZT0J2T1VESzI4NkdGdw?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Jul 2026 18:54:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199241+00:00"
+  },
+  {
+    "id": "9fe63382ca3b",
+    "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike",
+    "source": "Barron's",
+    "summary": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike&nbsp;&nbsp;Barron'sAmazon hikes 2026 capex to $220 billion due to higher memory costs&nbsp;&nbsp;CNBCAmazon jumps as AWS growth soothes fears over rising AI spending&nbsp;&nbsp;finance.yahoo.comAmazon.com Announces Second Quarter",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMWhyV3ZJYzlEUzdXRzFjc3MyODlubkZidkVaRml4R3FfN0NqRTAyVHhvaEV5WWJGYnZDeWFyeFZTM3NFMVBEdXRwOEdOampuQU5DcmRhdFg4QXFiRDZfcFJHSlZWRXlYNFI0UmhZWXYxM3JidENNQw?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 09:57:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199269+00:00"
+  },
+  {
+    "id": "9abaf2caf37c",
+    "title": "The seven most shambolic things that happened in AI today.",
+    "source": "Marcus on AI | Substack",
+    "summary": "The seven most shambolic things that happened in AI today.&nbsp;&nbsp;Marcus on AI | Substack",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fTnpYeEpyckhMbUNWaW1tMncwUXM5Z1ZVdXYwMXN6MW40TmlzcWw4Xy1VMWJ2RVRlZTlBZ2NSWThIYjZzTVBGWndDQnExajl6TFU2a1VQN2RVNF9Eb3EzZUUxenRDUURrWjItR0xOcGs0bDZQWi1Odm9R?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 02:15:39 GMT",
+    "fetched_at": "2026-07-31T10:46:34.199283+00:00"
+  },
+  {
+    "id": "0f668180af37",
+    "title": "Future of Finance 2026: Time to Shift Gears?",
+    "source": "Boston Consulting Group",
+    "summary": "Future of Finance 2026: Time to Shift Gears?&nbsp;&nbsp;Boston Consulting Group",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2xadEpPNkM2RVlZX1pCc0ZZN3BNd1RzbTVzUGdsTjBCdGtDRk16MFg4UWowc194LVp1Z0tZSnhSVENuUGc2aVZKRVdnLVFLQ2ZvVmJlcHFSekFtRXFwRjZjOHU3OWw4VEdUWTNacHZLV1NjZkhYZWl5bkpmbXMwcWFpeEpKN0k?oc=5",
+    "image": "",
+    "published_at": "Mon, 08 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635157+00:00"
+  },
+  {
+    "id": "408c242e50a2",
+    "title": "Detroit’s Banking and Finance Industry Is Evolving — Here’s Where Opportunity Is Growing",
+    "source": "Detroit Regional Chamber",
+    "summary": "Detroit’s Banking and Finance Industry Is Evolving — Here’s Where Opportunity Is Growing&nbsp;&nbsp;Detroit Regional Chamber",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFRjd1VlZ2M3dl9DM08yNUJPYUI2M0Iyc2dkN1B0RTJETVNmYVdlRnRBdXRnRVJGbWdxWXZDRU5pOC0wNGRKS3RLMkx2Sk1MX3JLSURualMyM1BPX3NsODlVazRLNzluQUpteWwtczRVUlVSMzh3WEZRQ0FXdkczODFvZHRHMk1tX0p6SmZibGUyNzBLanQ1SnNFQmpERTJ6X3MtYnR4cDUyejNjR3QxMWdjX0plSWc?oc=5",
+    "image": "",
+    "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635192+00:00"
+  },
+  {
+    "id": "ad4564e16a76",
+    "title": "2026 Global Outlook for Banking and Financial Markets",
+    "source": "ibm.com",
+    "summary": "2026 Global Outlook for Banking and Financial Markets&nbsp;&nbsp;ibm.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjkxLXZNS0pMSXQzMGVNVnlwUkRfUjY1WmxzZWZGaEI2QW1EY1BUOFpWTFpsWkxMU0dyYXZqS2ZCSGFRLWJRNFV3alkza1JGZnJ4YTNyQ2JRMXRQa0FZcFpsVElOQXJiYXlXUl9PQzdhUld1WmZ6ZnVZbFZaVkZPRzlNcUpuRUpmWWxyQjVzbnhyX0d1a0NwdjJEV1p3bkdFdWppRThzY19jcVBZYTdFV1JwOUR5Zw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635208+00:00"
+  },
+  {
+    "id": "2b68c6acd225",
+    "title": "Banking on the Future: 25 Years of Building Kyrgyz Republic's Financial Resilience",
+    "source": "International Finance Corporation (IFC)",
+    "summary": "Banking on the Future: 25 Years of Building Kyrgyz Republic's Financial Resilience&nbsp;&nbsp;International Finance Corporation (IFC)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BdzhrRWV1Vk8zellrX2FfX1doLWZ5dk40VzdVUUxWQXpuZWZZNmZTaGZFOXZqdDAzUGl6d2l0MV8xOERKNzlHZ1Q4NGhBZ0FwZWxkeWdOel9xNnhVWjE2blk3ZFBsOUV0QV9nTw?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635224+00:00"
+  },
+  {
+    "id": "9e663ff2c906",
+    "title": "Connected Banking Summit Opens In Ethiopia As Digital Finance Takes Centre Stage",
+    "source": "CIO Africa",
+    "summary": "Connected Banking Summit Opens In Ethiopia As Digital Finance Takes Centre Stage&nbsp;&nbsp;CIO Africa",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3IwRjZsZk1zQm1JNVRabkxLVE1lajh0aHdtM2x5RzJZaWZSOHBUeGxYM21Lek85ZjZBdy1EX3BiZW5RTkZOS2lDRHhPUGhIR0JrakRhRHhFaUJicVl0Zmd3cGVhNHZaQU9tVXg3OVBJVWJGcnZwYkFqX00tcGtQXzd3XzBvZ0V4dDhwUW1RN2x0TkUtS3ZrRkZOTFJoZl9PVnEwbA?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Jul 2026 09:15:42 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635239+00:00"
+  },
+  {
+    "id": "119f441446ff",
+    "title": "Europe's Financial Sector: Growth & Transformation",
+    "source": "FTI Consulting",
+    "summary": "Europe's Financial Sector: Growth & Transformation&nbsp;&nbsp;FTI Consulting",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnlhTXVjYUhzQUhlR2ljOEw3aGQ2VHQ4b3Jha01nanN0Y25vejY4VDQ5OGo5SGZiSkItUmd2cG84ekVKVWIxbHFUN19yTlpjMkdsNUNWamZGX2ZPb3RGbmg4X3RrUFQ2R0k2ZzlBZkh2SjlBQmxzZnBicUYyWGdwX05IOUxqeW1FSkQyV01UOGZKRkdJUzJfS1c5Rld1bm9sR3B5WGFLa2ZJMldLa0x1TGgwaHNOX0FoczdBZ21R?oc=5",
+    "image": "",
+    "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635251+00:00"
+  },
+  {
+    "id": "d80ddfcc4681",
+    "title": "Mobilizing the banking sector for universal health coverage: a new frontier for public–private partnerships",
+    "source": "Frontiers",
+    "summary": "Mobilizing the banking sector for universal health coverage: a new frontier for public–private partnerships&nbsp;&nbsp;Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE16R0RZUEcySVFOVW80VFR6N0cwTFVLRS1qNkRwbWJMaDZRVEhZSmZrTlpESkRaeEhJS3l1cGpsTDdwMHNfSklId3lkeVVjdno3cWxqOGNlVzR0eEM1dzFDZ3F4ZF9WdlZvaVFDTHdkaTA4ZHhJZy1xcEdWdXhlM3VKZTNfbjFucy1yZTFNMC1wVHZYeGRj?oc=5",
+    "image": "",
+    "published_at": "Thu, 19 Mar 2026 19:46:44 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635270+00:00"
+  },
+  {
+    "id": "e20605287669",
+    "title": "FSB reports continued growth in nonbank financial intermediation in 2024 to $256.8 trillion",
+    "source": "Financial Stability Board",
+    "summary": "FSB reports continued growth in nonbank financial intermediation in 2024 to $256.8 trillion&nbsp;&nbsp;Financial Stability Board",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemgxaXQzTWYyZWNzend1V2ZXYi1nUG1EX2twcDF0RmdSdVNHck5IUGFlTVFFZ3VGZk1vZEhPSUMyTXJjZlhLRFRvQW1HaGlKZ0I0bFd6MnhTQXFhaUc4RFo0dXJMUWpCUHdwclRpc3hUc3V1TjZBZGhOTFFpZ25SWGtJMHp1QVYtRjZVajd4R1M5S1FjazdTWEVhTWtGdmRGVnUxMGJvcGMtWERraWxUMFRKNFNuR25INnNr?oc=5",
+    "image": "",
+    "published_at": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635286+00:00"
+  },
+  {
+    "id": "aa01dcc8e8c0",
+    "title": "FSI Predictions 2026",
+    "source": "Deloitte",
+    "summary": "FSI Predictions 2026&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHVMbDFwVzFEam1EM1IxcTZVWEpadXJid2JMZ21MaDhKeDFLVVlYNjNZajd3em4tZzlDQm9Hb0RIdDR1QVEtRW9RT1NHd3hxUWE2cHNzX2FmYW94TG5nSTMxRzN4QWlsNWVkZ0dVRThGUXFUZ2h3TXd4RS1nVXBoeVpySU1kekhMbW9xWjMwQ1RFQkdMMjBfTlFZbUV1VWYwTmRTSXFZbjBZblhXN2syN1Vn?oc=5",
+    "image": "",
+    "published_at": "Wed, 20 May 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635296+00:00"
+  },
+  {
+    "id": "c6340efdcebc",
+    "title": "After the fracture: how Britain's financial industry recovered from Brexit",
+    "source": "Reuters",
+    "summary": "After the fracture: how Britain's financial industry recovered from Brexit&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1BaajhUTG9XRFg4UVRBS1N5WG1fWlpRUVhkTFc5ZklwZlVJWkFrVjBmYTJvMDNjdW1MX1NCSGpfOEtKQ3N1clo0SnRjV3dVNWdabzl3OTM1RjEwalRBdmk3V28tTU9ndHVlVDRiWmtHTjhiZXpDeXdHakdXZUE0TWNIVlFIRGR2c1dqekVnanh5MjFVN3dwdzl3UFdDRDJkTlM1S1pYM01WbW9aY2JyZVNhd2VuZTlxM2ltVl9Vaw?oc=5",
+    "image": "",
+    "published_at": "Sun, 21 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-07-31T10:46:34.635310+00:00"
+  },
+  {
+    "id": "a232cb41cb03",
+    "title": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares",
+    "source": "WSJ",
+    "summary": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares&nbsp;&nbsp;WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkhRRUp4LXRtZDZKTDl4aGxjc0Q3WUQ3d2NVcXdhcnJoLTlpY0dldWFPQzZyTUhrdUcySHhjeC1vdGtxUS1sTkxtVGpkdzBDODBMcmk1cm04LXBVS2g0cFMyZmk1YnRxZDh0ZWlRQWJIbW1KempjYTNRT2UtMzlkTnBxWDZtSkE?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 03:43:00 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529285+00:00"
+  },
+  {
+    "id": "7d9ab1809cf0",
+    "title": "Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",
+    "source": "finance.yahoo.com",
+    "summary": "Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up&nbsp;&nbsp;finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 08:12:27 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529307+00:00"
+  },
+  {
+    "id": "9f8c34da8dd9",
+    "title": "In Another Wild Day for South Korean Stocks, Market Surges 18 Percent",
+    "source": "nytimes.com",
+    "summary": "In Another Wild Day for South Korean Stocks, Market Surges 18 Percent&nbsp;&nbsp;nytimes.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBETDBwb0RHZ3lyMkJ2S2VDV2dJaWZqdjJSX1UxVXJYUERBSE0wWjhUbEZfRHRseUo0RHBlaEZpZE1BZVJHOU1udTIzbUNCOV9VU3lUMXZZR2ZXc1pZejNrUzc1MzV5cXNkRGVxeW5zdUJWVW04MGcxaDM3Wlh4UQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 08:12:38 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529322+00:00"
+  },
+  {
+    "id": "24fa352bcd28",
+    "title": "FCA launches new push to revive London share trading",
+    "source": "Financial Times",
+    "summary": "FCA launches new push to revive London share trading&nbsp;&nbsp;Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFlna0h0S3cxTC1SeFpWSUU2aFZyX1NCOWdzUzVSYkNvRkY3dGdMeERUQ2U1bzBoQkhvX2FiUGdJNkJDRk5NZEFVU05yTGZqQVpVS2tGdWxFbUk3N21pX0NLcmF2dXJNYkljZXdCMDZzRTZ2R0x1bVA1YVg5MDR3bHlwVUs?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 04:10:38 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529335+00:00"
+  },
+  {
+    "id": "39f6230ab5a0",
+    "title": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut",
+    "source": "Barron's",
+    "summary": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut&nbsp;&nbsp;Barron's",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFdJLTBtMGt0Sk9UMGhSbjhNc2MwNnFRRmNmYXVOSzQwNHNxdTdvcnd3VjBZeEVVNnJlaE9icnFueUpiWG94UTItbmtlVGVvbmR5UFRyWUlFZTlERVdyWFgyMlRhb1h4bHF1WHBTOXB5V1AzZTQ1a2NqNUJBNThIbmdfRQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Jul 2026 20:23:00 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529354+00:00"
+  },
+  {
+    "id": "385babda7c1e",
+    "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+    "source": "global.morningstar.com",
+    "summary": "Where the US Stock Market May Be Heading Next and What to Buy Now&nbsp;&nbsp;global.morningstar.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5",
+    "image": "",
+    "published_at": "Tue, 28 Jul 2026 06:26:57 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529370+00:00"
+  },
+  {
+    "id": "cc4ff22934d0",
+    "title": "5 Things to Know Before the Stock Market Opens on Thursday",
+    "source": "Investopedia",
+    "summary": "5 Things to Know Before the Stock Market Opens on Thursday&nbsp;&nbsp;Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjNOU2dXamdhVmV5SHlKNjhmR3J1UDUzcy1rM0pUS3VUYTNWRFZ3U3FyZThVTEZiZTFBRmM0WXU0RzdLVnBKU0pmalY0QkwzSkpPWms2SUduNm5pWlp4MGo4cUFJbzBmT1hhdDJyZnlCYXhHT1FQS0dQUms2LVFIb2tuRU82WFN4R0FIeENfLXM5WWFxZlFkZHhQa0ppTXhtOWFFeElVZDJkUnJEWlE?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Jul 2026 12:06:14 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529384+00:00"
+  },
+  {
+    "id": "d50db57634c0",
+    "title": "South Korean shares soar after chip stock rout",
+    "source": "BBC",
+    "summary": "South Korean shares soar after chip stock rout&nbsp;&nbsp;BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RallHU1JiYW9zUFpxY0hBOFplcWxITTgzZ0c3cFFfbFhEX3g3eEdtOC1meFBKYW9pYmR0YjdsZmlqUHpzeUpSa1RHdnd1N0Z2VngtZVlFUDJfdw?oc=5",
+    "image": "",
+    "published_at": "Fri, 31 Jul 2026 06:56:02 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529396+00:00"
+  },
+  {
+    "id": "7e0d42a0212c",
+    "title": "South Korea’s stock market plunges as AI-driven boom fades",
+    "source": "Al Jazeera",
+    "summary": "South Korea’s stock market plunges as AI-driven boom fades&nbsp;&nbsp;Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmZNcEtQUnpRbHdtRWpiVng1dnhxVlJCM1VVdzZRQUpwMjh0cGJDLVRuWnZpSDdjc1Q5VkpYaUF3OWRZU0NPYjZzSUxvakwtMjBVLVdRSjdLOVI0QmpockFtQTIwamJHNW1TREJsZXBrN1ZQX001VHBfMldwUEQtTGVIMG5YTGN6aEdQeU9mOEsxTU51Y3NlRjI2UVFlbTZZTGVv0gGoAUFVX3lxTE8tVjBGU2Mtb3BsRTVwU3BZWmVua0ZBS3ZFT012R0JuTkgwQ0M3UlFTaEdRdURyYnM0X0lPTlBCQjFmVEpKYXBqOGhJR0RiRHRoZXpFdEk4eENJT0QtaXBTMXNHN3g5alF3T0FMU0U4RkJQTUlrWXJFODNkRVlVdUJOQTRyTFpScExfUHdYRjRUSUlWTERBNDNOazdneHlEZXhGTHVWUU1RVg?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Jul 2026 17:54:32 GMT",
+    "fetched_at": "2026-07-31T10:46:35.529413+00:00"
+  },
+  {
     "id": "2d04af4f4004",
     "title": "Second major AI company says its systems hacked into other firms",
     "source": "The Washington Post",
@@ -8,26 +298,6 @@
     "image": "",
     "published_at": "Fri, 31 Jul 2026 04:14:00 GMT",
     "fetched_at": "2026-07-31T07:55:32.071030+00:00"
-  },
-  {
-    "id": "3c1eea4cbeea",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "source": "TechCrunch",
-    "summary": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares&nbsp;&nbsp;TechCrunchAI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say&nbsp;&nbsp;CNBCSituational Awareness Weighed Private Stake ",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlo5ZkN3RDVwaWhVam9LRFVVeTk2QXp5VG9kS2dWU2JsMDUtYTl1T0ZGWkdiemxXNjBnU1NubzhSa09oZ19tTE1UaUg3ZzhvSVAyTTFqOElkUUQ4ZXRrLTlQd2tVb0pkVTBqWkJHWlVnZjEtUVBGbjF4c1pqdzEyaTBfWkw1NXd1YzRPYnZ3NEpXaElrZ3lTanI3SmxPM2FfNE9KTkJTV2t3YzJ2a2E1UzFMTjRvb2V3b0stRFhWa1dMeWhYRks1M0hSdThaQ3BKbWlJbHNuS1RneXM?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 23:25:58 GMT",
-    "fetched_at": "2026-07-31T07:55:32.071104+00:00"
-  },
-  {
-    "id": "6bdb34302228",
-    "title": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates",
-    "source": "CNBC",
-    "summary": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates&nbsp;&nbsp;CNBCInside one of the wildest months in South Korea's stock market history&nbsp;&nbsp;Business InsiderKorean Stocks Jump Record 15% on Renewed AI Trade Optimism&nbsp;&nbsp;Bloomberg.comSouth Korea’s K",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
-    "image": "",
-    "published_at": "Fri, 31 Jul 2026 07:11:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.071147+00:00"
   },
   {
     "id": "201c5fbcc89a",
@@ -50,16 +320,6 @@
     "fetched_at": "2026-07-31T07:55:32.071233+00:00"
   },
   {
-    "id": "f6f6153b8d74",
-    "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history",
-    "source": "Yahoo Finance",
-    "summary": "Microsoft's stock rockets more than 15% for largest single-day jump in history&nbsp;&nbsp;Yahoo FinanceMicrosoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company&nbsp;&nbsp;wsj.comZacks Investment Ideas feature highlights: Microsoft and Alphabet&nbsp;&nbsp;Yahoo FinanceMeta sinks 8%, conti",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1d4clZGd29SUlVkemdZNzFwbm5nVUM2WFhjVXQwZWNqb25tMzVnQ0dvcXhYek92M3ZxODE1R2NjNjJrQXBCRzdVMjNOWkV3Sk9oX3RUTmtDbVdPV2tKMGd4TUFFcGFzYTBkYlA4ZVlrN3hneUx5LUY4SWRfRUhLaXZHMEFJcFJBUkJmNGZid0xLdkFCMkhxVUFPRDhHUmpwaktCNVRhWnlGZ0d4b3lHVU1WMVNicFFUNTZ1cXR3MFhKZnpYcEZEaWpjTGUxYWpRTVE?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 20:03:14 GMT",
-    "fetched_at": "2026-07-31T07:55:32.071272+00:00"
-  },
-  {
     "id": "2903e55a5758",
     "title": "Amazon revenue soars as AI investments pay off",
     "source": "Axios",
@@ -80,16 +340,6 @@
     "fetched_at": "2026-07-31T07:55:32.071342+00:00"
   },
   {
-    "id": "915bfe98db5d",
-    "title": "Mortgage rates rise to 1-year high",
-    "source": "Fox Business",
-    "summary": "Mortgage rates rise to 1-year high&nbsp;&nbsp;Fox BusinessAverage 30-year US mortgage rate rises to highest level in a year at 6.66%&nbsp;&nbsp;AP NewsThe Federal Reserve just froze interest rates yet again. Here's what that could mean for mortgage rates.&nbsp;&nbsp;CBS NewsMortgage Rates Jump to a ",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwWDV5ZG9kNVU1dTBkQmFIaDlKUkk3Z3NjZDFTdkhya19pV1EtdEpvWFVIY3VfMjVlTWdBbVhrb2RQQ3hFY21OelZYSlI0NkJiXzQ4YVRKU1FNdXlTYUhXVGQtdkdYZEtDREYwUEJTUm8yMVdXNEtHT9IBfkFVX3lxTFBwaGdUNzlMUGNBM1ZsdWN6OTB6X2s5M09JMzhDaHBNMVNzOG5CYzN5RDl2M2tsUXNWNFFScl9yd3ExR3gyYUlfeDd2S01LeWIyUFlWcUVjRFBNTVg2aFlDSGNkOEhWTmotMUJwWkJsOTJZT0J2T1VESzI4NkdGdw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 18:54:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.071372+00:00"
-  },
-  {
     "id": "bf16cac4ff06",
     "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
     "source": "CNBC",
@@ -100,16 +350,6 @@
     "fetched_at": "2026-07-31T07:55:32.071400+00:00"
   },
   {
-    "id": "0f668180af37",
-    "title": "Future of Finance 2026: Time to Shift Gears?",
-    "source": "Boston Consulting Group",
-    "summary": "Future of Finance 2026: Time to Shift Gears?&nbsp;&nbsp;Boston Consulting Group",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2xadEpPNkM2RVlZX1pCc0ZZN3BNd1RzbTVzUGdsTjBCdGtDRk16MFg4UWowc194LVp1Z0tZSnhSVENuUGc2aVZKRVdnLVFLQ2ZvVmJlcHFSekFtRXFwRjZjOHU3OWw4VEdUWTNacHZLV1NjZkhYZWl5bkpmbXMwcWFpeEpKN0k?oc=5",
-    "image": "",
-    "published_at": "Mon, 08 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521635+00:00"
-  },
-  {
     "id": "01d410df54f0",
     "title": "Discover this month's must-read finance stories",
     "source": "The World Economic Forum",
@@ -118,96 +358,6 @@
     "image": "",
     "published_at": "Mon, 23 Feb 2026 08:00:00 GMT",
     "fetched_at": "2026-07-31T07:55:32.521666+00:00"
-  },
-  {
-    "id": "408c242e50a2",
-    "title": "Detroit’s Banking and Finance Industry Is Evolving — Here’s Where Opportunity Is Growing",
-    "source": "detroitchamber.com",
-    "summary": "Detroit’s Banking and Finance Industry Is Evolving — Here’s Where Opportunity Is Growing&nbsp;&nbsp;detroitchamber.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFRjd1VlZ2M3dl9DM08yNUJPYUI2M0Iyc2dkN1B0RTJETVNmYVdlRnRBdXRnRVJGbWdxWXZDRU5pOC0wNGRKS3RLMkx2Sk1MX3JLSURualMyM1BPX3NsODlVazRLNzluQUpteWwtczRVUlVSMzh3WEZRQ0FXdkczODFvZHRHMk1tX0p6SmZibGUyNzBLanQ1SnNFQmpERTJ6X3MtYnR4cDUyejNjR3QxMWdjX0plSWc?oc=5",
-    "image": "",
-    "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521709+00:00"
-  },
-  {
-    "id": "ad4564e16a76",
-    "title": "2026 Global Outlook for Banking and Financial Markets",
-    "source": "IBM",
-    "summary": "2026 Global Outlook for Banking and Financial Markets&nbsp;&nbsp;IBM",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjkxLXZNS0pMSXQzMGVNVnlwUkRfUjY1WmxzZWZGaEI2QW1EY1BUOFpWTFpsWkxMU0dyYXZqS2ZCSGFRLWJRNFV3alkza1JGZnJ4YTNyQ2JRMXRQa0FZcFpsVElOQXJiYXlXUl9PQzdhUld1WmZ6ZnVZbFZaVkZPRzlNcUpuRUpmWWxyQjVzbnhyX0d1a0NwdjJEV1p3bkdFdWppRThzY19jcVBZYTdFV1JwOUR5Zw?oc=5",
-    "image": "",
-    "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521725+00:00"
-  },
-  {
-    "id": "9e663ff2c906",
-    "title": "Connected Banking Summit Opens In Ethiopia As Digital Finance Takes Centre Stage",
-    "source": "CIO Africa",
-    "summary": "Connected Banking Summit Opens In Ethiopia As Digital Finance Takes Centre Stage&nbsp;&nbsp;CIO Africa",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3IwRjZsZk1zQm1JNVRabkxLVE1lajh0aHdtM2x5RzJZaWZSOHBUeGxYM21Lek85ZjZBdy1EX3BiZW5RTkZOS2lDRHhPUGhIR0JrakRhRHhFaUJicVl0Zmd3cGVhNHZaQU9tVXg3OVBJVWJGcnZwYkFqX00tcGtQXzd3XzBvZ0V4dDhwUW1RN2x0TkUtS3ZrRkZOTFJoZl9PVnEwbA?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Jul 2026 09:15:42 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521740+00:00"
-  },
-  {
-    "id": "2b68c6acd225",
-    "title": "Banking on the Future: 25 Years of Building Kyrgyz Republic's Financial Resilience",
-    "source": "International Finance Corporation (IFC)",
-    "summary": "Banking on the Future: 25 Years of Building Kyrgyz Republic's Financial Resilience&nbsp;&nbsp;International Finance Corporation (IFC)",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BdzhrRWV1Vk8zellrX2FfX1doLWZ5dk40VzdVUUxWQXpuZWZZNmZTaGZFOXZqdDAzUGl6d2l0MV8xOERKNzlHZ1Q4NGhBZ0FwZWxkeWdOel9xNnhVWjE2blk3ZFBsOUV0QV9nTw?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521755+00:00"
-  },
-  {
-    "id": "119f441446ff",
-    "title": "Europe's Financial Sector: Growth & Transformation",
-    "source": "FTI Consulting",
-    "summary": "Europe's Financial Sector: Growth & Transformation&nbsp;&nbsp;FTI Consulting",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnlhTXVjYUhzQUhlR2ljOEw3aGQ2VHQ4b3Jha01nanN0Y25vejY4VDQ5OGo5SGZiSkItUmd2cG84ekVKVWIxbHFUN19yTlpjMkdsNUNWamZGX2ZPb3RGbmg4X3RrUFQ2R0k2ZzlBZkh2SjlBQmxzZnBicUYyWGdwX05IOUxqeW1FSkQyV01UOGZKRkdJUzJfS1c5Rld1bm9sR3B5WGFLa2ZJMldLa0x1TGgwaHNOX0FoczdBZ21R?oc=5",
-    "image": "",
-    "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521767+00:00"
-  },
-  {
-    "id": "d80ddfcc4681",
-    "title": "Mobilizing the banking sector for universal health coverage: a new frontier for public–private partnerships",
-    "source": "Frontiers",
-    "summary": "Mobilizing the banking sector for universal health coverage: a new frontier for public–private partnerships&nbsp;&nbsp;Frontiers",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE16R0RZUEcySVFOVW80VFR6N0cwTFVLRS1qNkRwbWJMaDZRVEhZSmZrTlpESkRaeEhJS3l1cGpsTDdwMHNfSklId3lkeVVjdno3cWxqOGNlVzR0eEM1dzFDZ3F4ZF9WdlZvaVFDTHdkaTA4ZHhJZy1xcEdWdXhlM3VKZTNfbjFucy1yZTFNMC1wVHZYeGRj?oc=5",
-    "image": "",
-    "published_at": "Thu, 19 Mar 2026 19:46:44 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521786+00:00"
-  },
-  {
-    "id": "e20605287669",
-    "title": "FSB reports continued growth in nonbank financial intermediation in 2024 to $256.8 trillion",
-    "source": "Financial Stability Board",
-    "summary": "FSB reports continued growth in nonbank financial intermediation in 2024 to $256.8 trillion&nbsp;&nbsp;Financial Stability Board",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemgxaXQzTWYyZWNzend1V2ZXYi1nUG1EX2twcDF0RmdSdVNHck5IUGFlTVFFZ3VGZk1vZEhPSUMyTXJjZlhLRFRvQW1HaGlKZ0I0bFd6MnhTQXFhaUc4RFo0dXJMUWpCUHdwclRpc3hUc3V1TjZBZGhOTFFpZ25SWGtJMHp1QVYtRjZVajd4R1M5S1FjazdTWEVhTWtGdmRGVnUxMGJvcGMtWERraWxUMFRKNFNuR25INnNr?oc=5",
-    "image": "",
-    "published_at": "Tue, 16 Dec 2025 08:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521802+00:00"
-  },
-  {
-    "id": "aa01dcc8e8c0",
-    "title": "FSI Predictions 2026",
-    "source": "Deloitte",
-    "summary": "FSI Predictions 2026&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHVMbDFwVzFEam1EM1IxcTZVWEpadXJid2JMZ21MaDhKeDFLVVlYNjNZajd3em4tZzlDQm9Hb0RIdDR1QVEtRW9RT1NHd3hxUWE2cHNzX2FmYW94TG5nSTMxRzN4QWlsNWVkZ0dVRThGUXFUZ2h3TXd4RS1nVXBoeVpySU1kekhMbW9xWjMwQ1RFQkdMMjBfTlFZbUV1VWYwTmRTSXFZbjBZblhXN2syN1Vn?oc=5",
-    "image": "",
-    "published_at": "Wed, 20 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T07:55:32.521813+00:00"
-  },
-  {
-    "id": "a232cb41cb03",
-    "title": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares",
-    "source": "wsj.com",
-    "summary": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares&nbsp;&nbsp;wsj.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkhRRUp4LXRtZDZKTDl4aGxjc0Q3WUQ3d2NVcXdhcnJoLTlpY0dldWFPQzZyTUhrdUcySHhjeC1vdGtxUS1sTkxtVGpkdzBDODBMcmk1cm04LXBVS2g0cFMyZmk1YnRxZDh0ZWlRQWJIbW1KempjYTNRT2UtMzlkTnBxWDZtSkE?oc=5",
-    "image": "",
-    "published_at": "Fri, 31 Jul 2026 03:43:00 GMT",
-    "fetched_at": "2026-07-31T07:55:33.683594+00:00"
   },
   {
     "id": "c7924d1146d5",
@@ -230,16 +380,6 @@
     "fetched_at": "2026-07-31T07:55:33.683638+00:00"
   },
   {
-    "id": "d50db57634c0",
-    "title": "South Korean shares surge after chip stock rout",
-    "source": "BBC",
-    "summary": "South Korean shares surge after chip stock rout&nbsp;&nbsp;BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RallHU1JiYW9zUFpxY0hBOFplcWxITTgzZ0c3cFFfbFhEX3g3eEdtOC1meFBKYW9pYmR0YjdsZmlqUHpzeUpSa1RHdnd1N0Z2VngtZVlFUDJfdw?oc=5",
-    "image": "",
-    "published_at": "Fri, 31 Jul 2026 05:32:47 GMT",
-    "fetched_at": "2026-07-31T07:55:33.683651+00:00"
-  },
-  {
     "id": "8a3ab5725b3b",
     "title": "Want to trade stocks 23 hours a day? The SEC is looking into how to make it work.",
     "source": "Yahoo Finance",
@@ -250,16 +390,6 @@
     "fetched_at": "2026-07-31T07:55:33.683708+00:00"
   },
   {
-    "id": "24fa352bcd28",
-    "title": "FCA launches new push to revive London share trading",
-    "source": "Financial Times",
-    "summary": "FCA launches new push to revive London share trading&nbsp;&nbsp;Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFlna0h0S3cxTC1SeFpWSUU2aFZyX1NCOWdzUzVSYkNvRkY3dGdMeERUQ2U1bzBoQkhvX2FiUGdJNkJDRk5NZEFVU05yTGZqQVpVS2tGdWxFbUk3N21pX0NLcmF2dXJNYkljZXdCMDZzRTZ2R0x1bVA1YVg5MDR3bHlwVUs?oc=5",
-    "image": "",
-    "published_at": "Fri, 31 Jul 2026 04:10:38 GMT",
-    "fetched_at": "2026-07-31T07:55:33.683722+00:00"
-  },
-  {
     "id": "db075bacab96",
     "title": "Nasdaq 100 Gains 3% in AI Trade Revival After Rout: Markets Wrap",
     "source": "Bloomberg.com",
@@ -268,26 +398,6 @@
     "image": "",
     "published_at": "Wed, 29 Jul 2026 22:11:13 GMT",
     "fetched_at": "2026-07-31T07:55:33.683736+00:00"
-  },
-  {
-    "id": "39f6230ab5a0",
-    "title": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut",
-    "source": "Barron's",
-    "summary": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut&nbsp;&nbsp;Barron's",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFdJLTBtMGt0Sk9UMGhSbjhNc2MwNnFRRmNmYXVOSzQwNHNxdTdvcnd3VjBZeEVVNnJlaE9icnFueUpiWG94UTItbmtlVGVvbmR5UFRyWUlFZTlERVdyWFgyMlRhb1h4bHF1WHBTOXB5V1AzZTQ1a2NqNUJBNThIbmdfRQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 20:23:00 GMT",
-    "fetched_at": "2026-07-31T07:55:33.683755+00:00"
-  },
-  {
-    "id": "385babda7c1e",
-    "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
-    "source": "Morningstar",
-    "summary": "Where the US Stock Market May Be Heading Next and What to Buy Now&nbsp;&nbsp;Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5",
-    "image": "",
-    "published_at": "Tue, 28 Jul 2026 06:26:57 GMT",
-    "fetched_at": "2026-07-31T07:55:33.683783+00:00"
   },
   {
     "id": "ba913ba84ba9",
@@ -350,16 +460,6 @@
     "fetched_at": "2026-07-31T04:28:28.231276+00:00"
   },
   {
-    "id": "c6340efdcebc",
-    "title": "After the fracture: how Britain's financial industry recovered from Brexit",
-    "source": "Reuters",
-    "summary": "After the fracture: how Britain's financial industry recovered from Brexit&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1BaajhUTG9XRFg4UVRBS1N5WG1fWlpRUVhkTFc5ZklwZlVJWkFrVjBmYTJvMDNjdW1MX1NCSGpfOEtKQ3N1clo0SnRjV3dVNWdabzl3OTM1RjEwalRBdmk3V28tTU9ndHVlVDRiWmtHTjhiZXpDeXdHakdXZUE0TWNIVlFIRGR2c1dqekVnanh5MjFVN3dwdzl3UFdDRDJkTlM1S1pYM01WbW9aY2JyZVNhd2VuZTlxM2ltVl9Vaw?oc=5",
-    "image": "",
-    "published_at": "Sun, 21 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-07-31T04:28:28.726635+00:00"
-  },
-  {
     "id": "8a9a49abf07f",
     "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
     "source": "Bloomberg",
@@ -398,105 +498,5 @@
     "image": "",
     "published_at": "Wed, 29 Jul 2026 22:16:32 GMT",
     "fetched_at": "2026-07-31T04:28:29.664399+00:00"
-  },
-  {
-    "id": "1f7bf7903a2e",
-    "title": "Apple posts record June quarter powered by iPhone sales and tariff refunds",
-    "source": "Fox Business",
-    "summary": "Apple posts record June quarter powered by iPhone sales and tariff refunds&nbsp;&nbsp;Fox BusinessApple’s Profit Increases 27 Percent, Topping Wall Street Expectations&nbsp;&nbsp;The New York TimesApple posts record June quarter as iPhone sales surge; Cook weighs in on AI, China&nbsp;&nbsp;Fox Busin",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3J2RFVZbURjbnlWRnpVaVhQWmZLSXlqZU5DQXNGS3pFNHQycDJQaHQ3RTRGOERQVi1qQS15SHFCOGx1S0F4dzNpcjcyc21LbEplRDNyWEQ0SmRnLWhLWGdlV1FNc25HaV9DRWQ1ODFwRFlxN2FOLWlGQ2pHOG1GRFJtUTNGYy0xZ0xIMU4wcjFQSzBEcHd6TU1EbTJWTDkyRERSYWJR0gGrAUFVX3lxTE5GREYxZ3kweU9yVnZoTkxJUkhpRTlUMXk1TW94UDQtbWJ6V0g1eTdzNXBNdnVESDU5S1pwV3lpaDVaSGY5RlNzVnQ0TFpYYmxKS3NsWkxUb1FwQVRzM1ZCSnVFUDlnSjl2c2RGNVdWOVFrVVFFZ2w2RWZVRS0xLVdQWmpsTktEWFU0VGFLdlVnbWlZekhMQ3JWQWhVMklzTDZlaTlmUGQ4WlFFSQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 22:16:00 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671738+00:00"
-  },
-  {
-    "id": "f99d07d3b79c",
-    "title": "Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak",
-    "source": "WSJ",
-    "summary": "Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak&nbsp;&nbsp;WSJTaco Bell sales fell after cyclospora outbreak&nbsp;&nbsp;CNNCyclospora outbreak dents Taco Bell sales but recovery underway, exec says&nbsp;&nbsp;Fox BusinessCyclospora outbreak tied to Taco Bell will steal the s",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0Y3SEoyVWhTSnJtX1h1LXZ1WVNqSmJwTjFBdWRjVWh0UVJhUTFHdGJmTEhadjQxdEcxamlnNzZxTm1idDJIUmNMQnZoM3FiUTk2NjFtaUtaNWc2eGc3cWtGRVJEVXU4Uk1mZlBEeGR0N1NSYWx5WnFvUHA1RWdQOTJucmRMQXhRdWNfeEQ0VTFfT2g5SllMc0ZWdzYzUzJWV1E0eVlDNG04UTBVTW9BTm5rTkhsV2dPYWZSREln?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 23:05:00 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671796+00:00"
-  },
-  {
-    "id": "c83a51356bee",
-    "title": "‘Talk Is Cheap’: Wall Street Delivers Harsh Verdict on Warsh Fed",
-    "source": "Bloomberg.com",
-    "summary": "‘Talk Is Cheap’: Wall Street Delivers Harsh Verdict on Warsh Fed&nbsp;&nbsp;Bloomberg.comMarkets Challenge Warsh’s Approach to Taming Inflation&nbsp;&nbsp;The New York TimesWill the Fed raise interest rates this year? Divided economists weigh in&nbsp;&nbsp;ABC News - Breaking News, Latest News and V",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlp3ZG92eWJVVWdKMmdJeTBZU3gtZmxfMGw5c0ZPUS1fbkdWS2VWUktCejk1ZmprUzc4LWlpaXlWeTdrRGZXSW8zZDNPWGEwMlQ3cGNJeXgzb19XRDBKeE1jLTFOTHJVa3dTVlhYQ0dxWUNRYkNybllnODRJY3FzRl9wSWVobUNwQmVaZlFDZzNTdWgzN0ZtVVRUSWg0NE03N3NXelY4M1lTYkFNSTdaRkVQYw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 15:51:20 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671851+00:00"
-  },
-  {
-    "id": "a7424d2653e2",
-    "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
-    "source": "Reuters",
-    "summary": "Citadel buys most of Situational's stock holdings after AI share rout, sources say&nbsp;&nbsp;ReutersAI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say&nbsp;&nbsp;CNBCWhat smart people are saying about the Situational Awareness stock sell-of",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJIU1otWHVrMEU0Y1FqRFhmazB2bklSYzhzSzRsQXNJZzFzbk9SM3ZEU2hBZ2ZiWVlTMnhwcWZzTXJhamcxREluUnZDbWNCZjlYbVBSLU5aaGoxbWhYN1BsYy1ZTDN1M2VZampoaGVvNmZWSEsydnptM05OWlQ0QWFmbGd4M1h4WjZzR0RpMUZQRWpaOVh3UGhMenFZMmk5djdxOURGb25qeDh5b01udEU2UFVDNWRNSkhnY2x5Rk8wZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 18:28:09 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671891+00:00"
-  },
-  {
-    "id": "a88d506cac58",
-    "title": "Rivian reported strong Q2 results, lifts guidance as R2 ramps up.",
-    "source": "Yahoo Finance",
-    "summary": "Rivian reported strong Q2 results, lifts guidance as R2 ramps up.&nbsp;&nbsp;Yahoo FinanceRivian reduces 2026 spending plans, narrows earnings guidance&nbsp;&nbsp;CNBCRivian Releases Second Quarter 2026 Financial Results&nbsp;&nbsp;RivianRivian Narrows Loss While Rolling Out Lower-Cost EV Models&nbs",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWxCMlNqT3J5V1hXa3lLY0xzaHFGeDNSbVJsWlU0c1JkQnlkWXVMQzI4Umg4QXFWcFBRa0NWaExMbEtwc0hBbnN1am5LSW1acDdSYUVwX0hLX0ZWcS02aGZLMWZyR3ZyVnFVVkUtb0dRdTFVaE42bkJrOXFJV3BTT21JTFFCdGJseU1OZjRQSmZWdFRPLTVRVm96M1VFMGZmUHlURW9vajFjcE04T3lTSFBnc3pJYmxDZWtGWHVGVTVJRXpEMVg1R3hGSHRPU2prYV9VdzBpMUdLeWdiZ0JtUEVtWVJfMkhqWE1JU2QzTQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 20:06:08 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671913+00:00"
-  },
-  {
-    "id": "d393da691c8e",
-    "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next",
-    "source": "apnews.com",
-    "summary": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next&nbsp;&nbsp;apnews.comAmazon’s Zoox Gets Clearance to Start Paid Robotaxi Rides&nbsp;&nbsp;WSJEXCLUSIVE: Amazon's Zoox wins first US approval for paid robotaxis without human controls&nbsp;&nbsp;Reuter",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcW5yMkRPMXRLa3lOWXZuX2wwbGxoYm5GcHlLS2c4dlJEN2RqUjQ4QWF1cHp1MG9PTnhLY0pzUlBsdFRlOE9fb2xCV3hHVkZhbXMzOGYzaWxpZmNWbHNPSUF4b181emFyUm1uZDJNOURPZmxfWkdEM2R5MlNpdWJzSmp6eXdJWHE5cVBZWF9JbGc2c3lHTndHSTV3?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 23:05:00 GMT",
-    "fetched_at": "2026-07-31T00:09:20.671941+00:00"
-  },
-  {
-    "id": "c32360d88cfe",
-    "title": "Banks scramble to respond to autonomous AI hacking threats",
-    "source": "The Korea Times",
-    "summary": "Banks scramble to respond to autonomous AI hacking threats&nbsp;&nbsp;The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXdrcmJra0hxbGN0cUpxQlh4N3pGMy1TbTFSX0tEVHVoU2ZQem5YaVI0TS1kVW1SNXNpN1lkYjNQOXZ0UnR0M1g3QmVNOHlYX3pxRzZJNWxPdXh1dmc3WmZoTUxRSmw2d1lIUWkwMHYzYW9sTEROOWc1VXRzQXcyMzRPbEpnUXdMTVliNVdXRjRQdVhrTFVRMjIta3RrV3AwWkY1Y2NtU3VqWnNXRlNHM2lySG9BQlVLZ3lSUDF30gHDAUFVX3lxTE4tSGRnODdnUWlRTURKY0NUVW9STjlPOHk1TUxIendZUXNLbXB1cEpFRHRGckItN3Q3X1gwdHhfdkhHSG9abUp5bXNxcVN4RTVxaUtzb2tZbU9EQnNwc1RuWlBhaW1uZmJhRDBtN1E3ZlZmdk5kZXQ1OGkyUk5GSWMtbERjUEh0UTNQVWFETGFIaUs3c2JRdlBkTzJNY3U3QmhFeEpKZFNwX3lMNi1lNXg1czU1NG9KcDV1OHVjR2RiN0o2aw?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Jul 2026 07:32:03 GMT",
-    "fetched_at": "2026-07-31T00:09:21.240889+00:00"
-  },
-  {
-    "id": "42186b529653",
-    "title": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise",
-    "source": "Yahoo Finance",
-    "summary": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkMtZDdYTkR0cTdoWnhXY3NfQVJQZG1fTXg2bTNWRUNVUVhmR0tVMGdZM2pSQVMtdjEzYWhLMEtjcGxpNVFzNnpRRmdPZ1BQR0d6YlBPOFBCWXNaZ3FhVnhXN2ZnbmNPVjRidjdaM2Rfak13d0ZaSXZwbm5PemlvZHJSRHJiOFBZLXlvN0VCZ0wybFVZQ0Z6TzZBZnI2Z1hWQnVxbnZWV2loUno0Y3c5eU9tMExPNWZKclRwcVVmSG5Ubnd3Z2pKa0hGR1dpZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 16:42:05 GMT",
-    "fetched_at": "2026-07-31T00:09:22.319918+00:00"
-  },
-  {
-    "id": "2b82bdd7f7ee",
-    "title": "Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates",
-    "source": "CNBC",
-    "summary": "Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates&nbsp;&nbsp;CNBC",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Jul 2026 20:26:00 GMT",
-    "fetched_at": "2026-07-31T00:09:22.319932+00:00"
-  },
-  {
-    "id": "f07fb658c6e2",
-    "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-    "source": "CNBC",
-    "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session&nbsp;&nbsp;CNBC",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEhDR21WVkE2Z2xGRkxuTDlfRE9Pa0QxQUd3YXd3TUM2azNseUJLMjU2cEJiYVREdmpKRjZUaFFIRldwZ1NKOGZLYWplb1NuLU1UUVFLZGRHdFVmb19ZVXVoQm51VFF3SzVLcjdXbDB2djRTUC1HZUkzQmpHQTMwNTJJT19HS0xEZDk2YnNsdUtURFBrWU9HQVI2VXk5Q3lCb3djYXVwbjY4Z05ra29fZG4zZk1WQjFNWVlHSVpMcw?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Jul 2026 22:40:39 GMT",
-    "fetched_at": "2026-07-31T00:09:22.319972+00:00"
   }
 ]
