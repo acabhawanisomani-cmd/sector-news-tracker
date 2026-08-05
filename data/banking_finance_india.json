@@ -1,403 +1,103 @@
 [
   {
-    "id": "eaec227ed804",
-    "title": "Where does LIC invest your premium? Minister tells Lok Sabha how it picks stocks, why it won't name companies",
-    "source": "LiveMint",
-    "summary": "LIC’s equity investment strategy explained as the Finance Ministry reveals how the insurer managed policyholders’ funds in listed companies over five years, including risk checks, regulatory oversight, portfolio review and investment decisions based on business performance and future prospects.",
-    "url": "https://www.livemint.com/money/personal-finance/where-does-lic-invest-your-premium-minister-tells-lok-sabha-how-it-picks-stocks-why-it-wont-name-companies-11785896080155.html",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 08:32:47 +0530",
-    "fetched_at": "2026-08-05T03:18:34.124938+00:00"
-  },
-  {
-    "id": "68d8c5e01e2b",
-    "title": "Found errors in your filed ITR? Check due date and whether revising attracts penalty",
-    "source": "LiveMint",
-    "summary": "Taxpayers can file a revised return if they have made mistakes in their initial submission before the 31 July deadline. Know the due date and whether revising errors can lead to a penalty.&amp;nbsp;",
-    "url": "https://www.livemint.com/money/personal-finance/found-errors-in-your-filed-itr-check-the-due-date-and-whether-revising-it-attracts-a-penalty-11785892460556.html",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 08:03:12 +0530",
-    "fetched_at": "2026-08-05T03:18:34.124968+00:00"
-  },
-  {
-    "id": "3d6f38b5d3d4",
-    "title": "Income Tax Department's NUDGE drive leads to 1.25 crore updated ITRs, ₹9,494 crore extra tax",
-    "source": "LiveMint",
-    "summary": "The CBDT's technology-driven NUDGE campaign prompted 1.25 crore taxpayers to revise or update their ITRs over FY25 and FY26. The voluntary compliance drive also helped the Income Tax Department collect ₹9,494 crore in additional taxes.",
-    "url": "https://www.livemint.com/money/personal-finance/income-tax-departments-nudge-drive-leads-to-1-25-crore-updated-itrs-9-494-crore-extra-tax-11785896463139.html",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:59:04 +0530",
-    "fetched_at": "2026-08-05T03:18:34.124990+00:00"
-  },
-  {
-    "id": "015ac688333e",
-    "title": "EPFO e‑Office app unavailable today during scheduled upgrade; check details",
-    "source": "LiveMint",
-    "summary": "EPFO's e-Office application will be unavailable from 6 pm to 9.30 pm today due to a scheduled system upgrade. Members may experience temporary service delays while key UMANG services remain available. Here's what EPF subscribers and employers need to know.",
-    "url": "https://www.livemint.com/money/personal-finance/epfo-e-office-app-unavailable-today-during-scheduled-upgrade-check-details-11785891690339.html",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:15:34 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125010+00:00"
-  },
-  {
-    "id": "01fdc7f4b1e4",
-    "title": "Stock market closing timings changed: What it means for index funds, ETFs and arbitrage fund investors",
-    "source": "LiveMint",
-    "summary": "The stock market’s new closing auction mechanism changes how closing prices are determined for F&amp;amp;O stocks. The shift from VWAP-based closing prices to auction-based pricing could impact index funds, ETFs and arbitrage funds by improving transparency and reducing tracking errors.",
-    "url": "https://www.livemint.com/money/personal-finance/new-stock-market-closing-timing-from-3-august-what-it-means-for-index-funds-etfs-and-arbitrage-fund-investors-11785859222095.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 23:08:02 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125032+00:00"
-  },
-  {
-    "id": "fa2d3a39e0bd",
-    "title": "Franklin India Short Term Fund opens NFO on 5 August: Scheme type, duration and risk — Here's all investors need to know",
-    "source": "LiveMint",
-    "summary": "Franklin Templeton's new open-ended short term debt scheme, the Franklin India Short Term Fund opens NFO from 5th to 11th August. Here's all investors need to know about the scheme type, duration, minimum investment amount and potential risk class.",
-    "url": "https://www.livemint.com/money/personal-finance/franklin-templeton-india-short-term-fund-opens-nfo-5-august-11-scheme-type-duration-risk-minimum-investments-mutual-fund-11785857583157.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 22:38:13 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125052+00:00"
-  },
-  {
-    "id": "5d6ed790c720",
-    "title": "Factor investing styles: Momentum tops with over 24% returns in 10 years—but does it carry the highest risk?",
-    "source": "LiveMint",
-    "summary": "Factor investing has gained significant traction as investors increasingly seek rule-based strategies over traditional market-cap investing. While momentum has delivered the strongest long-term returns, the data shows that higher returns do not necessarily mean the highest risk.&amp;nbsp;",
-    "url": "https://www.livemint.com/money/personal-finance/factor-investing-styles-momentum-tops-with-over-24-returns-in-10-years-but-does-it-carry-the-highest-risk-11785854699351.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 21:53:43 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125072+00:00"
-  },
-  {
-    "id": "c649887755c3",
-    "title": "Zindagi Na Milegi Dobara's Arjun Saluja taught us to chase FIRE, but how to protect it for 50 years",
-    "source": "LiveMint",
-    "summary": "An early retiree must build a larger retirement corpus by targeting a lower withdrawal rate in retirement and by maintaining a margin of safety in the corpus to account for swings during multi-decadal economic cycles",
-    "url": "https://www.livemint.com/money/personal-finance/zindagi-na-milegi-dobaras-arjun-saluja-taught-us-to-chase-fire-but-how-to-protect-it-for-50-years-11785846643473.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 21:22:11 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125105+00:00"
-  },
-  {
-    "id": "160923ab1901",
-    "title": "EPFO: Unresolved pending claims, KYC errors, incorrect balance? Here's how to register grievance online — Stepwise guide",
-    "source": "LiveMint",
-    "summary": "Today, we look at how employees provident fund members can file a grievance with the retirement fund body, the step-by-step process to register a complaint, the customer care and social media alternatives.",
-    "url": "https://www.livemint.com/money/personal-finance/epfo-unresolved-provident-fund-pending-claims-kyc-errors-incorrect-balance-how-register-grievance-online-stepwise-guide-11785853034936.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 21:00:23 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125124+00:00"
-  },
-  {
-    "id": "050f9638363c",
-    "title": "Unified Pension Scheme explained: Objectives, eligibility, contribution structure, key benefits and latest updates",
-    "source": "LiveMint",
-    "summary": "The Centre said over 1.18 lakh eligible beneficiaries have opted for the Unified Pension Scheme since its rollout in April 2025. Introduced to provide an assured post-retirement income, the UPS continues as an optional pension framework under the NPS, with no review conducted so far.",
-    "url": "https://www.livemint.com/money/personal-finance/unified-pension-scheme-explained-objectives-eligibility-contribution-structure-key-benefits-and-latest-updates-11785849630532.html",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 20:38:34 +0530",
-    "fetched_at": "2026-08-05T03:18:34.125143+00:00"
-  },
-  {
-    "id": "8ae6cd43bea5",
-    "title": "ETMarkets NRI Talk | Alternatives can account for up to 20% of an NRI's India allocation: Shiv Gupta",
-    "source": "Economic Times",
-    "summary": "From portfolio management services (PMS) and alternative investment funds (AIFs) to private credit, these asset classes offer the potential to enhance risk-adjusted returns, albeit with higher risk and lower liquidity.",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-alternatives-can-account-for-up-to-20-of-an-nris-india-allocation-shiv-gupta/articleshow/132885750.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 08:21:21 +0530",
-    "fetched_at": "2026-08-05T03:18:34.225958+00:00"
-  },
-  {
-    "id": "a54ae4f3c57c",
-    "title": "ETMarkets Smart Talk| Large caps offer stability, but alpha lies in selective mid- and small-caps: Rakesh Vyas",
-    "source": "Economic Times",
-    "summary": "While the near-term outlook remains clouded by inflation concerns and margin pressures, Rakesh Vyas, CIO &amp; Portfolio Manager at Quest Investment Managers, believes the underlying earnings story for India remains firmly intact.",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-large-caps-offer-stability-but-alpha-lies-in-selective-mid-and-small-caps-rakesh-vyas/articleshow/132885220.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 08:03:53 +0530",
-    "fetched_at": "2026-08-05T03:18:34.225987+00:00"
-  },
-  {
-    "id": "b4e02fe42a5f",
-    "title": "LIC OFS opens for retail investors today: Should you apply in insurance behemoth's offer?",
-    "source": "Economic Times",
-    "summary": "The OFS opened for non-retail investors on August 4, and saw strong participation. The offer was oversubscribed more than 3 times its offer size. It now opens for retail investors today.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-for-retail-investors-today-should-you-apply-in-insurance-behemoths-offer/articleshow/132885251.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:59:08 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226006+00:00"
-  },
-  {
-    "id": "7b5e2cf80d54",
-    "title": "Manipal Health Enterprises shares to list today; GMP indicates flat debut",
-    "source": "Economic Times",
-    "summary": "The company's IPO is currently commanding a grey market premium (GMP) of around Rs 3, or nearly 1% over the upper price band of Rs 590 per share, indicating an estimated listing price of Rs 593. While the GMP is widely tracked as a gauge of investor sentiment, it is an unofficial and unregulated ind",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-enterprises-shares-to-list-today-gmp-indicates-flat-debut/articleshow/132885167.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:55:40 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226030+00:00"
-  },
-  {
-    "id": "38fa85d7fbe9",
-    "title": "Ardee Industries IPO opens today: GMP signals 15% listing premium; check price band, dates and key details",
-    "source": "Economic Times",
-    "summary": "The company has fixed the price band at Rs 50–53 per share, offering investors an opportunity to participate in a business focused on lead recycling and non-ferrous metals, a segment that plays an important role in metal recovery and industrial supply chains.",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-opens-today-gmp-signals-15-listing-premium-check-price-band-dates-and-key-details/articleshow/132885073.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:52:45 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226056+00:00"
-  },
-  {
-    "id": "ce9efee30121",
-    "title": "Stocks to buy in 2026 for long term: M&amp;M, UPL among 5 stocks that could 10-20% return",
-    "source": "Economic Times",
-    "summary": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-mampm-upl-among-5-stocks-that-could-10-20-return/slideshow/132885039.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:45:36 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226070+00:00"
-  },
-  {
-    "id": "6bdb47318f9f",
-    "title": "AI could slow affluent India; QSRs, credit cards may show stress first: BNP Paribas’ Kunal Vora",
-    "source": "Economic Times",
-    "summary": "Coming to loans, personal loans increased by 13% in FY25 and FY26 which is softer versus the earlier years. Also, the recent resurgence in personal loans has been supported by the GST rate cut which is driving the demand for automobiles and the spike in gold price is driving the gold loans growth.",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-could-slow-affluent-india-qsrs-credit-cards-may-show-stress-first-bnp-paribas-kunal-vora/articleshow/132884700.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:45:04 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226107+00:00"
-  },
-  {
-    "id": "2eb3e5e85a2f",
-    "title": "Oil Price Today (August 5): Crude dips for 3rd session amid hopes of a short-term war deal. What's next?",
-    "source": "Economic Times",
-    "summary": "Oil prices dipped again on Wednesday following as discussions aimed at reopening the Strait of Hormuz progressed. Traders are keenly watching the U.S.-Iran negotiations, knowing that an agreement could ensure the unhindered passage of commercial ships. Analysts warn that sustained disruptions could ",
-    "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-5-crude-climbs-back-to-80-despite-hopes-of-a-short-term-war-deal-whats-next/articleshow/132884676.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:44:09 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226129+00:00"
-  },
-  {
-    "id": "0137abddc2cd",
-    "title": "Negative Breakout: These 8 stocks cross below their 200 DMAs",
-    "source": "Economic Times",
-    "summary": "Traders use the 200 DMA as a key indicator to determine the overall trend in a particular stock.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/132884805.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:37:25 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226141+00:00"
-  },
-  {
-    "id": "3aad4a684f99",
-    "title": "Yen finds footing after intervention, dollar near 6-week low on Mideast hopes",
-    "source": "Economic Times",
-    "summary": "Currency markets took a breather as the Japanese yen gained traction, influenced by recent intervention measures. Meanwhile, the U.S. dollar index lingered near its six-week lows, buoyed by positive developments in the Middle East. Falling oil prices alleviated concerns about potential supply disrup",
-    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-finds-footing-after-intervention-dollar-near-6-week-low-on-mideast-hopes/articleshow/132884612.cms",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 07:35:27 +0530",
-    "fetched_at": "2026-08-05T03:18:34.226163+00:00"
-  },
-  {
-    "id": "6ce8840a6f4d",
-    "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
-    "source": "MoneyControl",
-    "summary": "ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850 in its research report dated April 21, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:41:02 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733395+00:00"
-  },
-  {
-    "id": "07ad6d368660",
-    "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
-    "source": "MoneyControl",
-    "summary": "Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:36:47 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733429+00:00"
-  },
-  {
-    "id": "fe71a05a028b",
-    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-    "source": "MoneyControl",
-    "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:36:44 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733446+00:00"
-  },
-  {
-    "id": "3ed642b4e089",
-    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-    "source": "MoneyControl",
-    "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:36:44 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733461+00:00"
-  },
-  {
-    "id": "a4e9c22c27ba",
-    "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
-    "source": "MoneyControl",
-    "summary": "Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700 in its research report dated April 22, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:26:31 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733475+00:00"
-  },
-  {
-    "id": "39d8f00864f0",
-    "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
-    "source": "MoneyControl",
-    "summary": "Emkay Global Financial recommended reduce rating on Aditya Birla Fashion and Retail with a target price of Rs 230 in its research report dated April 23, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 13:22:33 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733492+00:00"
-  },
-  {
-    "id": "50b371f510a3",
-    "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
-    "source": "MoneyControl",
-    "summary": "ICICI Securities is bullish on Wipro has recommended buy rating on the stock with a target price of Rs 410 in its research report dated April 21, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 12:22:08 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733507+00:00"
-  },
-  {
-    "id": "156bfc0e7332",
-    "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
-    "source": "MoneyControl",
-    "summary": "ICICI Securities is bullish on HDFC Life Insurance Company has recommended buy rating on the stock with a target price of Rs 739 in its research report dated April 21, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 12:05:52 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733522+00:00"
-  },
-  {
-    "id": "140944b6fe19",
-    "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
-    "source": "MoneyControl",
-    "summary": "ICICI Direct is bullish on Patel Engineering recommended buy rating on the stock with a target price of Rs 80 in its research report dated April 22, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 12:05:43 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733537+00:00"
-  },
-  {
-    "id": "121e451e5d45",
-    "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
-    "source": "MoneyControl",
-    "summary": "KR Choksey recommended Accumulate rating on Infosys with a target price of Rs 1531 in its research report dated April 22, 2024.",
-    "url": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
-    "image": "",
-    "published_at": "Tue, 23 Apr 2024 12:05:06 +0530",
-    "fetched_at": "2026-08-05T03:18:34.733551+00:00"
-  },
-  {
-    "id": "60a64fbb2bd5",
-    "title": "India seeks to widen tax exemptions to woo investors such as Apple",
-    "source": "ft.com",
-    "summary": "India seeks to widen tax exemptions to woo investors such as Apple&nbsp;&nbsp;ft.comGovt introduces Bill aimed at easing doing business, attracting FDI & enhancing Make in India&nbsp;&nbsp;The HinduIndia proposes extending tax breaks for contract manufacturing in a boost for Apple&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHdfYXRON0tqZFRQN2pvbWNRVmVrSDNZbWxFVzFzb1d4SGZfZWpJZ2FZblkzTXZINXNXbmlmaU9wX044WXRyN3F0NlRJQWV3cTNKVF9DOFM0NC1hUGhPc096Z0czdTN3ZklzWFhzaWp5US01X3RrYWVDR1BJS2Y4YTZzWFU?oc=5",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 09:41:49 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788589+00:00"
-  },
-  {
-    "id": "595b14c83895",
-    "title": "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry",
+    "id": "5ee17a9b0c3c",
+    "title": "India's Nifty flat, Sensex holds gains after RBI rate pause",
     "source": "Reuters",
-    "summary": "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry&nbsp;&nbsp;ReutersStock markets trade mixed amid introduction of new closing auction session&nbsp;&nbsp;The HinduWill Nifty & Sensex continue to diverge? What new stock market timings, closing auction session ",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekJ2anc5Nl9hUXJxY1ZHRDgtUXp3UmE0MHp4VzhZQnJTMC1LS1VXZDdoOWJPM09jWk9XdXY3Vzl0YzgyaG95Zk84ZERtUVRMaHY3MTRIdmhvbEVkMDJ1ZVNUTG8zd1ZlYkctRWFpOE1NT0k0d2c1NksyTjVQU2lPWmZ5cWVxSHJLQ1lJV3hnb25fV2E1c05mdk85SDR1Mm9Ra3IyUDBHdS0xT1E0eFIyUDhoZDkxY18xQnk0bFplaw?oc=5",
+    "summary": "India's Nifty flat, Sensex holds gains after RBI rate pause&nbsp;&nbsp;ReutersRBI MPC keeps policy rate unchanged at 5.25%&nbsp;&nbsp;The HinduRBI set to keep rates unchanged as inflation concerns temper hopes of another cut&nbsp;&nbsp;Telegraph IndiaRBI MPC Meeting August 2026 Live Updates: Repo ra",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 05:47:00 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788647+00:00"
+    "published_at": "Wed, 05 Aug 2026 02:03:00 GMT",
+    "fetched_at": "2026-08-05T06:34:26.690997+00:00"
   },
   {
-    "id": "a58d3026bb62",
-    "title": "No more free UPI in India? Govt weighs fee for payments above Rs 2,000",
-    "source": "Telegraph India",
-    "summary": "No more free UPI in India? Govt weighs fee for payments above Rs 2,000&nbsp;&nbsp;Telegraph IndiaMerchant Discount Rate on UPI transactions? Amendments to payments act may pave way - what it means&nbsp;&nbsp;The Times of IndiaIndia paves way for return of merchant fees on digital payments&nbsp;&nbsp",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODQ4dHlTMmMxYXVzRDNJWW4tS0J1b2tQN1J2TDRqb3JMWWFSamN3eWRENG5XaFM1M1F5MU5JYmd1dmROR3FMWXdIc3gxa0gyTjdEd2pNSDA4U3RTenBtMWxBWUpzM3JLQlRZS3VfMUR2ZHZpOVRGXzRoMEtEOUJMS3B4bjQtUjdaZmVUZzd2TE85SndBbHBXS3h5dmtzSk83aXgyXzJFZmt3akZnQng0QzdXWkc2ZzlQbHpLRVhMZTDSAcYBQVVfeXFMTldmZjB0OGhlTmI2X0JxQUtWM0E2MDh1TS1KNVVLLW9Famk2T244UldaY0Jkd29mTG5EVXg5RU5sTGowaGhYSXhRNjZRaXRJY0duVGx3MlhDY3NrNUNyU01YRUxuR3BXbTZZMHVWT3d3Y3BiS2FwWnZtX2FGU0VMcjY3eGdIRjJDdWlXVjU0SlZfNk8yTDdxQUZPdVhIY1ViMFNWZVFKQ1BveWNzSWRTOGIzZmQ4QlZQVkh6Z042SlRFYmk0Q1dn?oc=5",
+    "id": "1132732f37f8",
+    "title": "Manipal Health shares list at 11% premium over IPO price; should you buy, sell or hold?",
+    "source": "Moneycontrol.com",
+    "summary": "Manipal Health shares list at 11% premium over IPO price; should you buy, sell or hold?&nbsp;&nbsp;Moneycontrol.comIndia's Manipal Health jumps on market debut, valuing hospital chain at $9 billion&nbsp;&nbsp;ReutersAequitas: Manipal Health IPO Trading - Lukewarm Demand&nbsp;&nbsp;SmartkarmaManipal ",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNempSR1g0Z2RlY2dKTW9RelFTNEtFY1p3NkpqWk1RSm0xQ29SVnZHNGw2UGRXUVVwRVJzUmNwRHBBQnE4dTRCTXhMbXB0Y2I1TlFIQ0lSZ0lVLTJOV2VDc2lqSW4teWYxYTNpdV9ZMTFzZTNsQ2VDX2VYWEFjMnJneEoyUGxxLUJTdmk0eWhaUG5nN0xoV0NTZkNxRWJ5N0VyV2phbjduSnktTVBPLUZ3VlJZbjJpLWRHMXppdWVwWTNpMG9JMjB5allBMU5lelFFMzRN0gHYAUFVX3lxTE1qMXdKTjYwMk50VVZzX3JORnFJTFdVa1Q4MzZsR29NT3JLWHl3MXFGaDZfd3dwbWd6bGoxbGh3Q1JZVjlqTTFKMFFyQzBkdWJqUVdMRnFHdzE5S2RZb1l3cTAtMXhaa2VpcVp2M0NWell4bmVuN190SnNOTkc5d0lnamdma3gzNHFNNk9LajNUaVJwbXE3OGRNaTVnSmgxOEdnczNXaDRjS0V3dERiYVJDcXpBM3VNa0tlbTZHem1tYzk2eVNGT3pETkhuejFoa3FIVmJHa3Vjag?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 14:01:01 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788691+00:00"
+    "published_at": "Wed, 05 Aug 2026 04:19:32 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691044+00:00"
   },
   {
-    "id": "d4fee174c41c",
-    "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-    "source": "oilprice.com",
-    "summary": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal&nbsp;&nbsp;oilprice.comOil prices tumble as Trump cancels attack on Iran to reach nuclear deal&nbsp;&nbsp;The HinduOil rebounds from three-week low as Hormuz tensions keep supply fears alive&nbsp;&nbsp;The Times of IndiaDow future",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJvYjFRSEgwNmRtNGJwR3Y4eTVWbjdhaDFqdWgyY2Y2MGhkR1NrdjJWMGVTZDhfSEt5NDMycGlCczdJY2lUb20zVC10Smh0U2lveDJKQmdJT25DSTduYVhrZWROZUdmeUpIb2RNNnowRzVhNE1tTE5DRTB0bzc4WUVGWDg0cjh3c1JNLVl5Yl9BU010enBYclFnaFNpdU9VN0tJb0FGT1F1c2RxV0sxUNIBtgFBVV95cUxQZXUxSDQ1bFpORW1ZRjVaOVVvQU1lWnVXX3ZLRU9BWi1ZN0pmZmR5VDlid1gtTDhKaU5LbFBFd3ZZeUZXWEVvZEU3VEpuRUlMS0JMdjJhcF85V2hwR29zSkh6ZG01dXA4eE5HUnc5Qm55UktvTUIxN3JodHBnOXh0QlR4MzhmdWtYaGdVUFhnUHRmWFFqN1BMR1BpVXNwMlFMMDB1cUllczZ4RVJab3M3WFA5T2h6QQ?oc=5",
+    "id": "a34eefa380e2",
+    "title": "Adani's bumper capex trickles down to smaller infra firms",
+    "source": "livemint.com",
+    "summary": "Adani's bumper capex trickles down to smaller infra firms&nbsp;&nbsp;livemint.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYk5aQ0Y2RUE1UmxkOUhrbVhaend4S0xFQUtRMExZRjkyYlNKODE4NXlUay1OV0lqQmh2dGJYRGlWMmo5V0pQcFlaRHUxVjhhTDR5ZEdFcHNrZVlRZVJ4aWxUTW9ubTJQNlN6V0dmalpWd2t4d1pYaXNMYTV2MFh1bGJBcDNmeFh1SUdXbng3bzFtOERacUs5OWRFRnZEdUxOejJ4azZYTHl1QnJybE5DRNIBtgFBVV95cUxNYTFSaVhuM0hLSG5YemM4X0hSN3FJMEVBWFUzYURQZXNlM1g2Ym9famJuemVObTZ6TFY1WjN5NGJtaWZ2ZXlQMktDSFZrSDgzR0syZDJYajkwdWNzOE9yNDFCYS1CNnhUd2tpMU0zYngwdHdYTTYtSTdwMzlCbzdPZHdhYS1Tdkt1d3I0QjRtS3dOdjdwV3ZWQ3hRSHlsdTRZVTlCX3l3Y1ppTEQ2WGRiWnhNZ3hrQQ?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 15:45:00 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788726+00:00"
+    "published_at": "Wed, 05 Aug 2026 00:00:21 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691059+00:00"
   },
   {
-    "id": "089a93d0a071",
-    "title": "How The Latest Ban On Dabur Honey, Ghee, Oils With '100%' Claims Affects You",
-    "source": "NDTV Food",
-    "summary": "How The Latest Ban On Dabur Honey, Ghee, Oils With '100%' Claims Affects You&nbsp;&nbsp;NDTV FoodFSSAI prohibits Dabur from selling food products with '100%' claims&nbsp;&nbsp;The HinduMost labels and ads changed, says Dabur after FSSAI crackdown on ‘100 per cent’ claims&nbsp;&nbsp;BusinessLineFSSAI",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUZpSXJNMm5qeXA0bXNZMFFFM3ZBU0xaTzRJWFZSMFQzdUtYaElYcVhveF94bW00UFpkWktzdG01R3U4dzBtR01zV3I2dC01T1I2YUVWcE02Zzh3VUd3bnV1YmxQdFQ5bW1fZFRsUzdiNGJGejVvMGpOVTZORzVYcnVzS1NULTZHZTNaOEhZSHhlNk94LXRuTnItcjBHUFJ1VE1pNElPTXd1QVE?oc=5",
+    "id": "a318d82bf83f",
+    "title": "Forget Infosys: These 3 Mid-Cap IT Stocks Are Winning the AI Race—and Growing Faster",
+    "source": "financialexpress.com",
+    "summary": "Forget Infosys: These 3 Mid-Cap IT Stocks Are Winning the AI Race—and Growing Faster&nbsp;&nbsp;financialexpress.comCan Coforge build an AI giant through acquisitions?&nbsp;&nbsp;FinshotsPersistent Systems shareholders approve Nagarro SE acquisition at AGM&nbsp;&nbsp;scanx.tradeScale isn’t sexy anym",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWNJRkJibjB6STRab1Q3VFp1RnVmUHplQmpCODVKYkQyckNqb2o0Q1M1dUIxaTI1aFBKYzAzaHF6QXRDOTFGaHVoYzR0VDN2TXhOaEZLUlN2NmtSbDZsVFduWWlabW52aVluV0ZyZ2g2ZlB3b3U3R0M0U3M4TU5EU3BOd0ZMMWhNdU1tUENrTlJ0N2toUGRTOEZkZ0Z2bG1VR0c3NWlfNVVteHFDUHliM1FJb19KSUYtZGFwenhsdElmc3BGX3VOcFpMRk0yRl9uZ1JFX1lrQmtBa0daWnVN0gHmAUFVX3lxTFBXVVdlb1dZYkN1V0tPaW1MR0kxano4Vkt4Q0ZBdTQzdHB0bXRJSU1YV3NmOXIwbnpDUTlJV0Vyd3JCaWc4WndEaVNnLVE2d0VMVzdjNjlXMUEySzFpb212SjBVa1NVLWlCRkphNEY0c29NblJnSjRUM2ttblFkZVRSRVQtTjJpRXBSRlY5S2dGeGVqTGhxYlczQzFON0FiVWc4R1dDeE5wdkdIZ0ZHck9YQnFnaW1SbGNvQm1qTVBoa2l0VkxLUW5abk1jUmlORllZOUQ3b3pUaVRIVTB4NkZlbkpEcnpn?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 08:21:28 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788763+00:00"
+    "published_at": "Tue, 04 Aug 2026 23:41:00 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691098+00:00"
   },
   {
-    "id": "916577605e6c",
-    "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-    "source": "Al Jazeera",
-    "summary": "US stocks near record high, oil falls as Trump claims Iran talks under way&nbsp;&nbsp;Al JazeeraDow surges 900 points, S&P 500 closes above 7,700 for first time in booming Wall Street rally&nbsp;&nbsp;CNBCMarkets News, Aug. 4, 2026: S&P 500, Dow Close at Records as Palantir, Caterpillar Shares Jump;",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lRMnNtREFPd01Dc2NnWXZXclZnUjZsQ3pWNTd5bW12dmFSdDFyNWRxcFBzczF5TGFNZ3pwbzIwU1paUzNZMV9BNTd1c2d4UzBleW1aX1YyMnpIeVVZZ0N6SVB4Q1Q4aThZLW43LVR6OVhuQTNST2VyZGlYaXQ4cm1SaWpLMElIajRaWF9nalQybHI1MVV4Z3dvV3pNYURpMEk3cGVrZDlITEdJbFdnckVEeWo0UdIBuwFBVV95cUxNbjVjcldMX0ljOVNVdEVHajk2alBIaURLeF9Za1Zia1h3aTR6YUNMUDQwdmh5TUZqbmIzZjdGbDcxSHcyeVZjMGRxYWpZYU9hNS1tSHBzQ1RsWWpNMUNjN3BUUjdkVnM3NlgxbnRDR180SnRzbkwyeDdfX3pQRTBHTGU2M3VRVTZnTDVVWTk5dlhPLXBGZXF4MHlUUnpWMTg1emtyb2lrOGdUMnNxVmhsNm5wM2ZKY0txXzFF?oc=5",
+    "id": "dd9191d923ec",
+    "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+    "source": "Decrypt",
+    "summary": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT&nbsp;&nbsp;DecryptAlibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost&nbsp;&nbsp;ReutersAlibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sWUpmQ3BSVzN2TldzUl9ibGFMSVJ2aDlFNXVaN1BoZDZSV2ZLaDJ5T1RiQ3VvRHBBQ2N2bjZxbkFaU2l3S1RLUTBBSXd0UHl1WGhnQUVTbFVTUmVBLXJ3Qnp5REZIYTl4clBHZnpieW5ZOW9qa3hRT28tUW_SAYQBQVVfeXFMT3RzdUhuSUNzY25RY2gxUExoMHM1b3NnN0RraGhaLW5FRjJuZ2p3LWgxcTkwTmZDSXVaV1o4aXpUblIycnZEMUoyWm9aUXNFTzBoTENZODFua3F2RXBNWFJxWFNzWXN3SXBlcGo5ZF9zUFRxQTEwWUozNV9iU3F0bEV4Wmcz?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 08:58:03 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788799+00:00"
+    "published_at": "Tue, 04 Aug 2026 17:16:49 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691135+00:00"
+  },
+  {
+    "id": "8e38cff2b5c8",
+    "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
+    "source": "Crude Oil Prices Today | OilPrice.com",
+    "summary": "Oil Markets Price In an Iran Deal That Does Not Exist Yet&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.comTrump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall&nbsp;&nbsp;BBCOil prices tumble as Trump cancels attack on Iran to reach nuclear deal&nbsp;&nbsp;The Hin",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTS1kTHN0SXpnUkIzdVd5dUlaZzA3c1JZeFZTYU9kU2RhUzdITlRMX3kzRmFqUnZPQlk4NFExUGM1S18yT0FSNUFaNEZTRlhBYnRHUjF0NGdGaWZFUWltN0ZRNFdzVVJuWmlIWXVyRU5KNGlVRFE3V1NvM3llRGFUSTk3eWYzaUI3QkhOZjFJSVduQlNSTFV5eVJ2N1dkaTdkQnNBbUdCMWVGM2NwZFBoRHBOVdIBuAFBVV95cUxOVmFXa2NGRFlNOU9PNTlxUllweWxsVVBCZVl0Q3h4ZnZuaS1DR3luY0I4YXM1MXVhcVJPZjNGdjFUV01MWlE5M25ZQU80Z2NLM0Jnd19pbWNxdGtrN3hGMkhkakx2SFJGZXJfS1pTUnl1V3MwRWNPOGYwaWlaRDZLSm9ZY3M4Qm5Rdm40NVp2c3lzTVUzS2JucFUxQk40U3RSdndWZERXc0xpeTVLS002bkR0LWRXd182?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 18:19:00 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691168+00:00"
   },
   {
     "id": "68e3831ae61d",
-    "title": "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens Wednesday",
-    "source": "upstox.com",
-    "summary": "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens Wednesday&nbsp;&nbsp;upstox.comGovt to sell up to 6.5% in LIC at ₹382/share; to add ₹31k crore to disinvestment kitty&nbsp;&nbsp;ETGovernment.comLIC dips 8% as government sells stake at 10% discount&nbsp;&nbsp",
+    "title": "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens",
+    "source": "Upstox",
+    "summary": "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens&nbsp;&nbsp;UpstoxGovt to sell up to 6.5% in LIC at ₹382/share; to add ₹31k crore to disinvestment kitty&nbsp;&nbsp;ETGovernment.comLIC dips 8% as government sells stake at 10% discount&nbsp;&nbsp;The HinduLIC ",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSndnV3RIR2llYVMtX1doQ1NoT2dhd1dQamVHaWRzN2pZQV83Z2NFV1dZb2E0VEVNWm93cE9lT3JrYzFBZkJJNVc5c2EzbnFzX0hJc3Fxd21pMkoyTktQX2lwRmlabFhRaThnNGJDaVBYajY4MHl2d01TTThCNzZnODN2eVRRZjBOYnVVN09rWl9BaW5hLVBGSkVyOUxRdXJyTDdaMm03aUo0amoxRjdkeTlXSDlYQnUxZzVoVU9NemNhN1E3Q29QRWR4UU51eFE0dmJJRF9tMkM1dWxGTkNlTGRUUEtyaV9fbHVkY2ln?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 15:29:46 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788837+00:00"
+    "published_at": "Wed, 05 Aug 2026 04:42:32 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691207+00:00"
   },
   {
-    "id": "813a51be7175",
-    "title": "Apple’s India Sales Top $10 Billion on Widening Retail Push",
-    "source": "Bloomberg.com",
-    "summary": "Apple’s India Sales Top $10 Billion on Widening Retail Push&nbsp;&nbsp;Bloomberg.comApple's India story is no longer just about iPhones, the next phase has started&nbsp;&nbsp;The Times of IndiaApple set for first India iPhone shipment decline after years of record growth&nbsp;&nbsp;Moneycontrol.comA",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUlDMjhLSmpJUkh5TUtkWW5pLUF5ZnNLVERsZkhKNXE4YWVaWGZieWQxUGxELWV3S2ctVmhHRENoaUtYdkZrNE1wZDBZUngweC1CX2RMOVhSd0dBYjVKTVBzcXU3bWRTbjdnbzB1cDdZay1DWHhqb19veU00dFlpV21NX1pYdGVBRFIxTHlVbFZDMHFkUWp0RDZoRmx5LTM5U3VwbGFYTGgwYWQtOFE?oc=5",
+    "id": "96badd7899ce",
+    "title": "Stock market closing timings changed: What it means for index funds, ETFs and arbitrage fund investors",
+    "source": "livemint.com",
+    "summary": "Stock market closing timings changed: What it means for index funds, ETFs and arbitrage fund investors&nbsp;&nbsp;livemint.comWhen Nifty Jumped 200 Points In ONE MINUTE&nbsp;&nbsp;RediffKey Options Trade Displays Abnormal Pattern With India Auction&nbsp;&nbsp;Bloomberg.comStock markets trade mixed a",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN01hMXJrMmdHNVRaMHZ3QnBiVWQ5SWt0Y240cm00cFN0YTZKTEhMUmpqcEZuNy1yNnZkNlJNUlZFdDZWQXN0Rk9vbkZvc2MyVXd2WWt4VHdPNDdRZ25vaExadFBscW1GeE96d0gwRXpqUWJZRmZLc3BvNW5jbTlPdGZYOXA5UVhXX3Zzd2FDYkU2NktidVZMMFJxUE95Rm5sVDZFYXV5VllPZFFuMS00dERsSWp6TkdyVjQ2aU1BN1RLUnJ6WXlWc3FUQVppeVpFNjlBeUpVdjV0SmEzTGRTQWFpbEhWLXdNOXNvdmpid3M0RENNaTRqVGxCbU1lZzRQR3preVQ5b23SAY4CQVVfeXFMTUxmdnhYOUtnX2QyVDh3VUlTSHNBT25ZSk5FZmpTclpsWVNONV9ibC1VVHF6aU1od0tyaFlTTFRXU2VFY2xNbXBBOEpWZGVMUGktX3V0ZkdwWDV2LVhoUThoeHV5bU0xb1hudGNqTlVFMlJUZUxmX0FSdFNZYW5uaDJIT0cwTWtoRW1GblVYQ1ZnbF9pYzFiREt6ck11YXl0bFFwRTh0S0pWVTBGQjVjQlNWcEltcUxnS2pKbW5xUDFBS2lfTFVlMzd4VU9rVlVkYVdic08tMTE3b3V0X1B0N2RXcTZBbVY5RGJaamx3RWd3d3NLYUxtME9BUlNXNHVGR0llc0tfTkYzRTJ2a1JR?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 07:23:43 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788875+00:00"
+    "published_at": "Tue, 04 Aug 2026 17:38:02 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691241+00:00"
   },
   {
-    "id": "7c396edfc763",
-    "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
-    "source": "oilprice.com",
-    "summary": "ONGC Profit More Than Doubles as Oil Prices Surge&nbsp;&nbsp;oilprice.comONGC’s net profit more than doubles with spike in net crude price realisations&nbsp;&nbsp;The HinduONGC Q1 results: Oil giant's profit doubles to Rs 17,034 crore amid rising crude prices&nbsp;&nbsp;The Times of IndiaONGC Q1 Res",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHBwNlJwa0FsdGRlbTJBakpGOGZyYlU5OEZvb0pYX0J5X1pweUVDT19MMU5wVlNra1lCenZENURnS2w4ZldfTzhmUWlfUHh0WEJGSzFLa1JBQzE3elNmVVFZTjc3ZG4xWTZUMnBKenlud3V5M1JNaU5rRm1teWtXMXNKTWFqUndmNUwzMXBmUVVoMGlBRGV6QXR5R0hvaVpfQl8yQ3ZROGbSAa4BQVVfeXFMTlhjc3B2Z2JvdUFhVk1zdTl0QldFZDFPUWtKby10WGlhei1IdTVkeWt3RngxYnNPdGpHYklqSXBSd0pFVHlRM25oVW9xOEUyQnI1SWVyVWJoU24tc2E1Y0VneWZMMWpabGNPX3hrczlHbnByV3l6Q20tNV9PczIxa1NVOXcwTnJEMGVkajlWM012bVpabjBOYW15V3ZQR0hySnkxUzlsTk9rTDlTeEJR?oc=5",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 16:30:00 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788912+00:00"
-  },
-  {
-    "id": "ff977a7b2711",
-    "title": "Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind...",
+    "id": "b7babefa7d52",
+    "title": "GIFT Nifty jumps 170 pts, signals firm start for Sensex, Nifty as Wall Street hits record; RBI policy in...",
     "source": "Moneycontrol.com",
-    "summary": "Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind...&nbsp;&nbsp;Moneycontrol.comStock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6%&nbsp;&nbsp;The HinduSensex jumps 544 points, Nifty nears 24,800 on lowe",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUlZwZWZSMnBBTEJyb21CWkh0UTJGOFlvRUMtSE5WaUZWc2UyZVVJWEc0SWJrbkE2bDZVRTF3eUZ6TWlOVHc1cWFOT0hrYnNiQXBwQkNNT3BtRzNtUHdJUEpPQXZjUVVuSVNjWG5ocVFXTWlDaExkczlUbG1LWEpHSE5URU1YdkFrRHdQcDhXejBkZldkcFFUWtIB_gFBVV95cUxOSk56SEpoTDJCeE0zcHFIN051LWZ4ckhEVGtsQjM2TEwtQ3BaQl9IeHI0TkRjamRSQ0E3dmd5QmpDeVhCVHp5a054TXlsdkNIM3JUTUtWUk84eElZZW1JUW55MEsySVJDaktuOTZBclhmTzNaOElDS2JVSWNLWEtBU043eFE5WDg4QWFSS056cHM2bVdVNUV6OFRIYmpqcWpWTkpyVDF3b0EwTXNDMzZqWVVpQ29hWHVFZk1zZHVmUk12OTNFY081cDVDLVJLQzMyYVhtOC1zWFB1czBURU1qUWZkVWNKQmJQeUZadk8tU1JpNnF4blBNdTJJdmkwQQ?oc=5",
+    "summary": "GIFT Nifty jumps 170 pts, signals firm start for Sensex, Nifty as Wall Street hits record; RBI policy in...&nbsp;&nbsp;Moneycontrol.comD-Street poised for positive start as GIFT Nifty signals gains&nbsp;&nbsp;The Economic TimesFirst Tick: Top global cues to watch in today's trade&nbsp;&nbsp;Moneycon",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUXdEY1pPZkloVE0zaS1qRXZnZkRMdnIxSG9EeERzOVhhWXN4LVJEcXJIOVprNDNqaXFsUk9hdVNGTkNrRnp1cHZXNnpsMjRuT205UGo5WmRObWNPRnBfTnNLWXRCZ0N3XzYxOENCaGhhZzFUZlpLdXZHajF1ZG1ma2FxSWxLQ2NhaklSTXNaRjRzSWVxNVpsMTZ2aFIwVWtwdk42d2NfVVVERWpvQWRzaUFWTWdhN0tYb2U2Tmsxbnd0QjRRRndOd1A3S1I0QW1OUjY2SDd2VnlMaURkbUlXdk9zVHpSSWZacmNMZVJKVHM1aHQ1LUFNSXozNTZDYnJTQ1HSAYcCQVVfeXFMT2VVbmdlOWoxVHhHeTRYN2tnU01DdXo5TzQ3SVh2U2FFTmdGT2xfYi1zOFVWZGdOODMyV1o3SmVWSy13UGtNNHR6anZJVFcyLV80Y0VXdkdXTTlTaTN6MEVVWGJhS3RFWkRrWWx5UXotNmhiNHpqYXRfYXNfV2JYTC0wcTktaXlaQjNmR3dGWVlmNHItZW5UaDRheUxHLVVOSnRPQTUzcDZDR3dJejBJc1R5b3pRNmtzUTlCSHlPMUptUXZuY1Y5aWcyMWFoQzhTeUw0Z3loUGw5YllETkhlWWl3NnlCazhMV1g3TGFuNjd5Ykk4a0tUYUdfVk5zaWtKa3VtSEdrWkU?oc=5",
     "image": "",
-    "published_at": "Mon, 03 Aug 2026 04:05:30 GMT",
-    "fetched_at": "2026-08-04T23:09:01.788949+00:00"
+    "published_at": "Wed, 05 Aug 2026 02:43:32 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691274+00:00"
+  },
+  {
+    "id": "afffd96f2622",
+    "title": "USD/JPY intervention changes little as yen headwinds remain",
+    "source": "Forex Factory",
+    "summary": "USD/JPY intervention changes little as yen headwinds remain&nbsp;&nbsp;Forex FactoryThe real message in the yen intervention&nbsp;&nbsp;Financial TimesOnly the Bank of Japan Can Arrest the Yen’s Decline&nbsp;&nbsp;WSJEXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTNrSkhxcnpJd1dGaFJUNVRDS1d0ZkhiS3dZN1lqSEdqN1RMR0JXSW42UmRNeWlIazNoeXluU1NSSVNsaFBoQUFHNllETFo5MmNpdTJOTXRFWnlYb2s3T1VkYnJQU0N6a21yb0lCMHZmME8zOE5sZHJYdHlKR2FrdS1HeFNWZjlWWmQtM2lyWU5iTE9IR0k1dDRVVldPZEtSRFHSAacBQVVfeXFMTXR5X1hhUDRVQkcxaGRZVkxOMEtJTV95ZlVyQUNWRnlWNWhiLWRIcHRaMUpRY3FuMnc3VU51QURLWV9CVHBpY2tldENnc0NyYUxjbUxQQlNaTnpNamtyX1NjQmc3eXVfdDc5UEh1QmdVd3NlVzNxbk5ZUmNWdm1XZ0I1V3NJX1ZQQVNmMWVfUUdhSnlvNGhvWDkyLVV1bkI0SXpzV1FWRDQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 23:43:00 GMT",
+    "fetched_at": "2026-08-05T06:34:26.691306+00:00"
   },
   {
     "id": "76cd4bcd2614",
@@ -407,27 +107,57 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnljOVZhQ0sxYzRKWUZ2STNrcnF1RndzTlczTUE1YzYzMXZiWjBCTUJrZGJaNzFia3dWV1J2dTJBZ2duaDVOUGV6bjJjbFgxMkNZcGVvZkNieHNwR1VMcHpVRk1fSzZOS3VjWm90Rnd0eHZDQ2NZX3VqNm1MUHhrWUxtcXdLX19rV3lNeWxOc3dPQkE3cDVac0Rfc2trTGlrc2cxQ0dwT2tPZ9IBvAFBVV95cUxNMkRIemFaQ2huanFWV1NXS3J2MGVhb3VCX21qTEM2ejE5dUk1ZFYtb3FSVWVXdE1XcDJVNDdhTEMxa1hVY0hwS1puOU5FZzFVQW5YajZNNjZVTzBTSUNLNDliWEo3VHZHVkpneEthTk9JeWRsdEphNDR3alQydDRfajlfNV9nalNUNU9fc3NNUzNmYkpMbVgzaW1sOFpiMXMtU2t4dUk4WmFHM3hldW9hVVZ1ZEprUGdvci04Tg?oc=5",
     "image": "",
     "published_at": "Sun, 02 Aug 2026 09:29:26 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352833+00:00"
+    "fetched_at": "2026-08-05T06:34:27.166336+00:00"
   },
   {
     "id": "5961906842a3",
     "title": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector",
-    "source": "newsonair.gov.in",
-    "summary": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector&nbsp;&nbsp;newsonair.gov.in",
+    "source": "News On AIR",
+    "summary": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector&nbsp;&nbsp;News On AIR",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNJZ3NrclhEc3BSdkphOERlRHItUjVueE90cC1sR1l3YlFVUXFpaFlKb1pmR2ZzdkZHbEZFX3Vma0NpU2EtdlVMU1gyeFJYYjVkb2JvWVFoUnlSSllhZTg2Wmk4Um44OFV5ckwtbVJFRTI4Z3FLOXp2dlVaTDBxVFRaTzBmMUZza09lVUlZSzg5d2EwOUtLQkg2VFFHdHpINE9NSVByWnAzSGU3UHFaNnJKSQ?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 10:21:27 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352865+00:00"
+    "published_at": "Wed, 05 Aug 2026 01:16:50 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166365+00:00"
   },
   {
-    "id": "67a5020b963f",
-    "title": "India central bank to stay on hold even as peers pivot to rate hikes",
+    "id": "b361c660527d",
+    "title": "India's central bank holds rates, awaits clearer inflation signal before acting",
     "source": "Reuters",
-    "summary": "India central bank to stay on hold even as peers pivot to rate hikes&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1ZnaU9wamdlVW9ldFhnaFBfSUhSN3VsempmMkc0SDQ3M2pGOElvdGFrU3BXNDgtb1dtN21mNXhaWnZMZERRSHNadWhfMENwb0NLc2kxRzNyWTduWENzYUlJamZaaFNVQU1IeGVaR0lHU185bTJodVVQdW9CUTlwYXRqY004c25JeWdWamd1UENkYTF0M01KaFNaZUlNNGQ5VlIta2g2QQ?oc=5",
+    "summary": "India's central bank holds rates, awaits clearer inflation signal before acting&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVh6a1FVeVF5VXFBMU5FU0ctdXFZWUZudWdoR1RSd2tGaTJENGNFcWkzQlFweDduUUpBTHVNWVJRdmlXZFlvUG1OYV9MaUtndEN3akxJWWZ4Ny1Jazl0M2p4VGdWNkNHNXZTcTdSTXQycVcxVGdNZmhHMUEyeUx1SE9LTjdUekg3MW9LcENxaEJoYS1vSXFDbDA0cmprREl2OTgzQkxMd0NYel9xdlpOS3I2WjhBQVBxVGJoOVZhVFBLc0My?oc=5",
     "image": "",
-    "published_at": "Mon, 03 Aug 2026 05:51:38 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352881+00:00"
+    "published_at": "Wed, 05 Aug 2026 04:33:00 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166398+00:00"
+  },
+  {
+    "id": "e83a669d27a8",
+    "title": "India's central bank keeps benchmark rates steady amid creeping inflation",
+    "source": "CNBC",
+    "summary": "India's central bank keeps benchmark rates steady amid creeping inflation&nbsp;&nbsp;CNBC",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUldpRFVTT2V1ZGItODNPU3VkSjBOZUNJd05tZ3NZcHlNYmhoX1JUVmZoSko1OGZCNGFOdTY0ZUY0ZFFyZ1p0M2puYVpMVXlSeU1mUFJfSC1MTmtBVHVKNUlmX0ZsMFJQaUNST0tsOWRRdXhXZVoxNGg3RVppTlhGelhxOEkzQdIBiwFBVV95cUxQZm9RNFotTFNiNTREOUNGZFhjZE1TbFZPOVY1em1fNFY0bzRJelJONHhBaVZVY0VYckNDS0xlY0hnRzV5X2hRSHRWUE1mOVZNcVBzNnZiQlBPVWljQ2ZWSjRpWkd4aEh1YjNQZzNaU1RuTmE5Q29iNTYzNWlacUt1Q1RLWFVyZGhBRzg0?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 04:35:02 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166413+00:00"
+  },
+  {
+    "id": "596328e26d16",
+    "title": "Indian Rupee Trades At 95.07 Per USD Against 94.97 Before RBI Policy Decision",
+    "source": "Sahi",
+    "summary": "Indian Rupee Trades At 95.07 Per USD Against 94.97 Before RBI Policy Decision&nbsp;&nbsp;Sahi",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjh1S05rZ3A3eWpKeHZra2I0bEVqdkF2eDBEVTU0MjRVTU5jNG45c1RYYmx4djhhdG1OU1RQQ2FpRFhuZURpM3BKemtWRnpMX2tYcWt2aVYzRTRYZnFISEN3bVpuN2xWQTk2TG9JSWF3eEpweTRDN3d5NGNScWNwRHA5a2ZWajZvMHk5VlFMOXJWTGhXcHdYS0s0eDU3N18zTEFJbkRuQkRoc1IwV2dOM192QWJyOUk?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 05:05:45 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166426+00:00"
+  },
+  {
+    "id": "81b013ae91f5",
+    "title": "RBI MPC keeps rate unchanged: From auto, banks to real estate stocks, here’s how rate-sensitive stocks are faring",
+    "source": "Upstox",
+    "summary": "RBI MPC keeps rate unchanged: From auto, banks to real estate stocks, here’s how rate-sensitive stocks are faring&nbsp;&nbsp;Upstox",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRVpLS3hDNTk1QkhnbWNKYVhadEVKOG5RTEVlOGx6WDhsQk0wbjlZN1R1MWFHOG9uN2ZmTHlBTzNGZVJsYkhOaXloQmlqLTVCZ3UzbE5ucjNwOWExYkFndTZjUlQzRTc4MkFyUEJRQld2OFl4bmk2aXItZ3ZiLXpxUnFzRXdoc0R5WktwM1hLSzZyYTd2M0RnRWRmVWRGSXdPQXpFckIzamdBVkUxV09HemRPQzVwWFBGTmQ2NTRiU01qbnhxQ2g2d094S0lVaVFxeU56UXZ6a1Z3ZW1ndFBIU2JDSUNKT09yYkRtYnUtRWl2R01tZ3RYeTRSekY0Zw?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 05:20:16 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166450+00:00"
   },
   {
     "id": "81a753d8d5d4",
@@ -437,17 +167,17 @@
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdGpTZVJWbXpmeUdpdEZJS3JQVy1kQVVac0pNeWhLWUlVQm5oRDhJSEJFdFJUdkRRUHJ0Z3BTWGVoV1hxc0JONjcyRElpNHNBX0VsYWlkYzNEYkxHWkktaWowQ1NyOVd4SVlxZkRFTTNKTFVmSXBOcGc0alR1RW5vcFo1WDlBNWlIN1FNelo2VlZyWDZVUzBIVnFqSlFkLW5TTFAxbXhEdlhSR1VhWWtFVjQxRVVwX2VWVGs1WWs5ZVVxdS1YZzVYLXBGZTJXb3ZXRjFwTXQ3Mm0wMThlbHQ5M2VWU0ZFRVl0aHB2LTF0RjZuRk1hVEpxWGhUeHlSVVpt0gGGAkFVX3lxTE82N1BQUEQ0UnZwbnBrT0FES25QQnpuNk1Fc08ySjBfRU9MWnZuM2NSYUlCNTRXUE5HRzNkdFZRV1NNWi1FVmV4ZWxjd1kyUmZJblYzMlk0UmRiUVF6UlNFM1pNbVBoaE5Xb1NxWmVZZXdwS2VUS196d05MckZFZngxcDI1LW1IODUyUnNjbEc4bElJSng2bjIyY2JuS2FqRjZCd2QxOEYxRVZkTEJTMXFxX21qU3ZxWk1jOVVuMEFhREhaaHA2enhaOFN5LUJCYk04OENYOUh2TWhnQ1RrNkd3WTNrSVJZcTRfSzNvRFppdnI0TC0wa0NoUF9nT1pORGJwWUhpcWc?oc=5",
     "image": "",
     "published_at": "Tue, 04 Aug 2026 09:54:17 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352897+00:00"
+    "fetched_at": "2026-08-05T06:34:27.166468+00:00"
   },
   {
-    "id": "2fbb5d376774",
-    "title": "RBI Seen Holding Rate as India Inflation Risks Stay in Focus",
-    "source": "Bloomberg.com",
-    "summary": "RBI Seen Holding Rate as India Inflation Risks Stay in Focus&nbsp;&nbsp;Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2RXWTJOTThpNVZxZ1F1Y19IV2ZUbV84OVJsWm92UVREY3NmaWxKMENCbEVkRzNpazVTcjhCTVVmaloyZWw2NDc0bmNxNUZ5RU5CSEVHNTJhRE15eFEwdk9ncjlad2ttOExDOGlfSWZVd1huZXhvOHZvQUpmUzdyMUZnZFJydTBWakpfTE5kNDNGMlFOY1pCQXd3NmltUmlvbXJHVUhjYWV1dFVtZHlQakxn?oc=5",
+    "id": "b037ee460bc0",
+    "title": "RBI extends restrictions on Pusad UCB till November 7",
+    "source": "Indian Cooperative",
+    "summary": "RBI extends restrictions on Pusad UCB till November 7&nbsp;&nbsp;Indian Cooperative",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTBTdVI3NXJSTU5rS0xHVnlYb2R3Vkh6UFU1d1pJNjhnSDBoSlhsSUw2QjdoWExCa1VwMU9ZUkZFV2x5QTE0VExtWXh4WWVhTTB3TTdYR2lpcl82NmVzN0cxYVFVaDU2QXFvem9Ya0pDRWxyZEE1TnIwRFRqT1J2eXVCVS1SekNtckF0UjdBQW1HV2puWWQzM1NJcTVtVnd5Z0VGU3l4YWhKUEZY?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 05:29:00 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352910+00:00"
+    "published_at": "Wed, 05 Aug 2026 05:29:18 GMT",
+    "fetched_at": "2026-08-05T06:34:27.166481+00:00"
   },
   {
     "id": "8c7720c8aa71",
@@ -457,27 +187,7 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFM2Wm9MbzNRcmdFSTRUWTJXTFBNbTF4azZuRTdFNjJaWnhyazE0X0FHWk5kNkVkVWwyQWZHZ0VGVGU5RFphSDA1TFh1M2lQTDJlUndnZGxBdzRVWTRzQVFJcVIzV3BrMGphcTRsVnd2TVlBMGhuRzRpbjY5Rl9nMGNaQVJydFJhaktfYkMwU25rUG5qNGt2ZlJ5MWNveC1mOGVyZzNyNHJyQkcwbWR3T3JWbDJIbFlCc2U5cjhreUhlbXp3QkkwTWduR0o0bWdaajNLUldQUFUzaWfSAeABQVVfeXFMUFlzX1pGYjRzQ0dGQ1BYYlpuVWczLTBPc1BuTW52NGQ2LU1zY3A2YXU5bkpwQUJQdGYwUEZVelpVbmlCSll4aWNKakpJTC1lSm1xbmttalA3VXhUYng4YTVHYVRrVzBQZFBPd3NuTnczbG9VZ3JzTl9aajhzcDA4ejFIUnNhRE1iNndwRHVyaG16eThNVEpnWDlOcjAtNFVrT3doSGg0eG8wN2NFVTVfOWNCRFBHVEpxTkctUkhualhIRVJ6dUxmRk4xb3Y4b0VHbUllZUpLRm0zSXdZemZRNzQ?oc=5",
     "image": "",
     "published_at": "Tue, 04 Aug 2026 18:17:04 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352925+00:00"
-  },
-  {
-    "id": "4b89e67ef854",
-    "title": "RBI announces its ‘Payments Vision 2028’, outlining roadmap to strengthen & expand India’s rapidly growing digital payments ecosystem | Akashvani News",
-    "source": "newsonair.gov.in",
-    "summary": "RBI announces its ‘Payments Vision 2028’, outlining roadmap to strengthen & expand India’s rapidly growing digital payments ecosystem | Akashvani News&nbsp;&nbsp;newsonair.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjlGQzlpVTVlcnp4cGJDdm9HV3pjTnBNRERaY0NPekNCTGRXazZmU1FWQ2tUOExyX2ZxRzA4VTR1VzM0N2tHUXExNFpMU2ZVUnFYdHBrMnZ5ZzRGRkRtU2xjck0tXzZ2cmtiY0Q1VWppWGh1Wnc5S19GUE5QMU1ra0xEU3J3ODZxaERvdjFVYmt4N0lieUxXcU1SbXVHaXQ3YWVsbmlYMHB4WDhobktJa29pc0RsSEU5M25Sb19sLUN2N1NCTDE2VHd3R1VsZ1JPMUszMGdMby1Ca1hFdWxpcjE1UXR4bWdH?oc=5",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 13:59:48 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352954+00:00"
-  },
-  {
-    "id": "34e49ca09f96",
-    "title": "Breaking: Supreme Court Directs RBI, States & Banks to Implement Urgent SOPs And Money Restoration...",
-    "source": "Verdictum",
-    "summary": "Breaking: Supreme Court Directs RBI, States & Banks to Implement Urgent SOPs And Money Restoration...&nbsp;&nbsp;Verdictum",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzk4SDlLdWcxM0RiQzFOS2ROUHVPWExkY3M5cHA3SjQ0TVY0N3V2Y3h5UUpNVDNydXJPNEtPektHanNDeVEzaFVpV1diVG5HWXdhTmxJTHhURHVYMVZ2dkdud0dEX2c1RDR2RW1ieGthZVA0MFpCbHlBcGl4MEJ1ZGxla3h2b09xXzdIM1hGZ2FTSVU10gGaAUFVX3lxTFBaaEdBS0pneEVPX01hRkJqQ3A2VXNQSFlNQmUtVHJ0c3F1dW5wc1B5ZjZEb1R3NHpvOGdiX05mTHdFMkdBTi1jQ3pYa1dCUkY5SkpwaWxsOEJfTWgwU1YxY2hSeDNYSVVnS19tcTFWVlVHUk5UUU1pYkNDTWxKVTFpVDZJYnc3REt6VDNHTHlDa0tMekdwZndlX1E?oc=5",
-    "image": "",
-    "published_at": "Tue, 04 Aug 2026 10:59:47 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352972+00:00"
+    "fetched_at": "2026-08-05T06:34:27.166496+00:00"
   },
   {
     "id": "4b3c9923af8b",
@@ -487,16 +197,306 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkoweDhLT2g2Yjl5dmIxUmJmZFZVck5IWkEtaWRBQlBEbmdDdG9IMFo0cFEtTHpyNGpPMnhpOTZrV1hXZG9FbjQtQUtrckpGV01zZ3c5V1hTYzkwVUQtVFVmZGl0dmpCX0pxR1NoNlhFT0FoWDBNWFNVMXZ5d1lXYWVqWG5la2pOSC01eE5tZ1NmUEUzaWZROXR2REdQWVZ5YmRIZW9CZEpxM3N0YUlHTDV4V2x5VEpUVWh0cjY2TmVzdzQ4TXFRd1pUSQ?oc=5",
     "image": "",
     "published_at": "Tue, 04 Aug 2026 11:48:08 GMT",
-    "fetched_at": "2026-08-04T23:09:02.352987+00:00"
+    "fetched_at": "2026-08-05T06:34:27.166511+00:00"
   },
   {
-    "id": "99cf20483ae5",
-    "title": "All eyes on RBI as MPC meets amid rising inflation and global uncertainty",
-    "source": "Forbes India",
-    "summary": "All eyes on RBI as MPC meets amid rising inflation and global uncertainty&nbsp;&nbsp;Forbes India",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0poSkM4SlIwem9VQWpiN0w1OXAtX0VTeEJza240dDJ2TXMyNWdkUFZkeVhtaWFuemVJbU5XVUo5RTdKV3BYeXJ0RzlXOUVFNHpuMFU0RE5COFJ1czJvbURWckU4TlhKeWdGWXN5cXQ1cVY1eGxyN3pwbE1lLWdVMTRzRFB6dEQ3ZThmNXY5Y2ZYdUNDVzZIYjJ2X19DSFNDNkZxUWFVT1ZVb0FDU01GemJxTm9VN2VnUWhHdEZJZ2IwUdIBxwFBVV95cUxQMkZoN1FuUk5obEVib0FEMUhFclZDbGZxbGNWQWRENTV5Yk5tODVBQS02a3lyYUIyWkl4ZVJoRUhlTTA0N081b21TZ0NHWDBrcGlid04zYmQxcndvVE82bnNBNW1MR0lfUXlJZkFyWU5RNWlieEdURVlXT2NnNmc5MUZrMUo2VEFDaDNYLUVyTm15WWNmOVhycVgzRFZIblB0TFBjVjAxLVFRX244dV9hUTlPaVJZbVA1OWY4NkhXeGw2dXhGbHBN?oc=5",
+    "id": "8dde2571fcfa",
+    "title": "India's Nifty and Sensex diverge following launch of new auction mechanism",
+    "source": "Reuters",
+    "summary": "India's Nifty and Sensex diverge following launch of new auction mechanism&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazBsLXlLazNKQ0tJV3JleVhBcV9JZktMbkR1WVB1allUaGcyZjUzdk5HeGRpNmx2REJ0ZEV0c0JOMGo5UkVoTEpEWGNpN1BNd0s0a2lMdGd5RkFuWFFNM0RDcEdEdGRpUGZVclU1QmtTRkR6YWNjclJkdmU0anNrejQ4RkpLeWFPVEtmSVJVcS0xcVZNNHc1UjZWMDQ0ZU5LRnRkSTNVdV83QQ?oc=5",
     "image": "",
-    "published_at": "Tue, 04 Aug 2026 02:10:09 GMT",
-    "fetched_at": "2026-08-04T23:09:02.353002+00:00"
+    "published_at": "Mon, 03 Aug 2026 11:29:09 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139079+00:00"
+  },
+  {
+    "id": "50d2d8a5a54c",
+    "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",
+    "source": "The Economic Times",
+    "summary": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 19:04:01 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139109+00:00"
+  },
+  {
+    "id": "e5d73f22930d",
+    "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction",
+    "source": "Sarkaritel.com",
+    "summary": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction&nbsp;&nbsp;Sarkaritel.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 13:32:40 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139124+00:00"
+  },
+  {
+    "id": "7ca2b2b3b336",
+    "title": "Key Factors Behind Today’s Market Decline",
+    "source": "Equitypandit",
+    "summary": "Key Factors Behind Today’s Market Decline&nbsp;&nbsp;Equitypandit",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GamlZT2hXdTJzX2tPaUZ2NUg4R3hXNnc3dk1qQWZlNmRTMTJRNHJOQzAtN0xyU1RvYUN6TXFJelo5NVJLQjRfdEpneHQ4TUo2cHpzSDZrTHRneWJIdXpJd29OaDJQem5ZZ0tHVlhNOFZ1MGpVcWt0VmxLVXY?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 07:05:00 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139143+00:00"
+  },
+  {
+    "id": "db0a6c4f407f",
+    "title": "Closing Auction Session debuts successfully; BSE, NSE report strong participation",
+    "source": "livemint.com",
+    "summary": "Closing Auction Session debuts successfully; BSE, NSE report strong participation&nbsp;&nbsp;livemint.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR1V6Q25HRGpzcS1KMWY2RWw0ckRVdjNycm9qMnM4Z3NPX1p5SXlDZW9HZ1FPejNUWjNPeXRCOGdwYTdEaHpMcGJJX3dPNDF0UGtxc2Q4SDNPMWZ2S3NCV2tmdWtjYkRwNWZMaXdIYmx5X1g3Y1dHTU55d1pRbnIzMk1zSW1BV0lrN2U3anJ1ZjJNWlpYOUdiMVJ2TTkwdkNHOTBodzlNeXE1bk93b3M4c0VEZVpUTjAtUU13dy12MmlGU2JzRDk3ZElwMTlMcGxFYXo5bXExX0RmOHMyUWVKNDhySdIB6AFBVV95cUxPMTFMUGh0TjBHSUF6UnJrMDBlcTNobzMwcVl0bEdQc2RBSDd6eTI4ZWtFOHJQYXc3NmFwT09qRTFKZGdWWkUtV0J4VFRGbE1iQXJSbWJDeVNaUDF5QjFHakFGS0hBZmdiajNaOXlJWFZEdHJRZ0VLZzRORGp1UU9OVkVpOEE1bEJRaFpnUEtjUklrM1RnSGRLVVdIN093U1lkT1NsWGpka2dDZ0ZRVzJnV0hoZEtXd3VsWGxrSHRLaW9TSzlGQTUwMDEtM2kyaTM2MkU2alBaWk1CODY2a0NTU1RCOXBFcVVS?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 13:39:03 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139158+00:00"
+  },
+  {
+    "id": "e42bd088e618",
+    "title": "Why Sensex jumped 504-pts, while Nifty plunged 184-pts Tuesday morning?",
+    "source": "Business Standard",
+    "summary": "Why Sensex jumped 504-pts, while Nifty plunged 184-pts Tuesday morning?&nbsp;&nbsp;Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdHU4Ty0yNHZPWVJlSWl2NVBianN1bmVhRDdpUXFfU3VqTjhJU0NRZEl2SUZjZ1RBS0RSaEZqWERySUpvcXB2ZHhDUmVTeGJlTXBTT0NrNWRyRkFVNlM0Q3c0dEZyeUkyb0twaEsxNGpJbjlkUkdibkNIbXRZSDhTVGo5THpCOHJBOEpkcUxjNlFiVWhOaS1McmFqV2cyek84cW9OVFh4bzlYdzh4VXc2YWJpTHdTXzBvd0xqMDhteFNNX1pPRk1kRWt5OTJhMHJLRUHSAdcBQVVfeXFMT0pWblRVdTFjM0wtdklmb3RGZzFGZDdSOTN1TlFaenBTTWRiVUZwdi03QU1yMHJUVXpzemlMeE01ZXNJM1JmU21MYXY3Y0FOYzR4OUNEaDlzVHZhOEZvYjZsSDU1YWo3b0I4RldYNjlJWVM1TWVLRmUyNzRSYUo2NGpJMzBESUk5bGlFZ01adF9aNGxJSjJmQV90QkgyNlBTQ2VTWHNob1g1akVtNUZyOEYtODBlSV9RcWFzRTNONTlQTVl6RVozYm9KY0taZEpQeEpUbjYwZlU?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 04:58:44 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139173+00:00"
+  },
+  {
+    "id": "3ecbbb1fc727",
+    "title": "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market. What SEBI's new closing rule changed | Hindustan Times",
+    "source": "Hindustan Times",
+    "summary": "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market. What SEBI's new closing rule changed | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQREFIdW1jWDRicnp0SDBocDZ1RkQtRWU5RkpHUHBrSzZndERlZWlMZ3IzTlNOM0N5WDZEYVlMTll2a1RQYzFjeElqaE5vaC15a2VRdExTN1VSOERkWmdnRXJoM1dtcUtuOVFoUzNvLWRXN1h3OFFJZTZYakFUWnJlVDU1ajhoS2x4dzJMajhwbUM4RncycFdHUi12SzNJUjZkRllBd210SkhFSGZTVjJjUXlLYkJrR285azRPODdGSkptbEFlOUM4N0ZWU2ZOaDZERm1WRTlnc3BuTVB3REpNcmQtZzlrdmVQRnhaaExUWFhKVFhkbk13anZVVUtkeVFkNzExSWpOX214YU41NFdJRWM0OWHSAZoCQVVfeXFMTkRRaXo2dktmaTJpb0lkXzJYbzRqWXMxMUtDS2NGcEFoUGExcmc2aVlhSHJaX25HaDZzallHM2ZTamo2dHlpTTBsREg0VW9ER2JvcjR6U2x1N0NJdTc4V1BzdjgyN0FrRXVqX3E5MV9mQzZMNW10SlhLd3o3akVjMTREQjJNTW9vZVZXd1Z4Q0psc19zbHRYc2JsclRwckhPeEx1TDQyb3g1NDlQcjhXaW9qMnZYelpMNFE1MHdqTXRaMXRmSU55TkVhZU9XZURSYUV3OG8zS1d6cmtJUWJvSll4OVBfckMyZXhNbERtT1cyTlBkQzBvNkxLclBKdlpoRVVBQ3pmSVZ3MloyN0hURlhDeE5JLWlXNkFn?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 07:14:04 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139196+00:00"
+  },
+  {
+    "id": "5ebc7b8373d6",
+    "title": "Green Energy Stocks Show Mixed Performance As Broader Indian Markets End Lower (04 August 2026)",
+    "source": "SolarQuarter",
+    "summary": "Green Energy Stocks Show Mixed Performance As Broader Indian Markets End Lower (04 August 2026)&nbsp;&nbsp;SolarQuarter",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGc3VHk3U2I5amcwX0dHN21TblBpNmF2V1huRExOTnM0RE9zbjVJV3MxVGM0eVVMcm8xclZ1Z2pZOEotNDRhcUREdE9aY0pqbF8yXzFNUTRta2w3UU9SYmxpaW5lQkRIdS04SDBXZlZiX05PMlhPZVdNZUNkYXdZTFowdC1wZHZkRVFDSGQyNWxhTC1HcFBKMzJzLXd5SERVamRlbnFFVjZ6c1hRbHZnY1pEUkhzM0I2ckdXTW9fR2duc3NpblJnNWpn?oc=5",
+    "image": "",
+    "published_at": "Tue, 04 Aug 2026 11:29:01 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139212+00:00"
+  },
+  {
+    "id": "8aac8898dc8b",
+    "title": "NSE and BSE to Remain Open 1st February 2026 for Union Budget Session",
+    "source": "icicidirect.com",
+    "summary": "NSE and BSE to Remain Open 1st February 2026 for Union Budget Session&nbsp;&nbsp;icicidirect.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1BjM1B2bkFockhSS2pQSzhEenBsMm5YNTMtaTh6dERNby1BM1NScy1tX1NESzBuU3FPNXhoSnpGdTJ3QVVtVkVIV1JmWkRaQVNqeXRJQnowT0dPYV85RUlFQmJSZWEwNU9ZYmtZT0J3M09XeHZfQThUTUszd1Jvb0pIbE5OMS1aZjZUS0x0ZGdPOURsbE1Tcw?oc=5",
+    "image": "",
+    "published_at": "Sun, 18 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139225+00:00"
+  },
+  {
+    "id": "51ac0ea62add",
+    "title": "Stock market holiday: BSE, NSE remain shut for Lok Sabha polling | Akashvani News",
+    "source": "News On AIR",
+    "summary": "Stock market holiday: BSE, NSE remain shut for Lok Sabha polling | Akashvani News&nbsp;&nbsp;News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3N1VUlTQk9taXNfUDV3S3FNVEtKWGFrQnJwODJzSUQwanJEeGdNN3ZRdVdvUU9VVkI3Mjc4MWQxNGNxQl9WamZ3TTdmX2hMMGNfODJnWExxRGM1aklDR2ZqcjN6RUszQ2hGNHdjTlg5OGFKbHJyVDZhLTBxd1V6bUpSY0JlMVdsMHByRnlmOURnZw?oc=5",
+    "image": "",
+    "published_at": "Mon, 22 Jun 2026 11:29:06 GMT",
+    "fetched_at": "2026-08-05T06:34:28.139240+00:00"
+  },
+  {
+    "id": "45c6f40a6ef3",
+    "title": "8th Pay Commission Jaipur meetings on 31 August–1 September: Who can apply, what to know",
+    "source": "LiveMint",
+    "summary": "8th Pay Commission: Stakeholder consultations will be held in Jaipur on 31 August and 1 September. Central government and UT employee associations in Rajasthan can apply by 18 August using their Memo ID to participate.",
+    "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-jaipur-meetings-on-31-august-1-september-who-can-apply-what-to-know-11785906234269.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:53:51 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840070+00:00"
+  },
+  {
+    "id": "be2cfc6c622e",
+    "title": "ITR processed but refund not received yet? Here's the expected timeline and the most common reasons for delay",
+    "source": "LiveMint",
+    "summary": "Income tax refunds occur when paid taxes exceed actual liabilities after deductions and they are processed after ITR e-verification. &amp;nbsp;Here's when to expect it and common reasons for delay.",
+    "url": "https://www.livemint.com/money/personal-finance/itr-processed-but-refund-not-received-yet-heres-the-expected-timeline-and-the-most-common-reasons-for-delay-11785905791846.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:25:28 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840103+00:00"
+  },
+  {
+    "id": "621d0b6cb9b9",
+    "title": "Belated income tax return AY 2026-27: How to file, late filing charges and what you may lose",
+    "source": "LiveMint",
+    "summary": "Taxpayers who missed the July 31 ITR deadline can still file a belated return until December 31, 2026. Here's the filing process, applicable late fees, and the tax benefits you may lose by filing late.",
+    "url": "https://www.livemint.com/money/personal-finance/belated-income-tax-return-ay-2026-27-how-to-file-late-filing-charges-and-what-you-may-lose-11785906017056.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:38:30 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840122+00:00"
+  },
+  {
+    "id": "02c746ac0c16",
+    "title": "‘No recruitment, minimal resources’: EPFO officers body urges govt to hire experts to improve service delivery",
+    "source": "LiveMint",
+    "summary": "The EPF officers body has asked the Labour Ministry to hire more experts for better service delivery, citing delays in claim settlements. With inadequate technical support and staffing, they stress the need for timely intervention.&amp;nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/no-recruitment-minimal-resources-epfo-officers-body-urges-govt-to-hire-experts-to-improve-service-delivery-11785901957273.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:10:27 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840143+00:00"
+  },
+  {
+    "id": "6234edc4cfd5",
+    "title": "Gold, silver prices today, 5 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+    "source": "LiveMint",
+    "summary": "Gold and silver prices today, 5 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+    "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-5-august-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11785665056037.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 09:40:14 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840161+00:00"
+  },
+  {
+    "id": "1765901ff0fb",
+    "title": "EPF wage ceiling may rise to ₹25,000, here's how it could boost your EPS pension and affect PF contributions",
+    "source": "LiveMint",
+    "summary": "The Centre is considering raising the EPF wage ceiling from ₹15,000 to ₹25,000, subject to Cabinet approval. If notified, the move could bring more employees under EPF and increase future EPS pension payouts.",
+    "url": "https://www.livemint.com/money/personal-finance/epf-wage-ceiling-may-rise-to-25-000-heres-how-it-could-boost-your-eps-pension-and-affect-pf-contributions-11785899225819.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 09:13:36 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840184+00:00"
+  },
+  {
+    "id": "eaec227ed804",
+    "title": "Where does LIC invest your premium? Minister tells Lok Sabha how it picks stocks, why it won't name companies",
+    "source": "LiveMint",
+    "summary": "LIC’s equity investment strategy explained as the Finance Ministry reveals how the insurer managed policyholders’ funds in listed companies over five years, including risk checks, regulatory oversight, portfolio review and investment decisions based on business performance and future prospects.",
+    "url": "https://www.livemint.com/money/personal-finance/where-does-lic-invest-your-premium-minister-tells-lok-sabha-how-it-picks-stocks-why-it-wont-name-companies-11785896080155.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 08:32:47 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840206+00:00"
+  },
+  {
+    "id": "68d8c5e01e2b",
+    "title": "Found errors in your filed ITR? Check due date and whether revising attracts penalty",
+    "source": "LiveMint",
+    "summary": "Taxpayers can file a revised return if they have made mistakes in their initial submission before the 31 July deadline. Know the due date and whether revising errors can lead to a penalty.&amp;nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/found-errors-in-your-filed-itr-check-the-due-date-and-whether-revising-it-attracts-a-penalty-11785892460556.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 08:03:12 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840223+00:00"
+  },
+  {
+    "id": "3d6f38b5d3d4",
+    "title": "Income Tax Department's NUDGE drive leads to 1.25 crore updated ITRs, ₹9,494 crore extra tax",
+    "source": "LiveMint",
+    "summary": "The CBDT's technology-driven NUDGE campaign prompted 1.25 crore taxpayers to revise or update their ITRs over FY25 and FY26. The voluntary compliance drive also helped the Income Tax Department collect ₹9,494 crore in additional taxes.",
+    "url": "https://www.livemint.com/money/personal-finance/income-tax-departments-nudge-drive-leads-to-1-25-crore-updated-itrs-9-494-crore-extra-tax-11785896463139.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 07:59:04 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840243+00:00"
+  },
+  {
+    "id": "015ac688333e",
+    "title": "EPFO e‑Office app unavailable today during scheduled upgrade; check details",
+    "source": "LiveMint",
+    "summary": "EPFO's e-Office application will be unavailable from 6 pm to 9.30 pm today due to a scheduled system upgrade. Members may experience temporary service delays while key UMANG services remain available. Here's what EPF subscribers and employers need to know.",
+    "url": "https://www.livemint.com/money/personal-finance/epfo-e-office-app-unavailable-today-during-scheduled-upgrade-check-details-11785891690339.html",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 07:15:34 +0530",
+    "fetched_at": "2026-08-05T06:34:33.840261+00:00"
+  },
+  {
+    "id": "123187961f9d",
+    "title": "Manipal Health shares list at 11% premium to beat GMP estimates. What should allotted investors do?",
+    "source": "Economic Times",
+    "summary": "Manipal Health Enterprises shares debuted at an 11% premium over the IPO price, beating grey market expectations. Brokerages remain constructive on the hospital chain's long-term prospects, though some caution that valuations are rich. Here's what experts recommend for allotted investors and those c",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-list-at-11-premium-to-beat-gmp-estimates-what-should-allotted-investors-do/articleshow/132895118.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:28:48 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888012+00:00"
+  },
+  {
+    "id": "8e3341e6d23d",
+    "title": "SoftBank-backed OfBusiness revives IPO plans, eyes up to $800 million issue",
+    "source": "Economic Times",
+    "summary": "SoftBank-backed OfBusiness is reviving its IPO plans, aiming to raise up to $800 million through a mix of fresh issue and offer for sale amid improving Indian market conditions.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:28:26 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888043+00:00"
+  },
+  {
+    "id": "4b7e120c32c1",
+    "title": "Protean eGov shares fall 6% despite 19% YoY jump in Q1 revenue. Should you buy, sell or hold?",
+    "source": "Economic Times",
+    "summary": "Protean eGov Technologies shares fell over 6% despite reporting a 19% year-on-year rise in Q1 FY27 revenue to Rs 251 crore. Profit slumped 75% due to upfront deployment costs and higher procurement expenses, while management highlighted strong growth in new initiatives and a robust, debt-free balanc",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/protean-egov-shares-fall-6-despite-19-yoy-jump-in-q1-revenue-should-you-buy-sell-or-hold/articleshow/132894674.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:22:52 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888068+00:00"
+  },
+  {
+    "id": "e8ca585c506d",
+    "title": "Nifty stuck in slow lane even as Sensex rallies 450 pts. How long can this divergence last?",
+    "source": "Economic Times",
+    "summary": "Sensex and Nifty continued to diverge on Wednesday, with the Sensex gaining over 450 points while Nifty remained largely flat. The divergence comes amid caution following the introduction of the Closing Auction Session (CAS), which triggered sharp volatility in Nifty during Monday’s final minutes. M",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-450-points-but-nifty-stays-flat-how-long-can-this-divergence-last/articleshow/132894436.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:18:19 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888103+00:00"
+  },
+  {
+    "id": "fa656384ec78",
+    "title": "PNB Housing Finance shares rally 5% after Q1 profit rises 4% YoY, loan assets jump 15%",
+    "source": "Economic Times",
+    "summary": "PNB Housing Finance shares gained after the lender reported steady Q1 earnings, supported by loan book expansion, stable asset quality and healthy capital position despite a modest decline in net interest margins.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-housing-finance-shares-rally-5-after-q1-profit-rises-4-yoy-loan-assets-jump-15/articleshow/132894004.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 11:11:57 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888122+00:00"
+  },
+  {
+    "id": "81806a0a36bb",
+    "title": "Global Market: China optical stocks sink on reports of potential US import ban",
+    "source": "Economic Times",
+    "summary": "Chinese optical stocks tumbled after a Reuters report said the Trump administration was considering a ban on U.S. imports of new Chinese data centre components. Export-focused firms led the decline, while domestic chipmakers gained. Analysts said the proposed move reflects escalating U.S.-China tech",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-optical-stocks-sink-on-reports-of-potential-us-import-ban/articleshow/132893182.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:54:10 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888143+00:00"
+  },
+  {
+    "id": "47dc129851d8",
+    "title": "Global Market: Japan's Nikkei jumps over 3% as AI stocks rally, upbeat earnings lift sentiment",
+    "source": "Economic Times",
+    "summary": "Japan’s Nikkei surged over 3%, led by AI-related stocks tracking Wall Street’s overnight rally. Strong corporate earnings and upgraded forecasts further lifted sentiment, while softer oil prices and lower US Treasury yields also supported markets amid hopes of an Iran-related deal.",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:50:09 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888165+00:00"
+  },
+  {
+    "id": "b484bef41a0f",
+    "title": "Global Market: Oracle's AI spending spree pushes credit rating to brink of junk status",
+    "source": "Economic Times",
+    "summary": "Oracle's debt-funded AI expansion has intensified concerns over its financial health, with rating agencies warning of rising leverage as the company moves closer to junk status despite strong revenue growth.",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-oracles-ai-spending-spree-pushes-credit-rating-to-brink-of-junk-status/articleshow/132892290.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:35:29 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888182+00:00"
+  },
+  {
+    "id": "0565349647fe",
+    "title": "Deepak Nitrite shares jump 4% after Q1FY27 profit jumps 209%, revenue rises 36% YoY",
+    "source": "Economic Times",
+    "summary": "Deepak Nitrite shares climbed over 4% after the company reported a more than threefold jump in June-quarter net profit and strong revenue growth. Investor sentiment was further supported by a Rs 2,500 crore expansion plan, positive technical indicators and increased institutional ownership during th",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/deepak-nitrite-shares-surge-4-after-q1fy27-profit-jumps-209-revenue-rises-36-yoy/articleshow/132891677.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:24:25 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888202+00:00"
+  },
+  {
+    "id": "6e520767ebf8",
+    "title": "Ola Electric Mobility shares rally over 7%. What's boosting investor sentiment?",
+    "source": "Economic Times",
+    "summary": "Ola Electric shares surged after the company signed an MoU with Axis Energy to deploy up to 20 GWh of battery energy storage systems by 2032. The partnership is the first major tie-up for Ola Mahashakti, its upcoming energy storage platform set to launch on August 15.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-mobility-shares-rally-over-7-whats-boosting-investor-sentiment/articleshow/132891392.cms",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 10:19:10 +0530",
+    "fetched_at": "2026-08-05T06:34:33.888222+00:00"
   }
 ]
