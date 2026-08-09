@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUJEc2FMeml6MXpsMXRfZWJKclF0dHJLNDdpdUFiWjhyUU1CTTNqV3NTOGRLdUFCdlhuTGE2ejZCZ1kxWFFPYlpraGZaZ2tzVVViSlBYa1ZwVl8tN2dpNWZmUzU1a3MwaHBHOS1pMVVDR3pRRjhYbUxRZTF0YnR6SnVYSUlaZEFseFU3VXdING9tWlBtb1YxdEdqcktfMXJKYVdHOVNXdndITk5yaUHSAbMBQVVfeXFMTlV4dnFUMFpzX2tBMGs4MzNtUi1GV25teXFsTWctUHp0Zmpzay1TNmR3MExxelhlT1FQbFJFcHp6cnBYeTZtTG9uRWFkaDZIVmlEa3NrN1pIc2hTUDRmY3VaLWRvNjhvOHoxdmZCcTJOdXZ0UnNzblhzVUdua3Q3czh6SFhGZW9ndDZmQkVjdFZkcGQwRjh4WFZ5bE1QVUJHMUp6c0Rmak5jQ19EekJIN25LSkk?oc=5",
     "image": "",
     "published_at": "Sun, 09 Aug 2026 17:57:55 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730652+00:00"
+    "fetched_at": "2026-08-09T23:37:39.869516+00:00"
   },
   {
     "id": "489348bccb1a",
@@ -17,17 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTVxX3FxMTVubGt2eVVfcE1yaE93NXRxSjh5aWtNREdLWFowM2hLVGFFay1OWDV1NDBlSkFHSXVQRjhjNGYzQUd3aGVzVllMekV3TnhhYkNoTlRSUU9EZGJJWG1jcS1tdEg2QVdGa2tDenVMemUxTGRhV3ZSXzhoaVdENXJXV05PS3dUZTNMWFdtQVk?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 12:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730697+00:00"
-  },
-  {
-    "id": "c33629848a04",
-    "title": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak",
-    "source": "CBS News",
-    "summary": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak&nbsp;&nbsp;CBS News",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTVphVGtlMUdBUEp5bEFfLWJfUGlSbVA5R3VpVjlqWm9KTjhoTzFDRVNBUmRNNVp5ZklGNDJRVllTRHU5OW92bnRISlVacFhjdExXazFQSjV2Mm4ydmg0amhFUFpucThVeUJYdk9tSQ?oc=5",
-    "image": "",
-    "published_at": "Sun, 09 Aug 2026 19:41:40 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730716+00:00"
+    "fetched_at": "2026-08-09T23:37:39.869566+00:00"
   },
   {
     "id": "be415f2a0810",
@@ -37,27 +27,277 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NQTlhRTQzakhFSEhJYjZrdUUzdVlfQ2tqMjJLTmUyTll0aFRRamtZUWtZOHpLWENuNFVXN2lQcUlWMzdpaGdsNkJwUnVleHBGRDVqYmR0X0FkN285SEh6MnFFdEVLdFJuTXNsVkZWSFNlbjBUVmFNeTlXbFo?oc=5",
     "image": "",
     "published_at": "Sun, 09 Aug 2026 21:29:45 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730731+00:00"
+    "fetched_at": "2026-08-09T23:37:39.869581+00:00"
+  },
+  {
+    "id": "c33629848a04",
+    "title": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak",
+    "source": "CBS News",
+    "summary": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak&nbsp;&nbsp;CBS News",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTVphVGtlMUdBUEp5bEFfLWJfUGlSbVA5R3VpVjlqWm9KTjhoTzFDRVNBUmRNNVp5ZklGNDJRVllTRHU5OW92bnRISlVacFhjdExXazFQSjV2Mm4ydmg0amhFUFpucThVeUJYdk9tSQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 19:41:00 GMT",
+    "fetched_at": "2026-08-09T23:37:39.869594+00:00"
   },
   {
     "id": "928758b388f0",
     "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot...",
     "source": "Yahoo",
-    "summary": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot...&nbsp;&nbsp;YahooThis A.I. Just Created Viruses Not Found in Nature&nbsp;&nbsp;The New York Times'Anything is possible': AOC on her political future&nbsp;&nbsp;ABC News - Breaking News, Late",
+    "summary": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot...&nbsp;&nbsp;YahooThis A.I. Just Created Viruses Not Found in Nature&nbsp;&nbsp;The New York TimesVideo Manhunt underway in upstate New York&nbsp;&nbsp;ABC News - Breaking News, Latest News a",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm1FMW9IMzM1RExhVTRpOGpoNVlmT2JXSTVTcDFTYlMxMXVBSlk3NVN2bzMzU292RWJvOUR4QTNWbjBxa2Y2X3RWZUM5S29RcWh0bFBTMVZvd18xY2pEMVNiOFN2Vy1TczM1SzJYVGdkT1JqQWllRFd5cmp0bkFsbDF1Q2tsMzlKQkJKU2p4OA?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 11:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730768+00:00"
+    "fetched_at": "2026-08-09T23:37:39.869640+00:00"
   },
   {
     "id": "0a96e2b3e794",
     "title": "How much coffee is too much coffee for your health?",
-    "source": "The Star",
-    "summary": "How much coffee is too much coffee for your health?&nbsp;&nbsp;The StarCoffee isn’t the heart risk doctors once thought, with one big caveat&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4\"I Drink Black Coffee Daily,\" Says Oncologist; 6 Reasons Why You Should Too&nbsp;&nbsp;NDTVItalian Study Says Espresso ",
+    "source": "thestar.com.my",
+    "summary": "How much coffee is too much coffee for your health?&nbsp;&nbsp;thestar.com.myCoffee isn’t the heart risk doctors once thought, with one big caveat&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4\"I Drink Black Coffee Daily,\" Says Oncologist; 6 Reasons Why You Should Too&nbsp;&nbsp;NDTVItalian Study Says Esp",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1dFTHRqUmxjYW1VLWpSWFJyRnE2c1drLW9HeWVqTUliMktSUjBQNXpRYnRDUWVZMTR1ZUdkVUhsWTFlM2k3dFQ5VTc4TWQwbUY5dldMV1k5ODhKWEQ5bHBoeVR6OEJYcTJvald2RjlNT1RCN1Z4Vk1HSW5rSlF4UHNWMjhjcV9VVjV4a0FrM2dsck5lcDRDaTRNLXhYb0ZpZ1ZmMXFISjBiTjgzb0E?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 10:06:00 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730801+00:00"
+    "fetched_at": "2026-08-09T23:37:39.869672+00:00"
+  },
+  {
+    "id": "4a84f71a71e9",
+    "title": "I’m a Dietitian Who Ate Cherries Every Day for a Week, and This Is What Happened to My Body",
+    "source": "AOL.com",
+    "summary": "I’m a Dietitian Who Ate Cherries Every Day for a Week, and This Is What Happened to My Body&nbsp;&nbsp;AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTU54eFFjYmo4eEc2M1pBdHdrdnNySzEwc2FlQ2IxRVRFUTRpaEE5M1RjU1BSZ3dua1FyQmR5RU5yejhKT0ZfcWZEbEk4blpPV0VXTnhyVk1rZ2gtTVhrb0IwQUZPbTQ3T1lvUC05dUhULVZVM1JjOXF3TWtNdFE?oc=5",
+    "image": "",
+    "published_at": "Sat, 08 Aug 2026 12:13:00 GMT",
+    "fetched_at": "2026-08-09T23:37:39.869687+00:00"
+  },
+  {
+    "id": "f5e3c3e98215",
+    "title": "Want more dementia-free years? A new study points to 3 clues",
+    "source": "MLive.com",
+    "summary": "Want more dementia-free years? A new study points to 3 clues&nbsp;&nbsp;MLive.comAvoiding These 3 Things in Midlife Is Linked to 13 More Dementia-Free Years&nbsp;&nbsp;Time MagazineAvoiding 3 Things During Middle Age Is Linked to 13 More Years Without Dementia&nbsp;&nbsp;NYU Langone HealthWhat You D",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxQW1oT2ZPZXNjUnplaEZTSDlzZEFFRTlnTEo1TndDN3E0NVFwSFJBMlpHU3czNi1WYjJxU2prd1AxY2NjMHR5VmNsSktvNi1wNWpLTlpQa1JPcUVPTGJjcXlDeUFtS2JxM2xVd19JaFJQM2hlTW9xTU5RYmkwdHpZQ3pmWVlIendQOGxwUmlNUUo2cjFaamNHaEVNSGRX0gG0AUFVX3lxTE1NdEJxU2ZqOVgzUGxLYWJzTWxuYW9IZDNnc3BsSUZoSUcxR0w4M3hUeVVpTVBLWDFobklKMDFuWXVwVldLNldhQTNoYW8tb2hOdmJoN1ZxSWlnV0UzRHdGWGtuTlVnTEcybnhpSm9tZmZyaGpNTGVrRXhxdnBZVmNZZDlmMUNmRE8tQzJneHFKNlRCUE9BLWxxc0ttZTA0UFFDczg0a0RFYmJvY0RDSFVLMDluaw?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 10:00:00 GMT",
+    "fetched_at": "2026-08-09T23:37:39.869715+00:00"
+  },
+  {
+    "id": "5ca7ab8778d7",
+    "title": "How much sunshine do we really need?",
+    "source": "BBC",
+    "summary": "How much sunshine do we really need?&nbsp;&nbsp;BBC​Taking vitamin D every day but still running low? Doctors explain what may be stopping your levels from rising​&nbsp;&nbsp;timesofindia.indiatimes.comBe cautious about sun exposure, but don’t forsake it&nbsp;&nbsp;Scranton Times-TribuneIs It OK to ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXJrWldNNHAxS1lkZ2s4OGUtMEtIR2ZmbXpXY1p2S3VzaDNEVzc3cTBndjhQNkJ4U0tDVFlFeUlhS3FDcE84Rm5WRnlBbmI3WUZZcU41RnF1NWlHZHRnYXZWM29xeFBQQVJlbDQ0bVF4Mkh0Ylh3VThXaG5iWUlFR1lobG53Zw?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 09:01:01 GMT",
+    "fetched_at": "2026-08-09T23:37:39.869740+00:00"
+  },
+  {
+    "id": "c96fdee46a56",
+    "title": "Scientists think they’ve found a new way to stop cancer before it starts",
+    "source": "Cleveland.com",
+    "summary": "Scientists think they’ve found a new way to stop cancer before it starts&nbsp;&nbsp;Cleveland.comHope for families with hereditary cancer risk&nbsp;&nbsp;BBCPancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients&nbsp;&nbsp;MedPage TodayVaccine could prevent some forms of colon ca",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN05Hak9BaFRiZlNTRWtfb1hLN1UweWZqdDRzdGNWLXJSczBTSlBKTkxhbmk2dGVBOVlsYVRncDRHNzc4b3d0bXVpZy11UGtwcHA1alI0OEM3YUl6dXBBMk9aalRfUmxjc0ZBM0t0OGMxcjJ6Qk1vNWI2QWtBbzNPUjhvWDl0MDJWeTk0d1FzcV95Qmd2Z1JKS0Q5bjRsTXgxRWx2UEx4Vmd4YmtpQmFSWWpWSjZfd9IBygFBVV95cUxNU2FyVU1KYlNTTURwLVZfdWFuTzdQNlJLSjJGYnROZVpYb2Zwd3VlVVpTS1FnSi1NVEFyMHVnQUVDTmM1LVJxdXhsNDdPcXBLX0Z1cWFNM2JiQUZ0SU5uNmRzWWlMYVY4LUlXZnpvMlAxR29FOTY3djVZdGU0dktjLTRXMGF1RGMzUXFINzJpRERhX05xaHFQMzZrNXk0eXhkV05SdnhfQ0dLeXZ4ZWRVS3JSenlnd1UwQ2hMQ3JFQWo3TEJ2Z3JnVEVB?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 10:00:00 GMT",
+    "fetched_at": "2026-08-09T23:37:39.869768+00:00"
+  },
+  {
+    "id": "62d9bc011398",
+    "title": "Healthcare industry trend watch: Week of Aug. 3, 2026",
+    "source": "The Real Economy Blog",
+    "summary": "Healthcare industry trend watch: Week of Aug. 3, 2026&nbsp;&nbsp;The Real Economy Blog",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzZ4cGkxS3ZNWE5EZWxuWWgwcEszbzBoRDRBMGZxUTJFSXpQMVJGc3JmdTdGNWUtOFZiQWV2T21kOWNxX0pRLVN1MVZCY1BoSFdfZS1ZV25xNUR4ZldldnliVGNqM2MxVnNza2c4aUlwaDFvcncxVGpSQXZjd2hWM2daTkFDZm1J?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 14:42:34 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393464+00:00"
+  },
+  {
+    "id": "d1d3ff40111b",
+    "title": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’",
+    "source": "Cybersecurity Dive",
+    "summary": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’&nbsp;&nbsp;Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFNTQmtoMXViTzMwNlVRTWV4UFBGZzB3VXJuNmpjTHVMTnRRYU0yUUotZXlkcFdQLTAzTzk0RDhwYVFXVklPbU5MNHVsSHlqU0E0cGZoalJqa2g5Qy0tOWpkaFBLMFRqUi1YTldNSE9IUUtYaTI0c2Q1TE9fU1pFakFoSXUyQ1habGpNTVZBWQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 21:43:02 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393500+00:00"
+  },
+  {
+    "id": "606f595c3042",
+    "title": "Copeland to Acquire Dickson, Advance Cold Chain Solutions for Healthcare Industry",
+    "source": "Supply & Demand Chain Executive",
+    "summary": "Copeland to Acquire Dickson, Advance Cold Chain Solutions for Healthcare Industry&nbsp;&nbsp;Supply & Demand Chain Executive",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVhoLWpROXJWRHZhN24teDJEMmVRYUM3R0YtcDBCM01La2kwZm9oaElKXzhkOWdYN1JBTXdrN1FXdWVkWWlTcWRYZlZGRTUzR3ozUzRrYjJlbEJwZE42M2U1cVpEVWpjaVdhc2NGbzdyZ2c4bExoczNnR3FZMkNPM204UU54aUJBMEdPd2dKU2V6TWc2eW85SG8xOEVMbFJiUmtaakRBOHMycXFsUWd5LWNzdkJibFd1MkRUN1E1enlZTDZOR2EzdkE2R2E3Rkd3dElHajlieW4tN3FDZXh5a1FVcEVnQnlw?oc=5",
+    "image": "",
+    "published_at": "Thu, 06 Aug 2026 19:29:02 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393515+00:00"
+  },
+  {
+    "id": "3206878e4b1a",
+    "title": "In healthcare, catching errors from insurers is a growing industry",
+    "source": "marketplace.org",
+    "summary": "In healthcare, catching errors from insurers is a growing industry&nbsp;&nbsp;marketplace.org",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRE1aUm04Zm8yZzN0VzE5Q0tEMnJIX1FISk1IeXJEeVBseC15WHFmUjQzNnJLVWZnby16VlBYaU1WVUNCOTF4OTkxU3hUTkxyaEFEdGdEN0RtYUpqVXVSLU9UOFZtOHlJOF9aSm9nZjJIS2dSU3JuOHRtRHItajRxSjhqSkpNbVFNLU1oUzNHZUhRMjVGTVFacFVXeEtkdy1iWnNqdjBzUVdJQVY4SGYycw?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 20:15:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393527+00:00"
+  },
+  {
+    "id": "f9a719d56a8a",
+    "title": "A more connected approach to prenatal care",
+    "source": "Fierce Healthcare",
+    "summary": "A more connected approach to prenatal care&nbsp;&nbsp;Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzA3UllFSTd4eEx6MFJkSjk3TmRWV0xvbUJOUVAwTXozUHd0Z3NocWR5N25oTUowNTl1NTFMWE52OGtiVVdGV3cyUjVaZ1k4cVRXQjZ2bXVkSVNmT2ZKSGo2cGlaX1ZPQ2czVHpiMkVEdVMxYmlFcHdvQjJxYVJLYnlmTTV6RTg?oc=5",
+    "image": "",
+    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393536+00:00"
+  },
+  {
+    "id": "cb8381c056ec",
+    "title": "Covista builds momentum for ambitious expansion amid healthcare worker shortage",
+    "source": "Crain's Chicago Business",
+    "summary": "Covista builds momentum for ambitious expansion amid healthcare worker shortage&nbsp;&nbsp;Crain's Chicago Business",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkp0dnNPQVFzdWtOMGZiYjNXWGdHYkJjclFPZkE0OEVrYWdNUHlzOTVXZlRPTU05bHhSLWptc1J5aXZBWUlXY0NtVzBLUzRlZVlRSTBnMjZjeFNrcmplajkyZVFaWG0tVnpVdlFxQk5yempHY21PZmVPSS1Na3JwLXFSc2xIZ21zSjdFT2M5Vk9pU0dqbnU4c2UtYUVKZUZW?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 10:15:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393548+00:00"
+  },
+  {
+    "id": "42002e93119a",
+    "title": "McKinsey perspectives on healthcare industry trends and the year ahead",
+    "source": "mckinsey.com",
+    "summary": "McKinsey perspectives on healthcare industry trends and the year ahead&nbsp;&nbsp;mckinsey.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzRpX0ZkV0pudUtGYm0tVWpqQURrVEdQbHk2LVVybzk1X2tnM0k5UkprS0xjcUZ1Vmc2Tzk5X0hxYWs2Y00tX1NsWTI4OVk4YkdqOHhNWDdPdE5tX3JONmlxU1Z2Qm5NZGhYa3FQS3FraXN4RTV2ZXk0VjUtdEdfUGRGWk9WM241aHl0SkxqUFdUakxMU202RFJKbGZNUDVnMHNHN19uT2NzX3VuV21mOGc2SWtFMU95Qjdzc0l2bzlaZmFaWklCLUJ3?oc=5",
+    "image": "",
+    "published_at": "Mon, 12 Jan 2026 08:00:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393560+00:00"
+  },
+  {
+    "id": "0cb75bd3a83d",
+    "title": "Is FemTech, women's health tech finally being valued correctly, or still structurally underfunded?",
+    "source": "healthcare.digital",
+    "summary": "Is FemTech, women's health tech finally being valued correctly, or still structurally underfunded?&nbsp;&nbsp;healthcare.digital",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2JSSlk5TGVjTDZyamttVzE1SWVnN192TmtlOVpCUDVfbFUtYVl4NWFONko5UWFIVGhGdEM1ZVprRVFaUEo5TDZrWF83ZDhvcWVwRmIzUEVqQXR4UVNaQzd1cGZSQzFOT1V1dEhqSzlJM1JJdzJsMWVNU2tsX01GeGdpRWVBSEFGVEZQRDYtY0l1RmcyQTFOS3FJWktYM2RNdkh2QnpEU1p4VGlPZTdqVWhlNVBNYUgwVDNhd0F2V1FWU1JmZXMtUG9pZVJfY1BiUmNYLQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 15:52:56 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393572+00:00"
+  },
+  {
+    "id": "8a348a689a70",
+    "title": "Myriad360 Acquires Assets of Healthcare Superstar F3 Technology Partners, Crosses $1B Mark",
+    "source": "crn.com",
+    "summary": "Myriad360 Acquires Assets of Healthcare Superstar F3 Technology Partners, Crosses $1B Mark&nbsp;&nbsp;crn.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHNfRllmdV84Z1BVbGpwMmE5N1NfWmllZE54cERkM21xczNPY0RFcTFqdVRGTHRvQ1duTm9wN0NwMHBYcGswOHctSFdwX3dFbHlYM0pzWHplMm1vOXZ4c3dWZGF5ekNtQUx4eEdoem9tejZ6TU1OTl90UlNHR0JEUklsYWRXVnlWbDNkcUp3UDlhWFgtRnpGTlZvM2I5VUt5bzJaWmMzSEktSWlZaWVTeUQtYVgtS2otR0R5WTExS0loSE1qTTVKYW9zNA?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 19:21:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393584+00:00"
+  },
+  {
+    "id": "da6903450583",
+    "title": "Comptroller report reveals steep challenges facing Maryland’s healthcare industry",
+    "source": "Maryland Matters",
+    "summary": "Comptroller report reveals steep challenges facing Maryland’s healthcare industry&nbsp;&nbsp;Maryland Matters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1IyY0d3SGRhdDkyNVdLWDJRRG9iMUdBMEpERWU4eFB0S3h2blNxQ0tkMTFrRDVBSjd3eFdwOVNxX29RVnNSb3pNOU9PMXJFdmNabHItMmdaVTFJUW5KM29Ma1F4VllHN0docE5QRGdpdWxXUmxweDFiOUZCNC15UkhucmFubmNEaUhqWFFoR3dxYjBfeEN1RVBlR1RlRVFpQTBPNUU1S2R5am8ydkVoT2szbEVueXZRcW9wUA?oc=5",
+    "image": "",
+    "published_at": "Thu, 30 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-09T23:37:40.393599+00:00"
+  },
+  {
+    "id": "a9b448e86cab",
+    "title": "North Carolina pharmaceutical company laying off 47 in Hoover, leaving Birmingham area",
+    "source": "AL.com",
+    "summary": "North Carolina pharmaceutical company laying off 47 in Hoover, leaving Birmingham area&nbsp;&nbsp;AL.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXZiVkJkSnVkcjBCcjB6QmVzdUVuZTZrTm1IYjBUQllkYlpfWjRjWVdRWWR5TWc2NldQVUxoME10d0xDYlJ6U05JUnNHU3hMaE1wRUF5QV9mTmhlaEd3ZEw3MG1wazllZTI4WGdBSURMUGpHaGJxMVpNMGczbkdzalRkamZpNGhCVEhldlo0XzR5bEs5UlBZRXlMU3ItbndKZjFXYlRBRGxFb3E2Vm1DQjNKaDliYkl0SmVDQjV5TFBpTzdm?oc=5",
+    "image": "",
+    "published_at": "Wed, 05 Aug 2026 12:45:00 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422372+00:00"
+  },
+  {
+    "id": "68f0a5d3cb7a",
+    "title": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company",
+    "source": "PR Newswire",
+    "summary": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWVRiQUNBRjU1ME9XNHdaejlkaWlLVmRWd0l0WHhENkVad2xlUFVaM0xmZGhPeUZjc2FRak5uTHpxNWJNWVlpcUlvM3dwYzBTN0RtbUpMa0MtajAwWnBZWlBsMUJlWEJVVW9GenRNbkhVVUJPT0g2Y0FmVTktUm5uWDlqTldBU3Vhenc1WFpWOVc3OVJrN1RIVEp2amFBU3hvb1dMNjN5T21EUWJiOWNsenJEckRwNnI2TDUxMkN3RDh1QU1ucnRTWnowNUI3clBROEVnTHEyWXBNODQ4T2liaWx3RDVucnVLVS1pbWN2SE1wYVVrQ0VkRVVqNC1zZ19hdkZRbUphdm9YcTlsSVEtZTRB?oc=5",
+    "image": "",
+    "published_at": "Thu, 06 Aug 2026 15:58:00 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422404+00:00"
+  },
+  {
+    "id": "7c9f53df0226",
+    "title": "Weight loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult",
+    "source": "Fortune",
+    "summary": "Weight loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult&nbsp;&nbsp;Fortune",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3l6Wm42S0tJM2t0MXFFaFp4N2hRYXRucmJxTHY2ZFRwZmh3WWxOMllETThRdWU3TDRSNTMycVA0N1NuM1h5Nm4zTjdpN19IQWxCOE40blhieU1GcXRFYmx0U0I4TklXdDVFSWN1TTJMOVpDVENMTXpTdHptWlJKRkFCblpzVkNsUjBQY1ExUlNzQlFhbGtrV0l2dGxCSHNsRGxTQWN1RzZQb3RaZFlVNWlSUHI?oc=5",
+    "image": "",
+    "published_at": "Thu, 06 Aug 2026 12:31:00 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422427+00:00"
+  },
+  {
+    "id": "2f7e3b91ba7d",
+    "title": "COLL Q2 Deep Dive: ADHD Expansion and Pain Business Headwinds Shape Guidance",
+    "source": "StockStory",
+    "summary": "COLL Q2 Deep Dive: ADHD Expansion and Pain Business Headwinds Shape Guidance&nbsp;&nbsp;StockStory",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkFXUXJfMDV0cXg4WUFEbkppMXUyWm5rY0NYWmtlM2ZTOXBTTnRCazIyaDhiQkVhR0h5TkJKQ1JSUTRReWFrX3JvQktKdGxXbVVZbk54aURyRU0zLWhNYzNaUm9qTDBhVXd5TDVQbnlTdnpKX3M0YUtNVEY1ejEzMjBwNzBlb3pUSVVYalBmSU8zNU5VbFN6N051TE9mTm1aUlEyM0xhQURmcUtNbUhWcHhheExhLXZmRWs0NmY1WDdsVjY5RHN2UEs3aXFzMFFlczFfMjlB?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 09:20:45 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422439+00:00"
+  },
+  {
+    "id": "561ae2d876cf",
+    "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+    "source": "CNBC",
+    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale&nbsp;&nbsp;CNBC",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 06 Aug 2026 09:40:16 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422451+00:00"
+  },
+  {
+    "id": "4a875b4c9720",
+    "title": "Pritzker signs bill that aims to protect 340B drug discount program",
+    "source": "Chicago Tribune",
+    "summary": "Pritzker signs bill that aims to protect 340B drug discount program&nbsp;&nbsp;Chicago Tribune",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkxPQXVXemhzbTA3d1NZek5NYm9pMWpoU0NNSXktZHByNFY4Nk5ZdlJvY040dmU2RXdNR19WZ3JOSGZLZkUtZndCdVlDTGJaRkxROEl1bDhGNHBhSUdvbTR5Tm85SXJYVF9BeUJDSUF1QV9xOUhpcGNLcDliZXdyRzdaSlFZOUcyQXRUb3hwNGEzQkFlUVFsLTRmZkZycWpfVjNPRGF3RmZvVmRYY3NJ?oc=5",
+    "image": "",
+    "published_at": "Sat, 08 Aug 2026 01:41:42 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422462+00:00"
+  },
+  {
+    "id": "fd51d3c3d055",
+    "title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
+    "source": "South China Morning Post",
+    "summary": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth&nbsp;&nbsp;South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmZvM3J2bXI0ZDJRNlo2Z1lCa1RfdElwZl8tTU5oOFpiTjFkYnIyMkk2Tk5mdXNRdjJVb1VBM2JKZzVWbXBfWl93SlZWbVZralVndUd4bjgzMHpjRmpsWU9obDVUcnY2RFlURDllNHcwRlMzWWFLRjN1My01bTAzVXVybXktalFlcktodGxOMGVNWnRhR3ozcnR0TDgyZjBHS3U3bWplRUJJdElzQXZIRmtwa29LUmVsZGxFSWVLTDN0amZ4RFo3alcxRmRNdWfSAc8BQVVfeXFMT2UtZU5qQ28tblcwWXZkNUxQR1pJX0NwTl9qa1hTXzNxbmZUalNBOV9NQXctaGVIb3ROOEVBOVY4NW1zRHdUSkY0anpiWG53bkprcE5JU05RTENsT0FkNXZad3ZGcEtEVFFxTy1fbTZ4UzNpVU00MnRfVS1mZ1pTZDBmZHdiZG10a3pEWG5SRlNKUEdzVXFDaC0zZ0I0bzVROUhSc0IxeHh2d0VTVFJ4UzFxR3l0ZndEZW1DZXAyblhCS01venhnNTFBOVZlR0tZ?oc=5",
+    "image": "",
+    "published_at": "Sat, 08 Aug 2026 10:34:51 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422475+00:00"
+  },
+  {
+    "id": "e6c6218c8175",
+    "title": "Kyungdong Pharmaceutical and Asimov Announce Completion of Cell Line Development Campaign for Biosimilar Antibody",
+    "source": "The Manila Times",
+    "summary": "Kyungdong Pharmaceutical and Asimov Announce Completion of Cell Line Development Campaign for Biosimilar Antibody&nbsp;&nbsp;The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZFEzNGxMXzB6QTR4dWZjNXlOSEpLNWlwT19qMnh4VnVzRFVIM0Q5dXNwYW9zUjd2SmdCWW1KdFNkY2otRWc5MFpfaHVPdkRneUx2VzQ3LUQyVldOMWtJVDRTWktxS3BiVUhLVWFJUzVCaW9sWXAwWjVmYlV3aDZVWkNYdzJPc0ZnUjI3UGp1VUxXOEpDSGNSXzZtMnBDQjNwQXZHeTM4VDUzVU5HUmJURUVhb25NdVlYNUJmV2pFNWM1UmdNVWJSTjZVVGFLQ2JWaEpOVXNaQW52cHVtZU44SUx4UndTbzR0aHVBRlhqWGNCNEFVWFAtWlpvQjBPRWtBTzVMVXVFMFFEZDBWWDRkR3lMTko1Z9IBmwJBVV95cUxQMlFNd1U3RENVa1FoeUJJWnhtdW56cUtrZ1dyZmlFeHJIVUJwOWxpVjRoWWh5MFpJbkNXRW96UGU3aHpsNDhvcjk0TTNuY016ckJnWUxBU3V4d0pfRGtaOEhudFdTdGpVc3BtZDN4T3JfVkxxSGhCcWtkcFM4S0tLeU1va1dFdnFMaV9UbTNmQmNmck5yMEI3TV93S194QVFPMEhjdWFPTWJ0dnREU0RhZ1M3X3c3V0M3NGg4NC1rWXhKVmtidGZKRzBOVDlIcUpaV3hhT0lfRVRXekE0eFpLTW1mTFZmaGRNT1FQOVZXMk9kLUJ4VUoySWxabENYZTJXSWNtU0ZZVGRoOE1VNlhwSUZzQWo3N09wZUF3?oc=5",
+    "image": "",
+    "published_at": "Sun, 09 Aug 2026 23:14:45 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422489+00:00"
+  },
+  {
+    "id": "810dbc6916f1",
+    "title": "Quoin plans an operational update before markets open Aug. 14",
+    "source": "Stock Titan",
+    "summary": "Quoin plans an operational update before markets open Aug. 14&nbsp;&nbsp;Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3R1SDJSV0tCSUpvc0FPQ0V0SFIxZUxhZ24xNXBKNVZjelpuSnRTb3ZOM1c1OFhJcVcyUjlHUlAwemxXRnFneWFZT2RwM1hNell2VFhyaDZpa2JxRXQ3N1BkUUZiSE1JU2hWQk9QYnVsMzNkX0hPbHZySHBiUWJUVUxON0pzZmthdEZWcG12R3B4Y1JmZXRnZUQ2d01lcEVyaXpXNmFJWGxtdUswdjJXRVI1RlJ2MFE?oc=5",
+    "image": "",
+    "published_at": "Sat, 08 Aug 2026 10:08:37 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422500+00:00"
+  },
+  {
+    "id": "f764bbcc6577",
+    "title": "New heart drug targeting inflammation falls short in clinical trial",
+    "source": "Cardiovascular Business",
+    "summary": "New heart drug targeting inflammation falls short in clinical trial&nbsp;&nbsp;Cardiovascular Business",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTE90bE5ZTDdJZC1kdkJHR1BhclBnWFpFTWY0ckFMai1DVk12RUVNd3YtWW93NkpWclVVb1FlemRyR1pJTW11UzRZUE14NnVlcVppZ05jYzg1cEZhdFhzMFNJdDlIVnRQWUlqdGpuUjZ0X1lXZ2pYSnRHSWhMcmFtX3FPZXZlLUFWYjdJZTlnUndPbU9sQUZVZmh5bnhweElPeTQ3ZWdFZGNxSnppUXZ4eWlpS0hjYjRWSVVIM09Od3ZPTlJ3M202ZndEQ0JXdjJfNTIxekxXVQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 06 Aug 2026 20:22:24 GMT",
+    "fetched_at": "2026-08-09T23:37:41.422511+00:00"
   },
   {
     "id": "b1d658f90acc",
@@ -68,226 +308,6 @@
     "image": "",
     "published_at": "Sun, 09 Aug 2026 13:00:09 GMT",
     "fetched_at": "2026-08-09T22:38:34.730840+00:00"
-  },
-  {
-    "id": "4a84f71a71e9",
-    "title": "I’m a Dietitian Who Ate Cherries Every Day for a Week, and This Is What Happened to My Body",
-    "source": "AOL.com",
-    "summary": "I’m a Dietitian Who Ate Cherries Every Day for a Week, and This Is What Happened to My Body&nbsp;&nbsp;AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTU54eFFjYmo4eEc2M1pBdHdrdnNySzEwc2FlQ2IxRVRFUTRpaEE5M1RjU1BSZ3dua1FyQmR5RU5yejhKT0ZfcWZEbEk4blpPV0VXTnhyVk1rZ2gtTVhrb0IwQUZPbTQ3T1lvUC05dUhULVZVM1JjOXF3TWtNdFE?oc=5",
-    "image": "",
-    "published_at": "Sat, 08 Aug 2026 12:13:00 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730858+00:00"
-  },
-  {
-    "id": "5ca7ab8778d7",
-    "title": "How much sunshine do we really need?",
-    "source": "BBC",
-    "summary": "How much sunshine do we really need?&nbsp;&nbsp;BBC​Taking vitamin D every day but still running low? Doctors explain what may be stopping your levels from rising​&nbsp;&nbsp;The Times of IndiaBe cautious about sun exposure, but don’t forsake it&nbsp;&nbsp;Scranton Times-TribuneIs It OK to Skip Vita",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXJrWldNNHAxS1lkZ2s4OGUtMEtIR2ZmbXpXY1p2S3VzaDNEVzc3cTBndjhQNkJ4U0tDVFlFeUlhS3FDcE84Rm5WRnlBbmI3WUZZcU41RnF1NWlHZHRnYXZWM29xeFBQQVJlbDQ0bVF4Mkh0Ylh3VThXaG5iWUlFR1lobG53Zw?oc=5",
-    "image": "",
-    "published_at": "Sun, 09 Aug 2026 09:01:01 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730886+00:00"
-  },
-  {
-    "id": "c96fdee46a56",
-    "title": "Scientists think they’ve found a new way to stop cancer before it starts",
-    "source": "Cleveland.com",
-    "summary": "Scientists think they’ve found a new way to stop cancer before it starts&nbsp;&nbsp;Cleveland.comHope for families with hereditary cancer risk&nbsp;&nbsp;BBCPancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients&nbsp;&nbsp;MedPage TodayVaccine could prevent some forms of colon ca",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN05Hak9BaFRiZlNTRWtfb1hLN1UweWZqdDRzdGNWLXJSczBTSlBKTkxhbmk2dGVBOVlsYVRncDRHNzc4b3d0bXVpZy11UGtwcHA1alI0OEM3YUl6dXBBMk9aalRfUmxjc0ZBM0t0OGMxcjJ6Qk1vNWI2QWtBbzNPUjhvWDl0MDJWeTk0d1FzcV95Qmd2Z1JKS0Q5bjRsTXgxRWx2UEx4Vmd4YmtpQmFSWWpWSjZfd9IBygFBVV95cUxNU2FyVU1KYlNTTURwLVZfdWFuTzdQNlJLSjJGYnROZVpYb2Zwd3VlVVpTS1FnSi1NVEFyMHVnQUVDTmM1LVJxdXhsNDdPcXBLX0Z1cWFNM2JiQUZ0SU5uNmRzWWlMYVY4LUlXZnpvMlAxR29FOTY3djVZdGU0dktjLTRXMGF1RGMzUXFINzJpRERhX05xaHFQMzZrNXk0eXhkV05SdnhfQ0dLeXZ4ZWRVS3JSenlnd1UwQ2hMQ3JFQWo3TEJ2Z3JnVEVB?oc=5",
-    "image": "",
-    "published_at": "Sun, 09 Aug 2026 10:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:34.730919+00:00"
-  },
-  {
-    "id": "62d9bc011398",
-    "title": "Healthcare industry trend watch: Week of Aug. 3, 2026",
-    "source": "The Real Economy Blog",
-    "summary": "Healthcare industry trend watch: Week of Aug. 3, 2026&nbsp;&nbsp;The Real Economy Blog",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzZ4cGkxS3ZNWE5EZWxuWWgwcEszbzBoRDRBMGZxUTJFSXpQMVJGc3JmdTdGNWUtOFZiQWV2T21kOWNxX0pRLVN1MVZCY1BoSFdfZS1ZV25xNUR4ZldldnliVGNqM2MxVnNza2c4aUlwaDFvcncxVGpSQXZjd2hWM2daTkFDZm1J?oc=5",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 14:42:34 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119231+00:00"
-  },
-  {
-    "id": "d1d3ff40111b",
-    "title": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’",
-    "source": "Cybersecurity Dive",
-    "summary": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’&nbsp;&nbsp;Cybersecurity Dive",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFNTQmtoMXViTzMwNlVRTWV4UFBGZzB3VXJuNmpjTHVMTnRRYU0yUUotZXlkcFdQLTAzTzk0RDhwYVFXVklPbU5MNHVsSHlqU0E0cGZoalJqa2g5Qy0tOWpkaFBLMFRqUi1YTldNSE9IUUtYaTI0c2Q1TE9fU1pFakFoSXUyQ1habGpNTVZBWQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 21:43:02 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119257+00:00"
-  },
-  {
-    "id": "606f595c3042",
-    "title": "Copeland to Acquire Dickson, Advance Cold Chain Solutions for Healthcare Industry",
-    "source": "Supply & Demand Chain Executive",
-    "summary": "Copeland to Acquire Dickson, Advance Cold Chain Solutions for Healthcare Industry&nbsp;&nbsp;Supply & Demand Chain Executive",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVhoLWpROXJWRHZhN24teDJEMmVRYUM3R0YtcDBCM01La2kwZm9oaElKXzhkOWdYN1JBTXdrN1FXdWVkWWlTcWRYZlZGRTUzR3ozUzRrYjJlbEJwZE42M2U1cVpEVWpjaVdhc2NGbzdyZ2c4bExoczNnR3FZMkNPM204UU54aUJBMEdPd2dKU2V6TWc2eW85SG8xOEVMbFJiUmtaakRBOHMycXFsUWd5LWNzdkJibFd1MkRUN1E1enlZTDZOR2EzdkE2R2E3Rkd3dElHajlieW4tN3FDZXh5a1FVcEVnQnlw?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 19:29:02 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119276+00:00"
-  },
-  {
-    "id": "3206878e4b1a",
-    "title": "In healthcare, catching errors from insurers is a growing industry",
-    "source": "marketplace.org",
-    "summary": "In healthcare, catching errors from insurers is a growing industry&nbsp;&nbsp;marketplace.org",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRE1aUm04Zm8yZzN0VzE5Q0tEMnJIX1FISk1IeXJEeVBseC15WHFmUjQzNnJLVWZnby16VlBYaU1WVUNCOTF4OTkxU3hUTkxyaEFEdGdEN0RtYUpqVXVSLU9UOFZtOHlJOF9aSm9nZjJIS2dSU3JuOHRtRHItajRxSjhqSkpNbVFNLU1oUzNHZUhRMjVGTVFacFVXeEtkdy1iWnNqdjBzUVdJQVY4SGYycw?oc=5",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 20:15:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119290+00:00"
-  },
-  {
-    "id": "cb8381c056ec",
-    "title": "Covista builds momentum for ambitious expansion amid healthcare worker shortage",
-    "source": "Crain's Chicago Business",
-    "summary": "Covista builds momentum for ambitious expansion amid healthcare worker shortage&nbsp;&nbsp;Crain's Chicago Business",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkp0dnNPQVFzdWtOMGZiYjNXWGdHYkJjclFPZkE0OEVrYWdNUHlzOTVXZlRPTU05bHhSLWptc1J5aXZBWUlXY0NtVzBLUzRlZVlRSTBnMjZjeFNrcmplajkyZVFaWG0tVnpVdlFxQk5yempHY21PZmVPSS1Na3JwLXFSc2xIZ21zSjdFT2M5Vk9pU0dqbnU4c2UtYUVKZUZW?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 10:15:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119305+00:00"
-  },
-  {
-    "id": "f9a719d56a8a",
-    "title": "A more connected approach to prenatal care",
-    "source": "Fierce Healthcare",
-    "summary": "A more connected approach to prenatal care&nbsp;&nbsp;Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzA3UllFSTd4eEx6MFJkSjk3TmRWV0xvbUJOUVAwTXozUHd0Z3NocWR5N25oTUowNTl1NTFMWE52OGtiVVdGV3cyUjVaZ1k4cVRXQjZ2bXVkSVNmT2ZKSGo2cGlaX1ZPQ2czVHpiMkVEdVMxYmlFcHdvQjJxYVJLYnlmTTV6RTg?oc=5",
-    "image": "",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119318+00:00"
-  },
-  {
-    "id": "42002e93119a",
-    "title": "McKinsey perspectives on healthcare industry trends and the year ahead",
-    "source": "McKinsey & Company",
-    "summary": "McKinsey perspectives on healthcare industry trends and the year ahead&nbsp;&nbsp;McKinsey & Company",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzRpX0ZkV0pudUtGYm0tVWpqQURrVEdQbHk2LVVybzk1X2tnM0k5UkprS0xjcUZ1Vmc2Tzk5X0hxYWs2Y00tX1NsWTI4OVk4YkdqOHhNWDdPdE5tX3JONmlxU1Z2Qm5NZGhYa3FQS3FraXN4RTV2ZXk0VjUtdEdfUGRGWk9WM241aHl0SkxqUFdUakxMU202RFJKbGZNUDVnMHNHN19uT2NzX3VuV21mOGc2SWtFMU95Qjdzc0l2bzlaZmFaWklCLUJ3?oc=5",
-    "image": "",
-    "published_at": "Mon, 12 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119332+00:00"
-  },
-  {
-    "id": "0cb75bd3a83d",
-    "title": "Is FemTech, women's health tech finally being valued correctly, or still structurally underfunded?",
-    "source": "healthcare.digital",
-    "summary": "Is FemTech, women's health tech finally being valued correctly, or still structurally underfunded?&nbsp;&nbsp;healthcare.digital",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2JSSlk5TGVjTDZyamttVzE1SWVnN192TmtlOVpCUDVfbFUtYVl4NWFONko5UWFIVGhGdEM1ZVprRVFaUEo5TDZrWF83ZDhvcWVwRmIzUEVqQXR4UVNaQzd1cGZSQzFOT1V1dEhqSzlJM1JJdzJsMWVNU2tsX01GeGdpRWVBSEFGVEZQRDYtY0l1RmcyQTFOS3FJWktYM2RNdkh2QnpEU1p4VGlPZTdqVWhlNVBNYUgwVDNhd0F2V1FWU1JmZXMtUG9pZVJfY1BiUmNYLQ?oc=5",
-    "image": "",
-    "published_at": "Sun, 09 Aug 2026 16:14:31 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119348+00:00"
-  },
-  {
-    "id": "8a348a689a70",
-    "title": "Myriad360 Acquires Assets of Healthcare Superstar F3 Technology Partners, Crosses $1B Mark",
-    "source": "crn.com",
-    "summary": "Myriad360 Acquires Assets of Healthcare Superstar F3 Technology Partners, Crosses $1B Mark&nbsp;&nbsp;crn.com",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHNfRllmdV84Z1BVbGpwMmE5N1NfWmllZE54cERkM21xczNPY0RFcTFqdVRGTHRvQ1duTm9wN0NwMHBYcGswOHctSFdwX3dFbHlYM0pzWHplMm1vOXZ4c3dWZGF5ekNtQUx4eEdoem9tejZ6TU1OTl90UlNHR0JEUklsYWRXVnlWbDNkcUp3UDlhWFgtRnpGTlZvM2I5VUt5bzJaWmMzSEktSWlZaWVTeUQtYVgtS2otR0R5WTExS0loSE1qTTVKYW9zNA?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 19:21:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119363+00:00"
-  },
-  {
-    "id": "da6903450583",
-    "title": "Comptroller report reveals steep challenges facing Maryland’s healthcare industry",
-    "source": "Maryland Matters",
-    "summary": "Comptroller report reveals steep challenges facing Maryland’s healthcare industry&nbsp;&nbsp;Maryland Matters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1IyY0d3SGRhdDkyNVdLWDJRRG9iMUdBMEpERWU4eFB0S3h2blNxQ0tkMTFrRDVBSjd3eFdwOVNxX29RVnNSb3pNOU9PMXJFdmNabHItMmdaVTFJUW5KM29Ma1F4VllHN0docE5QRGdpdWxXUmxweDFiOUZCNC15UkhucmFubmNEaUhqWFFoR3dxYjBfeEN1RVBlR1RlRVFpQTBPNUU1S2R5am8ydkVoT2szbEVueXZRcW9wUA?oc=5",
-    "image": "",
-    "published_at": "Thu, 30 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-09T22:38:35.119397+00:00"
-  },
-  {
-    "id": "a9b448e86cab",
-    "title": "North Carolina pharmaceutical company laying off 47 in Hoover, leaving Birmingham area",
-    "source": "AL.com",
-    "summary": "North Carolina pharmaceutical company laying off 47 in Hoover, leaving Birmingham area&nbsp;&nbsp;AL.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXZiVkJkSnVkcjBCcjB6QmVzdUVuZTZrTm1IYjBUQllkYlpfWjRjWVdRWWR5TWc2NldQVUxoME10d0xDYlJ6U05JUnNHU3hMaE1wRUF5QV9mTmhlaEd3ZEw3MG1wazllZTI4WGdBSURMUGpHaGJxMVpNMGczbkdzalRkamZpNGhCVEhldlo0XzR5bEs5UlBZRXlMU3ItbndKZjFXYlRBRGxFb3E2Vm1DQjNKaDliYkl0SmVDQjV5TFBpTzdm?oc=5",
-    "image": "",
-    "published_at": "Wed, 05 Aug 2026 12:45:00 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089513+00:00"
-  },
-  {
-    "id": "68f0a5d3cb7a",
-    "title": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company",
-    "source": "PR Newswire",
-    "summary": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWVRiQUNBRjU1ME9XNHdaejlkaWlLVmRWd0l0WHhENkVad2xlUFVaM0xmZGhPeUZjc2FRak5uTHpxNWJNWVlpcUlvM3dwYzBTN0RtbUpMa0MtajAwWnBZWlBsMUJlWEJVVW9GenRNbkhVVUJPT0g2Y0FmVTktUm5uWDlqTldBU3Vhenc1WFpWOVc3OVJrN1RIVEp2amFBU3hvb1dMNjN5T21EUWJiOWNsenJEckRwNnI2TDUxMkN3RDh1QU1ucnRTWnowNUI3clBROEVnTHEyWXBNODQ4T2liaWx3RDVucnVLVS1pbWN2SE1wYVVrQ0VkRVVqNC1zZ19hdkZRbUphdm9YcTlsSVEtZTRB?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 15:58:00 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089539+00:00"
-  },
-  {
-    "id": "7c9f53df0226",
-    "title": "Weight loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult",
-    "source": "Fortune",
-    "summary": "Weight loss drug Wegovy made Novo Nordisk Europe’s most valuable company. Finding its next blockbuster drug is proving difficult&nbsp;&nbsp;Fortune",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3l6Wm42S0tJM2t0MXFFaFp4N2hRYXRucmJxTHY2ZFRwZmh3WWxOMllETThRdWU3TDRSNTMycVA0N1NuM1h5Nm4zTjdpN19IQWxCOE40blhieU1GcXRFYmx0U0I4TklXdDVFSWN1TTJMOVpDVENMTXpTdHptWlJKRkFCblpzVkNsUjBQY1ExUlNzQlFhbGtrV0l2dGxCSHNsRGxTQWN1RzZQb3RaZFlVNWlSUHI?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 12:31:00 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089564+00:00"
-  },
-  {
-    "id": "2f7e3b91ba7d",
-    "title": "COLL Q2 Deep Dive: ADHD Expansion and Pain Business Headwinds Shape Guidance",
-    "source": "StockStory",
-    "summary": "COLL Q2 Deep Dive: ADHD Expansion and Pain Business Headwinds Shape Guidance&nbsp;&nbsp;StockStory",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkFXUXJfMDV0cXg4WUFEbkppMXUyWm5rY0NYWmtlM2ZTOXBTTnRCazIyaDhiQkVhR0h5TkJKQ1JSUTRReWFrX3JvQktKdGxXbVVZbk54aURyRU0zLWhNYzNaUm9qTDBhVXd5TDVQbnlTdnpKX3M0YUtNVEY1ejEzMjBwNzBlb3pUSVVYalBmSU8zNU5VbFN6N051TE9mTm1aUlEyM0xhQURmcUtNbUhWcHhheExhLXZmRWs0NmY1WDdsVjY5RHN2UEs3aXFzMFFlczFfMjlB?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 09:20:45 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089581+00:00"
-  },
-  {
-    "id": "4a875b4c9720",
-    "title": "Pritzker signs bill that aims to protect 340B drug discount program",
-    "source": "Chicago Tribune",
-    "summary": "Pritzker signs bill that aims to protect 340B drug discount program&nbsp;&nbsp;Chicago Tribune",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkxPQXVXemhzbTA3d1NZek5NYm9pMWpoU0NNSXktZHByNFY4Nk5ZdlJvY040dmU2RXdNR19WZ3JOSGZLZkUtZndCdVlDTGJaRkxROEl1bDhGNHBhSUdvbTR5Tm85SXJYVF9BeUJDSUF1QV9xOUhpcGNLcDliZXdyRzdaSlFZOUcyQXRUb3hwNGEzQkFlUVFsLTRmZkZycWpfVjNPRGF3RmZvVmRYY3NJ?oc=5",
-    "image": "",
-    "published_at": "Sat, 08 Aug 2026 01:41:42 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089595+00:00"
-  },
-  {
-    "id": "561ae2d876cf",
-    "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
-    "source": "CNBC",
-    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale&nbsp;&nbsp;CNBC",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 09:40:16 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089609+00:00"
-  },
-  {
-    "id": "fd51d3c3d055",
-    "title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
-    "source": "South China Morning Post",
-    "summary": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth&nbsp;&nbsp;South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmZvM3J2bXI0ZDJRNlo2Z1lCa1RfdElwZl8tTU5oOFpiTjFkYnIyMkk2Tk5mdXNRdjJVb1VBM2JKZzVWbXBfWl93SlZWbVZralVndUd4bjgzMHpjRmpsWU9obDVUcnY2RFlURDllNHcwRlMzWWFLRjN1My01bTAzVXVybXktalFlcktodGxOMGVNWnRhR3ozcnR0TDgyZjBHS3U3bWplRUJJdElzQXZIRmtwa29LUmVsZGxFSWVLTDN0amZ4RFo3alcxRmRNdWfSAc8BQVVfeXFMT2UtZU5qQ28tblcwWXZkNUxQR1pJX0NwTl9qa1hTXzNxbmZUalNBOV9NQXctaGVIb3ROOEVBOVY4NW1zRHdUSkY0anpiWG53bkprcE5JU05RTENsT0FkNXZad3ZGcEtEVFFxTy1fbTZ4UzNpVU00MnRfVS1mZ1pTZDBmZHdiZG10a3pEWG5SRlNKUEdzVXFDaC0zZ0I0bzVROUhSc0IxeHh2d0VTVFJ4UzFxR3l0ZndEZW1DZXAyblhCS01venhnNTFBOVZlR0tZ?oc=5",
-    "image": "",
-    "published_at": "Sat, 08 Aug 2026 10:34:51 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089625+00:00"
-  },
-  {
-    "id": "810dbc6916f1",
-    "title": "Quoin plans an operational update before markets open Aug. 14",
-    "source": "Stock Titan",
-    "summary": "Quoin plans an operational update before markets open Aug. 14&nbsp;&nbsp;Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3R1SDJSV0tCSUpvc0FPQ0V0SFIxZUxhZ24xNXBKNVZjelpuSnRTb3ZOM1c1OFhJcVcyUjlHUlAwemxXRnFneWFZT2RwM1hNell2VFhyaDZpa2JxRXQ3N1BkUUZiSE1JU2hWQk9QYnVsMzNkX0hPbHZySHBiUWJUVUxON0pzZmthdEZWcG12R3B4Y1JmZXRnZUQ2d01lcEVyaXpXNmFJWGxtdUswdjJXRVI1RlJ2MFE?oc=5",
-    "image": "",
-    "published_at": "Sat, 08 Aug 2026 10:08:37 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089638+00:00"
-  },
-  {
-    "id": "f764bbcc6577",
-    "title": "New heart drug targeting inflammation falls short in clinical trial",
-    "source": "Cardiovascular Business",
-    "summary": "New heart drug targeting inflammation falls short in clinical trial&nbsp;&nbsp;Cardiovascular Business",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTE90bE5ZTDdJZC1kdkJHR1BhclBnWFpFTWY0ckFMai1DVk12RUVNd3YtWW93NkpWclVVb1FlemRyR1pJTW11UzRZUE14NnVlcVppZ05jYzg1cEZhdFhzMFNJdDlIVnRQWUlqdGpuUjZ0X1lXZ2pYSnRHSWhMcmFtX3FPZXZlLUFWYjdJZTlnUndPbU9sQUZVZmh5bnhweElPeTQ3ZWdFZGNxSnppUXZ4eWlpS0hjYjRWSVVIM09Od3ZPTlJ3M202ZndEQ0JXdjJfNTIxekxXVQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 20:22:24 GMT",
-    "fetched_at": "2026-08-09T22:38:36.089652+00:00"
   },
   {
     "id": "260b11ddbec6",
@@ -390,16 +410,6 @@
     "fetched_at": "2026-08-09T18:51:21.337436+00:00"
   },
   {
-    "id": "f5e3c3e98215",
-    "title": "Want more dementia-free years? A new study points to 3 clues",
-    "source": "MLive.com",
-    "summary": "Want more dementia-free years? A new study points to 3 clues&nbsp;&nbsp;MLive.comAvoiding These 3 Things in Midlife Is Linked to 13 More Dementia-Free Years&nbsp;&nbsp;Time MagazineAvoiding 3 Things During Middle Age Is Linked to 13 More Years Without Dementia&nbsp;&nbsp;NYU Langone HealthWhat You D",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxQW1oT2ZPZXNjUnplaEZTSDlzZEFFRTlnTEo1TndDN3E0NVFwSFJBMlpHU3czNi1WYjJxU2prd1AxY2NjMHR5VmNsSktvNi1wNWpLTlpQa1JPcUVPTGJjcXlDeUFtS2JxM2xVd19JaFJQM2hlTW9xTU5RYmkwdHpZQ3pmWVlIendQOGxwUmlNUUo2cjFaamNHaEVNSGRX0gG0AUFVX3lxTE1NdEJxU2ZqOVgzUGxLYWJzTWxuYW9IZDNnc3BsSUZoSUcxR0w4M3hUeVVpTVBLWDFobklKMDFuWXVwVldLNldhQTNoYW8tb2hOdmJoN1ZxSWlnV0UzRHdGWGtuTlVnTEcybnhpSm9tZmZyaGpNTGVrRXhxdnBZVmNZZDlmMUNmRE8tQzJneHFKNlRCUE9BLWxxc0ttZTA0UFFDczg0a0RFYmJvY0RDSFVLMDluaw?oc=5",
-    "image": "",
-    "published_at": "Sun, 09 Aug 2026 10:00:00 GMT",
-    "fetched_at": "2026-08-09T18:51:21.337533+00:00"
-  },
-  {
     "id": "88c3da0796d4",
     "title": "Pharma M&A: The Deals & the Molecules",
     "source": "DCAT Value Chain Insights",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Fri, 07 Aug 2026 23:08:00 GMT",
     "fetched_at": "2026-08-09T14:41:19.796059+00:00"
-  },
-  {
-    "id": "95e561706fa5",
-    "title": "Maryland state park partially closed after rabid beavers attack visitors",
-    "source": "The Washington Post",
-    "summary": "Maryland state park partially closed after rabid beavers attack visitors&nbsp;&nbsp;The Washington PostDNR Closes Additional Areas of Cunningham Falls State Park Following Second Beaver Attack&nbsp;&nbsp;news.maryland.gov2nd Beaver Tests Positive For Rabies After Attacking Fisherman&nbsp;&nbsp;Patch",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQby1GYXhsMnhpMHNVcUdZdmFsLS1wRzkxTU1mUU8wdlYzZ19MX2QyUW9jekg3Vm1sWUwyNnI1VWpZOU8ydU9icFptbnZrRTIwU29RVExNXzdPQ2NleVdLVy03NkdURlVIN3dkaUd5cHdmMHNlbFlQZzRDeDVxRTR5S2wzOUd2bU8tRzFXSUsxTE9NcU5DX2hINTFiSXdEcEk1UzA5M0lxSFcwdkkyNXMxRWRNd0czZW8?oc=5",
-    "image": "",
-    "published_at": "Sat, 08 Aug 2026 17:00:01 GMT",
-    "fetched_at": "2026-08-09T14:41:19.796127+00:00"
   }
 ]
