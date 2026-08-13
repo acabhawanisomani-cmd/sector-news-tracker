@@ -7,17 +7,17 @@
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RUkyVmFCbTJhdEc0Um1tTHJTY0FBRExsQnFYSnY3ZlFTXzhVcmNBbHRySk5FRVk2WFM4UFEzanBVMjJMZVRlb2l0UkN0bURUYThGeFBjVC05bTZhWldpLUJOY192NWdWUFh1SEcxeFl2QkVkZk5TWVNn0gF_QVVfeXFMT0V4V29fNTl1TFpIcHhTMGpwV3EzanU3UmN3bUl0UVNqQlZtblh4VDBUeXpkQ0V2dEtKYkJnVzYzS2xjMHdGRDRvdVJuQnZaZ21YeTZ6aHpBa2VRZXoxMTM4NklXZVFNc1hxOEZUeEJtc1pCdTB6TWFYUnZDZXBnaw?oc=5",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 07:32:55 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700282+00:00"
+    "fetched_at": "2026-08-13T06:23:27.052130+00:00"
   },
   {
-    "id": "c752a828ddbd",
-    "title": "Google Pixel 11 Pro Fold launched in India with Tensor G6 processor",
-    "source": "The Hindu",
-    "summary": "Google Pixel 11 Pro Fold launched in India with Tensor G6 processor&nbsp;&nbsp;The HinduThe Pixel 11 series: Your most personal Pixel yet&nbsp;&nbsp;blog.googleGoogle Pixel 11 Series Unveiled With New Chip, Upgraded Cameras. Check Prices&nbsp;&nbsp;NDTVEverything announced at 'Made by Google 2026': ",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUM0OXczSHJOZnhSVUlMdDliUUxZVUVOM0ZSN3NPVWV1N3lBcl9qdExFbVVNRzFCcDFhV0U0WF9tTEhNemRFZkF0dWVyVVg0dGx4MGJNSVFzYVByTEJZWjFVaGJoQldFQmVQWmhGWFBrd2tyZkJNYzdfTFNQLXhwWXh4a2V5MUM0ei11Mzl0ektQN2N2U0pEdFdBVWN0Vk9QYkswZ3VJZWtlQTlSZzFQQklCbG82X2ViYXhrUjBLYW8ycktaNWJNUHU1RE1PS24xUVNTMldTb9IB3gFBVV95cUxOSzBGazN6RWFDc3daMTJIOUE1My1TWk4ydTZWdzBsTDMwWEJ5bl9VTzl3cjFqNTdxLXhhWTNEZ1h4RU10QTRtMG8wWlRHTzRuYVJuUkNGOTVVRGtXd2tacFRjcGg1UEYwNXo4Qlc0SUwtRGE2eWtyRFhVQ3RtT0ZlZmpmQmJ0ekVaM3hCUTNhQjNMQXFnS2NTYUJzV1UxR29ob1VsWkduRmt5RW1vOUZCTHJha1ZIbW9MdU1wdGJBUVVPRFJXMkg2a2JtQUJqZV9wRXdnQVVVR1ZUQ0pzcVE?oc=5",
+    "id": "f7d20b8d82a4",
+    "title": "Google announces Tensor G6, bringing 4K Portrait Video and more to the Pixel 11 series",
+    "source": "Android Authority",
+    "summary": "Google announces Tensor G6, bringing 4K Portrait Video and more to the Pixel 11 series&nbsp;&nbsp;Android AuthorityThe Pixel 11 series: Your most personal Pixel yet&nbsp;&nbsp;blog.googleGoogle Pixel 11 Series Unveiled With New Chip, Upgraded Cameras. Check Prices&nbsp;&nbsp;ndtv.comEverything annou",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jMmtlOWdLVVBDeF9aNFg1cVFLakxhMDQ4bi05UVo5S240WHVGclNhd2NxWDYyYzBDWFRuRFFKQVVEa0JteFpKZVRSLTNYc3czcVZHUE5ObENlMHYzb1BwZ3B6ektUYko5MkE?oc=5",
     "image": "",
-    "published_at": "Wed, 12 Aug 2026 16:27:31 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700325+00:00"
+    "published_at": "Wed, 12 Aug 2026 14:00:00 GMT",
+    "fetched_at": "2026-08-13T06:23:27.052196+00:00"
   },
   {
     "id": "510ea42dc3b2",
@@ -27,37 +27,27 @@
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSFFnQ3VjUDZyOUE0b2daOG9nTGF0bUxrR1luT2dUR0FMR2JMRGVGdm5pN3BCdVFNblVlOVpNWk1kT3JvX0tLWjBwNHNBMUJQTEI1WmRYcDNBeG9POTR1X285b1gtYUE1VWhCWkN2dF9udGVoTTk2VkFwbTRWbzFhSXl2VGk5bmtYeHpPSzJjUTR3VXc0cjdZUl8zQ1VFTTZ4b0FYV3p2RW9yMm1JTXViNm5oam1nN0Nid3lYMkY3QVpaUVVacGZvbGJJUG13aTVlWFcwcQ?oc=5",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 17:25:00 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700363+00:00"
-  },
-  {
-    "id": "d90f04761396",
-    "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
-    "source": "CyberSecurityNews",
-    "summary": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions&nbsp;&nbsp;CyberSecurityNewsCritical Vulnerabilities Patched With Chrome 151 Update&nbsp;&nbsp;securityweek.comChrome Patches Five High-Severity Vulnerabilities, Bolsters Session Hijacking Defenses with DB",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tLW5VUElwSzJwNlZYYm83ZVZnOTV4VF9icGRGUjFyUVRiWFh3THVLRWc5NzloTjJuNUFqeThhYkwycnYwUU5SS05oU3V4YXN2b2JjbElqSXRvcDJGNTU2M0dIY1ZaLXFkU1B6RVp30gFzQVVfeXFMUFZYYkpPcEtaRlZhcklUX0VWbUxzZjJZaEJWVThvZUZaTm02dExXckZzeUcxejhfWWtZNmhTVzdXRXRzUHNPY1gzeUZNSmczcDNTMzltcWVzeEZ0UFFXa3VLTl9uWXRuZlkxcmZHTngyTUZpbw?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 15:01:37 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700395+00:00"
+    "fetched_at": "2026-08-13T06:23:27.052248+00:00"
   },
   {
     "id": "668cefe32171",
     "title": "Realme 16x arrives with the Dimensity 6300 SoC, a 144Hz screen, and a 7,000 mAh battery - GSMArena.com news",
     "source": "GSMArena.com",
-    "summary": "Realme 16x arrives with the Dimensity 6300 SoC, a 144Hz screen, and a 7,000 mAh battery - GSMArena.com news&nbsp;&nbsp;GSMArena.comRealme 16x 5G Launched in India With 7,000mAh Battery, 144Hz Display&nbsp;&nbsp;TechgenyzRealme 16x India price tipped, sharp hike expected over the Realme 15x&nbsp;&nbs",
+    "summary": "Realme 16x arrives with the Dimensity 6300 SoC, a 144Hz screen, and a 7,000 mAh battery - GSMArena.com news&nbsp;&nbsp;GSMArena.comRealme 16x 5G Launched in India With 7,000mAh Battery, 144Hz Display&nbsp;&nbsp;TechgenyzRealme 16x vs iQOO Z11 Lite: Which is the better budget smartphone in 2026?&nbsp",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGE2aTRHU3BObktUMWx6RzVManU3dVg0QzZGX29NQ3pzd00tdUxjUi1tT0tMTnFkaDhNUTl5SElmSnNReElUX1JzMzhrQVBEcGR3QnBZUGpQM05aSTZyVkYyQVUzczhCbkZMVVVueDBzOGd0UGhtaUlnWjZOTEREV9IBfEFVX3lxTE1GVi04Tl85ZExIbFRLQ0FxekhUdDZnQWVFdUpyRlNTQjZxMzg2M2d0YzdFb3B0aVJwUE4xaG01ZnI3ZUVfRkxjQlk2WVpxWTFObkZrTzF5YV9LZ2FhNTdzYTRGeENyRUZVRUE2QUQ5RUM4cDlFdlctc2ptVG0?oc=5",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 10:13:02 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700430+00:00"
+    "fetched_at": "2026-08-13T06:23:27.052301+00:00"
   },
   {
-    "id": "a63372c38871",
-    "title": "Lenovo unveils its next gaming tablet's AnTuTu score while a rumor reveals its battery capacity",
-    "source": "GSMArena.com",
-    "summary": "Lenovo unveils its next gaming tablet's AnTuTu score while a rumor reveals its battery capacity&nbsp;&nbsp;GSMArena.comLenovo Legion Y700 Infinite: Can a Tablet Replace a Handheld PC?&nbsp;&nbsp;The GadgeteerLenovo Legion Tab Gen 5 review: Stellar processing in a small package&nbsp;&nbsp;MashableLen",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVhJckVpeUNnaWVpdk5RQTJDeEtyMzZBYzlBMFJYUFZXYW1ZLVFIeFA2R01qLWstTWpNdDhGTHZXamJ0eFlucURBQS1FZng1TTdCdWZQblBtcmVGWnVWaHMzUjM0bWZoemJHM0V1OFlVRVRMVGlzSzVCU3gwajFibXd4dUhXdkdzSTJqNW1NM0h1M1BuRlYxZjVUaWp1dlNlellXbnZ5bVlUUlhGN3JIeS1UeVdQM1VWd0lXU3IwRDJLUkJTMGRydjNuMDliZHc?oc=5",
+    "id": "d90f04761396",
+    "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+    "source": "CyberSecurityNews",
+    "summary": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions&nbsp;&nbsp;CyberSecurityNewsCritical Vulnerabilities Patched With Chrome 151 Update&nbsp;&nbsp;SecurityWeekChrome Patches Five High-Severity Vulnerabilities, Bolsters Session Hijacking Defenses with DBSC&n",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tLW5VUElwSzJwNlZYYm83ZVZnOTV4VF9icGRGUjFyUVRiWFh3THVLRWc5NzloTjJuNUFqeThhYkwycnYwUU5SS05oU3V4YXN2b2JjbElqSXRvcDJGNTU2M0dIY1ZaLXFkU1B6RVp30gFzQVVfeXFMUFZYYkpPcEtaRlZhcklUX0VWbUxzZjJZaEJWVThvZUZaTm02dExXckZzeUcxejhfWWtZNmhTVzdXRXRzUHNPY1gzeUZNSmczcDNTMzltcWVzeEZ0UFFXa3VLTl9uWXRuZlkxcmZHTngyTUZpbw?oc=5",
     "image": "",
-    "published_at": "Wed, 12 Aug 2026 08:12:02 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700465+00:00"
+    "published_at": "Wed, 12 Aug 2026 15:01:37 GMT",
+    "fetched_at": "2026-08-13T06:23:27.052344+00:00"
   },
   {
     "id": "3e4d5046a7c7",
@@ -67,37 +57,47 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUFWNV9USkpRbW5HSEs3ellsVEZPcUtYRmNoU2x6cG40ZmVhaXBIaC1JWWl4SFNBQ21VbGJwcDdMX0lPNXd1RWRrWEIwQXY0UHliaHdCcUtoVFVRYnhZOUVtSE4wWTloVjVLdzZTMjFDSl9VVmZHMjZsSU1JUWNtZ0xtbjJYRFQ4M0ZGZG5mX2hJblZPTWdnVWFLQWlWdm1LZl82WWt4RXI3MFhh?oc=5",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 11:09:00 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700502+00:00"
+    "fetched_at": "2026-08-13T06:23:27.052394+00:00"
+  },
+  {
+    "id": "a63372c38871",
+    "title": "Lenovo unveils its next gaming tablet's AnTuTu score while a rumor reveals its battery capacity",
+    "source": "GSMArena.com",
+    "summary": "Lenovo unveils its next gaming tablet's AnTuTu score while a rumor reveals its battery capacity&nbsp;&nbsp;GSMArena.comLenovo Legion Y700 Infinite: Can a Tablet Replace a Handheld PC?&nbsp;&nbsp;The GadgeteerLenovo Legion Tab Gen 5 review: Stellar processing in a small package&nbsp;&nbsp;MashableLen",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVhJckVpeUNnaWVpdk5RQTJDeEtyMzZBYzlBMFJYUFZXYW1ZLVFIeFA2R01qLWstTWpNdDhGTHZXamJ0eFlucURBQS1FZng1TTdCdWZQblBtcmVGWnVWaHMzUjM0bWZoemJHM0V1OFlVRVRMVGlzSzVCU3gwajFibXd4dUhXdkdzSTJqNW1NM0h1M1BuRlYxZjVUaWp1dlNlellXbnZ5bVlUUlhGN3JIeS1UeVdQM1VWd0lXU3IwRDJLUkJTMGRydjNuMDliZHc?oc=5",
+    "image": "",
+    "published_at": "Wed, 12 Aug 2026 08:12:02 GMT",
+    "fetched_at": "2026-08-13T06:23:27.052443+00:00"
   },
   {
     "id": "38036b249520",
     "title": "Microsoft’s August 2026 Patch Tuesday Fixes 400+ Vulnerabilities, Including Three Zero-Days",
     "source": "LinkedIn",
-    "summary": "Microsoft’s August 2026 Patch Tuesday Fixes 400+ Vulnerabilities, Including Three Zero-Days&nbsp;&nbsp;LinkedInShattering the Dream – When a Job Offer Becomes a Zero-Day Attack&nbsp;&nbsp;Check Point ResearchLazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor&nbsp;&nbsp;theha",
+    "summary": "Microsoft’s August 2026 Patch Tuesday Fixes 400+ Vulnerabilities, Including Three Zero-Days&nbsp;&nbsp;LinkedInShattering the Dream – When a Job Offer Becomes a Zero-Day Attack&nbsp;&nbsp;Check Point ResearchLazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor&nbsp;&nbsp;The H",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDEtYW80VTN6VjFOUTE2MjRWcjN4QUY2MFdTMFQ5WTJ3VjZjdWlKMl9PbHRqeEE1OUpVSTMyc0dsaHFXaTdXa19tTUdxZXN6R1pieG5WR1FKTGtuUVYyalVBd3RVczVSc3dSRHJVekpYMlZGQllpbENQQTR5b29wQ3oxMnBUOG1UQjdJ?oc=5",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 20:30:04 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700542+00:00"
+    "fetched_at": "2026-08-13T06:23:27.052497+00:00"
   },
   {
-    "id": "f6da3fae068c",
-    "title": "Apple in Talks With Publishers Over AI Siri Content Deals",
-    "source": "t2ONLINE",
-    "summary": "Apple in Talks With Publishers Over AI Siri Content Deals&nbsp;&nbsp;t2ONLINEApple in talks to pay publishers for Siri AI content- WSJ&nbsp;&nbsp;Investing.com IndiaApple wants publishers to help make Siri smarter, may pay hundreds of millions: Report&nbsp;&nbsp;The Economic TimesExclusive | Apple i",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1pxaWlNamtBUllnaDFQLWRVbTZXdTkteV9lLWVMczRQZTQzWXhhNkVZem5scXNmbkozN2xrR2M1UXdqTXF3U0xoZ2JZX00tanV5aXFjYnZfYlloT3Mwd1F6RzY4dWFWd3V0bmdWcF9YRExGRnY4cFZ6T0tCNnF3OE8xTlhkakpoS0s5YlhWMUo2dVNKdWY5b1p3UW5ER19hQnczT0J4UEc0WG5Sb1pBS1BJWXEzQQ?oc=5",
+    "id": "74bc7284b92c",
+    "title": "Google Pixel Watch 5 debuts with Gemini Intelligence, improved health tracking - GSMArena.com news",
+    "source": "GSMArena.com",
+    "summary": "Google Pixel Watch 5 debuts with Gemini Intelligence, improved health tracking - GSMArena.com news&nbsp;&nbsp;GSMArena.comPixel Watch 5: Proactive assistance and advanced health tracking on your wrist&nbsp;&nbsp;blog.googleGoogle’s Wearables Will Track Insulin Resistance in Category First&nbsp;&nbsp",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFc0VzlWVEpCTldkRHJsLTNyVi1SWW5nRmFGc2xDQnlCY1hJaUk4czZ4amVqbUx2Mm5UVzlXZVZOd0dvX3dnYmFtV1YtU3RxaTI1RUhzWGVjWVU1Z0hDc0ZXRG5Tb1kxMTFCdXNsbm5hZEwySTlXaWdNakxVa0FQY05uaUZrOHpqVWQ5VVJKaFg0ZldsOUFzSUZPWE5TSG5MX3FUUllUckt1eno2a3BHcW1uNFFPYXNCaS15OTV1RdIBuwFBVV95cUxPdEZqbUVCc3RlMWxKdmdwODBqR3NZejMxUW9ReXN1ZnlKT2E2b19LeTBlTnlONTZNbVFPcjN3bDRXeTZfNGhNZWhWc0FubGtXd0FJc3ljVHV4ZGtjUWhMSnBjWHY5SHg0VkpwS0RLdDBQTjVYRS1YV2RqYm9zVG14aG9sTDFpdXFHVVEzWTN6MUtUOVhaNnllWDNxUHU4Vm5VbkZ5M2pvOWdLM1ZjUEotX2lFM2ZYUmtXcmVv?oc=5",
     "image": "",
-    "published_at": "Thu, 13 Aug 2026 03:51:00 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700575+00:00"
+    "published_at": "Wed, 12 Aug 2026 15:10:03 GMT",
+    "fetched_at": "2026-08-13T06:23:27.052550+00:00"
   },
   {
-    "id": "5ca7108530c1",
-    "title": "Pixel Watch 5 may outpace its biggest rivals in GPS route accuracy",
-    "source": "Android Authority",
-    "summary": "Pixel Watch 5 may outpace its biggest rivals in GPS route accuracy&nbsp;&nbsp;Android AuthorityPixel Watch 5: Proactive assistance and advanced health tracking on your wrist&nbsp;&nbsp;blog.googleGoogle’s Wearables Will Track Insulin Resistance in Category First&nbsp;&nbsp;Bloomberg.comWhere to preo",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNE9TVmxGcXBseDVwT1prLUxqVm5kVEJ4ME9fVWc5UjB2ZzZXUm90Unh0WGduN3gyV09LWlhRWEY1cEdVX1c0R1puVllVVmNHdk9VSnBuTm9DRm5mbnBnQmlaSFh1TzhGTFBUOXM2clRLS1lGekE1M0JIdG0?oc=5",
+    "id": "a7e432c25af1",
+    "title": "FDA clears hearing aid feature on Samsung Galaxy Buds",
+    "source": "The Times of India",
+    "summary": "FDA clears hearing aid feature on Samsung Galaxy Buds&nbsp;&nbsp;The Times of IndiaSamsung gets FDA’s nod for hearing aid feature on Galaxy Buds&nbsp;&nbsp;Deccan HeraldSamsung’s Galaxy Buds Are About To Steal One of AirPods’ Best Accessibility Features&nbsp;&nbsp;GizmodoSamsung Turns Galaxy Buds In",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ2ZVLWFuNHB1bkR3MkltUGhjMEs3bDNwYldaTnFpdDBYQzA5UldCeUtPbG5SdXdETHphVWtfLW1GekRjSHVqak5SdW5nMXZFSElpSkV4UFJKV2REYkZoQWZnYUI1M1h2TW41b0JUNjZjcVRHMHlTZU9nc3hJdC1FaTBkX2k5V081VjVKQ2hMYjJzaDVCRENRUnJUb1UwRENWN21ZT2NqbmZBRXlwdmZRelhXNk9Iem9hMlFTMkd5b29rMkVfNWtGQjFFRExVNm5uNmfSAdcBQVVfeXFMUHNGSjFSZ2x0ZWFwaHB0MVg4dVljRGkwN3l3Z2ROVXU0al9BOWJaT21xQmY2OTRfTzg1QU93LXVHaGFsSXJxXy1mU0pkWXlDdjRLR3VUUFlUdUF0U1F6TmJKeGFFRWExN2M2YmFiOE04MWZEd2RGZmtxMHN1alk0MWlmejBtTnFCNV91YllVTnZ4OFFTU1dWRnNZQUw4WG1LQy1DSnhqemhSSU13czdkaXYyRWZfRERNQ2g4dXVNWG5WdEh6cUt3XzhkMnQ3cl9CLTRET29TZDQ?oc=5",
     "image": "",
-    "published_at": "Wed, 12 Aug 2026 14:00:00 GMT",
-    "fetched_at": "2026-08-13T04:57:30.700610+00:00"
+    "published_at": "Wed, 12 Aug 2026 08:34:00 GMT",
+    "fetched_at": "2026-08-13T06:23:27.052594+00:00"
   },
   {
     "id": "8d928682ac0f",
@@ -107,7 +107,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlJdkpCUzYtbmMtY3lmaG0xbFZKWURFaTI5ZHp1ZDcwc0x0YWlZWmdHdnRnTDAxU3FHNHNqQmpKOEVtNE9RM3lBMHV0OGQ3MlBpMzdwMFRHcW9xVzlvV2VURDJxTl9XLTc4MjJ6U0JFSG1RTlhBVTRPSkFDME4wZElxd3I?oc=5",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 08:00:58 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257632+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617554+00:00"
   },
   {
     "id": "284c86f77e2a",
@@ -117,17 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
     "image": "",
     "published_at": "Thu, 06 Aug 2026 09:22:08 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257659+00:00"
-  },
-  {
-    "id": "ba68d168dcd3",
-    "title": "35 years of liberalisation: How IT sector became India's dollar engine",
-    "source": "Business Standard",
-    "summary": "35 years of liberalisation: How IT sector became India's dollar engine&nbsp;&nbsp;Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV0JCcHBEaVdrZVYyVEp3Y3EyVjh6QjkwZEVkSXVTcUxZWHlrWTFTNGUwOE1MQVoyT3QxMk9heVJVWEh0ekFESVQ4LVZlaVQ3OWRpMHd2VmNsNWVyZWJkWHNtTkNod0g4VUQzWFFRSWt6anZ0M3Z1R3VmV3Y3aUVVSlJFbHFpWnBITzk5TUxDclN0WXF5NUxQTVZhX29WNFJTWjhOUnV1VUNtR3NOa09jYlhtX2pjMG11OWVRYmRlak12eDU5cXhVMXhpLWJ4Wko4dGZn0gHYAUFVX3lxTE1BLVl0aWY3UEtFUDhsNWJWREstYkZzR25hcU96WXRRMlE0bUE1QXQtYUJ6VEdLbzVOUDg5eUc5MlotYWRRZ29GRU16QjNubXloQVVodXMyTTRKeEdnbF9fSVNRNkRCQUdfc05oX3NWaE5OSWRDdW4tbFZpeGRaSWZGX1ZBcElOYk00Wi10UUlydDNaUmhUUVctc1JOOVJIbm5pQkstYm1NNjl0WVBFUkhBMFQzQ1FHTENtTXN5WTQwWVNXOGJ0cnBTOEc0UHdzSXlFUkVEMHRzdg?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 05:54:25 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257679+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617588+00:00"
   },
   {
     "id": "95470fdc77cd",
@@ -137,7 +127,17 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZzZvaS1fUURFejRJcTdUVG5WSkFpOWc0cWJYTE5zbHR4UWl1d1NzZ3U1SEdPMG5rdFN4OVZoeWExZWg0UE94THZIejZQZFFMWk5nTW5KbFI5SlNWbEhXa1RiQU85Vll1SzBMOTBSS3NIU2RKRDNTOWZVdlZmY0ViSUNvaFR6VmdKNEs5ZjJ4UlRPRmd5UWhlN19oZVlvTlpRQ0Rkb2FXRXhqbG1wXzJFSk5RVEdLY0t3eEYwLXczMnlMRzVOS1g2YTE3X1YtcU1JQkF6dkxJcFJVQzBBYjM0NktjRkdwbU5P0gHvAUFVX3lxTFAwLS1GdVQ1R0NiakFHTElpQ04zN1VVbUdLc1lvdWdFVDRnbmFuamc5UWN2UGxnZkwyRTZOTWdJOVY5akhIYzhlT01XOFVOQk9ZaFVPbFBZYVVEQlI4cXdMdlVSR19iWW8zVVY3RDhDdE9YNWdEZ1BYYlVNRWhJY0VwU3J4UWh5THh6N3pnejZ3WGZkSFNDU2c4VVdtbUI4UDFZTkxhbXllRUtVYWZGWGZKQ3o4cWg2bDAxTU9TejNzT3YtZ1NCeDR2N2V3SWxFSHU0cU5WdDZmTzlUYjRLQkwwRy1FU25aZFFJZzF1RV9Z?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257698+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617612+00:00"
+  },
+  {
+    "id": "ba68d168dcd3",
+    "title": "35 years of liberalisation: How IT sector became India's dollar engine",
+    "source": "Business Standard",
+    "summary": "35 years of liberalisation: How IT sector became India's dollar engine&nbsp;&nbsp;Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV0JCcHBEaVdrZVYyVEp3Y3EyVjh6QjkwZEVkSXVTcUxZWHlrWTFTNGUwOE1MQVoyT3QxMk9heVJVWEh0ekFESVQ4LVZlaVQ3OWRpMHd2VmNsNWVyZWJkWHNtTkNod0g4VUQzWFFRSWt6anZ0M3Z1R3VmV3Y3aUVVSlJFbHFpWnBITzk5TUxDclN0WXF5NUxQTVZhX29WNFJTWjhOUnV1VUNtR3NOa09jYlhtX2pjMG11OWVRYmRlak12eDU5cXhVMXhpLWJ4Wko4dGZn0gHYAUFVX3lxTE1BLVl0aWY3UEtFUDhsNWJWREstYkZzR25hcU96WXRRMlE0bUE1QXQtYUJ6VEdLbzVOUDg5eUc5MlotYWRRZ29GRU16QjNubXloQVVodXMyTTRKeEdnbF9fSVNRNkRCQUdfc05oX3NWaE5OSWRDdW4tbFZpeGRaSWZGX1ZBcElOYk00Wi10UUlydDNaUmhUUVctc1JOOVJIbm5pQkstYm1NNjl0WVBFUkhBMFQzQ1FHTENtTXN5WTQwWVNXOGJ0cnBTOEc0UHdzSXlFUkVEMHRzdg?oc=5",
+    "image": "",
+    "published_at": "Wed, 12 Aug 2026 05:54:25 GMT",
+    "fetched_at": "2026-08-13T06:23:27.617654+00:00"
   },
   {
     "id": "7cb0318087bf",
@@ -147,7 +147,7 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
     "image": "",
     "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257717+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617677+00:00"
   },
   {
     "id": "bb7a04c80b50",
@@ -157,17 +157,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWHJPZFdGb1VpYUZ4R2pOYmRpdlB0eEVxZmpNTHY1aGc2a0pTRFUweWtSbUd3TlNFaGNqaTltUjczR2k2MENRUXVpY3pwanl2S0pMUEFYQU9IWlQtNG0yMHZtV1dhN1Jaam1VY0IwQ1NfZ3F0OHJPSENCZ0dYUUxSc1VtSG1rQ0ZmNk14TDJUckF3MWZuMWZUWmlyaURzSlFDUDJlRGo2RXLSAa4BQVVfeXFMT003U3cxaEJleHBMdUEwT1VPekd6TFpVdi1XeldpVXRBNEVTTmdtMnNONXFGTS0xQVhMWlhqVzBxWW00aUd2ZFl0dVRCeEFjWmJzN0hXSWlQekRxRVpNUzN3dlp6ZllmNTlEYzZJSEJ3alRRamwtN2MwZmF0T3V1ck9xZHNVblNkMGRLTTBUWWhrb0RKTTMtZmNMVXpmWkdzYWhiaHpHVmh4Vkl5bm93?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 01:29:24 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257733+00:00"
-  },
-  {
-    "id": "7e07f0ce5089",
-    "title": "Explained: Who gets India’s Rs 1-lakh crore deep-tech fund, and how",
-    "source": "The Indian Express",
-    "summary": "Explained: Who gets India’s Rs 1-lakh crore deep-tech fund, and how&nbsp;&nbsp;The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1VDd3hSWS1uVnAwa0kzbF9xODlRMG0xOVFmZFFCNWtOZ3B1UlZZazQtVXNSNUIwaUI1QVRmWnFUdlpXa2MwcEZ2a3BiQzZyaEJiMUUyR29PU19oSFd5QUtocF9YRjgxWkJvZWY5TkQteFFNUWZOOC1TRGF2eU9lOFVxU1hGcjJfelB0T1FJbWhsZHNGQU1SWGVCNGp4b3hPbDdvWmtxYW5QSl850gGzAUFVX3lxTE1yTzEydHdnbzBRUTItMFpObUpKcDIyTmZJUC0wV0pQeHZLalA4ZjUtclA1RGFfU0JmallrVTZSeDVWQXdFaTRKUTh0em1VdXV0OEwySlNZaUtqRkpVdFcyb016aDNic0lJa25JU05KdU1SSGdQYk44Y0xvam1kMHpIWDVlS1BhRFNqTFdHM2xVUmVoMkd6dXlKSTdiMHRhbUk1MjlfVE12R0ZUOU1nR19fWGpz?oc=5",
-    "image": "",
-    "published_at": "Thu, 06 Aug 2026 23:58:41 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257749+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617694+00:00"
   },
   {
     "id": "eee9ae1bc17f",
@@ -177,7 +167,7 @@
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWWl0Z1Z2SlZrTnpZYlJwNG9RR3FmZDVwaDloVlFfS2pNM2lRd2pjMkpmakx4VnNUR1BYWWdKV25MbVltbjJwWG5xcGZIemlkSVBIdzdUaDVrTjVWdlhadlJtUVMxR3VhVlVYNWpjbi1takFZZDExQ2JJQ1loQTNuMGJuRFNBZmNxS25MblRBbC1iamNURTFvbS11VmRyZkVocWhBd3FVaXhlU1BtZlhUY0FudGtoYVJ0N3pfZlQtTzk1NV9YSC1SU1pnZkxaR1pmNUFSSXRqMnFpQU5Bdmc?oc=5",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 05:15:09 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257765+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617712+00:00"
   },
   {
     "id": "5dca91176e6a",
@@ -187,7 +177,7 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3BMREpLUkE4RGF2akFqQWNSeEk0clZrMWlUSURVTWxvb1ZybzUxMlpoSjFRT1BSRVhjVE9KX2xNTjVPSGJ0MGcxdnZSX0NTYlJ1aXJDQlU5bmFaVkU2X0N1MmJqZllnejlHcFM5UUJjM2V6SG5QQkthUE92bnZlUlFRTGhyRmJQdEQ2aTV4VjFYb2RsSnZmZ1lVRkVHTDR1T0xGR2JDX29qT21TWU1xRGJ6YjFpVExfcXFmenRyUDI3SE1t?oc=5",
     "image": "",
     "published_at": "Mon, 10 Aug 2026 12:21:39 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257781+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617729+00:00"
   },
   {
     "id": "c72cb72cd68f",
@@ -197,7 +187,17 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVdhQTRTNTJxMExGTm9NVFpFdFFmbDFYbHF2WjN6NlpBRTIzX2ZEaE1rQjE3cEVjVjZFZlJXa0NucUNOMnNETmFZdWNKd2VLNFUtZmx6RmZpQWdCTUt5UVVtTnRpaC0ya3lxYnI5Z0kzSDQtUVdOYWQ2REk4cTVfUndWbnVRcmQ5eFU0RFNSeXRvTE5EdjVMcVBlWUJnbDRGbkxUTkNaZzVGMDQzS0pydzRVTzNlRl9DaTZBNmpya0NTUFRSMnN5dU5jN3BqYmfSAdQBQVVfeXFMT0RXYW84R2otM2YxN2puNVhyUjNqN1hDZEpiNmszS283cnladUg1Z0t2UGI4akpsZGNqWFY5cElVQ190OU5ITDlCQWFRMEtDWGZzd3RGVGVWb1NGU2gxbUJYQTRNLVpTRkp5VGFMaER1TWZDa2VkNTUxV1I2R1hVd1YwaUtBa0Y4NFZzNzFDU095WVdtc0cybGRubDRFTmRlWERTOS0yWVJPUGo0ZHVYSm1fd2EySllPd2lQZWgwS09vcFdVOTRXOTBqQlliOXY2VEhlZmQ?oc=5",
     "image": "",
     "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-13T04:57:31.257796+00:00"
+    "fetched_at": "2026-08-13T06:23:27.617746+00:00"
+  },
+  {
+    "id": "6894d263e6cd",
+    "title": "Dr Jitendra For Enhancing Private Sector Participation In India’s Biotech Ecosystem",
+    "source": "The Global Kashmir",
+    "summary": "Dr Jitendra For Enhancing Private Sector Participation In India’s Biotech Ecosystem&nbsp;&nbsp;The Global Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2JOc01nVkxMNmNsaXc0NUVwZlRLVHpTakp6U01rZVZ2Sy10ZXh4Q2JXUFFjVDdVY1FyXzU1VTFQajFUV0dnU0V1anNVeWwxVEVRWWRnUU1ZeUVGSnJVOTJ2WjNRZnd4eFpndHVMY1kxaUNCaW1DdWczMkUzSmpGSjU5bHdRZzN1clBkNjJRRENfSUlMeVVualFEVWRZR3VNRXpsMndPUlVWaE9JVnc?oc=5",
+    "image": "",
+    "published_at": "Tue, 11 Aug 2026 02:56:25 GMT",
+    "fetched_at": "2026-08-13T06:23:27.617763+00:00"
   },
   {
     "id": "afb1f14a05ca",
@@ -207,7 +207,17 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHpQWFROZFkxMDJLX1RmaWVYT2RGeWxvWHVORjMtM3BFWjJJRm1uc28tbS1OMUhVNmtyQVNNN29SWXpiM0labmVQTk5IMURVbk1xVmlTWWNQSzc1VzNKa3ZfUllBMTZnZXliSEVFelJtSHNKOU1wYjN4Rlp5NV9ZcXJjOEt0SDFwUEctOFVvc054QUlYcXZWR1Y4MVFDazZRWEpJSVJHQkQtWUhTaC14OGZLUHg?oc=5",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 17:05:10 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259034+00:00"
+    "fetched_at": "2026-08-13T06:23:28.666812+00:00"
+  },
+  {
+    "id": "74e605e19f3d",
+    "title": "HT-2: Giving Wings to Indian Aviation Industry",
+    "source": "Media India Group",
+    "summary": "HT-2: Giving Wings to Indian Aviation Industry&nbsp;&nbsp;Media India Group",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHFja21LVHBXamFYT3NVbnN5NGd1LXNub29XbnNKYTFKUlhOc2wtem1sRXdTUGlCeGMzY09SZkFsbURMRWxzUmJPcXhwWV9jTzZPeE9zY1VtcUctVks4clNZRVgtTnJublpkWmNqUDZxMHNfc3ZfYVFmMGV3c25PRVFBQQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 05:56:41 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666841+00:00"
   },
   {
     "id": "8aaa19af4eaf",
@@ -217,47 +227,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnJqQ2ZNT0kwamVqYTVzQ3RqcmlBWE9HY2ZsMFpaMDBqbTBlTWhYRkhOSGdTNWdzcm4wZHkxeWprY3dqcy13TmY3ZzR4c29kUUFvak1FMlA0QnhUbnJwTk1SMUs5Q0dPRnVBOEtITmdGVk10SVljWjNKNnNCMnJ1SDN5RVFNQ1NvU3FJc3FzWlk4UW1ZdDFlcUJIYnhQS0xDRVo4dFRTM0hHaUo1dTBwdEtR?oc=5",
     "image": "",
     "published_at": "Sat, 08 Aug 2026 09:23:30 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259050+00:00"
-  },
-  {
-    "id": "2ff5817b0162",
-    "title": "India plans insurance reforms to rein in healthcare costs, sources say",
-    "source": "Reuters",
-    "summary": "India plans insurance reforms to rein in healthcare costs, sources say&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2x5eDJmd1ZZVS0xMWNiVDlaRTNhWnpNanFEYXZOa0RrLVp0LTJITW1JdU1qUUV0VkJtdWpVTXBCZzE4Uk5yT3ozRXVvcDFTLUhwZThpQThIdXFHcGpsaE9nUzdkTmdSVWJkTmdkdm5HNEFnNTZNUFlSaVQwNzhWVHBlU0dYeDJtNzIwVnJ3dVJfSGIwWEFzM3hyTUdWZWFMdUJXbGlEd0VkZFEzXzNqb3M5SU9wM1k?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 09:40:10 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259064+00:00"
-  },
-  {
-    "id": "355ed9fa74f2",
-    "title": "Indian music industry faces Rs 350 crore annual sync revenue loss",
-    "source": "Daily Pioneer",
-    "summary": "Indian music industry faces Rs 350 crore annual sync revenue loss&nbsp;&nbsp;Daily Pioneer",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXh2dkRoZ0tjSlNraEtWR1dZZ2dPdkNkSm9yQ1BaUGRFM3ozZTdLUmR1YW5ZTXNnN00tLXlnbEIzb1FTNDg3ZU5oVEFxS21DeHRSWnd3a3FwVDNIb3p3YnMyZENfNG9YTk5ITU5kZkNHRDR5RFVfVUpFd0NvY1RCb1V4RFh2UGtmWXN3VEd2TmpCSEIySVUwa010bm51T2IwV2ZZZVk0cHdpNEhraHJ4aUY5QWdzdw?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 09:45:24 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259078+00:00"
-  },
-  {
-    "id": "41b6e997cd99",
-    "title": "Medical Device Industry Opposes Draft Bill, Seeks Separate Regulatory Framework",
-    "source": "The Indian Practitioner",
-    "summary": "Medical Device Industry Opposes Draft Bill, Seeks Separate Regulatory Framework&nbsp;&nbsp;The Indian Practitioner",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2VkNllESlF2U1FlcVo0Z011WkVuQ3FLWjR0Rlg5VE5nUlZHVlJ2RlI4blhUWWRkbHc2ZDlGOU1pc2JWaTl5RVdnNkg3Z1o1T3RQOUNGVDhJQW5nWnA3eGljUDZnVzVRS1ZkUGZMZEdkdXhjU2gxbl91TEtIOFUyYm42ejdJS2djTDV6ZGdjakFiQWhLdUt5eWpEX2tPcW13OWJKZTBJSzVsQ3JFWVM5TF9IVQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 15:18:17 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259092+00:00"
-  },
-  {
-    "id": "921af142ea98",
-    "title": "Indian Music Industry Faces ₹350 Crore Annual Sync Revenue Loss",
-    "source": "tribuneindia.com",
-    "summary": "Indian Music Industry Faces ₹350 Crore Annual Sync Revenue Loss&nbsp;&nbsp;tribuneindia.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3NhelNFX0NlMGs0emZwQTJXRFN3WVBQSUlmRmV0Y2pKOFJWTDMwTS16UDByWEhYcTFITTRlQUN1OFE4QTd4MFdGVjcyamxWRnZ2YUNIZFZtSnkxcjV6Qzl4U0FVandnTm1jd2lBLTd2a2ZLSlVBSkJpOFpQUlJPV2VzT21PcTVRV2prSXNYUFVsMGVLekFqLXBORkpjdlZueUZlMlRQeVp5RnpiTS1FN1ZrVUjSAboBQVVfeXFMTXQwakRaZVh3YndiSFUtN3BCc2JQc2cxZzlCSGl0Q1FxdWJlTVdqUWFjeDFNaEFWcVRIMjh6bjVDZ2NrMHFCSnVqUUpYckktOEdDT0pheU5jWnh0X2dZSE83MktRRGJ1MkRjZWNWWXVuaFZfb2tFQ3R2N1IwdkdhY1p3UFRucERJaUFTLTRxSUpNMUI0X09sMThHZWJiLUtJMHFTSm8xSmhHcXcxc1FKbllvbWRLRTB6TnNB?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 08:51:10 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259109+00:00"
+    "fetched_at": "2026-08-13T06:23:28.666858+00:00"
   },
   {
     "id": "7f14bb61aa3a",
@@ -267,27 +237,67 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkotSTZUMTFucHViMU5McTBjbkJSZHREQ2lxODBTN09xVjhEbU1taXJkeUJ2cEZseGdlTUd2TTVtRVdYZkxxNXZpMUxsdHBxMkRHR1NuSDZuVjI5ZUtCSmxMaXV5d09DV3l1LXBYbHd6cWdiYUhSLU40UHBGUU50Yk5TaFhpM2FmNXZQSncyRlpIVGFidGtvSE81V3RQUE1ibV9KanhQb3pfcGJSNl8yZUVn0gG3AUFVX3lxTE5XZUhDcWp6SzZJb1J3VHExX3Nyek5NaU5kcnVFbmtpWHppN3ByeTVjQUF2RnNWU2hMbEhoVndzR0lMOG45UnJPQVFDQmRlenVRYUFiamUzMC1kSFROR1FuX0ZyMEhUQk54SGtFTnF2cnhZUTcxMmpuLURZM0ZRZy04NW85dGdXaDZCMEQ3SGVVTFd4NXA4azJQTy1LMXdnV0twa2huTUJIUjJoMENnSEplaUhwMVk1cw?oc=5",
     "image": "",
     "published_at": "Sat, 20 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259126+00:00"
+    "fetched_at": "2026-08-13T06:23:28.666883+00:00"
   },
   {
-    "id": "7f0d49ba5d09",
-    "title": "Instagram, YouTube music use could be costing India’s music industry Rs 350 crore a year",
-    "source": "The Economic Times",
-    "summary": "Instagram, YouTube music use could be costing India’s music industry Rs 350 crore a year&nbsp;&nbsp;The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1wWFc4WWVOLVZncURsdExOUzdKVnpqeXR5VXFTZHdCTlo2YXRWUnI1YnRORDB4d0Z0REY5MWVIM1NrQWM2Y3ZlV09CeEkybTU2cktNem9UWnRfcVRmdzBpTVpXeTVLVXY0VDBGVmhIZ09aYUQ2c0xseDNweVN6UEZvV3prbkM5WFdkbThaak1aWUtEN1Z1ckU5YmZOOGF4X2RjWmpmYUVUN0o0X3hUOVQ3aUxOcTd2RkVCaGZLN2wycVcwd3otMzhBRFR1TmdsaC1wcXRsVWdJVml1a29KcEE0Rk5uVGF5cnRuRHFqaXhyYlMwcmJPQ1RJdjRRd9IBgwJBVV95cUxOcTZDZEExYW9SQ2hGZU4tWmdOX24ybExGZzBYUmpFelZXSlp2SVBrZUdtS0V6VGZMcjBDN19KM0tZN3ZiQkFLamNYYW5hUmw1cEozcFZ0WTdGX2VIcEFyNlVjaEFTNGMwSllUUEVEZDB2SFFYWld1djRfVjRPakxWSWRnajRUTTJGdk50NFVCM3N4c2NnMjhzaGJNZm9lLUo2UFZMZ0hRRktEMkFJR1hwcHBndUUtMk5XRlRST3NRcjZ4UDlJZDdCa28tQXNPOWd1Z3Q4M09BTV8xRlZibi04MG01MWxrYnhBZ0gxZzVMbkhBaWtzbjUwTy0zdWU1NEEtbTlZ?oc=5",
+    "id": "258dbb2153d9",
+    "title": "Indian Music Industry Faces ₹350 Crore Annual Sync Revenue Loss",
+    "source": "ThePrint",
+    "summary": "Indian Music Industry Faces ₹350 Crore Annual Sync Revenue Loss&nbsp;&nbsp;ThePrint",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUFnZ2RRUi00MjRDUWVUQVM2VDBGZ1FJOFBmNDRmd3RodWVUQTJjRllNLWRVTXRkZHNEbVVCb3kzUGc5OHoxd0x1UUh4WVZxR2gzOG54dGVEbXBObVFqNGlZQklqb0RrbmxOQTd4QUpSYnRtSnR6d0g5ZVEtSWxBXzRvNGhkU3RGVkxfU0U2alQ2OXFsNVRNVkREdE1YVldORDhJQk03RzVXc3JURDl0X1k3NDBLLWh3RHRZ0gHAAUFVX3lxTFBKYmRPaG5SbnR1YjJqU016eWZGaUE1ZGlHQjgyMmI3cG1PYkVHSzV4VjNQWjdHR3ZhRV9CQUgwamhZTFpjd05QYnRncnU3MGtoY2dpeHczRFVFNUY5al9yckh6d0ZVQUFlekZvMllYQVRjRWpYVlJXWnB0M2ZWWmZudVU2dDJBY1F5aVlaRXUxT1FIUEU1V01lVi04aW1lM0tLX2J2TS1HT1VqRmtCRWNpZGxLclVLWXNHNVRZZFlvSg?oc=5",
     "image": "",
-    "published_at": "Wed, 12 Aug 2026 06:47:29 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259145+00:00"
+    "published_at": "Wed, 12 Aug 2026 09:30:03 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666900+00:00"
   },
   {
-    "id": "6f8bca97e6da",
-    "title": "Geetanjali Salon Founder Sumit Israni on What’s Driving India’s Salon Industry Growth",
-    "source": "Indian Retailer",
-    "summary": "Geetanjali Salon Founder Sumit Israni on What’s Driving India’s Salon Industry Growth&nbsp;&nbsp;Indian Retailer",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VCNGZGMG1JV2ZRUnFjeVJTQmRqU0xBU0tGanY5RnNjZzBuU05iSGxmSmZRcU45ZTFKTk5DQmRaSThfa3p1R0lHVS05Y25PZmF0MDVmUGMtM2Q0YjFhUTN5eXJYWURJeF9QXzNwZ1oxOTFkbmxBX25YUkJLUk5aUTlEMzlrSVIydkUxY0NMQzNUNlhHRzRsdHNpRG1mZnlEeGVqV1lteGxZaGRoNlF2UHQ2Wm5BV0ZQUTNXcGNvVmVpMi1MVlg4NQ?oc=5",
+    "id": "14ead4064636",
+    "title": "Indian IT Sector Analysis 2026: A Deep Dive into Valuation",
+    "source": "ICICI Direct",
+    "summary": "Indian IT Sector Analysis 2026: A Deep Dive into Valuation&nbsp;&nbsp;ICICI Direct",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE9ZclhFcEFyLTNUTXhKT2duZUdCR1RVOGJCLXNDWEc1c1phaG5KV0ZSMl9sYnhoSHlTalZEa1R3TnU0Wks2WkdtcjJlZ2d4Ml9KX3BfRnA1QVd6Slc0b1hwQzUzSG8tc3hFX3hxVkpsd2lfUGdMSUlWc29zUGZEZUx4UHlRQmt1THAwVzBxWG1NeHpSUmdjRXVuVFFyd3IzblVrOW42djlCb1ZOaEdYREE0NnBMWW1kcFgteXVn?oc=5",
     "image": "",
-    "published_at": "Wed, 12 Aug 2026 12:38:47 GMT",
-    "fetched_at": "2026-08-13T04:57:32.259162+00:00"
+    "published_at": "Mon, 30 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666914+00:00"
+  },
+  {
+    "id": "2ff5817b0162",
+    "title": "India plans insurance reforms to rein in healthcare costs, sources say",
+    "source": "Reuters",
+    "summary": "India plans insurance reforms to rein in healthcare costs, sources say&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2x5eDJmd1ZZVS0xMWNiVDlaRTNhWnpNanFEYXZOa0RrLVp0LTJITW1JdU1qUUV0VkJtdWpVTXBCZzE4Uk5yT3ozRXVvcDFTLUhwZThpQThIdXFHcGpsaE9nUzdkTmdSVWJkTmdkdm5HNEFnNTZNUFlSaVQwNzhWVHBlU0dYeDJtNzIwVnJ3dVJfSGIwWEFzM3hyTUdWZWFMdUJXbGlEd0VkZFEzXzNqb3M5SU9wM1k?oc=5",
+    "image": "",
+    "published_at": "Wed, 12 Aug 2026 09:40:10 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666928+00:00"
+  },
+  {
+    "id": "f50f6a13b09f",
+    "title": "Hang Ten Systems CTO Believes AI Cannot Replace Some Indian IT Assets",
+    "source": "analyticsindiamag.com",
+    "summary": "Hang Ten Systems CTO Believes AI Cannot Replace Some Indian IT Assets&nbsp;&nbsp;analyticsindiamag.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazNRYWdncV91amNXREtmY3drMFoycGF3ZkE3aExLRy1qVmtKd1JzLVp4TzBmUkVicmpEV0o0NkpGSzlIOGZzSWlxWFFSNnV2c3ZTbU1LanU2TEY2c2pYcFdMdkVxc09vaVl5SWFDMzJaWWhxU0RzdndmRXJwYXRiSkw1N1FiSXRzZGlVemhHbGIyeGRfT0pMdkxRdGE2Y2xXUEo4M19IdDF5OWhXVVFqQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 12 Aug 2026 11:38:17 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666943+00:00"
+  },
+  {
+    "id": "5ed946c61495",
+    "title": "India's outsourcing industry is worth $300bn. Can it survive AI?",
+    "source": "BBC",
+    "summary": "India's outsourcing industry is worth $300bn. Can it survive AI?&nbsp;&nbsp;BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTHVnbzFpczd5Wk84XzJjRGZmX1JYX2I4M09UeDFtLXpDVUZYTTBvXzl3akhHLUpHWDFqN2RDMTRTLS01bWtnTktlYUFxZ2x5VlMyblRFY0lydw?oc=5",
+    "image": "",
+    "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666956+00:00"
+  },
+  {
+    "id": "355ed9fa74f2",
+    "title": "Indian music industry faces Rs 350 crore annual sync revenue loss",
+    "source": "Daily Pioneer",
+    "summary": "Indian music industry faces Rs 350 crore annual sync revenue loss&nbsp;&nbsp;Daily Pioneer",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXh2dkRoZ0tjSlNraEtWR1dZZ2dPdkNkSm9yQ1BaUGRFM3ozZTdLUmR1YW5ZTXNnN00tLXlnbEIzb1FTNDg3ZU5oVEFxS21DeHRSWnd3a3FwVDNIb3p3YnMyZENfNG9YTk5ITU5kZkNHRDR5RFVfVUpFd0NvY1RCb1V4RFh2UGtmWXN3VEd2TmpCSEIySVUwa010bm51T2IwV2ZZZVk0cHdpNEhraHJ4aUY5QWdzdw?oc=5",
+    "image": "",
+    "published_at": "Wed, 12 Aug 2026 09:45:24 GMT",
+    "fetched_at": "2026-08-13T06:23:28.666969+00:00"
   },
   {
     "id": "f187e5e15a8a",
@@ -297,7 +307,7 @@
     "url": "https://www.livemint.com/technology/gadgets/googles-new-pixel-watch-5-can-detect-breathing-emergencies-and-automatically-call-for-help-11786586682578.html",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 08:02:07 +0530",
-    "fetched_at": "2026-08-13T04:57:36.962890+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781224+00:00"
   },
   {
     "id": "8c4de2b65da5",
@@ -307,7 +317,7 @@
     "url": "https://www.livemint.com/technology/gadgets/acer-launches-swift-go-aspire-and-nitro-laptops-launched-in-india-check-price-specifications-11786548255750.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 21:11:33 +0530",
-    "fetched_at": "2026-08-13T04:57:36.962917+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781254+00:00"
   },
   {
     "id": "1d04c0346ac0",
@@ -317,7 +327,7 @@
     "url": "https://www.livemint.com/technology/gadgets/google-pixel-11-pixel-11-pro-and-pro-xl-launched-in-india-price-specs-and-launch-offers-11786548425759.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 21:07:20 +0530",
-    "fetched_at": "2026-08-13T04:57:36.962934+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781271+00:00"
   },
   {
     "id": "c18f34d53bc1",
@@ -327,7 +337,7 @@
     "url": "https://www.livemint.com/technology/national-ai-skilling-initiative-records-60-253-enrolments-in-phase-i-phase-ii-details-being-finalised-11786533504093.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 16:48:23 +0530",
-    "fetched_at": "2026-08-13T04:57:36.962987+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781294+00:00"
   },
   {
     "id": "2b38e78fe8a9",
@@ -337,7 +347,7 @@
     "url": "https://www.livemint.com/technology/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-11786531278880.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 16:11:18 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963006+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781308+00:00"
   },
   {
     "id": "78e563a246e8",
@@ -347,7 +357,7 @@
     "url": "https://www.livemint.com/technology/umang-records-over-11-crore-registered-users-798-crore-transactions-in-three-years-it-ministry-11786526724765.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 14:55:24 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963028+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781330+00:00"
   },
   {
     "id": "ab615fde2080",
@@ -357,7 +367,7 @@
     "url": "https://www.livemint.com/technology/gadgets/realme-16x-5g-launched-in-india-with-7-000mah-battery-144hz-display-check-price-specifications-11786517867867.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 13:56:51 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963044+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781347+00:00"
   },
   {
     "id": "9c3fe1fd6bee",
@@ -367,7 +377,7 @@
     "url": "https://www.livemint.com/technology/gadgets/when-and-where-to-watch-google-pixel-11-series-launch-live-in-india-11786504690468.html",
     "image": "",
     "published_at": "Wed, 12 Aug 2026 10:28:45 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963060+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781362+00:00"
   },
   {
     "id": "9d40d8d1fe15",
@@ -377,7 +387,7 @@
     "url": "https://www.livemint.com/technology/gadgets/google-pixel-11-pro-hands-on-image-leak-hours-before-launch-gives-early-look-at-pixel-glow-11786427206968.html",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 14:14:19 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963077+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781377+00:00"
   },
   {
     "id": "2c23178833d8",
@@ -387,7 +397,47 @@
     "url": "https://www.livemint.com/technology/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra-11786428751973.html",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 11:42:31 +0530",
-    "fetched_at": "2026-08-13T04:57:36.963105+00:00"
+    "fetched_at": "2026-08-13T06:23:33.781405+00:00"
+  },
+  {
+    "id": "b91c4f194b06",
+    "title": "Black Box secures $131 million data centre order from U.S. hyperscaler",
+    "source": "Economic Times",
+    "summary": "India's Black Box secures $131 mln data centre order from U.S.India's Black Box secures $131 mln data centre order from U.S. hyperscaler",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/black-box-secures-131-million-data-centre-order-from-u-s-hyperscaler/articleshow/133199665.cms",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 11:21:02 +0530",
+    "fetched_at": "2026-08-13T06:23:33.890490+00:00"
+  },
+  {
+    "id": "5963887b0eb2",
+    "title": "Home-cleaning products startup Scrubsy raises Rs 27 crore from V3 Ventures",
+    "source": "Economic Times",
+    "summary": "Scrubsy claims it develops its products through in-house research, formulation and manufacturing. Its portfolio includes foam-based kitchen cleaners, bathroom cleaners and shoe-cleaning products.",
+    "url": "https://economictimes.indiatimes.com/tech/funding/home-cleaning-products-startup-scrubsy-raises-rs-27-crore-from-v3-ventures/articleshow/133199108.cms",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 11:05:44 +0530",
+    "fetched_at": "2026-08-13T06:23:33.890523+00:00"
+  },
+  {
+    "id": "227cd2732e31",
+    "title": "Hon Hai to direct 2026 capital expenditure toward global AI expansion",
+    "source": "Economic Times",
+    "summary": "Taiwan-based Hon Hai Precision Industry Co. announced that its capital expenditure for 2026 will focus on expanding artificial intelligence production, while allocating funds to strengthen global research and development as well as manufacturing operations, particularly in the United States, accordi",
+    "url": "https://economictimes.indiatimes.com/tech/technology/hon-hai-to-direct-2026-capital-expenditure-toward-global-ai-expansion/articleshow/133198761.cms",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 10:46:31 +0530",
+    "fetched_at": "2026-08-13T06:23:33.890548+00:00"
+  },
+  {
+    "id": "e5c35a108764",
+    "title": "Why Meta is paying for controversial content - and what that means for the posts you see",
+    "source": "Economic Times",
+    "summary": "ABC News Verify found Facebook had monetised Australian accounts described as having white nationalist, neo-Nazi or anti-vaccine links. According to the report, some of the content they posted even appeared to conflict with Meta's own monetisation policies.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see/articleshow/133198524.cms",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 10:30:32 +0530",
+    "fetched_at": "2026-08-13T06:23:33.890568+00:00"
   },
   {
     "id": "b3429cc80983",
@@ -397,7 +447,7 @@
     "url": "https://economictimes.indiatimes.com/tech/tech-bytes/mirae-asset-venture-raises-rs-1125-crore-in-first-close-of-new-india-dedicated-fund/articleshow/133197850.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 10:05:13 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040592+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890590+00:00"
   },
   {
     "id": "e0c9e78eb6ed",
@@ -407,7 +457,7 @@
     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 09:09:11 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040628+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890619+00:00"
   },
   {
     "id": "78a7b5af7df2",
@@ -417,7 +467,7 @@
     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/articleshow/133196390.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 08:23:54 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040653+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890671+00:00"
   },
   {
     "id": "7c8259ce67f5",
@@ -427,7 +477,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/jury-selection-begins-in-meta-youth-harms-trial-in-california-federal-court/articleshow/133196054.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 07:56:13 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040670+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890694+00:00"
   },
   {
     "id": "6cec2bc1ec27",
@@ -437,7 +487,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/australia-to-make-tech-companies-pay-more-outlets-for-content-under-reworked-media-law/articleshow/133196032.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 07:53:01 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040690+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890715+00:00"
   },
   {
     "id": "0371a000fab0",
@@ -447,56 +497,6 @@
     "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/new-age-listing-day-gains-fade-fast-it-deals-up-for-renewal/articleshow/133195796.cms",
     "image": "",
     "published_at": "Thu, 13 Aug 2026 07:38:01 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040706+00:00"
-  },
-  {
-    "id": "056a2267c6a5",
-    "title": "Paytm senior executives get Sebi notice for 'timing' of 2023 regulatory disclosure",
-    "source": "Economic Times",
-    "summary": "The Sebi notice, dated August 11, has asked the executives to explain the timing of a disclosure the company made on December 6, 2023, when it revealed plans to pull back on small loans under Rs 50,000 - mostly comprising its \"buy now, pay later\" offering. The move had come shortly after India's cen",
-    "url": "https://economictimes.indiatimes.com/tech/technology/paytm-senior-executives-get-sebi-notice-for-timing-of-2023-regulatory-disclosure/articleshow/133191512.cms",
-    "image": "",
-    "published_at": "Thu, 13 Aug 2026 00:11:21 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040730+00:00"
-  },
-  {
-    "id": "3070495dc4b4",
-    "title": "Inside the Google executive moves that led to its big AI reshuffle",
-    "source": "Economic Times",
-    "summary": "On August 5, the Mountain View, California, tech giant announced a sweeping leadership overhaul of its Google DeepMind AI division in which its chief, Demis Hassabis, stepped aside in favor of his deputy, Koray Kavukcuoglu. Hassabis became chair, with fewer management obligations. At the same time, ",
-    "url": "https://economictimes.indiatimes.com/tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/articleshow/133189947.cms",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 23:19:30 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040754+00:00"
-  },
-  {
-    "id": "882b19413434",
-    "title": "Accel raises $3.5 billion to invest in emerging global AI startups",
-    "source": "Economic Times",
-    "summary": "The firm, which has backed artificial intelligence companies including Anthropic, Cursor and Perplexity, has raised four separate funds dedicated to backing young startups in a moment when the AI race is upending the fundraising market. A $1.35 billion global expansion fund will be set aside for lar",
-    "url": "https://economictimes.indiatimes.com/tech/startups/accel-raises-3-5-billion-to-invest-in-emerging-global-ai-startups/articleshow/133187201.cms",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 21:19:41 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040782+00:00"
-  },
-  {
-    "id": "cd4f35572ed1",
-    "title": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
-    "source": "Economic Times",
-    "summary": "Menlo Ventures and the EQT-managed Scaleup Europe Fund co-led the round. Tencent, Balderton Capital ‌and other ⁠new ⁠investors from Europe, Latin America and Asia also participated.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/vibe-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation/articleshow/133187077.cms",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 21:12:28 +0530",
-    "fetched_at": "2026-08-13T04:57:37.040800+00:00"
-  },
-  {
-    "id": "d8b290cd7d47",
-    "title": "New rumor tells us all about Apple's imminent iPhone price hike - GSMArena.com news",
-    "source": "gsmarena.com",
-    "summary": "New rumor tells us all about Apple's imminent iPhone price hike - GSMArena.com news&nbsp;&nbsp;gsmarena.comiPhone 18 Pro Release Date: Demand Drives September Launch&nbsp;&nbsp;ForbesiPhone 18 Pro BOM Cost Expected to Surge Nearly 40%, Leaving Apple to Sacrifice Margins to Sustain Shipments, Says Tr",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXNSRE9wanZvMXBnR0pJVFVHRkpUMWQzNG5QTlFEOTlUenBmcUhfMmdFSnZtalRENDVTSEpPUTJtcTdiMTZ5V290MVduc1J0aVF3am9mZXRnNld1V2l2T2dTVkpmVGxMOGgtMXRSSHUwN2dlelRyT3hKS3ItU1JHQ2oxV24wLW5fM3NjREllSjJsam45WmRGa1dtWEJDcm9CTGRiZNIBoAFBVV95cUxQRHRjdTlyNmhnWktIOFNSZVozRUExbVZuZE1JdnlhTHZFVk1WWGFnY2p4TzhLc1pNeExwYV82UUExMWZ1VHVWVXJNTkNGOWM0aEhnZHY4eXZ6THNTMGRvQmpSQTdBWW9yMVY2c3J1YUNiM183QzFKaWZiVkNFVXlwRHNyd0hwWWFjdVlDUFVtTTduT3FIVEdaejhxOTNlVVRV?oc=5",
-    "image": "",
-    "published_at": "Wed, 12 Aug 2026 21:11:02 GMT",
-    "fetched_at": "2026-08-13T02:29:49.660605+00:00"
+    "fetched_at": "2026-08-13T06:23:33.890731+00:00"
   }
 ]
