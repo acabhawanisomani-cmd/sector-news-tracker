@@ -1,223 +1,63 @@
 [
   {
-    "id": "6e2032561da0",
-    "title": "Flexi-cap funds with highest and lowest large-cap stock allocation: What the data shows",
-    "source": "LiveMint",
-    "summary": "Flexi-cap funds can vary sharply in their large-cap exposure despite having the flexibility to invest across market segments. Some of the biggest funds have a strong large-cap tilt, while others take a more diversified approach—creating an important distinction for investors to examine.",
-    "url": "https://www.livemint.com/money/personal-finance/flexicap-funds-with-the-highest-and-lowest-large-cap-stock-allocation-what-the-data-shows-11787158717875.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 23:11:11 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244697+00:00"
-  },
-  {
-    "id": "5ea9a476dc69",
-    "title": "Building a new house before selling the old one: Does Section 54 tax exemption apply? Rules explained",
-    "source": "LiveMint",
-    "summary": "Starting construction before selling your old house does not automatically rule out the Section 54 exemption. Find out when the exemption can apply, the three-year completion rule, CGAS requirements, key risks and documents taxpayers should maintain.",
-    "url": "https://www.livemint.com/money/personal-finance/building-a-new-house-before-selling-the-old-one-does-section-54-tax-exemption-apply-rules-explained-11787155206262.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 22:54:12 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244731+00:00"
-  },
-  {
-    "id": "2fb7ce2a7aa4",
-    "title": "SBI slashes bulk fixed deposit rates: Will the latest changes affect your personal savings? Check here",
-    "source": "LiveMint",
-    "summary": "SBI has reduced rates on domestic bulk term deposits by up to 25 basis points for select maturities.",
-    "url": "https://www.livemint.com/money/personal-finance/sbi-slashes-bulk-fixed-deposit-rates-will-the-latest-changes-affect-your-personal-savings-check-here-11787154362798.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 22:39:20 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244747+00:00"
-  },
-  {
-    "id": "232e463b9c3a",
-    "title": "Switching from regular to direct mutual funds: Know the hidden tax cost — and when the move actually pays off",
-    "source": "LiveMint",
-    "summary": "Regular and direct mutual fund plans can deliver different outcomes due to expense ratios, taxes and distributor costs. The decision to switch depends on factors such as the breakeven period and capital gains tax.",
-    "url": "https://www.livemint.com/money/personal-finance/switching-from-regular-to-direct-mutual-funds-know-the-hidden-tax-cost-and-when-the-move-actually-pays-off-11787147854273.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 21:54:53 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244766+00:00"
-  },
-  {
-    "id": "3e60cd75b158",
-    "title": "Madhya Pradesh Ladli Behna Scheme: CM Mohan Yadav disbursed ₹1500 monthly installment; did you receive?—how to check",
-    "source": "LiveMint",
-    "summary": "Madhya Pradesh CM Mohan Yadav transferred ₹1,750 to over 1.25 crore beneficiaries under the Ladli Behna scheme, including a ₹250 Raksha Bandhan gift, to promote women's financial independence. He emphasised the importance of women’s roles in family and society at a state-level event in Maihar.",
-    "url": "https://www.livemint.com/money/personal-finance/madhya-pradesh-ladli-behna-scheme-cm-mohan-yadav-disbursed-rs-1500-monthly-installment-did-you-receive-how-to-check-11787149037163.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 21:16:55 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244790+00:00"
-  },
-  {
-    "id": "1ec7c369adc1",
-    "title": "SBI cash withdrawal charges: Bank changes BSBD free transaction rule; check what changed, ₹15 fee and when it kicks in",
-    "source": "LiveMint",
-    "summary": "State Bank of India has updated service charges for Basic Savings Bank Deposit accounts, effective October 1, 2026.&amp;nbsp;",
-    "url": "https://www.livemint.com/money/personal-finance/sbi-cash-withdrawal-charges-digital-transactions-now-count-for-4-bsbd-free-withdrawals-pay-rs-15-gst-after-october-1-11787149413428.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:35:04 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244806+00:00"
-  },
-  {
-    "id": "112089d16cbb",
-    "title": "JioBlackRock regular plans explained: Higher costs, professional guidance | what investors get",
-    "source": "LiveMint",
-    "summary": "JioBlackRock Asset Management will launch regular mutual fund plans through distributors, adding a route for investors who prefer support.&amp;nbsp;",
-    "url": "https://www.livemint.com/money/personal-finance/jioblackrock-regular-plans-explained-higher-costs-professional-guidance-what-investors-get-11787146761309.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:50:07 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244820+00:00"
-  },
-  {
-    "id": "4723a308a1a5",
-    "title": "Technology funds bounced back in July: What investors should know before boosting their IT exposure",
-    "source": "LiveMint",
-    "summary": "Technology mutual funds rebounded sharply in July, but the rally may not necessarily signal a sustained recovery. With IT allocation rising in mutual fund portfolios, investors should assess valuations, existing exposure and fund strategy before increasing their allocation.",
-    "url": "https://www.livemint.com/money/personal-finance/technology-funds-bounced-back-in-july-what-investors-should-know-before-boosting-their-it-exposure-11787143346995.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:45:20 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244837+00:00"
-  },
-  {
-    "id": "43d6ed5069ee",
-    "title": "Investor vs trader: How stock market income is taxed, which ITR form to file and key conditions explained",
-    "source": "LiveMint",
-    "summary": "Stock market investors and traders are taxed differently based on the nature of their activities. Both may also have to file different ITR forms. Here are the key rules, classification factors and common filing mistakes to know.",
-    "url": "https://www.livemint.com/money/personal-finance/investor-vs-trader-how-stock-market-income-is-taxed-which-itr-form-to-file-and-key-conditions-explained-11787137945702.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 18:44:13 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244854+00:00"
-  },
-  {
-    "id": "82ab0cfd8e1d",
-    "title": "₹1 crore salary trap: Why high income does not equal financial freedom; CA identifies dangers of expensive lifestyle",
-    "source": "LiveMint",
-    "summary": "CA Anil Sagayanathan highlights the fragility of high salaries and lifestyle inflation on LinkedIn. Even with ₹1 crore income, financial stress prevails due to rising expenses and peer pressure.&amp;nbsp;",
-    "url": "https://www.livemint.com/money/personal-finance/1-crore-salary-trap-why-high-income-does-not-equal-financial-freedom-ca-identifies-dangers-of-expensive-lifestyle-11787140708764.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 17:41:50 +0530",
-    "fetched_at": "2026-08-19T19:32:59.244873+00:00"
-  },
-  {
-    "id": "f8bcb7e4ad21",
-    "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
-    "source": "Economic Times",
-    "summary": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 23:55:33 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398442+00:00"
-  },
-  {
-    "id": "07d88291273c",
-    "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
-    "source": "Economic Times",
-    "summary": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which push",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 23:44:57 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398479+00:00"
-  },
-  {
-    "id": "f19fc6c1fea8",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-    "source": "Economic Times",
-    "summary": "Indian equities extended losses for a seventh session as rising oil prices and US-Iran tensions heightened risk aversion. Nifty fell to 24,078, while Sensex declined 326 points. Analysts flagged 24,000-24,050 as crucial support, with weak breadth favouring bears.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 21:16:05 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398497+00:00"
-  },
-  {
-    "id": "cf8d444850b8",
-    "title": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
-    "source": "Economic Times",
-    "summary": "Estee Lauder projects robust annual profits that are set to surpass Wall Street's expectations. The company's growth is heavily fueled by luxury fragrances, including popular lines such as Tom Ford and Le Labo. Estee Lauder anticipates an ongoing demand surge from young, affluent consumers while str",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 21:14:01 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398521+00:00"
-  },
-  {
-    "id": "981ffd41f703",
-    "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
-    "source": "Economic Times",
-    "summary": "Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:56:52 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398538+00:00"
-  },
-  {
-    "id": "b1ab08a8e533",
-    "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
-    "source": "Economic Times",
-    "summary": "Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:27:56 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398561+00:00"
-  },
-  {
-    "id": "d05dfc81cfa6",
-    "title": "BSE looks to launch MSCI-linked futures and options in India",
-    "source": "Economic Times",
-    "summary": "BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:13:00 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398581+00:00"
-  },
-  {
-    "id": "c6a9c59e1010",
-    "title": "Moderna shares soar 159% in a day after cancer vaccine succeeds in late-stage trial",
-    "source": "Economic Times",
-    "summary": "Moderna shares surged after its personalized mRNA cancer vaccine trial showed positive results. The treatment, combined with Keytruda, reduced melanoma recurrence and spread significantly. This marks the first successful late-stage trial for an mRNA cancer vaccine. The findings offer hope for future",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:56:33 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398603+00:00"
-  },
-  {
-    "id": "c2deca5dd9a1",
-    "title": "Marvell shares jump 8% after chipmaker hands Google option to buy $12.2 billion stake",
-    "source": "Economic Times",
-    "summary": "Marvell shares surged 8% after securing a Google agreement to develop custom AI chips and related technologies. Google received a warrant for up to 58.97 million shares worth about $12.18 billion, strengthening Marvell’s position in AI infrastructure.",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/marvell-shares-jump-8-after-chipmaker-hands-google-option-to-buy-12-2-billion-stake/articleshow/133351073.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:49:49 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398622+00:00"
-  },
-  {
-    "id": "011ab70a8f21",
-    "title": "Target Corp shares rise 5% as sales rebound and profit doubles in Q2",
-    "source": "Economic Times",
-    "summary": "Target shares jumped 5% after second-quarter sales rose 5.3%, comparable sales increased 3.8% and traffic climbed 3.6%. Digital sales grew 8.7%, while EPS doubled to $4.11, boosted by tariff refunds, with underlying earnings still rising 20%.",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/target-corp-shares-rise-5-as-sales-rebound-and-profit-doubles-in-q2/articleshow/133350806.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:34:17 +0530",
-    "fetched_at": "2026-08-19T19:32:59.398638+00:00"
-  },
-  {
     "id": "499c92f381ce",
     "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
     "source": "NDTV",
-    "summary": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock&nbsp;&nbsp;NDTVNifty falls for 7th day, Sensex down 326 points as rising crude oil prices unnerve investors&nbsp;&nbsp;The HinduIndian markets open lower, Sensex down over 200 pts; Nifty b",
+    "summary": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock&nbsp;&nbsp;NDTVIndian markets open lower, Sensex down over 200 pts; Nifty below 24,100 amid surging oil prices&nbsp;&nbsp;bfsi.economictimes.indiatimes.comAhead of Market: 10 things that w",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkVtR2phUmJSOXd1SUJ0cDRRUGhMa0Vza19JRFJBWk11R0xYLU1URWNhVlVwV1p2Qkdfemd6TTF4ckJNSThIWFhZVXd0djlkdjN6RENGYkEyVTI1UHZob2dSSnc4LXFxWWFUaG9tYWM0dEh0ZHhQcXZNMkpmcnlWeEJ3WE5YbktCR0gycGJTWWtBMUZNMWJZTlI2STQ3eml4ZXFHOWFVQm56RjlUd3hwdmhwSlB1LXNkdXpESTVwYV9Da1JrNUJweNIB0AFBVV95cUxPTENaa1QycENsaDFza0gzV2xCd1p1ckRLLXJ1T1RyQ3hmcFFxb3pOcVhVX3ZHX2NUQkZ3V2FMXzhKQVdJck9UbERMZEF5NnlvYVJkMkxSZmR0clpKM3BNTEVCZHBoSjBydlBWN0NWNzh0d0hRNk90NXJhMlhudWJJbzV3bEFxS3AtSHZicWZaTGtzemFEcVNLYjFmRWx4ejBJbFh5NkhHdWNGNnc1cXo2NUxSTGh2TkRPdnBUb1VPQnNGVTY0dWIybEhiUmREV0Ux?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 10:05:23 GMT",
-    "fetched_at": "2026-08-19T18:43:40.279825+00:00"
+    "fetched_at": "2026-08-19T20:35:29.592583+00:00"
   },
   {
-    "id": "605ced4a16ac",
-    "title": "Gold prices extend gains after Treasury says it plans to increase buybacks",
-    "source": "Investing.com India",
-    "summary": "Gold prices extend gains after Treasury says it plans to increase buybacks&nbsp;&nbsp;Investing.com IndiaDow rises as Treasury unveils plan to relieve bond market pressure: Live updates&nbsp;&nbsp;CNBCBessent Boosts Debt Buybacks After Climb in Treasury Yields&nbsp;&nbsp;Bloomberg.comUS Treasury ups",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREs3MFlhR3pqOG1OYXJQVURVcDEycFU5VkNyYzN6eDgxNGk0NmY5amJ3NWdPak5GUVJIZDVUSVlTRDJYTnljendRYXpQWUthZUxCMThLYkEtajltV1Vld0xkZEQ4cGJtUlBJVnFCbW5VenlRYkxZWVBveWE2UVN3UHZKZG9BRlJyRmtDb3A5N2YxVF9kN2hmdURqSndneEpvSWF4bXBocXhFMC1yQlNicjIwQjV3ZUg1RG9mSFNjbHlJU2REd25pMFFuQmJhYU5G?oc=5",
+    "id": "c31f60a56bfe",
+    "title": "U.S. Stocks Climb as Bond Yields Dive",
+    "source": "WSJ",
+    "summary": "U.S. Stocks Climb as Bond Yields Dive&nbsp;&nbsp;WSJTreasury doubles debt buybacks as Bessent moves to steady bond market&nbsp;&nbsp;CNBCUS long-term borrowing costs ease after government steps in&nbsp;&nbsp;BBCRates Spark: The Treasury’s Plan for the Back End&nbsp;&nbsp;Investing.com IndiaGold Flie",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORktsSUFsTnd3bzh4QldfNld3NVZEN3lHR1dZTW9mUC1EOHBwQ1E0U0M2UFZEd0tDRVprMEtHVnFQV2tPcVdfLXI1ZWpXT1ZXOVBYcVJvWWQwSXdOemVRc04xNzNrSURPMExvMWV4d1ZrUm91Mm11TUY3blFKWTFMbGhDdXY0a0hDdWhXOTlyLWF6UXYtVFdVVnpVcVRzdw?oc=5",
     "image": "",
-    "published_at": "Wed, 19 Aug 2026 08:03:13 GMT",
-    "fetched_at": "2026-08-19T18:43:40.279905+00:00"
+    "published_at": "Wed, 19 Aug 2026 18:45:44 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592631+00:00"
+  },
+  {
+    "id": "efb4cc039ce4",
+    "title": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...",
+    "source": "Moneycontrol.com",
+    "summary": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...&nbsp;&nbsp;Moneycontrol.comJPMorgan entity among two firms barred in India over alleged closing auction manipulation&nbsp;&nbsp;ReutersSEBI fines two firms ₹3.7 crore for CAS manipulation&nbsp;&n",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZnJuLVJPdU1DbDg3TTNOVVJUVzhMU1dzeFhBREYzZmN1dFMtbTJXVENHeHhDT0xoN1Z4RS00V2NjQ0w1S09WaUVfUF9wT0FRc3BmUjRxRlNaMGRvY2FKMjJqRF80akI1ZEFZd3pOTS1lUlhGeW8waWFBN3paNUlTMUNGbTJvNGtxTDYySmNFcnVMQWNKUjVlZ2FtUHFQS0ZZc09pLTlUVmtFNFlndmVQVVlhNG5LNl91S05IQ05jX2k1aDVRLUZ1RXNGcEcwLVg5ZnhFYzBNaV8xYXdscUlzZWtVOHFzcUtURFZ5U2ZlUFlRNHdESE1STmZUT2Q3ejZvb1NqZ2hPY0t1V2JfREF5NlR6ZnZ4cWtlVlNfWFkyZzBpVjVJRHfSAasCQVVfeXFMTi1UR1Z6SjZ4cm5wVXJQbFJzbi1NSmhLZVRLMDJydlhUUGZZMVcxM0R1UGFEQ0tNY0paLTZmaGZ0b3FNR1BxdXU3a0l0RF9TNVZjT2wxQ3BTc2tSUFdaZlpPOXNJLXpXQ0tXTkZuUFVYbFJqRy11WUpFRnV3emlNNjhnWXZMSkdmUlBMcHBINkJRdExvTTJMWnRtU29BTC1kbGd3a2htamZsMDY3b09yMzV1b0c0Q0R3eTNrb1c2WklRWWdjM2NSX2ljRlp1WlVSX2NDR1haeXBPRTF6QjRTR3M5U1lISHd3ZDNsUHdreVAwalg0b3dMc3JkYXcxa2ZQMWw2QmIwWkxnV3pweTIzVkNsSWZwRG1ZVjc1SVlwS2xrX2NzLU1sSHFfb0E?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:46:05 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592675+00:00"
+  },
+  {
+    "id": "238fd78a383e",
+    "title": "Hyundai India Announces Car Price Hike From Sep 2026",
+    "source": "RushLane",
+    "summary": "Hyundai India Announces Car Price Hike From Sep 2026&nbsp;&nbsp;RushLaneHyundai Motor India to raise car prices by up to 1% from September&nbsp;&nbsp;ReutersHyundai Motor India to hike vehicle prices by up to 1% from Sep&nbsp;&nbsp;The HinduHyundai cars to get costlier from September as automaker hi",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE9qWDVRSFkwbW12cENCV2FIaVJFc2hYb0xiX0lvMmViSk5oWkllLTV5dXNOZ1lCV1JEcW91QlJaOGZNVHl0aFBkWHAyaTBBVW9hdUN0eVZ1ZGFLWEtwOWhneERLOGFTN05pbWxHZHh3RDhVRGl1d3V6c1lhZThxa3dpNEhCUlJVN0FRMVhtZVJ5Qlh5bnfSAZYBQVVfeXFMTUxPalg1UUhZMG1tdnBDQldhSGlSRXNoWG9MYl9JbzJlYkpOaFpJZS01eXVzTmdZQldSRHFvdUJSWjhmTVR5dGhQZFhwMmkwQVVvYXVDdHlWdWRhS1hLcDloZ3hESzhhUzdOaW1sR2R4d0Q4VURpdXd1enNZYWU4cWt3aTRIQlJSVTdBUTFYbWVSeUJYeW53?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:14:55 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592708+00:00"
+  },
+  {
+    "id": "8d06dd39d7b8",
+    "title": "CBI books Gensol Engineering, BluSmart founders over alleged Rs 672 crore IREDA loss",
+    "source": "Moneycontrol.com",
+    "summary": "CBI books Gensol Engineering, BluSmart founders over alleged Rs 672 crore IREDA loss&nbsp;&nbsp;Moneycontrol.comIREDA loan: CBI registers case against Gensol Engineering, BluSmart founders over ₹672-crore alleged loss&nbsp;&nbsp;The HinduCBI Registers Case against BluSmart's Founders&nbsp;&nbsp;pgur",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUWtna0NpVW5jOGVKSXhLZnRPM0QxMGpNV2syRkxMOGNOWUZKQmNYaTdkaFFybXprUmRWVmNhaGt5N2prQzVwYlRQaFVfWU03NFNxQVpTc1FXXzloS1B3WGZBenFFMFB6ZXNwYjFEWGtTQmI2b3Z5X0M3a2xRZFM2Y2ZZdDdVaHdWcmx0N3U3LVN4NFdDN3BJcDRzdE9tUkI2cVVPWm5VZUtJTXRyUjh1RzV2azZFczAzV2JGOEwwbnY5YU1ubXdyQmdjcFBkRVliVXI5bmFYdFJXdmJ0bEk1Nll3emrSAeoBQVVfeXFMTXhLYmVRR3NvRy1qLVIzdmp6cjFIV2FqZ1BtV0xvbUpJV0tZMjB6eUhVRy1McDJqbDJ4ZWFnRWpfb2VQTHVpSlhZVkx2bUdRYjZ6Wjc2M05qZ2FvQUdnbUp6T0NLOEVhMXJoLTdSdWIzbEM4dTF2S0dwV0g2a2VuWjJkcVNsY09vUWJlcnhWZXBDNTVmdHhEbTA0aUhKeGw1YTVDY1V2WEZuandUbDdYaTk1ekNIUFJmVGdpZHowVlE0MnNWeW1BVlJjM19aVElfNGQtWkMtWW9ZQXdvNGF5cXg1dTZLbUMyV3l3?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 16:10:56 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592749+00:00"
+  },
+  {
+    "id": "87d8e6056bc9",
+    "title": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll",
+    "source": "bloomberg.com",
+    "summary": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll&nbsp;&nbsp;bloomberg.comIndia becomes the least-favoured stock market in Asia. What has investors worried?&nbsp;&nbsp;theprint.inIndia topples Indonesia as Asia’s least-favoured stock market in global fund managers’ poll&nbsp;&nbsp;Tele",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NZanBFc1prbVpSMUVUSjNwTDJRc2lQaF9fakpVWVBfTW02TjhzMWg0eVg5c3g2RDltektRb24yR0IzV1RHRWJlNHZ0QTJpS2toNzhYbWVvWm9Vdi1iVFlMb3puZ2RFWG1OZl9BVUZwZzY1WGotNzllZWVST05ZUjVLZDJhUnI1ZWtDeGVzMzFyRGwzYS03TTd2bE1RbldubGJmVDY4ajVOWi1SNWs3SENtcEg?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 06:09:00 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592789+00:00"
   },
   {
     "id": "97d35ba7a752",
@@ -227,77 +67,37 @@
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWVLZ0t3ZVRjNkV3SlN6N2pUSjdZRWo4elRNTWo4Z0E0c0JEeFVHN3diRnlBWjdCTXF6d3NWOEVYTzBHRnN0ZnBnUFMtbHFHUkY3RV9uNE9BbnA5eERaNktVQW05LVZHczJSdVFEVGJFN0ZIQm81TEo1b1loQUJfcmhOOEpLci1Xdk1rNEUwZzdQMGY3dHF3S3hrUzZsblR3by00Zks4YTViTktGdi04cWUxc3BvOVFObTRkNk9jX3pwaUVCZTVoM09ZaFprN0thUlB0UGQyM096RWRXM0l3dnRB0gHnAUFVX3lxTE9heF9aX3l2bi1uVlh0RDdWQjcwU1FveFZkcGxrMGh6TVFxT3FPdThjWjFsNlo0V2xLY0ZPSXZ1bWhvTnJkN090cC11aTYxNHRRX0JyZzdtWmFUaDY0NnJWaWU4cE9lTkVPU3NLRUdRYlNSdFJQSDJYdGtSM3JfNVpyV0o2TGVYNkVvOGNLQnIzemdROEJ2ckt3aTlOY013akVWTE9Sano1T05FYzFFVm5yTXNBcnhYbkdFN294dUNIRUd2MzhXODBfaUJxaHVRS2xtdW5tRjhuU1FkZ3FRNkdDcFNaMHpzSQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 12:18:15 GMT",
-    "fetched_at": "2026-08-19T18:43:40.279973+00:00"
-  },
-  {
-    "id": "af8a9bc1571b",
-    "title": "SEBI's First CAS Manipulation Crackdown: Two Firms Banned For Gaming SENSEX Expiry Options",
-    "source": "ndtvprofit.com",
-    "summary": "SEBI's First CAS Manipulation Crackdown: Two Firms Banned For Gaming SENSEX Expiry Options&nbsp;&nbsp;ndtvprofit.comJPMorgan entity among two firms barred in India over alleged closing auction manipulation&nbsp;&nbsp;ReutersSEBI fines two firms ₹3.7 crore for CAS manipulation&nbsp;&nbsp;The HinduSEB",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbFdUQ05IX2tDcFUyMFJRbmpNNjF4dzRJT0hUSFA5VEJIVDBkQWJQeE53MHdFRF9udXZFdmx1OVFZeExDZEgwM2JjWm9pR2gweTZmTkRZODVrVWl6cmN2bTVoTlZhdFFWckpNWUFldXRmSmUxMzAzQmEwVDRhWTZJY01kbTIwX0syWXRHcGFzcmZCY0dneXBDNmw0Rml6NUZXc3N4Nk9ERl9LZjQzZkcwSEk1VXR6M2RRRk8wQ0wzSkxxekg2MmRsR3hhQllNQdIB1gFBVV95cUxQNHZ4MlNhckRPZ1Z5Nk55cm14azQ5aXhuY3JBR3A1bnctMkZxVE44V1QtajgzY1pPRXQtVDN1Y0Y3eEtPaXFDSms0NXpGc1VLUlBha2FVblQ3SWN3SkI5RU52aGVHcWVldFZab1dnMlNUOGduR0tvRVJOOENqX0hiZVdRV19mYk04dHl5RTBuVHlibFBvX3JTTEJBVGh3UFg1VXlhNHBVSUQxMFJvV29uWVMzcEMtSGZfeUdrYW5MVVBBVkpFX1BkUU9lRmt5SHl3VF9BRnJB?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:52:29 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280037+00:00"
-  },
-  {
-    "id": "79f2b4cf59c0",
-    "title": "Moderna Shares Rocket Over 100% On Cancer Drug Trial Success",
-    "source": "ndtvprofit.com",
-    "summary": "Moderna Shares Rocket Over 100% On Cancer Drug Trial Success&nbsp;&nbsp;ndtvprofit.comModerna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%&nbsp;&nbsp;CNBCModerna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial&nbsp;&nbsp;statnews.comMSD a",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5OWE5UbkpRMzRTZEIyTEN6blMxTkU5Vm5MTTZPa201WEtQSTZLbVNxTnFJQjJaRmZIWmZzVW5FN0JRV3doVVNoV2xjSUp3dlZOYzJDeThqYS04MHp1RmJKMHl6TGhiVk1kcmhXV2tTSVBWWHlOZFdpa0E0VzJlc1Mwdk04VzV0bHcxRVFBNFZwWU1YQnh4WU1BNkFjNzFNQTBtcVFuWlE0WUtI0gG0AUFVX3lxTE5sR3R1S1hMdUhEU2paYlpaRGRWVHN1THlIWU9WcEhlRW85eUNmaVBsQU15bGZQXzdhSkdzNEFkQmVzTFF4RVNZcXFqb1g0dXoyOF9RWExPb01ub05sbmZqQ3RIMmd1Rk9wUFIwbDVMbG5DenEtdFJlV1F5cFlyMGpYUFdpa0xHa3JOTkFxNkRPUm56R25tcEFuUjhJMGlreFJYeXJQY21TY2Mzb2FyYkdUU0xoeg?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 12:45:28 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280090+00:00"
-  },
-  {
-    "id": "87d8e6056bc9",
-    "title": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll",
-    "source": "Bloomberg.com",
-    "summary": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll&nbsp;&nbsp;Bloomberg.comIndia topples Indonesia as Asia’s least-favoured stock market in global fund managers’ poll&nbsp;&nbsp;Telegraph IndiaRush Hour: India least-preferred Asian stock market, Tejashwi Yadav detained during protest & ",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NZanBFc1prbVpSMUVUSjNwTDJRc2lQaF9fakpVWVBfTW02TjhzMWg0eVg5c3g2RDltektRb24yR0IzV1RHRWJlNHZ0QTJpS2toNzhYbWVvWm9Vdi1iVFlMb3puZ2RFWG1OZl9BVUZwZzY1WGotNzllZWVST05ZUjVLZDJhUnI1ZWtDeGVzMzFyRGwzYS03TTd2bE1RbldubGJmVDY4ajVOWi1SNWs3SENtcEg?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 06:09:00 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280154+00:00"
-  },
-  {
-    "id": "9026a3ab1004",
-    "title": "2026 Skoda Slavia Facelift Vs Old Model Compared In Detail",
-    "source": "CarDekho",
-    "summary": "2026 Skoda Slavia Facelift Vs Old Model Compared In Detail&nbsp;&nbsp;CarDekhoSkoda’s Unusual Strategy of keeping Sedans Alive Might Just Work&nbsp;&nbsp;CarWaleŠkoda Auto India unveils new Slavia sedan&nbsp;&nbsp;The HinduSkoda Slavia new vs old: Differences and similarities explained&nbsp;&nbsp;Au",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnNZYzFJSW5DYmFTQTVYUEtXUFRPLUs3emtNRXMyX0NkaElQRnJ4Mm5PN283dS1yQ1BmUVhmcHprdVV5b1BNd3FtQzVnTEo5ZThqMmhEdFRLSldvbUJoZnpNcXZEb05xd2trRnR2eXRaVDV0VzJGUHE4M251Ymp0ZnlnYlJwMzBkUW1oNTA2T1RRajNqQW9ubnlLSjl6SnhlelBxQ2FONmt2OUlC0gG0AUFVX3lxTFBJeFJQRlFkNjQtWUtudnRxUHhZWkxFaUtIUlhraFRaaFEwcG91Z2l3RnMxNjB1VUZ2eHlPelFKNkx4VlFzU1ktVzM2b3pjY3dyZFNTQTNVR01UbWx0d054Y3lXN1M4eXBPNGZ5cFhCa2VBeXIwd19hZXliM3JuVk16dmVrMUlORC1ZT21rYk1nRUVDbUw0c1dBSmZkTGFyQVV2MDlYYWJrTjJIREcwVFRkNXBVMQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 04:39:00 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280206+00:00"
-  },
-  {
-    "id": "eb517beecaf5",
-    "title": "RBI’s restrictions on revolving credit | Explained",
-    "source": "The Hindu",
-    "summary": "RBI’s restrictions on revolving credit | Explained&nbsp;&nbsp;The HinduRBI seeks NBFC feedback on revolving credit rules, stresses compliance and risk controls&nbsp;&nbsp;ETLegalWorld.comThe RBI’s revolving-credit rule treats every NBFC like a bad lender&nbsp;&nbsp;The KenRBI's problem with revolvin",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0s2SUd0MTlVVkctT2oyM3RXbUE3TmFmX29VTGlQRUlha19yYVdLS2lsN2hBVl93OEE1MkxJYlR2NnVmYVZzMjFwdnRHMHhSeGhqRURsQkVCRFNxUS13bXpaR0JRT0V2Z1M5NGVOcW5PeEEzYXd6Z2xoX1VtRW92QndweldVRkVvZW5JQ3IyWGZEMi13R1QtX25qUDJmaVhEUlNZc0JWOVBIVlZXUXfSAbQBQVVfeXFMUGxITWttMlJRQXdzV05aLU5xY1VreDV1SW1KTGJwRHMya0wzaGdtanQ0czIzUW5NcTdqLWdzbi1jX25nUjRNWEtENWIxRUVJZWtqc3g3aGtIYlRxeTZqWmk5M19YaTZFOWg4WV9IRkJpdkthM3RRYTN3ZU9lZEtDVGVYSmVCanByWmxGbFJDcjNyZTk4M1FPUDlaZVMxRU9uRGVaNUlINmdqd1VxeU9WZ2xTbjRC?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 06:55:23 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280261+00:00"
+    "fetched_at": "2026-08-19T20:35:29.592829+00:00"
   },
   {
     "id": "3f506154f158",
     "title": "IndiGo website faces technical issue, flight bookings & online check-ins disrupted",
     "source": "The Times of India",
-    "summary": "IndiGo website faces technical issue, flight bookings & online check-ins disrupted&nbsp;&nbsp;The Times of IndiaIndia's IndiGo reservation platform issues disrupt some bookings, check-in&nbsp;&nbsp;ReutersIndiGo website glitch disrupts ticket bookings, some customers unable to reserve flights&nbsp;&",
+    "summary": "IndiGo website faces technical issue, flight bookings & online check-ins disrupted&nbsp;&nbsp;The Times of IndiaIndia's IndiGo reservation platform issues disrupt some bookings, check-in&nbsp;&nbsp;ReutersFlyers Face Booking Issues For Some Time After IndiGo Website Hit By Snag&nbsp;&nbsp;NDTVIndiGo",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONVBEVjJRc1htcDE1LWNaQ255X3k4aE12cFVyS2tIZ0FRcXlyNE1LTGxrM1BzR3JqMzdPa1U0Rk93dmZjaWE4Qzctc3h4M0oyT3pmcWdJZmFvNlFrRVgzR1BtQm1CbWVDdG9HTGdhN2hMWHVJVU5nemtyQ2dENmxjS1dWYi1rdnlMT1pnMGlnNlZNUzRYWEtKd2tpN2FYOFc2aElUWWo0cHhGLVFkUlFoYm9NR011RTgtTUp6SDRVZDZLdTVNeE5PNXpzMjRBUHVfTFNDV0JicXE4NjQyVVR3MVVEaGRMSm43c202d3dyb3p6MXBMQ2NEdk51TQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 13:06:00 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280346+00:00"
+    "fetched_at": "2026-08-19T20:35:29.592863+00:00"
   },
   {
-    "id": "38ace64238af",
-    "title": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
-    "source": "Reuters",
-    "summary": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal&nbsp;&nbsp;ReutersMarvell’s stock pops on news of Google chip deal — and Broadcom’s falls&nbsp;&nbsp;MarketWatchForm 8K Marvell Technology Inc For: 19 August By Investing.com&nbsp;&nbsp;Investing.com IndiaMarvell Gives Cli",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
+    "id": "eb517beecaf5",
+    "title": "RBI’s restrictions on revolving credit | Explained",
+    "source": "The Hindu",
+    "summary": "RBI’s restrictions on revolving credit | Explained&nbsp;&nbsp;The HinduThe RBI’s revolving-credit rule treats every NBFC like a bad lender&nbsp;&nbsp;The KenRBI seeks NBFC feedback on revolving credit rules, stresses compliance and risk controls&nbsp;&nbsp;ETLegalWorld.comRBI's problem with revolvin",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0s2SUd0MTlVVkctT2oyM3RXbUE3TmFmX29VTGlQRUlha19yYVdLS2lsN2hBVl93OEE1MkxJYlR2NnVmYVZzMjFwdnRHMHhSeGhqRURsQkVCRFNxUS13bXpaR0JRT0V2Z1M5NGVOcW5PeEEzYXd6Z2xoX1VtRW92QndweldVRkVvZW5JQ3IyWGZEMi13R1QtX25qUDJmaVhEUlNZc0JWOVBIVlZXUXfSAbQBQVVfeXFMUGxITWttMlJRQXdzV05aLU5xY1VreDV1SW1KTGJwRHMya0wzaGdtanQ0czIzUW5NcTdqLWdzbi1jX25nUjRNWEtENWIxRUVJZWtqc3g3aGtIYlRxeTZqWmk5M19YaTZFOWg4WV9IRkJpdkthM3RRYTN3ZU9lZEtDVGVYSmVCanByWmxGbFJDcjNyZTk4M1FPUDlaZVMxRU9uRGVaNUlINmdqd1VxeU9WZ2xTbjRC?oc=5",
     "image": "",
-    "published_at": "Wed, 19 Aug 2026 15:03:03 GMT",
-    "fetched_at": "2026-08-19T18:43:40.280410+00:00"
+    "published_at": "Wed, 19 Aug 2026 06:55:23 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592898+00:00"
+  },
+  {
+    "id": "9026a3ab1004",
+    "title": "2026 Skoda Slavia Facelift Vs Old Model Compared In Detail",
+    "source": "CarDekho",
+    "summary": "2026 Skoda Slavia Facelift Vs Old Model Compared In Detail&nbsp;&nbsp;CarDekhoSkoda’s Unusual Strategy of keeping Sedans Alive Might Just Work&nbsp;&nbsp;CarWaleŠkoda Auto India unveils new Slavia sedan&nbsp;&nbsp;The HinduSkoda Slavia facelift vs Honda City facelift spec comparison: price, engine, ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnNZYzFJSW5DYmFTQTVYUEtXUFRPLUs3emtNRXMyX0NkaElQRnJ4Mm5PN283dS1yQ1BmUVhmcHprdVV5b1BNd3FtQzVnTEo5ZThqMmhEdFRLSldvbUJoZnpNcXZEb05xd2trRnR2eXRaVDV0VzJGUHE4M251Ymp0ZnlnYlJwMzBkUW1oNTA2T1RRajNqQW9ubnlLSjl6SnhlelBxQ2FONmt2OUlC0gG0AUFVX3lxTFBJeFJQRlFkNjQtWUtudnRxUHhZWkxFaUtIUlhraFRaaFEwcG91Z2l3RnMxNjB1VUZ2eHlPelFKNkx4VlFzU1ktVzM2b3pjY3dyZFNTQTNVR01UbWx0d054Y3lXN1M4eXBPNGZ5cFhCa2VBeXIwd19hZXliM3JuVk16dmVrMUlORC1ZT21rYk1nRUVDbUw0c1dBSmZkTGFyQVV2MDlYYWJrTjJIREcwVFRkNXBVMQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 04:39:00 GMT",
+    "fetched_at": "2026-08-19T20:35:29.592932+00:00"
   },
   {
     "id": "8a9963b6e8ec",
@@ -307,17 +107,17 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFc4cHg1RGFYUFh6WHh6T0YtLU5IdUFObUhmYkR5YkVoRjR5UkJOMzk0N05sTi1aVF90a1p4aWxjUlVLbWN4YWFEb1FrMTRzRHl1MVpQdmJwRkVtV29wQXMtMW5KeVl3R0x6S056eDFQSzVHZ3hnc1FDRjMyV2xVbklLNHFtM1F6MUJFMG0tdUZlZXhiM3FVVi1oSW1VZHJnYURVQzA5QTZjSW5Bci1iWHdkNElFZUxVYmo0LTB3?oc=5",
     "image": "",
     "published_at": "Mon, 17 Aug 2026 11:27:43 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780452+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998064+00:00"
   },
   {
     "id": "5961906842a3",
     "title": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector",
-    "source": "News On AIR",
-    "summary": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector&nbsp;&nbsp;News On AIR",
+    "source": "newsonair.gov.in",
+    "summary": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector&nbsp;&nbsp;newsonair.gov.in",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjNJZ3NrclhEc3BSdkphOERlRHItUjVueE90cC1sR1l3YlFVUXFpaFlKb1pmR2ZzdkZHbEZFX3Vma0NpU2EtdlVMU1gyeFJYYjVkb2JvWVFoUnlSSllhZTg2Wmk4Um44OFV5ckwtbVJFRTI4Z3FLOXp2dlVaTDBxVFRaTzBmMUZza09lVUlZSzg5d2EwOUtLQkg2VFFHdHpINE9NSVByWnAzSGU3UHFaNnJKSQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 08:10:18 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780484+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998093+00:00"
   },
   {
     "id": "12c0d733981c",
@@ -327,27 +127,27 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZjBiT2NTd0toUWRKU1hHRDNvdjA5YmszUkhGNlJWSV9pLW9OczFFTVNySDFiSVZuLWt0LXp0ajV6LTY5YXRneTY5Rmd5dTdkTTJrOGZoVllHLXZfUEpZZUYzZWctQzVrb2tWYjhKVkJBemtPdDl6aG5FSTN6bVhreDhkYmllYl95Zl8yQW5Ca2hlM1hLLTAwNlZTajRXYXVHcEY1cUhweGtvUFhrNEFmRnpmZVI3M0M5cFE?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 08:49:48 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780504+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998112+00:00"
   },
   {
     "id": "5faef82fa02b",
     "title": "Indian banks raise over $3 bn via dollar bonds in 10 days amid RBI window",
-    "source": "Business Standard",
-    "summary": "Indian banks raise over $3 bn via dollar bonds in 10 days amid RBI window&nbsp;&nbsp;Business Standard",
+    "source": "business-standard.com",
+    "summary": "Indian banks raise over $3 bn via dollar bonds in 10 days amid RBI window&nbsp;&nbsp;business-standard.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTA4YVU2SjFmT2NrX1dNYzFJVTA4eUdwNUpXT3RLalE4YVlUVklaWkM0a0FvMFZsZmYtRlQyMGJlU1lLV2lSdlI0V0VFQTVGbXRuX2hpSXBObE9fTGtydTcyWTR0LTA0eW42alBFa29jTURiNWh0Z1FGTkVKU0d3QVVzM3hHTkQtaEVvZmhxNXpfeTIydmd5eFpnSVBzLUZlTjgtWFR1ZXJUVDhKbC1jZ3dxN2U4ZUloYXZyOUlBRlphTlpqY3I5cl9KbWtGSzREQ3FYa2ttU0I4SmfSAeABQVVfeXFMUHpCS3hqOUJ0YmEwR0JhZ0lrUG92MFhsdWpSSUJydDVlNGJLTlpzTVExZlNwdllPbGpidFgwUkpiREdlVUlMc2JsOUI3cHR4OG5qVVNTWE8wRGpKN0hsYXYxUVA0bVZLejhFRUg4YkVGeU9fU2RCU1ZBdmVuUTAycmQ0N1E0U2NOQzN6cjZlZVY5elExamZONnhIZVZDVHB4Y2ZWaWh0a3lJRzBIdUplUXFmOUlsRDFRd2piNnpCc1duS1N3ODVaRkluV0pIV3MyejRZWjF3Y0U4dVM3ZmlmSk4?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 14:34:01 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780524+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998130+00:00"
   },
   {
     "id": "48dba4aab1a4",
     "title": "AI adoption essential for banking, but human judgement remains key: RBI Deputy Guv",
-    "source": "indianexpress.com",
-    "summary": "AI adoption essential for banking, but human judgement remains key: RBI Deputy Guv&nbsp;&nbsp;indianexpress.com",
+    "source": "The Indian Express",
+    "summary": "AI adoption essential for banking, but human judgement remains key: RBI Deputy Guv&nbsp;&nbsp;The Indian Express",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzAwOE52UE9zTGdLTTJDR0VHcEEwVDJXQ1ZLMUdEdlFrY1R0aEptN0lJRnV3RHlLOHJuLVgyYUUzNzN4MFdfcWMxM282RUhsWjRxRHNnc3ZhTjBibzVWelc5YXRhUEhfR2dHOGhvM1FfTDBpdnJGdGduS2tvV0U2M0Y4NE9hZHlBVFBxSGlTaWFqdGl0WlBsbHlPNW0zMnkwU29RLXZ3VEZDTXZ0TF9DUjRaUm5nYVRQR01KSdIBwwFBVV95cUxNMjhta3JEWWlScFBRTVYtd0t2UG12RnlCaEFlTEhDanFsOVFqalVlODZfSDFfT2xFbGJUclhQLW42UTZtd3Rhd0RNN1hOVWFQZ2ZlZnRDRnBndVpla2JzOG9aaU1OV2dNaUFGZjE4QktNTjVPblhmd1NzbVVlWDczWUMtTHdmbUhyVXI2Yzk2cml3azIwdU1sdm9jZ3BpLXRlT00zellzM1dIRXRBVHRTLTMyUFpWZE9GT0szUzY2T3dKazg?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:03:06 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780542+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998147+00:00"
   },
   {
     "id": "6d363c4e58f6",
@@ -357,7 +157,7 @@
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cjR4RFYyVEJnU1lxQkdhdm1yR0lFS1AwTXpSRVA4NEtvQnNyMjBtYUo3R3hsUE1YU29STndYVzZTMFplMTl1OVViWkJvN3ltUkdJTTJaZ0p0d0g3b21DVlhjTzRnZGNx?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 12:01:43 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780557+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998162+00:00"
   },
   {
     "id": "141b6a76c46c",
@@ -366,8 +166,8 @@
     "summary": "RBI Deputy Governor Sets Five Tests for Responsible AI in Banking&nbsp;&nbsp;The Policy Edge",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTcwQmFLenp1OVc5QV9MRDZ2cnBkekt6UW1hWDl4MmxUa1dQS0ZOSkRrZDQtWFNOMzRJQ0pBdHJNNzlyRGVoSzhPeC1pWXZKZ2ZadmxIMS1kazlGc0ZqZDR0dEtBYVp4VXl4QnNXZDdJRkRtSDRGNmR4U21lNHR2NmxCcE9HcVhSQ0VaSkVTOEVKd3VtN1Y1Nw?oc=5",
     "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:24:13 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780574+00:00"
+    "published_at": "Wed, 19 Aug 2026 15:04:15 GMT",
+    "fetched_at": "2026-08-19T20:35:29.998177+00:00"
   },
   {
     "id": "b7bfd32a4302",
@@ -377,17 +177,17 @@
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVJVY1JiUldZNDBIRmF0TklxNnZXanFybGhkTko1WlYxdG9yY0tNdWpZRDVqRnc3a1R1ZzRmVXhNN20zUXJfYVZWVmNqYUJ1LTc5Q1F3VTBDZGw5TTBidHB5d0p2azA3WTNmbFQteHBjVWpIQzhZOEg4Ykk0eGFnOFpPSUJ4SzY5c2syMmI0Q21HdTNEOXdvWjVkdUlfeWVKWk5RYnRjcUd0UjZRMFROZHV6c20tWUxtTEthVVdEeTY1dV8wV0Z2dnBxRjIxXzlYcDRTSVhBT3huVEFsajhqVDJXT3ZXVU1rSHZPcW1PTzc0ejN3WkpBcWtobXFPYXI30gH6AUFVX3lxTE5ncjNBMmxoNGdlWHdyTjlHQVJHT1lrcExJTzB0TVZlMFVMUGFWS25ZYzZCSlJFamI4TUNBVjd1b0JmWHo1UXdwYUFwa1p0M1hFYjg0eWVPOS15eWxSc2gtSERkcWsxS1BkaV9NWm0tX1dyY3U4Y3BTUGRZTmtoRXRLendkeHl4OGt2UVFCcEh5dWo2R09NWkplQUJ3bm9fSGQwOXEzRTVweTZRM0M4Tnh5Nm5HUzJDVFFpTGYwc050RWtkUnRzRXgxeTRTcE5nWDZYa01FV2xDSE53eEo3b3RrcWJvczVOS1dzUjVoSWdiYkNVclpWd3hPekE?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:20:24 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780592+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998194+00:00"
   },
   {
     "id": "d39d0fa76459",
     "title": "Indian banking sector strong and resilient, but growth must focus on real inclusion: RBI Deputy Governor Shiri",
-    "source": "CNBC TV18",
-    "summary": "Indian banking sector strong and resilient, but growth must focus on real inclusion: RBI Deputy Governor Shiri&nbsp;&nbsp;CNBC TV18",
+    "source": "cnbctv18.com",
+    "summary": "Indian banking sector strong and resilient, but growth must focus on real inclusion: RBI Deputy Governor Shiri&nbsp;&nbsp;cnbctv18.com",
     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaW1IZTVpSjBFUm5ReFJ6clFPU0Rya08zOVZBdUFvQkZOcmdBRDN3Rl9EYlZPSUd5MlozVElYSFFBbzhSS2M4cjljclBBZGhuNy13Y3I2NFpkN2dJYWpJVFFPNmNQeXFGZmxiQWVtNF9JMVRZamNDZUptU2NzQmU0S1Z5WkNWSFlhUjZvbFZUNnJWU3ItWDFMcWxqaTZBNTc3X2lGelFyM0tqNzR3NG5PV2ViQWZoRXZubTBFblRENFRScnQ2VmliU1pqR3RWQ0c0emh2QktXeWlVNUprd3hCenNHZFVQbU9UQVV6QU85dlNhVDZOcjFRNTZfRWJveG9KZm1xNGR0VzFYZDDSAZACQVVfeXFMTW1kdjFxb1pvOVgzZHp0S0xFeHRsbFpvcm1UYWMzVDdjUmVyaTQzUUlkcHVCVlN0amlXV21ETGZIMjFENXB3MjZJNTkwemNvVkt4RzhaLWJMaUZYcXhZalh0ZFliUEt2NTVnRzhKYmI3c01wSk5fdHp0MVZMcW14VjRuYU5ydFFJemRacV9lSFo4dEIwRnlEcUt4YkgwUGJkM29ORldHb0g2RUxCLXUzNERGQ3lDUWNnRVNuRUhsN1h5NUhLZkVNR3hLbG1tMnI5RHRWZDdBTDRuOEgyWTRhZGZwcThKMGlLb1R6RzlXcUZLakZGNFd4OU02RHV4aVNfWkdKTDF2SVZldFJKbFFMX1o?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:56:29 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780613+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998213+00:00"
   },
   {
     "id": "37fe8f0b5a39",
@@ -397,7 +197,7 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFpVS0QtUVNCTUhSbzNqMzFqUS1uOGx3Z1B0aXZNSjlkNUJySXJieWVQblI4RG51TkFrVDBnUmhTejJmNG1nemtLQVlCbTJ4WVJvNUJqdmlLY1ZkdXMxamtZLVVreGhXVFpwYlctajVCQ0VuN1l1OVNlZEtvNkV3Zmo1QjYycmdpX3VTWUV0eFRkTGdDRHRIdlBkb09JZ2lXOU5mYTktWUVxLWRyV1lnWi1HU3lCVWRBdFZPOUl30gHLAUFVX3lxTE5SMER1Z3duUWdJSGJQdHRMSE5EZ3ZySkhKcnl6clVPX0N1LXZrTWxieEtiRUphaEZNek5oTkxfaWhYZ3FBb3dsenBmSXF6bk9BWm9HWlIxYTMxQTBmUzhyYjhqbnBwTGR2YW5hWGVhSUJnOFhDbFVIcFMtaTJkNUs3aWVQbFQzbTRsam1QWWVuYnpHVThZLV9LT21oMnNqRFpveV92emp6WXhKX1BsSUVCelNkcHlJRmdiY19pYVhjQUJqOG91cTlCa1gw?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 11:44:11 GMT",
-    "fetched_at": "2026-08-19T18:43:40.780637+00:00"
+    "fetched_at": "2026-08-19T20:35:29.998236+00:00"
   },
   {
     "id": "2110c1c23a11",
@@ -407,7 +207,7 @@
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdllieG9walJtZS01eEV5TXozT2d4aHZtby1TSEJ2WHM2ZDVCVG5kOEk2V3VDemRWd0tqajBYOGlILTJncTV4eU1XSUVUU3ljOXNzOFBXUkx6TTN3cTRrTHh3aS1BRE5SUWM5RGxqZTBQQlk0?oc=5",
     "image": "",
     "published_at": "Sun, 16 Aug 2026 17:28:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878564+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919510+00:00"
   },
   {
     "id": "8dde2571fcfa",
@@ -417,7 +217,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazBsLXlLazNKQ0tJV3JleVhBcV9JZktMbkR1WVB1allUaGcyZjUzdk5HeGRpNmx2REJ0ZEV0c0JOMGo5UkVoTEpEWGNpN1BNd0s0a2lMdGd5RkFuWFFNM0RDcEdEdGRpUGZVclU1QmtTRkR6YWNjclJkdmU0anNrejQ4RkpLeWFPVEtmSVJVcS0xcVZNNHc1UjZWMDQ0ZU5LRnRkSTNVdV83QQ?oc=5",
     "image": "",
     "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878596+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919537+00:00"
   },
   {
     "id": "ce7e456d4b8d",
@@ -427,7 +227,7 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2M1R0pUSldiX2RaUXVQd3pLcmFCWC1oMWJnSEQzalpfekNheWQ5SkJMYkJrblk0QUI3RWFkajUwdzdIMjlQMFF2MDdaaUpRWmg3YXlyblV6Zm9XSFZtTnRuR3dWeF9pWU12VFVreGxQT2Z2R2pUVHJLZUV6OWNrcll0UzFXMDlLeFN5OWhYWEE1RDI1c1F2a0E2YWZNSjBOanpGM0NhdVBGdXNVOThCTmxWeWxGQWgzRGVPUQ?oc=5",
     "image": "",
     "published_at": "Tue, 18 Aug 2026 12:22:34 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878615+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919557+00:00"
   },
   {
     "id": "8aac8898dc8b",
@@ -437,27 +237,27 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1BjM1B2bkFockhSS2pQSzhEenBsMm5YNTMtaTh6dERNby1BM1NScy1tX1NESzBuU3FPNXhoSnpGdTJ3QVVtVkVIV1JmWkRaQVNqeXRJQnowT0dPYV85RUlFQmJSZWEwNU9ZYmtZT0J3M09XeHZfQThUTUszd1Jvb0pIbE5OMS1aZjZUS0x0ZGdPOURsbE1Tcw?oc=5",
     "image": "",
     "published_at": "Sun, 18 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878632+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919575+00:00"
   },
   {
     "id": "69374d4fc12b",
     "title": "Milky Mist Dairy Food shares make a decent market debut; stock lists at 18% premium of NSE, BSE",
-    "source": "Business Today",
-    "summary": "Milky Mist Dairy Food shares make a decent market debut; stock lists at 18% premium of NSE, BSE&nbsp;&nbsp;Business Today",
+    "source": "businesstoday.in",
+    "summary": "Milky Mist Dairy Food shares make a decent market debut; stock lists at 18% premium of NSE, BSE&nbsp;&nbsp;businesstoday.in",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa3lZcXowMDFBRHpFWmZ5QmtIb3RfN0tycEN5NHFVYVFTaXctTF9VZUJhRGVFVlFxZHFUSENKbmEzVktBRlpURVN1YS1DOVJueW5NS0pnVWJfazZ0RWhIMjlLN21aRTNlejM5eTVKY3MyLUJ3T0xXSXlaSmMtQTYzN1R6bG4tcXlqQmF4TzRJWXdvX0xwNEgyYkRJbU5FMHNmbzZzQU1wQlZpQTVxWXlJbDN0UXdla1BnNjVhcTNXakJEMTFGeEtOQ0xGaXRzN3JhSGkzNkNmaGFKWkFaMmJNVW1OTl9tUEJkQ3lCUkpyY3HSAfYBQVVfeXFMT2ZESHptYnV5M3FSTG1kdXAwajhVZHVEWUZsMUVKMGhBdFFrRGFSNXZxNk1zS0tCWHFqYXRZa1ctQzFXMG9sbmRucFRtRkp0SFFLUnZuWV9IeXRueURuYnRXNFFGV0IzUms4YXdXdmM5cUlSSzF1c1N3dTJ4ZDluNy1hQ3g3Vm45MWI0QkhxemxwSk94a1FpWjhzVWdCS2pwRXZ0WUVZeFZiTVU3dWZyRzFzaU9xSWxtc2cwY0xhUVltUHJ3UmJEaktYODJYSEZvazRCRWx5cG9pMVJVb2dJMHhwWG1ZMFF1OHhkWDNPQUxnN2U5dzFB?oc=5",
     "image": "",
     "published_at": "Tue, 18 Aug 2026 04:27:55 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878652+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919596+00:00"
   },
   {
     "id": "51ac0ea62add",
     "title": "Stock market holiday: BSE, NSE remain shut for Lok Sabha polling | Akashvani News",
-    "source": "News On AIR",
-    "summary": "Stock market holiday: BSE, NSE remain shut for Lok Sabha polling | Akashvani News&nbsp;&nbsp;News On AIR",
+    "source": "newsonair.gov.in",
+    "summary": "Stock market holiday: BSE, NSE remain shut for Lok Sabha polling | Akashvani News&nbsp;&nbsp;newsonair.gov.in",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3N1VUlTQk9taXNfUDV3S3FNVEtKWGFrQnJwODJzSUQwanJEeGdNN3ZRdVdvUU9VVkI3Mjc4MWQxNGNxQl9WamZ3TTdmX2hMMGNfODJnWExxRGM1aklDR2ZqcjN6RUszQ2hGNHdjTlg5OGFKbHJyVDZhLTBxd1V6bUpSY0JlMVdsMHByRnlmOURnZw?oc=5",
     "image": "",
     "published_at": "Mon, 22 Jun 2026 11:29:06 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878671+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919614+00:00"
   },
   {
     "id": "4efcf8dd75ed",
@@ -467,17 +267,7 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPel9zTXVVN182UGFkMjJJUDExYTQ5STlHNEV3V2RjSS1vek9vaFFNNWdGd1RXQ1k2Q05XZGpCLUVWd3VrV2x2THpuaW5kak5EN0dzR1N0bEdFRTR3Ukt1TEpaYlVmVkpXWVJOT2ViMDd4dE1oQXRyM0UtWVg4eDNrNm5Mb3RsTGR3el80V3p0X3lyQUV1V210MWVSdFVCTEJPRVU0QmRybjlJZzJfbjRSRWd6YnRBSmlTUjE2ekdBRUd1VVBHYkHSAcsBQVVfeXFMTllpa2lHZXhMOWlSaUhqb1dkcTZMRV9ELXNiaGRHWnktdkFVUmxTbGlVVlFhSGM3TlMxUGpHM0MtdTV3NlBROU9ub2h5VTh6bzRkWnI3THN2OExfQVZFcThqcmhDM01TOW1ZQ3prSm5xelA4RTh0OGFYUDNaNE5XVmhOMm1QbXdERUwtN3V4ZFFyTV96T0o2QURIWHhxMmVsOGtlQXVBeG0wNzBKU3JfY0lKem9PQ3NEUzlYY3hsNWdLWkszelJCMmViVVk?oc=5",
     "image": "",
     "published_at": "Fri, 26 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878687+00:00"
-  },
-  {
-    "id": "902d19d7c406",
-    "title": "Are Stock Markets Shut For Ram Navami Today? Check NSE, BSE Holiday List",
-    "source": "NDTV",
-    "summary": "Are Stock Markets Shut For Ram Navami Today? Check NSE, BSE Holiday List&nbsp;&nbsp;NDTV",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWJqNDFtYTVaMlMxVGNvVWtQbFB4UERJLUU2bzB1by1xb2RQZTFkRGMyNFFTNEIxYXF6bVdPek01d0dOeU9BZ3Byc3VkdkJtZEpaTG9yYjU2ak5YSG14clZuWFFjenhDcDNLREdFZDNzdkVsMFRiX2pSaTRvZGJxcVVZTktsdWZYWnpmZk1EdXZzQngwZzVnS3g0OGhjdEJJQTB1UGNWUzBMQzFoNXVCUdIBuAFBVV95cUxOQXhGMVpFWHV5QlpsUS0zQkdxZ1E0UV9ZT2Zsa0tJSTVIZUE1TWZOTFI0RUNZRDJOUzVQWHd5UkdlTGQ5TEtZNzZidklMbGpDZnVSU1RlU2xJMXVSaUdmVGtrQnRJNGJLUk5HcW9odlJWS0YzS011OXpmV095dlBuaXdsajF6alNVaDJMYTUzc3Z0YUxrYXJwU3RoZ2tJcU1kYmVQOFJiaU9tZzVfa3Z5ZmJGbDd6d3p2?oc=5",
-    "image": "",
-    "published_at": "Thu, 26 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878705+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919629+00:00"
   },
   {
     "id": "e36e8726df88",
@@ -487,7 +277,17 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlBNeHpLNW5sQ0IwbFBDTFRyYklTS0M2ZU9sWE5Wb19zdWR3eWFYcDBMSXAxT0FmdmdWRTdtWjZHWFcxZm05V2Z3UWxtVlExVWJEbUhabXVmaUp1OThidEM5UVRNajl6SzVsVmJYN19fblllWWxfdVhUZng2UTZwcXl2eTZoSml6X0YwZklzMDhBT1dlUGdVSm1tTklaZjFOVlk0aktFbVU3b2J6VW9IT0N2V0RYdGRhQXZlODdhbHhmQW9oM0NUVTgwbWtiUFViOFdmckd0SzV1RnhtMjBjMkNfRjdxM0Yx0gHuAUFVX3lxTFB2R1k2aHNHbW43dnZPNUJoanVyU1RoTjJ1d005c1JXN2tWMFY4Vk5Mbk5kbGFVSTJKVHZCcGQwX1dPTlVqaWpMSEhZbU9wdDhhSEUycXBpV3I5MENwMHlld3ltdnhEaTc5a1RNU2tSd0VKa0I1VkRHdW5JTTBDbkVtRG9HNld3XzZ1U2RoOVpoWnpBOTBxWGhJbC0tVzc0b011VWNhZ3RwdnJjY1gxU3pyNGJ5QTJDWkFDWFhBN1FJMHNFWXZMeGJESHJyWkVndlYzVTR5ZTI4M1UzZzdpTTJCNFFBMi1oMlpWTnlDSGc?oc=5",
     "image": "",
     "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878724+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919645+00:00"
+  },
+  {
+    "id": "902d19d7c406",
+    "title": "Are Stock Markets Shut For Ram Navami Today? Check NSE, BSE Holiday List",
+    "source": "NDTV",
+    "summary": "Are Stock Markets Shut For Ram Navami Today? Check NSE, BSE Holiday List&nbsp;&nbsp;NDTV",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWJqNDFtYTVaMlMxVGNvVWtQbFB4UERJLUU2bzB1by1xb2RQZTFkRGMyNFFTNEIxYXF6bVdPek01d0dOeU9BZ3Byc3VkdkJtZEpaTG9yYjU2ak5YSG14clZuWFFjenhDcDNLREdFZDNzdkVsMFRiX2pSaTRvZGJxcVVZTktsdWZYWnpmZk1EdXZzQngwZzVnS3g0OGhjdEJJQTB1UGNWUzBMQzFoNXVCUdIBuAFBVV95cUxOQXhGMVpFWHV5QlpsUS0zQkdxZ1E0UV9ZT2Zsa0tJSTVIZUE1TWZOTFI0RUNZRDJOUzVQWHd5UkdlTGQ5TEtZNzZidklMbGpDZnVSU1RlU2xJMXVSaUdmVGtrQnRJNGJLUk5HcW9odlJWS0YzS011OXpmV095dlBuaXdsajF6alNVaDJMYTUzc3Z0YUxrYXJwU3RoZ2tJcU1kYmVQOFJiaU9tZzVfa3Z5ZmJGbDd6d3p2?oc=5",
+    "image": "",
+    "published_at": "Thu, 26 Mar 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-19T20:35:30.919660+00:00"
   },
   {
     "id": "8acf1ef59bb8",
@@ -497,6 +297,206 @@
     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPelROQ3dZbWEwblJFOEZISlhjSkpjeHF2eUxLLTBOaTZDdm5pbzlUWDRlc2Z5MW5IS1ktWXh1TW5PN213emp6RTJOOE1pNmNTWlZ4ZkQxanhGYzdmVkZ0S215S0ZTdjljQUY3eGRrZnQ4UDVFNkNrNzI2blVCaG9ybGxNeWg4Y0VlMDgwbmxCclR2cjhqSkRQcWJnYk5XTmtjdmQtQnlLaVNseGR0Wm5jMTZFNGdSRWxJZUFzSVhBaF9VblpaT2xjVDhtSWtDY1V4YUJKYjF3ZVp1WFVzdHdkWHFhVXBkZk5JRkViUVo3M0hxQzZpMzFwSWpiNThXdGdWUTFRYW1EaTBrbTdTdWxpQdIBlgJBVV95cUxQR0ZPeENYRGJJOVNJS01rd25VQVB5Wi1GMnJLU1FzS0oxbGVPU0lIdV85RThROTYwZW54aDJUdWN0Q0NIUmRpVnd4SUV3cVpiNUNncmZBSU9ZT3FnWktHQVN3U0pSNzJIZU56UWlCcHpURy05SVFKLUstY0lwaDVQWFZuZGVUYW5ReHdUaUhXWDJWQkFTNDF4elAzNmFLQkNpQUxDSWh3RGpmREc1ekZBNmx1aEJ3RnlfYkxiN01yWXdnUVNPYnlxSmRyREZISzd0dVRIRzNCakYxV0R0TEdwbXZVZU0tSE0tRXJGVHNHVFBpVEhzYlV4THhZOE9jTTM1OXJCZmUtaGR3YnRSN3dtWXJOTG1udw?oc=5",
     "image": "",
     "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-19T18:43:41.878746+00:00"
+    "fetched_at": "2026-08-19T20:35:30.919678+00:00"
+  },
+  {
+    "id": "6e2032561da0",
+    "title": "Flexi-cap funds with highest and lowest large-cap stock allocation: What the data shows",
+    "source": "LiveMint",
+    "summary": "Flexi-cap funds can vary sharply in their large-cap exposure despite having the flexibility to invest across market segments. Some of the biggest funds have a strong large-cap tilt, while others take a more diversified approach—creating an important distinction for investors to examine.",
+    "url": "https://www.livemint.com/money/personal-finance/flexicap-funds-with-the-highest-and-lowest-large-cap-stock-allocation-what-the-data-shows-11787158717875.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 23:11:11 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220822+00:00"
+  },
+  {
+    "id": "5ea9a476dc69",
+    "title": "Building a new house before selling the old one: Does Section 54 tax exemption apply? Rules explained",
+    "source": "LiveMint",
+    "summary": "Starting construction before selling your old house does not automatically rule out the Section 54 exemption. Find out when the exemption can apply, the three-year completion rule, CGAS requirements, key risks and documents taxpayers should maintain.",
+    "url": "https://www.livemint.com/money/personal-finance/building-a-new-house-before-selling-the-old-one-does-section-54-tax-exemption-apply-rules-explained-11787155206262.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 22:54:12 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220855+00:00"
+  },
+  {
+    "id": "2fb7ce2a7aa4",
+    "title": "SBI slashes bulk fixed deposit rates: Will the latest changes affect your personal savings? Check here",
+    "source": "LiveMint",
+    "summary": "SBI has reduced rates on domestic bulk term deposits by up to 25 basis points for select maturities.",
+    "url": "https://www.livemint.com/money/personal-finance/sbi-slashes-bulk-fixed-deposit-rates-will-the-latest-changes-affect-your-personal-savings-check-here-11787154362798.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 22:39:20 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220874+00:00"
+  },
+  {
+    "id": "232e463b9c3a",
+    "title": "Switching from regular to direct mutual funds: Know the hidden tax cost — and when the move actually pays off",
+    "source": "LiveMint",
+    "summary": "Regular and direct mutual fund plans can deliver different outcomes due to expense ratios, taxes and distributor costs. The decision to switch depends on factors such as the breakeven period and capital gains tax.",
+    "url": "https://www.livemint.com/money/personal-finance/switching-from-regular-to-direct-mutual-funds-know-the-hidden-tax-cost-and-when-the-move-actually-pays-off-11787147854273.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 21:54:53 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220899+00:00"
+  },
+  {
+    "id": "3e60cd75b158",
+    "title": "Madhya Pradesh Ladli Behna Scheme: CM Mohan Yadav disbursed ₹1500 monthly installment; did you receive?—how to check",
+    "source": "LiveMint",
+    "summary": "Madhya Pradesh CM Mohan Yadav transferred ₹1,750 to over 1.25 crore beneficiaries under the Ladli Behna scheme, including a ₹250 Raksha Bandhan gift, to promote women's financial independence. He emphasised the importance of women’s roles in family and society at a state-level event in Maihar.",
+    "url": "https://www.livemint.com/money/personal-finance/madhya-pradesh-ladli-behna-scheme-cm-mohan-yadav-disbursed-rs-1500-monthly-installment-did-you-receive-how-to-check-11787149037163.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 21:16:55 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220929+00:00"
+  },
+  {
+    "id": "1ec7c369adc1",
+    "title": "SBI cash withdrawal charges: Bank changes BSBD free transaction rule; check what changed, ₹15 fee and when it kicks in",
+    "source": "LiveMint",
+    "summary": "State Bank of India has updated service charges for Basic Savings Bank Deposit accounts, effective October 1, 2026.&amp;nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/sbi-cash-withdrawal-charges-digital-transactions-now-count-for-4-bsbd-free-withdrawals-pay-rs-15-gst-after-october-1-11787149413428.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:35:04 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220949+00:00"
+  },
+  {
+    "id": "112089d16cbb",
+    "title": "JioBlackRock regular plans explained: Higher costs, professional guidance | what investors get",
+    "source": "LiveMint",
+    "summary": "JioBlackRock Asset Management will launch regular mutual fund plans through distributors, adding a route for investors who prefer support.&amp;nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/jioblackrock-regular-plans-explained-higher-costs-professional-guidance-what-investors-get-11787146761309.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 19:50:07 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220966+00:00"
+  },
+  {
+    "id": "4723a308a1a5",
+    "title": "Technology funds bounced back in July: What investors should know before boosting their IT exposure",
+    "source": "LiveMint",
+    "summary": "Technology mutual funds rebounded sharply in July, but the rally may not necessarily signal a sustained recovery. With IT allocation rising in mutual fund portfolios, investors should assess valuations, existing exposure and fund strategy before increasing their allocation.",
+    "url": "https://www.livemint.com/money/personal-finance/technology-funds-bounced-back-in-july-what-investors-should-know-before-boosting-their-it-exposure-11787143346995.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 19:45:20 +0530",
+    "fetched_at": "2026-08-19T20:35:37.220989+00:00"
+  },
+  {
+    "id": "43d6ed5069ee",
+    "title": "Investor vs trader: How stock market income is taxed, which ITR form to file and key conditions explained",
+    "source": "LiveMint",
+    "summary": "Stock market investors and traders are taxed differently based on the nature of their activities. Both may also have to file different ITR forms. Here are the key rules, classification factors and common filing mistakes to know.",
+    "url": "https://www.livemint.com/money/personal-finance/investor-vs-trader-how-stock-market-income-is-taxed-which-itr-form-to-file-and-key-conditions-explained-11787137945702.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 18:44:13 +0530",
+    "fetched_at": "2026-08-19T20:35:37.221012+00:00"
+  },
+  {
+    "id": "82ab0cfd8e1d",
+    "title": "₹1 crore salary trap: Why high income does not equal financial freedom; CA identifies dangers of expensive lifestyle",
+    "source": "LiveMint",
+    "summary": "CA Anil Sagayanathan highlights the fragility of high salaries and lifestyle inflation on LinkedIn. Even with ₹1 crore income, financial stress prevails due to rising expenses and peer pressure.&amp;nbsp;",
+    "url": "https://www.livemint.com/money/personal-finance/1-crore-salary-trap-why-high-income-does-not-equal-financial-freedom-ca-identifies-dangers-of-expensive-lifestyle-11787140708764.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 17:41:50 +0530",
+    "fetched_at": "2026-08-19T20:35:37.221035+00:00"
+  },
+  {
+    "id": "43816a2afda9",
+    "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
+    "source": "Economic Times",
+    "summary": "US stock markets enjoyed a boost as easing bond yields and a spike in Moderna shares contributed to a favorable trading environment. Despite the Federal Reserve's minutes highlighting inflation concerns and discussions on rate hikes, investors remained optimistic. The Treasury's announcement of liqu",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-as-yields-ease-moderna-lifts-healthcare-stocks/articleshow/133358680.cms",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 01:39:50 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276738+00:00"
+  },
+  {
+    "id": "f8bcb7e4ad21",
+    "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
+    "source": "Economic Times",
+    "summary": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 23:55:33 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276777+00:00"
+  },
+  {
+    "id": "07d88291273c",
+    "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
+    "source": "Economic Times",
+    "summary": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which push",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 23:44:57 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276809+00:00"
+  },
+  {
+    "id": "f19fc6c1fea8",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+    "source": "Economic Times",
+    "summary": "Indian equities extended losses for a seventh session as rising oil prices and US-Iran tensions heightened risk aversion. Nifty fell to 24,078, while Sensex declined 326 points. Analysts flagged 24,000-24,050 as crucial support, with weak breadth favouring bears.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 21:16:05 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276834+00:00"
+  },
+  {
+    "id": "cf8d444850b8",
+    "title": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+    "source": "Economic Times",
+    "summary": "Estee Lauder projects robust annual profits that are set to surpass Wall Street's expectations. The company's growth is heavily fueled by luxury fragrances, including popular lines such as Tom Ford and Le Labo. Estee Lauder anticipates an ongoing demand surge from young, affluent consumers while str",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 21:14:01 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276868+00:00"
+  },
+  {
+    "id": "981ffd41f703",
+    "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
+    "source": "Economic Times",
+    "summary": "Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:56:52 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276893+00:00"
+  },
+  {
+    "id": "b1ab08a8e533",
+    "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
+    "source": "Economic Times",
+    "summary": "Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:27:56 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276921+00:00"
+  },
+  {
+    "id": "d05dfc81cfa6",
+    "title": "BSE looks to launch MSCI-linked futures and options in India",
+    "source": "Economic Times",
+    "summary": "BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:13:00 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276949+00:00"
+  },
+  {
+    "id": "c6a9c59e1010",
+    "title": "Moderna shares soar 159% in a day after cancer vaccine succeeds in late-stage trial",
+    "source": "Economic Times",
+    "summary": "Moderna shares surged after its personalized mRNA cancer vaccine trial showed positive results. The treatment, combined with Keytruda, reduced melanoma recurrence and spread significantly. This marks the first successful late-stage trial for an mRNA cancer vaccine. The findings offer hope for future",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 19:56:33 +0530",
+    "fetched_at": "2026-08-19T20:35:37.276981+00:00"
+  },
+  {
+    "id": "c2deca5dd9a1",
+    "title": "Marvell shares jump 8% after chipmaker hands Google option to buy $12.2 billion stake",
+    "source": "Economic Times",
+    "summary": "Marvell shares surged 8% after securing a Google agreement to develop custom AI chips and related technologies. Google received a warrant for up to 58.97 million shares worth about $12.18 billion, strengthening Marvell’s position in AI infrastructure.",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/marvell-shares-jump-8-after-chipmaker-hands-google-option-to-buy-12-2-billion-stake/articleshow/133351073.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 19:49:49 +0530",
+    "fetched_at": "2026-08-19T20:35:37.277008+00:00"
   }
 ]
