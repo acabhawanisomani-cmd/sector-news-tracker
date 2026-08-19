@@ -1,5 +1,205 @@
 [
   {
+    "id": "ba89a4ed3cb7",
+    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
+    "source": "LiveMint",
+    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
+    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:51:13 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230731+00:00"
+  },
+  {
+    "id": "b9b224c38d70",
+    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
+    "source": "LiveMint",
+    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
+    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 15:29:45 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230764+00:00"
+  },
+  {
+    "id": "cf78a8c4357a",
+    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
+    "source": "LiveMint",
+    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
+    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:34:26 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230784+00:00"
+  },
+  {
+    "id": "dec0d50cb57f",
+    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
+    "source": "LiveMint",
+    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
+    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 08:20:49 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230800+00:00"
+  },
+  {
+    "id": "9eed41d541d0",
+    "title": "Govt may turn security concerns into a market for India-designed chips",
+    "source": "LiveMint",
+    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
+    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 06:00:24 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230814+00:00"
+  },
+  {
+    "id": "fc4637f3e372",
+    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "source": "LiveMint",
+    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 03:22:12 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230826+00:00"
+  },
+  {
+    "id": "597d18b242f6",
+    "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
+    "source": "LiveMint",
+    "summary": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
+    "url": "https://www.livemint.com/technology/aiassisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking-11787089077985.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 03:07:57 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230838+00:00"
+  },
+  {
+    "id": "0df452e6426b",
+    "title": "Factbox-Authorities restricting data centres amid AI boom",
+    "source": "LiveMint",
+    "summary": "DATA-CENTRES-BAN:Factbox-Authorities restricting data centres amid AI boom",
+    "url": "https://www.livemint.com/technology/factboxauthorities-restricting-data-centres-amid-ai-boom-11787088961119.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 03:06:00 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230847+00:00"
+  },
+  {
+    "id": "e638274cd101",
+    "title": "ChatGPT to get a massive upgrade in the next 6 months, says Sam Altman — ‘Could watch you all the time’",
+    "source": "LiveMint",
+    "summary": "Altman said that with this update, the users would be able to connect the AI directly to vital daily services, including email, text messages, documents, and Slack.",
+    "url": "https://www.livemint.com/technology/tech-news/chatgpt-to-get-a-massive-upgrade-in-the-next-6-months-says-sam-altman-could-watch-you-all-the-time-11787068716398.html",
+    "image": "",
+    "published_at": "Tue, 18 Aug 2026 22:14:31 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230864+00:00"
+  },
+  {
+    "id": "865b0c3df33a",
+    "title": "OpenAI’s ChatGPT for Teenagers is here: Check safety features and how it works",
+    "source": "LiveMint",
+    "summary": "The teen-focused version will also offer support for homework and studying. Instead of simply providing answers or writing school essays for students.",
+    "url": "https://www.livemint.com/technology/openais-chatgpt-for-teenagers-is-here-check-safety-features-and-how-it-works-11787058377395.html",
+    "image": "",
+    "published_at": "Tue, 18 Aug 2026 19:03:52 +0530",
+    "fetched_at": "2026-08-19T19:32:03.230878+00:00"
+  },
+  {
+    "id": "f17d7e5e9419",
+    "title": "India startup aims to compete with OpenAI in crowded voice arena",
+    "source": "Economic Times",
+    "summary": "Murf AI has launched Falcon 2, a text-to-speech model designed to deliver human-like voices at lower costs and faster speeds. Priced at $0.01 per generated minute, the model has outperformed some offerings from OpenAI and other global players in independent benchmarks, targeting enterprise use cases",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena/articleshow/133353544.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 22:11:14 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427134+00:00"
+  },
+  {
+    "id": "14043d51fd5c",
+    "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+    "source": "Economic Times",
+    "summary": "Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas. The drones will primarily fly in the suburbs well away from skyscrapers and major airports that could cause problems",
+    "url": "https://economictimes.indiatimes.com/tech/technology/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/articleshow/133352365.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 21:01:31 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427171+00:00"
+  },
+  {
+    "id": "638b127faac1",
+    "title": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
+    "source": "Economic Times",
+    "summary": "Five male teenagers died in a crash on Sunday while driving on ​the wrong side of a motorway, seriously injuring three women and a child in another ​car who were travelling to Dublin Airport, police said. Footage purporting to be taken from the car, and from other cars engaged in dangerous activity,",
+    "url": "https://economictimes.indiatimes.com/tech/technology/irish-lawmakers-summon-tiktok-over-videos-glorifying-dangerous-driving/articleshow/133352309.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:57:17 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427202+00:00"
+  },
+  {
+    "id": "5ef7c2ecef1c",
+    "title": "Shiprocket’s stellar D-Street debut; KKR buys BookMyShow stake",
+    "source": "Economic Times",
+    "summary": "Shiprocket shares zoomed ​in a bumper public market debut on Wednesday. This and more in today’s ETtech Top 5.",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprockets-stellar-d-street-debut-kkr-buys-bookmyshow-stake/articleshow/133350199.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 19:19:08 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427218+00:00"
+  },
+  {
+    "id": "e80965609097",
+    "title": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal",
+    "source": "Economic Times",
+    "summary": "Marvell said it would develop AI inference accelerators, storage, networking and ‌memory interface controllers and near-memory computing technologies for Google. Demand for ‌custom chips such ​as ​Google's tensor processing units (TPUs), ⁠used for AI workloads, has surged ​in recent years as ​busine",
+    "url": "https://economictimes.indiatimes.com/tech/technology/marvell-gives-google-option-to-buy-12-2-billion-stake-in-custom-chip-deal/articleshow/133349015.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 18:20:44 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427241+00:00"
+  },
+  {
+    "id": "ad8b45113c37",
+    "title": "Talent, data hurdles primary barriers for India's AI ecosystem: Report",
+    "source": "Economic Times",
+    "summary": "According to the report, which surveyed 308 stakeholders, including startups, business users, and consumers, 47.2% of respondents identified talent availability as a significant barrier to competitiveness - ranking it jointly as the top challenge alongside customer adoption.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-data-hurdles-primary-barriers-for-indias-ai-ecosystem-report/articleshow/133347226.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 17:16:33 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427259+00:00"
+  },
+  {
+    "id": "b26c074ed405",
+    "title": "Former Meta engineer resumes testimony in landmark trial over social media's harm to young users",
+    "source": "Economic Times",
+    "summary": "Arturo Bejar, who worked at Meta from 2009 to 2015 before returning to the company as an independent contractor from 2019 to 2021, is the first witness in a landmark trial over claims brought by a coalition of states accusing the company of designing its ‌platforms to addict young ⁠users. Meta, whic",
+    "url": "https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-resumes-testimony-in-landmark-trial-over-social-medias-harm-to-young-users/articleshow/133345665.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 17:03:38 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427292+00:00"
+  },
+  {
+    "id": "4006a9a6f7b9",
+    "title": "China robot makers flock to Beijing show, seek path to mass adoption",
+    "source": "Economic Times",
+    "summary": "More than 300 companies are attending the World Robot Conference which runs through Sunday, displaying ‌over 2,000 exhibits and ⁠launching more ⁠than 150 products, according to Beijing authorities.",
+    "url": "https://economictimes.indiatimes.com/tech/startups/china-robot-makers-flock-to-beijing-show-seek-path-to-mass-adoption/articleshow/133343087.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:37:32 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427308+00:00"
+  },
+  {
+    "id": "9d471088345a",
+    "title": "India an innovation powerhouse; can showcase AI-led autonomous enterprise vision: SAP APAC President",
+    "source": "Economic Times",
+    "summary": "Siow - who was named President for SAP Asia Pacific region last month - told PTI in an interview that the company views India through a broader lens that goes beyond its customer base and revenue growth, given the country's large partner ecosystem, technology talent and role as an innovation hub.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/india-an-innovation-powerhouse-can-showcase-ai-led-autonomous-enterprise-vision-sap-apac-president/articleshow/133343024.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:33:35 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427327+00:00"
+  },
+  {
+    "id": "f44fd4c15f87",
+    "title": "Samsung hikes chipmaking prices by up to 15% on demand spike",
+    "source": "Economic Times",
+    "summary": "Demand from Chinese customers has been particularly strong, but Samsung has ​been unable to meet all orders because it must serve US customers and reserve part of its capacity to support its own chip production, said the sources, who spoke on the condition of anonymity because they are discussing se",
+    "url": "https://economictimes.indiatimes.com/tech/technology/samsung-hikes-chipmaking-prices-by-up-to-15-on-demand-spike/articleshow/133342949.cms",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:28:52 +0530",
+    "fetched_at": "2026-08-19T19:32:03.427347+00:00"
+  },
+  {
     "id": "b5607e90ebf4",
     "title": "Samsung's new foldable smartphones may get costlier in India",
     "source": "Investment Guru",
@@ -298,205 +498,5 @@
     "image": "",
     "published_at": "Mon, 17 Aug 2026 07:14:20 GMT",
     "fetched_at": "2026-08-19T18:43:26.370010+00:00"
-  },
-  {
-    "id": "ba89a4ed3cb7",
-    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
-    "source": "LiveMint",
-    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
-    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 20:51:13 +0530",
-    "fetched_at": "2026-08-19T18:43:31.528958+00:00"
-  },
-  {
-    "id": "b9b224c38d70",
-    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
-    "source": "LiveMint",
-    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
-    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 15:29:45 +0530",
-    "fetched_at": "2026-08-19T18:43:31.528993+00:00"
-  },
-  {
-    "id": "cf78a8c4357a",
-    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
-    "source": "LiveMint",
-    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
-    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 14:34:26 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529020+00:00"
-  },
-  {
-    "id": "dec0d50cb57f",
-    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
-    "source": "LiveMint",
-    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
-    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 08:20:49 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529041+00:00"
-  },
-  {
-    "id": "9eed41d541d0",
-    "title": "Govt may turn security concerns into a market for India-designed chips",
-    "source": "LiveMint",
-    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
-    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 06:00:24 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529059+00:00"
-  },
-  {
-    "id": "fc4637f3e372",
-    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "source": "LiveMint",
-    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 03:22:12 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529076+00:00"
-  },
-  {
-    "id": "597d18b242f6",
-    "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
-    "source": "LiveMint",
-    "summary": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
-    "url": "https://www.livemint.com/technology/aiassisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking-11787089077985.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 03:07:57 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529090+00:00"
-  },
-  {
-    "id": "0df452e6426b",
-    "title": "Factbox-Authorities restricting data centres amid AI boom",
-    "source": "LiveMint",
-    "summary": "DATA-CENTRES-BAN:Factbox-Authorities restricting data centres amid AI boom",
-    "url": "https://www.livemint.com/technology/factboxauthorities-restricting-data-centres-amid-ai-boom-11787088961119.html",
-    "image": "",
-    "published_at": "mer., 19 août 2026 03:06:00 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529102+00:00"
-  },
-  {
-    "id": "e638274cd101",
-    "title": "ChatGPT to get a massive upgrade in the next 6 months, says Sam Altman — ‘Could watch you all the time’",
-    "source": "LiveMint",
-    "summary": "Altman said that with this update, the users would be able to connect the AI directly to vital daily services, including email, text messages, documents, and Slack.",
-    "url": "https://www.livemint.com/technology/tech-news/chatgpt-to-get-a-massive-upgrade-in-the-next-6-months-says-sam-altman-could-watch-you-all-the-time-11787068716398.html",
-    "image": "",
-    "published_at": "mar., 18 août 2026 22:14:31 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529124+00:00"
-  },
-  {
-    "id": "865b0c3df33a",
-    "title": "OpenAI’s ChatGPT for Teenagers is here: Check safety features and how it works",
-    "source": "LiveMint",
-    "summary": "The teen-focused version will also offer support for homework and studying. Instead of simply providing answers or writing school essays for students.",
-    "url": "https://www.livemint.com/technology/openais-chatgpt-for-teenagers-is-here-check-safety-features-and-how-it-works-11787058377395.html",
-    "image": "",
-    "published_at": "mar., 18 août 2026 19:03:52 +0530",
-    "fetched_at": "2026-08-19T18:43:31.529142+00:00"
-  },
-  {
-    "id": "f17d7e5e9419",
-    "title": "India startup aims to compete with OpenAI in crowded voice arena",
-    "source": "Economic Times",
-    "summary": "Murf AI has launched Falcon 2, a text-to-speech model designed to deliver human-like voices at lower costs and faster speeds. Priced at $0.01 per generated minute, the model has outperformed some offerings from OpenAI and other global players in independent benchmarks, targeting enterprise use cases",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena/articleshow/133353544.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 22:11:14 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728728+00:00"
-  },
-  {
-    "id": "14043d51fd5c",
-    "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
-    "source": "Economic Times",
-    "summary": "Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas. The drones will primarily fly in the suburbs well away from skyscrapers and major airports that could cause problems",
-    "url": "https://economictimes.indiatimes.com/tech/technology/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/articleshow/133352365.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 21:01:31 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728765+00:00"
-  },
-  {
-    "id": "638b127faac1",
-    "title": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
-    "source": "Economic Times",
-    "summary": "Five male teenagers died in a crash on Sunday while driving on ​the wrong side of a motorway, seriously injuring three women and a child in another ​car who were travelling to Dublin Airport, police said. Footage purporting to be taken from the car, and from other cars engaged in dangerous activity,",
-    "url": "https://economictimes.indiatimes.com/tech/technology/irish-lawmakers-summon-tiktok-over-videos-glorifying-dangerous-driving/articleshow/133352309.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:57:17 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728799+00:00"
-  },
-  {
-    "id": "5ef7c2ecef1c",
-    "title": "Shiprocket’s stellar D-Street debut; KKR buys BookMyShow stake",
-    "source": "Economic Times",
-    "summary": "Shiprocket shares zoomed ​in a bumper public market debut on Wednesday. This and more in today’s ETtech Top 5.",
-    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprockets-stellar-d-street-debut-kkr-buys-bookmyshow-stake/articleshow/133350199.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:19:08 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728817+00:00"
-  },
-  {
-    "id": "e80965609097",
-    "title": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal",
-    "source": "Economic Times",
-    "summary": "Marvell said it would develop AI inference accelerators, storage, networking and ‌memory interface controllers and near-memory computing technologies for Google. Demand for ‌custom chips such ​as ​Google's tensor processing units (TPUs), ⁠used for AI workloads, has surged ​in recent years as ​busine",
-    "url": "https://economictimes.indiatimes.com/tech/technology/marvell-gives-google-option-to-buy-12-2-billion-stake-in-custom-chip-deal/articleshow/133349015.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 18:20:44 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728845+00:00"
-  },
-  {
-    "id": "ad8b45113c37",
-    "title": "Talent, data hurdles primary barriers for India's AI ecosystem: Report",
-    "source": "Economic Times",
-    "summary": "According to the report, which surveyed 308 stakeholders, including startups, business users, and consumers, 47.2% of respondents identified talent availability as a significant barrier to competitiveness - ranking it jointly as the top challenge alongside customer adoption.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-data-hurdles-primary-barriers-for-indias-ai-ecosystem-report/articleshow/133347226.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 17:16:33 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728867+00:00"
-  },
-  {
-    "id": "b26c074ed405",
-    "title": "Former Meta engineer resumes testimony in landmark trial over social media's harm to young users",
-    "source": "Economic Times",
-    "summary": "Arturo Bejar, who worked at Meta from 2009 to 2015 before returning to the company as an independent contractor from 2019 to 2021, is the first witness in a landmark trial over claims brought by a coalition of states accusing the company of designing its ‌platforms to addict young ⁠users. Meta, whic",
-    "url": "https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-resumes-testimony-in-landmark-trial-over-social-medias-harm-to-young-users/articleshow/133345665.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 17:03:38 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728899+00:00"
-  },
-  {
-    "id": "4006a9a6f7b9",
-    "title": "China robot makers flock to Beijing show, seek path to mass adoption",
-    "source": "Economic Times",
-    "summary": "More than 300 companies are attending the World Robot Conference which runs through Sunday, displaying ‌over 2,000 exhibits and ⁠launching more ⁠than 150 products, according to Beijing authorities.",
-    "url": "https://economictimes.indiatimes.com/tech/startups/china-robot-makers-flock-to-beijing-show-seek-path-to-mass-adoption/articleshow/133343087.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:37:32 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728916+00:00"
-  },
-  {
-    "id": "9d471088345a",
-    "title": "India an innovation powerhouse; can showcase AI-led autonomous enterprise vision: SAP APAC President",
-    "source": "Economic Times",
-    "summary": "Siow - who was named President for SAP Asia Pacific region last month - told PTI in an interview that the company views India through a broader lens that goes beyond its customer base and revenue growth, given the country's large partner ecosystem, technology talent and role as an innovation hub.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/india-an-innovation-powerhouse-can-showcase-ai-led-autonomous-enterprise-vision-sap-apac-president/articleshow/133343024.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:33:35 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728936+00:00"
-  },
-  {
-    "id": "f44fd4c15f87",
-    "title": "Samsung hikes chipmaking prices by up to 15% on demand spike",
-    "source": "Economic Times",
-    "summary": "Demand from Chinese customers has been particularly strong, but Samsung has ​been unable to meet all orders because it must serve US customers and reserve part of its capacity to support its own chip production, said the sources, who spoke on the condition of anonymity because they are discussing se",
-    "url": "https://economictimes.indiatimes.com/tech/technology/samsung-hikes-chipmaking-prices-by-up-to-15-on-demand-spike/articleshow/133342949.cms",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:28:52 +0530",
-    "fetched_at": "2026-08-19T18:43:31.728957+00:00"
   }
 ]
