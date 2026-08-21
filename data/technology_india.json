@@ -1,215 +1,5 @@
 [
   {
-    "id": "ae2ed0e9d5fa",
-    "title": "South Korea plans chip windfall fund to back youth, AI investment",
-    "source": "LiveMint",
-    "summary": "SOUTHKOREA-CHIPS/FUND (PIX):South Korea plans chip windfall fund to back youth, AI investment",
-    "url": "https://www.livemint.com/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment-11787285364341.html",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 09:39:23 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893170+00:00"
-  },
-  {
-    "id": "a024fd95439f",
-    "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
-    "source": "LiveMint",
-    "summary": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
-    "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 13:22:54 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893194+00:00"
-  },
-  {
-    "id": "63bd25ccf101",
-    "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
-    "source": "LiveMint",
-    "summary": "India's key strength in artificial intelligence lies in the applications layer, while the country is simultaneously building capabilities in data centres and other digital infrastructure, Union Minister Ashwini Vaishnaw said in an interview with Morgan Stanley India Equity Strategist Ridham Desai.",
-    "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 11:40:40 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893211+00:00"
-  },
-  {
-    "id": "06fa43ac1113",
-    "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces ‘free AI subscriptions for college students’",
-    "source": "LiveMint",
-    "summary": "Alphabet CEO Sundar Pichai announced on Thursday the launch of Gemini's enhanced education tools for NEET, JEE, GRE and other exams. The company also launched ‘free Google AI subscriptions for college students'.",
-    "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 10:07:31 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893230+00:00"
-  },
-  {
-    "id": "ba89a4ed3cb7",
-    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
-    "source": "LiveMint",
-    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
-    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:51:13 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893248+00:00"
-  },
-  {
-    "id": "b9b224c38d70",
-    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
-    "source": "LiveMint",
-    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
-    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 15:29:45 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893259+00:00"
-  },
-  {
-    "id": "cf78a8c4357a",
-    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
-    "source": "LiveMint",
-    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
-    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:34:26 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893273+00:00"
-  },
-  {
-    "id": "dec0d50cb57f",
-    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
-    "source": "LiveMint",
-    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
-    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 08:20:49 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893286+00:00"
-  },
-  {
-    "id": "9eed41d541d0",
-    "title": "Govt may turn security concerns into a market for India-designed chips",
-    "source": "LiveMint",
-    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
-    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 06:00:24 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893297+00:00"
-  },
-  {
-    "id": "fc4637f3e372",
-    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "source": "LiveMint",
-    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 03:22:12 +0530",
-    "fetched_at": "2026-08-21T06:57:47.893307+00:00"
-  },
-  {
-    "id": "4690c660ca7b",
-    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
-    "source": "Economic Times",
-    "summary": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' names were misspelled or written in pure gi",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/articleshow/133393842.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:57:25 +0530",
-    "fetched_at": "2026-08-21T06:57:48.007915+00:00"
-  },
-  {
-    "id": "270e2a826cab",
-    "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
-    "source": "Economic Times",
-    "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for competitive examinatio",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:33:49 +0530",
-    "fetched_at": "2026-08-21T06:57:48.007943+00:00"
-  },
-  {
-    "id": "324c6901300b",
-    "title": "South Korea plans chip windfall fund to back youth, AI investment",
-    "source": "Economic Times",
-    "summary": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:32:19 +0530",
-    "fetched_at": "2026-08-21T06:57:48.007978+00:00"
-  },
-  {
-    "id": "2427cf7f9c55",
-    "title": "What if Meta loses trial? Penalties may top $1.4 trillion, matching its market cap",
-    "source": "Economic Times",
-    "summary": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap/articleshow/133392766.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 09:34:13 +0530",
-    "fetched_at": "2026-08-21T06:57:48.007992+00:00"
-  },
-  {
-    "id": "9bd457ebbcbd",
-    "title": "Lawyers square off in fight over voice data used to train AI",
-    "source": "Economic Times",
-    "summary": "Ross Kimbarovsky of Loevy &amp; Loevy is representing the plaintiffs - a group of journalists, podcasters and audiobook narrators - in the proposed class action lawsuits. He said each of the defendants faces hundreds of millions of dollars in potential damages.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/articleshow/133391894.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:56:51 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008007+00:00"
-  },
-  {
-    "id": "de9ce8365365",
-    "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
-    "source": "Economic Times",
-    "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:51:33 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008019+00:00"
-  },
-  {
-    "id": "520b8f02e308",
-    "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
-    "source": "Economic Times",
-    "summary": "The move follows ​growing scrutiny of smart glasses over their ​recording capabilities, with courts in England and Wales this month prohibiting ​Meta smart glasses because ⁠of restrictions ‌on taking images ​and videos ​in courts.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-cinemas-restricting-meta-ai-and-other-smart-glasses-over-piracy-concerns/articleshow/133391682.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:43:58 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008034+00:00"
-  },
-  {
-    "id": "ee8cf104bb04",
-    "title": "Anthropic plans to change enterprise data retention policy",
-    "source": "Economic Times",
-    "summary": "Under the changes to the data retention policy, Anthropic will still require business customers ​to retain data for 30 ⁠days but ‌will give them the option ​to keep ​it on their own cloud computing ⁠infrastructure, the source said.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:41:01 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008048+00:00"
-  },
-  {
-    "id": "ca8b8df912b7",
-    "title": "Nvidia denies report it is rolling out China AI chip by year-end",
-    "source": "Economic Times",
-    "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:35:17 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008062+00:00"
-  },
-  {
-    "id": "d3ee3cfc657b",
-    "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
-    "source": "Economic Times",
-    "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his ‌conduct would benefit ⁠the government ⁠of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evidence supported ​the guilty verdict on the ",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:33:10 +0530",
-    "fetched_at": "2026-08-21T06:57:48.008080+00:00"
-  },
-  {
-    "id": "51d23099834e",
-    "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
-    "source": "The Verge",
-    "summary": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries&nbsp;&nbsp;The VergeIntroducing Sennheiser MOMENTUM True Wireless 5: The Flagship MOMENTUM Experience in Your Pocket&nbsp;&nbsp;SennheiserSennheiser's New TWS Earbuds Have a Battery You Can Actually Replace Yourself&nbsp;&nbsp;",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUR6aFNxSExzUzJSb1l2ZUtRMHpDSHdCN1Y5T29wZXNBU2hEOWpVaDFvZVRrbmxVOWtMQTVSTjF3UG03WXRBVm1MZm9wU0p4OFJyUHQ5ZVZ0VUpuUkZGbUtfNE5hRThzWVRhMlFwSGV2cV9MU2F5Szc4S0ZQaEh1M25tVnhJbVg1SDR1S0lvbDJiaTNnVlptQVd5ZGRsZ19WcnZQdQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 10:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.414975+00:00"
-  },
-  {
     "id": "f4ec3c335714",
     "title": "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
     "source": "chshyd.in",
@@ -217,27 +7,37 @@
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCMzJYMTRUN3JkRVQzS1RFT243OENFWVg0d2YzWG4tLWQwTXV3UlZXUW9jb042U29OMGpEdTZHcHBwMDVybjE0MmRmbHhDc1BtbEJmZnR3?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 11:40:26 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415047+00:00"
+    "fetched_at": "2026-08-21T07:50:42.022834+00:00"
+  },
+  {
+    "id": "9e01c1e84199",
+    "title": "GTA 6 Leaks Continue for Third Day as New Video Suggests Playable Build Access",
+    "source": "chshyd.in",
+    "summary": "GTA 6 Leaks Continue for Third Day as New Video Suggests Playable Build Access&nbsp;&nbsp;chshyd.inRockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media&nbsp;&nbsp;GamesIndustry.bizGTA 6 Map, Gameplay Leak Online Ahead Of Extended Look Premiere On Netflix. Che",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93aU9vZFpUOExtUFRxcWtyUTJxTUloamdmT0Voc1ZlcDdRSlFUYnN0NEQyREpYYzcyWU9xWmxscWdmTnR1V0hkalNCY3VrSTVKcXFZRXkzemN5TmMzNjROSQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 05:07:33 GMT",
+    "fetched_at": "2026-08-21T07:50:42.022884+00:00"
   },
   {
     "id": "6759c6767a0a",
     "title": "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
     "source": "Forbes",
-    "summary": "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade&nbsp;&nbsp;Forbes[Invitation] Galaxy Event August 2026&nbsp;&nbsp;samsung.comSamsung announces Galaxy event for August 27, expected to unveil Galaxy S26 FE&nbsp;&nbsp;The Times of IndiaGalaxy Event 2026: Samsung confirms to launch pre",
+    "summary": "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade&nbsp;&nbsp;Forbes[Invitation] Galaxy Event August 2026&nbsp;&nbsp;samsung.comMega leak reveals new renders, specs, and features of the Galaxy S26 FE - GSMArena.com news&nbsp;&nbsp;GSMArena.comSamsung announces Galaxy event for August ",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzc5MlVVYV9NTE8tc3pLb3pRbHlKTXhSak1fVmVjN3M5dXB0RzItLUUtRnU1VVZUVUZfMTdYcm8yYl9fS0NXTlY3OHpUdURnckJpZ3h2UFNXd1gxR3pBVEFFQktyaGViQlhRT285MWljbnBtazRhc3dsZmNqMDFwR3ZHY3o2TlZfbmFYa3ZSMlUyQ2ZMWk5YLWdxelZ5ajEwY29WQVJDLVZOVUc3aGFfNkNR?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 19:08:20 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415088+00:00"
+    "fetched_at": "2026-08-21T07:50:42.022929+00:00"
   },
   {
-    "id": "64b0aae2d4c5",
-    "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak",
-    "source": "NBC News",
-    "summary": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak&nbsp;&nbsp;NBC NewsGTA 6 Map, Gameplay Leak Online Ahead Of Extended Look Premiere On Netflix. Check Details&nbsp;&nbsp;NDTVRockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media&nbsp;&nbsp;GamesIndustry.biz",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGM4NDZEM2JZMmdGNkgxaHN4MzNOeW9WalNyU3EtdzNUeUZKWDdYWk4wMWNNekxWOWtodEh3X210dWFCbDBuODkxR0FnUDE4eUdaUktzLUpzc09zWFNQMXVXZjlabHEyYWs1Mk0zaGJpQWc1MHRXX3NGbU5QOEpZZDhKSzhFYkpqUnA0ODNJX3NWV1BkbmczSGlXVHJ5c3c?oc=5",
+    "id": "c63ecaf78cb8",
+    "title": "Chinese hackers use AI to automate attacks on 170,000 servers",
+    "source": "CyberInsider",
+    "summary": "Chinese hackers use AI to automate attacks on 170,000 servers&nbsp;&nbsp;CyberInsiderUAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities&nbsp;&nbsp;Cisco Talos BlogChinese Cybercrime Group Utilises AI to Automate Attacks on Servers&nbsp;&nbsp;India News Netw",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjZFQUY5cUJjcGlnUUZWREpWTXcwd0xzN2l0OEJWM2ZKV3ZfUzdCenZTaDNzM2MtNV82UlduUVd0eHhxYjNYX2FYLW9Bc0VQNFNaS3JBazUyZXhpcXZ2MlJuZjlBS2dNRjYtOHdmS09mNUJydFdpNkwyWURrOGZDVXBWNE1yQVZ3V0ZlY3hXYw?oc=5",
     "image": "",
-    "published_at": "Thu, 20 Aug 2026 22:50:44 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415130+00:00"
+    "published_at": "Thu, 20 Aug 2026 14:57:00 GMT",
+    "fetched_at": "2026-08-21T07:50:42.022957+00:00"
   },
   {
     "id": "4f815e2df02a",
@@ -247,57 +47,57 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDVLb1J3MVJHQXl4LXpDVVRhMDVjZW1DQmp3bVFxQy1aV3pDeVlydHJMSi1yV2h2c0o2SF9NNGNmM2dmNE51elFpTF8zUE5meHFyMlRQeUY5MkZQanp5TlZpZ2NkSzVVd2VWdFVMcGFlbWpEQkFzLTkyWDdjMFB4cUd1ZWtaQTF2NGNtY1pIaktnOEdvRWZnVEVIVQ?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 18:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415169+00:00"
+    "fetched_at": "2026-08-21T07:50:42.022997+00:00"
   },
   {
-    "id": "c63ecaf78cb8",
-    "title": "Chinese hackers use AI to automate attacks on 170,000 servers",
-    "source": "CyberInsider",
-    "summary": "Chinese hackers use AI to automate attacks on 170,000 servers&nbsp;&nbsp;CyberInsiderUAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities&nbsp;&nbsp;Cisco Talos BlogUAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations&nb",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjZFQUY5cUJjcGlnUUZWREpWTXcwd0xzN2l0OEJWM2ZKV3ZfUzdCenZTaDNzM2MtNV82UlduUVd0eHhxYjNYX2FYLW9Bc0VQNFNaS3JBazUyZXhpcXZ2MlJuZjlBS2dNRjYtOHdmS09mNUJydFdpNkwyWURrOGZDVXBWNE1yQVZ3V0ZlY3hXYw?oc=5",
+    "id": "cb333be0eb18",
+    "title": "Google's got some new Pixel 11 videos for the big release day",
+    "source": "Android Authority",
+    "summary": "Google's got some new Pixel 11 videos for the big release day&nbsp;&nbsp;Android AuthorityPixel 11 Pro vs iPhone 17 Pro: What $1,099 Gets You&nbsp;&nbsp;TechRepublicGoogle’s Pixel 11 Pro Is One of My Favorite Android Phones, but It’s Not a Revolution&nbsp;&nbsp;CNETGoogle Pixel 11, Pixel 11 Pro, Pix",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9teFNVZU5wc200cFAyXzB2ckxfSkpyX3R3V1kxU2UyeFQ2WGV5QWNsQThYbnVYOE5PQTAtLVM3WUpmRFRYem9rMThVUmJSSC1yQ0tfQmxDbjVJVm9XbURjaHc1bWZPUGdvRGNmSDdaZnJpZw?oc=5",
     "image": "",
-    "published_at": "Thu, 20 Aug 2026 14:57:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415194+00:00"
-  },
-  {
-    "id": "15ea2d0cb024",
-    "title": "The Google Pixel 11 series is now on sale - GSMArena.com news",
-    "source": "GSMArena.com",
-    "summary": "The Google Pixel 11 series is now on sale - GSMArena.com news&nbsp;&nbsp;GSMArena.comPixel 11 Pro vs iPhone 17 Pro: What $1,099 Gets You&nbsp;&nbsp;TechRepublicGoogle’s Pixel 11 Pro Is One of My Favorite Android Phones, but It’s Not a Revolution&nbsp;&nbsp;CNETGoogle’s Pixel 11 Is Predictably Slick ",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0pvZ0dFb0pVVjRfMXhKR2VPZXppNHpvS1VXUTlvTEVPSzVmb2Q1Z1h5cWljdFIxTG1maTJ6SlVqQjdqbXJIRzNIMnBZUjB3TTlPS01PMWNuZDRxNGVGRkxxZDNVTzJsSWp3UjRxRlJ0TGwtSkkzc1JYSnFfN0tfdk5SS3JVaExu0gGEAUFVX3lxTE9oeWl6bGpzTEp3S1FTdVlBdmVlWjVnS180Mm5kLTdrelhtLVZxcDJBOHBVVW5jdk9ReDZCZlpSMlBpVHJ3VlNCSTg2MF9VS21OVUVTMEJKNU9SVWRMMEd3SVRSWFowVExKYU9sZ1A5Ml9kV3FuYWRMT0FxNnNrZm5xdDFUbg?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 12:47:02 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415230+00:00"
+    "published_at": "Thu, 20 Aug 2026 18:56:00 GMT",
+    "fetched_at": "2026-08-21T07:50:42.023036+00:00"
   },
   {
     "id": "f46cfb12f731",
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "source": "TechCrunch",
-    "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in&nbsp;&nbsp;TechCrunchChatGPT can now read and send iMessages on your Mac: How OpenAI's new feature works&nbsp;&nbsp;FirstpostChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns&nbsp;&nbsp;Bloomberg.comOpenAI ",
+    "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in&nbsp;&nbsp;TechCrunchChatGPT can now read and send iMessages on your Mac: How OpenAI's new feature works&nbsp;&nbsp;FirstpostChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns&nbsp;&nbsp;Bloomberg.comChatGPT",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 22:09:51 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415266+00:00"
+    "fetched_at": "2026-08-21T07:50:42.023072+00:00"
   },
   {
-    "id": "1e9b6ebb42ed",
-    "title": "Meta AI adds conversational campaign analysis",
-    "source": "ContentGrip",
-    "summary": "Meta AI adds conversational campaign analysis&nbsp;&nbsp;ContentGripMeta rolls out new AI features for small businesses&nbsp;&nbsp;afaqs!Meta AI’s new Mac app wants you to talk to your apps&nbsp;&nbsp;TechCrunchMeta adds AI-powered assistant for SMB owners&nbsp;&nbsp;Social Media TodayMeta AI gets b",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdW53QjNIaEFPempzUy1PMjJMaXpaSnBYZlJRYjRhUUJvYWQtUmhESy1BbVNOMUFqZGREZ1hkUkZFMXNXZF9mMHJrb3hROEJaNEhEcFk1Y3lOSWZ1SGIzdDhOUEw?oc=5",
+    "id": "484c734005fd",
+    "title": "American scientists are building a $12 million ‘digital brain’ for drones based on how insects make decis",
+    "source": "The Times of India",
+    "summary": "American scientists are building a $12 million ‘digital brain’ for drones based on how insects make decis&nbsp;&nbsp;The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUXM5Y3BGZTQ1dnhNeXBnSW1UQ3RRQXRBZTNUUUU3X2tLcm1HLTNVTndjd25FLU9KOFdpUEFBZ3B1dHd5QUtpZ0x6cERVTzdZTmVBbkpCR2JTbzlTYXUtUWU5aF9KNUZjS3FXY2NVNWpCckhIbUw4cEJodWQ1Y1JiaThLRVZza1hZVUNwN3RKemQzSmpEdDNRUVBIMjlkYTlmVllka1VxWHpGN1JGX1M1Q1BHcFRaSXhBeFMwRGpfTTgxTExKdTI0Q216UndSbnpyTTlXNTZrdnVyUzYyLUdaWjUyeVlMQmtGNDJ6WEQ2NTh6UEQ5dWNsaVdsU1g0R0ZDb1dlSkwxLS1VcXlHV1lHZzRWOER1TGk2eUNxZVI0WHljanhLckl1dtIBrgJBVV95cUxNMGFveEFXa3VySzlvdE8yU3p4N0xHWHJGcV9OdVB4ZVVfXzJLa18wWkVLNE0zS1lRRXdXTzhVc003dEF3Q0hZWHJYVDVBdWhIZE9IcDFucjZNZzJESmJnYWlweXY5R0FseFZqX2RFVE1MdllFdkc4NFFrdWNKbENpYnE0aWQxcEVCVUJkNHZYVVp4WnVFdDlfbXJEMEczeEtwMmp4bXdsVkRoai1nWlFGTWl2OWdoNGF4UmlzbmVVNGlYVUNPbnM1YWxfQS1kOW91RHBFOUZRTXdKRXJrdkJTZzI5dVRkTVZXaGl2bXc2LTRUcFhiUDk5VlgyRWJSQkR2a0R0Y3pVREg0dVBtWWNFSl8yUFh3Mmtzek9OUUpVakljaTVEcjk2b3dWVGctQQ?oc=5",
     "image": "",
-    "published_at": "Fri, 21 Aug 2026 04:59:14 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415298+00:00"
+    "published_at": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-08-21T07:50:42.023093+00:00"
   },
   {
-    "id": "19712ef29a72",
-    "title": "The best tinted lip balms to replace your lipstick this autumn",
-    "source": "Vogue Adria",
-    "summary": "The best tinted lip balms to replace your lipstick this autumn&nbsp;&nbsp;Vogue Adria7 Moisturising Tinted Lip Balms for Effortless Workday Touch-Ups&nbsp;&nbsp;femina.inI Tried the Best Hyaluronic Acid Lip Balms, and My Dry Lips Have Never Looked Better&nbsp;&nbsp;AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1c3VldU5rMUlVZUF5enhwc3d6OHV3N0xIV1pvUGhnRzR5RWh0eGhLalFLVExEVjIwUXNOTnNWdVVpT1hmWlpwS2tzc3V0aEEyRVlmdy1Rd1NLOThqdVBWcEhVNA?oc=5",
+    "id": "c4c68ba3e8f8",
+    "title": "OnePlus New 4G Phone in the Works Exclusively for India",
+    "source": "TelecomTalk",
+    "summary": "OnePlus New 4G Phone in the Works Exclusively for India&nbsp;&nbsp;TelecomTalk",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWTdYd0FMeVA4cDF4MVN1X1d5YmZCb1VoMVFkdHcxRFJxbnpNYy1xaDZ0WlNTRzB5U3NZZkFya1ZjSVRiXzRUQlFzc2UyTi1oNFp5M3dUUkwyczFNcTBvNkNFeXNNRTlDbGJ0UzJDXzZBVDJnRXc?oc=5",
     "image": "",
-    "published_at": "Thu, 20 Aug 2026 15:00:10 GMT",
-    "fetched_at": "2026-08-21T05:37:48.415320+00:00"
+    "published_at": "Fri, 21 Aug 2026 04:56:36 GMT",
+    "fetched_at": "2026-08-21T07:50:42.023106+00:00"
+  },
+  {
+    "id": "88edaf9719ee",
+    "title": "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along - GSMArena.com news",
+    "source": "GSMArena.com",
+    "summary": "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along - GSMArena.com news&nbsp;&nbsp;GSMArena.comiQOO Z11 5G launched in India for premium segment buyers&nbsp;&nbsp;The HinduiQOO Z11 uses AI to turn first-day confusion into confidencenews&nbsp;&nbsp;afaqs!iQoo Z11 5G launched ",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1hzTUxFOEJfNXdMS3NzU3pqcXJFV3lyc0dYVWJTQ3R1YjhWel8ybjZKUnV0UnptUUFnMnVlSkRlVTNOLTlNdGVJVzJJYVEtVTZNYk5panF6NDVMUlJJbVpLV0hxWGpjaWtUS3JDVnR5R1U2b3JMQXJTMkRuR1UtbXNvLTlFM1FvazNteHBTZ2hhbU9Wb0p0TVg0UFA5eXRINW5wLWc0OEVnZjlhVncxVFpYQV84d9IBsgFBVV95cUxNOVpDb2VqZmlsZlZUYS1ZVTlEN0t2TkxEaW1VTzNtNkI3TE5DQ29oSFRKVTlTV0hjRlJOWG9xV2E2UnJ0MFhCck80LXZaeHY5Z3BKUHJmNlRPb0ZVdDNzaHM3R3AyVFBMVGRxZWFVbDRoNFFmYnphSlIxeC1LUTRrQUtYeG1VYWExT1E3Q1NMQTBRUnZLWk13T2FKbG1GTUp6U1RtdHJTQWxERXZSNGhjVEpB?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 07:11:02 GMT",
+    "fetched_at": "2026-08-21T07:50:42.023140+00:00"
   },
   {
     "id": "5c53c76f1045",
@@ -307,17 +107,17 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHE4Xzl4UW5hQ2lqbWdLdWs4d2g4SVdnb09zSDN2ckNiWXpKX1J3X3lqUDlUU3JnUEo1TDFiSnZQOGJXRTZoUTVUazdNT3lNNjgyNUJXZUV4WnFqTWtpLU1GM3V3b1NVanhjdVZLLWJBaW91ejN0Q3hpYXNEem9haTIzX2hEek1ZMG1pS3lSbkJZVXVwZlVSenk4M3dyZmMtUlFaZHQ5NGU4dkMyZmVsRU8yU3I3dmt0aXhqUnpxajNMMGpQd3FZVENVdWc3eHhabGfSAdgBQVVfeXFMTkFLdHpxUWZrSy0ydm5FRlNGZ1B6T2ZSS2ttbmRoZUV2MzJkRnZLQmExS3ZwVU9nMm5rcUFUREZYN012ek9aenhDalp4ajRMZUtZa09Bd1BmbklHdWFoMXdMbDJ2U2trQXE5Tmp1SnZiT0xnY0FsSGhyTlIwM1ZmRGtkeWdKOTE3Tm1jV09UOWs1SzhJN1RZbnNHXzRwRzlmcWl4QVpSZThhSlUycXFrdDljSk1qTHh4MVcwaWhyd3pSM0VTLVFwLWgwZG5rbXhKYW81a0JZa2tW?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 23:47:28 GMT",
-    "fetched_at": "2026-08-21T05:37:48.878899+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545549+00:00"
   },
   {
-    "id": "ff4cb3337239",
-    "title": "MC²+ launches ignite programme to back deep-tech startups in India’s energy sector",
-    "source": "Daily Pioneer",
-    "summary": "MC²+ launches ignite programme to back deep-tech startups in India’s energy sector&nbsp;&nbsp;Daily Pioneer",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlUwVmNNRHhwbVRQeTNqRzI1cGpfcmtsSTFpbkxMa1pycXJzOXlDYTBCaUhuYXZ4UHE2eEZEakRjeTYtX1otYkpXTXBhLWZtYkY2M2toN2MwOGExd1c0elhKUmkwOGwyOHhSbmNXT1RSaEowZFlNa29iV2d2YUJLOEFVaE85ZDZsSmpiZGRZSGtodTJVaG14MHk2UmxBaTFnNERJRDJEbEliaHZPUWI0TEl3?oc=5",
+    "id": "d2c7f8fc6bf7",
+    "title": "MC²+ Ignite: Accelerating Deep-Tech Innovation for India’s Energy Sector",
+    "source": "Chemical Industry Digest",
+    "summary": "MC²+ Ignite: Accelerating Deep-Tech Innovation for India’s Energy Sector&nbsp;&nbsp;Chemical Industry Digest",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2tuQlI2bWQ2VVdGTTNSYm9Bc2hoQ1lTeHdnX3BabGFIUlp4LVNlQW0ycjR2eWFFT1FDZ1ZiRjg1OWkxNS02NUJ0SmpOQTYycU1FYUxYXzB2endpa1pGTjdiU1dJbHAzQ1pOVndkTk4yVDdTLU5jUTlZdThJT3hYOGV1VXpVUnB5WE4tWTRIN1FYWnVJVzA0c00zMV9XdjZmY3c?oc=5",
     "image": "",
-    "published_at": "Thu, 20 Aug 2026 19:38:25 GMT",
-    "fetched_at": "2026-08-21T05:37:48.878944+00:00"
+    "published_at": "Fri, 21 Aug 2026 06:54:29 GMT",
+    "fetched_at": "2026-08-21T07:50:42.545580+00:00"
   },
   {
     "id": "8d928682ac0f",
@@ -327,7 +127,17 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlJdkpCUzYtbmMtY3lmaG0xbFZKWURFaTI5ZHp1ZDcwc0x0YWlZWmdHdnRnTDAxU3FHNHNqQmpKOEVtNE9RM3lBMHV0OGQ3MlBpMzdwMFRHcW9xVzlvV2VURDJxTl9XLTc4MjJ6U0JFSG1RTlhBVTRPSkFDME4wZElxd3I?oc=5",
     "image": "",
     "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.878970+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545596+00:00"
+  },
+  {
+    "id": "ff4cb3337239",
+    "title": "MC²+ launches ignite programme to back deep-tech startups in India’s energy sector",
+    "source": "Daily Pioneer",
+    "summary": "MC²+ launches ignite programme to back deep-tech startups in India’s energy sector&nbsp;&nbsp;Daily Pioneer",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlUwVmNNRHhwbVRQeTNqRzI1cGpfcmtsSTFpbkxMa1pycXJzOXlDYTBCaUhuYXZ4UHE2eEZEakRjeTYtX1otYkpXTXBhLWZtYkY2M2toN2MwOGExd1c0elhKUmkwOGwyOHhSbmNXT1RSaEowZFlNa29iV2d2YUJLOEFVaE85ZDZsSmpiZGRZSGtodTJVaG14MHk2UmxBaTFnNERJRDJEbEliaHZPUWI0TEl3?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 19:38:25 GMT",
+    "fetched_at": "2026-08-21T07:50:42.545614+00:00"
   },
   {
     "id": "7cb0318087bf",
@@ -337,17 +147,7 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU0syYTVGS1JuYlowOFNwQmVzajFYa2tNd2xmZ2NBV0JKeW1yZGwtaFJUSGtZenFORmNvMWxUNUNOMHJFdnZucWdhWnR1aW1pNkF4b0UtaXlISDZGVy1ERkF0NGFTOEdpaG45UGRaLVdhTW1kUmlMUlpnMA?oc=5",
     "image": "",
     "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879001+00:00"
-  },
-  {
-    "id": "94cef9d464d9",
-    "title": "FAI Brings Fertiliser Industry to the Classroom: Agri Students at SGT University Get Sector Orientation",
-    "source": "India Technology News",
-    "summary": "FAI Brings Fertiliser Industry to the Classroom: Agri Students at SGT University Get Sector Orientation&nbsp;&nbsp;India Technology News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkdjZWcwUE5pWU15TVRod2pZMFlGRC1YR3lPS3FHaU0yZFJJTGtUMkxXbkp0Q3JJVXVqWEtiSDFObnBzckFDSGpVWTlhY1VRWnY1T3ZvRkwzWFR6S0xRa2wxTVdHS3hpR28xMGI2LUhFT09NeE1sSnNiY3kyQVE5MU9Pb2dxWFBNbzhHYmk1MzROQTJJbFdlTlE5eUFFaURya0FobXRRaVo2Ymh2YklkNmpRXzR3RkZJeGtOWDFXMzA5STBJX1lvcFJXS19RTjA?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 10:20:32 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879056+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545633+00:00"
   },
   {
     "id": "74599dbc17f3",
@@ -357,7 +157,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGtJNEJ1WDEwZkQ0MjdhMnZJTXlCbmsxTzBBa3pIV1d3QWpyODdiWFY0NEVmLWxBTEVvWnRCUy1nclZ5Q05EMXptaTY3N0V6Y0lpTllaZ1R2YkY1VTE5TzN1NDFVZlBBazNzcFJsajM3TldHU3VyNVR3Vk9MM2dkMU55Yy1yTlpkZXotaW1Tc1p3WDItaXBId2kySHNDNjQyUDdEN1hpVUNMWWFINERRRmRZZHdLSkNQaE1R?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 19:17:05 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879084+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545650+00:00"
   },
   {
     "id": "e92d34598e80",
@@ -367,7 +167,17 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE84aTBwUTBGV0ZHbFU4ZGFvV3NDcXJhdlZSRU1WZlAtZmxFNFZlSmxiVkpyMmR5M0lnZ1otRzgwSjl0ZEJzX29UU1hDNmJQbmRCOU5PSkRaSFZXczlSbllrOXQ4UWRnZU1PdHh0TEJqSk4wUG05YjBwbHVoQnBCTHBYY3h5a0JQSVExbzRUUQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 05:44:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879106+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545663+00:00"
+  },
+  {
+    "id": "94cef9d464d9",
+    "title": "FAI Brings Fertiliser Industry to the Classroom: Agri Students at SGT University Get Sector Orientation",
+    "source": "India Technology News",
+    "summary": "FAI Brings Fertiliser Industry to the Classroom: Agri Students at SGT University Get Sector Orientation&nbsp;&nbsp;India Technology News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkdjZWcwUE5pWU15TVRod2pZMFlGRC1YR3lPS3FHaU0yZFJJTGtUMkxXbkp0Q3JJVXVqWEtiSDFObnBzckFDSGpVWTlhY1VRWnY1T3ZvRkwzWFR6S0xRa2wxTVdHS3hpR28xMGI2LUhFT09NeE1sSnNiY3kyQVE5MU9Pb2dxWFBNbzhHYmk1MzROQTJJbFdlTlE5eUFFaURya0FobXRRaVo2Ymh2YklkNmpRXzR3RkZJeGtOWDFXMzA5STBJX1lvcFJXS19RTjA?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 10:20:32 GMT",
+    "fetched_at": "2026-08-21T07:50:42.545680+00:00"
   },
   {
     "id": "85eece3ab168",
@@ -377,7 +187,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEJ1M2g3YWhKa3poNV8ySVRhbHBUUXUzODZsWTJQU1RXRXc1YzJZM3dCVXQ3ODltWFF6MzFFYVlQUGJZS2IxaFNQeUtKaENwanBjLVYydDB0UFdYMXMzODJIX1JjYUNJQ1FmU2ZqZDEwS2hnUFFOal9KYjl5ZDJLSEViZkJwREwtVzI4WW5GYlJkUlQ4NXNPMlcwbEVxcFJlVmVGOFNYdndZdHdZczgtRGVXdzNnSXdMVVN0RlY3U04?oc=5",
     "image": "",
     "published_at": "Wed, 08 Jul 2026 05:03:33 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879130+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545695+00:00"
   },
   {
     "id": "c72cb72cd68f",
@@ -387,17 +197,17 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVdhQTRTNTJxMExGTm9NVFpFdFFmbDFYbHF2WjN6NlpBRTIzX2ZEaE1rQjE3cEVjVjZFZlJXa0NucUNOMnNETmFZdWNKd2VLNFUtZmx6RmZpQWdCTUt5UVVtTnRpaC0ya3lxYnI5Z0kzSDQtUVdOYWQ2REk4cTVfUndWbnVRcmQ5eFU0RFNSeXRvTE5EdjVMcVBlWUJnbDRGbkxUTkNaZzVGMDQzS0pydzRVTzNlRl9DaTZBNmpya0NTUFRSMnN5dU5jN3BqYmfSAdQBQVVfeXFMT0RXYW84R2otM2YxN2puNVhyUjNqN1hDZEpiNmszS283cnladUg1Z0t2UGI4akpsZGNqWFY5cElVQ190OU5ITDlCQWFRMEtDWGZzd3RGVGVWb1NGU2gxbUJYQTRNLVpTRkp5VGFMaER1TWZDa2VkNTUxV1I2R1hVd1YwaUtBa0Y4NFZzNzFDU095WVdtc0cybGRubDRFTmRlWERTOS0yWVJPUGo0ZHVYSm1fd2EySllPd2lQZWgwS09vcFdVOTRXOTBqQlliOXY2VEhlZmQ?oc=5",
     "image": "",
     "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879155+00:00"
+    "fetched_at": "2026-08-21T07:50:42.545710+00:00"
   },
   {
-    "id": "7e07f0ce5089",
-    "title": "Explained: Who gets India’s Rs 1-lakh crore deep-tech fund, and how",
-    "source": "The Indian Express",
-    "summary": "Explained: Who gets India’s Rs 1-lakh crore deep-tech fund, and how&nbsp;&nbsp;The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1VDd3hSWS1uVnAwa0kzbF9xODlRMG0xOVFmZFFCNWtOZ3B1UlZZazQtVXNSNUIwaUI1QVRmWnFUdlpXa2MwcEZ2a3BiQzZyaEJiMUUyR29PU19oSFd5QUtocF9YRjgxWkJvZWY5TkQteFFNUWZOOC1TRGF2eU9lOFVxU1hGcjJfelB0T1FJbWhsZHNGQU1SWGVCNGp4b3hPbDdvWmtxYW5QSl850gGzAUFVX3lxTE1yTzEydHdnbzBRUTItMFpObUpKcDIyTmZJUC0wV0pQeHZLalA4ZjUtclA1RGFfU0JmallrVTZSeDVWQXdFaTRKUTh0em1VdXV0OEwySlNZaUtqRkpVdFcyb016aDNic0lJa25JU05KdU1SSGdQYk44Y0xvam1kMHpIWDVlS1BhRFNqTFdHM2xVUmVoMkd6dXlKSTdiMHRhbUk1MjlfVE12R0ZUOU1nR19fWGpz?oc=5",
+    "id": "d9e5bc216fb6",
+    "title": "Focus: AI reshapes India's IT services sector contracts as clients demand more for less",
+    "source": "Reuters",
+    "summary": "Focus: AI reshapes India's IT services sector contracts as clients demand more for less&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
     "image": "",
-    "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:48.879183+00:00"
+    "published_at": "Thu, 20 Aug 2026 23:02:00 GMT",
+    "fetched_at": "2026-08-21T07:50:43.449749+00:00"
   },
   {
     "id": "284c86f77e2a",
@@ -407,17 +217,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
     "image": "",
     "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-21T05:37:49.862999+00:00"
-  },
-  {
-    "id": "d9e5bc216fb6",
-    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-    "source": "Reuters",
-    "summary": "AI reshapes India's IT services sector contracts as clients demand more for less&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 23:02:00 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863066+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449780+00:00"
   },
   {
     "id": "48d11864e5a4",
@@ -427,17 +227,27 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOakZKaEdtUGdwVWFqLTl0czJCZlVRRkZPMHJpaHRjczlwaHp6dFJzT0EyZk1nTGhDUk40V2UxQmZLRkZIX1lNLUVaaTZaOXdxX2pXYjJXLURKdWpzbUZNeDdnbkRTWmVTNE5HTkg0a2NTdXhmeHV6V0c4cTVzV0RNSUU4SmN4b2otTUFJZzVSOHFmaVg5TENaaU14RkhxenNSY0JHbmM5aG0yQl9XZW1xS0hTdDlKYjBuSzFqV1k1MHZnbV81WjRNRFhQdVNlMl9FT3BrQUk3Wk5ROXdPWFVRbVM2MWFzYi010gHuAUFVX3lxTE1lOVh5XzBOUDVHazM2eHc4c0xOZ0xNX2YxZjF4SzJyV3R5UzhDOUR4XzlGYUZzMWhsejlQZEtXLW9pZllOOUpxR0NMa18zVk96NnVBMUZGbHAtOG5oY0djdVU3elQ3cTVCOW52dUxfREQ5NzdOd016dHVWU0lraklGTUJlamhFcXNEeW1ZQmlXOWtnRU5sODF2TjdfeVZ4WG9Hb0Z1aXlWMloyWkZxU21PeEpJWVlGN0p1aEJrdExDdEYtU01SaEVPT21lTjF4MDMtLWFhMm90SDlVNTNNZ05Dd19BVWRlSDVIeTJaNlE?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 02:26:17 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863097+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449800+00:00"
   },
   {
-    "id": "1280ef58872f",
-    "title": "Taxing ‘frivolous’ industries will not fund India’s science",
-    "source": "The Hindu",
-    "summary": "Taxing ‘frivolous’ industries will not fund India’s science&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcW9oV21ZelNvYlBDNHVMcFhoZFM0RnVmQTBBbXBxSlBXbVo2WHZWRE5acE1NQzBpbmFUUGhyWU8yeWl0Y2R4TVotNUExNnhUM3dZUnhOOHJ6LVk0LXllMVFHVFN1ci1KUTV3Rk01TnFsdWlGY0NydWtZN0FaUjE4U21ySDY3eDdRTV85dGRncDdacnMtNjdwZEJhVlhvOTUxR0FFWnBfWHpVQ3VhYjRpTENIZk3SAbsBQVVfeXFMTkFjY0ZFS3U4enRuYVlsWkRfd3QySWdTWTlQU1QtSkJOVWZFNXNPY0xHZmgzN0F6REVnRTBPdFNtSFNHNE4zQ043aHZpZGVvaEtnQXlvNnpWQUctano3eEdZbnVFc0MzTksyNFYwU3d3clpBN3hxSjdXVnpiVUhQNUYzT1lHM1lzZ0huM2Vqay1aRDVWam1UUTByY0tPNUVDVkc2X3Bacmo5NFhJOWNkQUZmYnh5N3ZtNmt0RQ?oc=5",
+    "id": "800fda4a7562",
+    "title": "IIMA Healthcare Summit 2026 to bring together Government, Industry, and Academia to Advance AI in Healthcare",
+    "source": "PIB",
+    "summary": "IIMA Healthcare Summit 2026 to bring together Government, Industry, and Academia to Advance AI in Healthcare&nbsp;&nbsp;PIB",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XQVM0LS1wNElTcjF4c0RKcEpNTGExaTRieFg3TmF3SmZaQ1hPNnBrNUpQRmJkRmY0SFpTMlZRcm1YT3BDUXR6dHVxN3dQS21VZkJWdHNrUXd4cUtXWVp3WnZ0SXV1NW1m?oc=5",
     "image": "",
-    "published_at": "Mon, 17 Aug 2026 18:46:00 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863129+00:00"
+    "published_at": "Thu, 20 Aug 2026 12:53:00 GMT",
+    "fetched_at": "2026-08-21T07:50:43.449818+00:00"
+  },
+  {
+    "id": "70f0f31a1c76",
+    "title": "India’s Visionary Entrepreneurs Driving Innovation and Industry in 2026",
+    "source": "Mid-Day",
+    "summary": "India’s Visionary Entrepreneurs Driving Innovation and Industry in 2026&nbsp;&nbsp;Mid-Day",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVlRyaU1ZaXFVRFY5RlBrU0FGT2wyVGVkMVgzamJZa1R3dGowSTBPdXZPNmV4RDZEaURValh0LWtBUlRGNi1GNFNVLWMteHJid1o2alFidEM0aDl2UkhFYzlxRGl3TFZBYmp6TVdZVHpHSTNaV1NnTWtjeXM2UzBKT0RNb2JnTmY2UzY1VDZGSmtQblhNcXFLa01uNUczM01DSVBHRl9nNk12azUtZTFwWE9KVDhsQdIBuwFBVV95cUxOSmhmV0lvbXNhbk04dWR6RDRzcnpkeENVSEUyTjBPSl9BdHB4MEhqMHBSTHlJTzFGaWxZYjlJZm1iUHEtTl9jclVRZjZZcF9KZDZfelhGcXdmMmNNZmJaNEt6elFiTi1oX2ZNQkwyQjcwUkV5QXNtSF91ZzF6Y1lVN2dlUDhlOXI2QVBDbUNBeGVfOW53VWNCUTA5VDMyMW5rNW9iaDFZXzEwNW9rLVZhWWcxVWtXcC1DM1Y0?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 06:38:00 GMT",
+    "fetched_at": "2026-08-21T07:50:43.449836+00:00"
   },
   {
     "id": "be05b7253dbc",
@@ -447,17 +257,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEhxblh3Z1ZBelowVjhjVlA3b3doWlZUS21jNHdfdk5HZUlHTzRxRldQRmJtZWItQVE4UXllMkwtdHFLR2Y5X3dwNzh3VUJMWkVLUDlST2Q4V3kzUGxISllLUTVZRDFMMUVWSDktUGpfQXRUX3pCTlg0SXpFVGFCWVg0R0RJNmktZHJ4SW0wMUNCWllmNGhydnBCa0tKTXhrN3hGcVpYRdIBrgFBVV95cUxQZmdMV2JFbGxyTU9tTXZyTTBWb0llQjRjQ0NlZmFqejd3UDhJZlZQQVpHeTRsNHkteGYyTUR3SUdMQy12NkZqa1pwVGRzWTh6LXcxOGJUUDBCRkZaTGNXZVVFeWljWjhJVXRfcmZmNUM0VHFVWDlQaHc3ZUdLSW9QNzA4bTJ0aGFQZlQwRkcwNHFjcW9Cdzk3TS05emw1Y1dsaG95cXNxOTdrT2tCc1E?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 20:15:00 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863151+00:00"
-  },
-  {
-    "id": "99702667902d",
-    "title": "India Industry: Leverage FTAs, Boost Exports & Value Addition",
-    "source": "Rediff MoneyWiz",
-    "summary": "India Industry: Leverage FTAs, Boost Exports & Value Addition&nbsp;&nbsp;Rediff MoneyWiz",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGRsbTBDRFlXOF9TdGo0dFlXazlqbUo2eGtlVDJMeklvVndhS3NEYTdtbjZCQ04tTGFXRWlxRjc5ZWpoUFU5UEpFQjBnN0xxRXNVYkNCOUVTZF9qZUpBNXdfYmQ0SzZNZ2hQUDRJMzNEd0ZnM0xPNU5QR0xtcmIzUFFaZ01KNW13UDVMZm1mVjByZEdyNGV3WDd3U2Vrd20xdXBjS0JkSGZYQW9QZkHSAbMBQVVfeXFMT3NrZk5GNTI2aElBZkZTS01oT3BpM0tnYnRfd1hPbUZOaG1OUlZVRGtBaW5pbEsxa0h3UldQWHNoUjZ3b0hHWFVFUW9UZFRHcldnYkRrVk9PTHBRUmNPeXhuS2M3QmxKd3F5X2dSM1Z1dXNTekdXNkdwODh2cnFwVld3eUNrMUJBeW5fNklwb0Jma0lNeVlZUjNIMUV4blU2VkU5Ym1wcVhhVmRPS1pkcUVaZGs?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 07:51:48 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863167+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449852+00:00"
   },
   {
     "id": "e8d0a309aa28",
@@ -467,7 +267,7 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 23:31:24 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863185+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449871+00:00"
   },
   {
     "id": "d2cd23b8fac2",
@@ -477,7 +277,7 @@
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTEd3ZU9GWUc2YUNQSHlaeXZXMkstY21adWNSNDRad25KZFUyWEs0Uy1NMXJMRVpQY2wxbi0wMDkxbzIzeEo3TGc0bUNtUHZJdElnWDNMNlllVFhMd3NyeTRPMkd2TS1UU2hkR2FMTzVPMk9oQnNsTEptRzRFSndkYm1LMXFsY1dxeXF2UFhzUVZlVnpJcWcxclk2azJJb01FWnV3NFQyUFdiQzlVSEFjYnc5UjRQd1E1NUd1V0JHQ3BoOFdsMG5HWVRYWEtfSjE4cGd1UtIB2gFBVV95cUxPZWpOX0JwMVdfMHhtWnhiRC12eHEwUmtWR3otakd4RlBxeWVmRjc3bjhtb25WUWNaQU1Dc2lOa3R3Nm11Q0dqRTJJQ183REUzazdVVUFzbUgxVUlHVVk5dFBwSW45S2NVY0c5ZEluSEVZZXFQQUZPdE1vdjBUeW54S0lzZDV3R0tfeHhCbE5xckk2aUNrc18yT0dmTHdEdWI2UUxMWDh3RU5mbVg2Vkx2TDFHOERCc2kwTFU0RU5vTWdkM1Vic2ZWOFlTTTZfUkV5SEswZ1BOYl92UQ?oc=5",
     "image": "",
     "published_at": "Tue, 18 Aug 2026 16:48:17 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863201+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449887+00:00"
   },
   {
     "id": "afb1f14a05ca",
@@ -487,7 +287,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHpQWFROZFkxMDJLX1RmaWVYT2RGeWxvWHVORjMtM3BFWjJJRm1uc28tbS1OMUhVNmtyQVNNN29SWXpiM0labmVQTk5IMURVbk1xVmlTWWNQSzc1VzNKa3ZfUllBMTZnZXliSEVFelJtSHNKOU1wYjN4Rlp5NV9ZcXJjOEt0SDFwUEctOFVvc054QUlYcXZWR1Y4MVFDazZRWEpJSVJHQkQtWUhTaC14OGZLUHg?oc=5",
     "image": "",
     "published_at": "Tue, 11 Aug 2026 17:05:10 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863216+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449902+00:00"
   },
   {
     "id": "98bcf214384b",
@@ -497,6 +297,206 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FqNTRjRmE5am5iVm1EMzNvNzBvalExQWFVdjRKV29UU1ZrQ1YxbTJFb01PUWY5VEpwb2ZHb2VLWXFzcmMxVy1hRVNOQlp3akZKYjdoWjY5Y1RwSGxvbU9ZZ2RzeWtuemM3bTRUa1dHb0VlUmM2TEJTcld4cGpQeFBhUk5Cb1Z4eEt1T3Q3a2VlUWtlVy14SW54Y2E4Z3lxb0xpM0dCTkc2R05uNERlOHZnTy1YWG1zaTlRQjk5MldZSUwzNkZNWEZ0blJ4WGVON1pIOXM0UVY?oc=5",
     "image": "",
     "published_at": "Tue, 18 Aug 2026 08:04:19 GMT",
-    "fetched_at": "2026-08-21T05:37:49.863233+00:00"
+    "fetched_at": "2026-08-21T07:50:43.449919+00:00"
+  },
+  {
+    "id": "ae2ed0e9d5fa",
+    "title": "South Korea plans chip windfall fund to back youth, AI investment",
+    "source": "LiveMint",
+    "summary": "SOUTHKOREA-CHIPS/FUND (PIX):South Korea plans chip windfall fund to back youth, AI investment",
+    "url": "https://www.livemint.com/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment-11787285364341.html",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 09:39:23 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214700+00:00"
+  },
+  {
+    "id": "a024fd95439f",
+    "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
+    "source": "LiveMint",
+    "summary": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
+    "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 13:22:54 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214740+00:00"
+  },
+  {
+    "id": "63bd25ccf101",
+    "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
+    "source": "LiveMint",
+    "summary": "India's key strength in artificial intelligence lies in the applications layer, while the country is simultaneously building capabilities in data centres and other digital infrastructure, Union Minister Ashwini Vaishnaw said in an interview with Morgan Stanley India Equity Strategist Ridham Desai.",
+    "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 11:40:40 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214769+00:00"
+  },
+  {
+    "id": "06fa43ac1113",
+    "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces ‘free AI subscriptions for college students’",
+    "source": "LiveMint",
+    "summary": "Alphabet CEO Sundar Pichai announced on Thursday the launch of Gemini's enhanced education tools for NEET, JEE, GRE and other exams. The company also launched ‘free Google AI subscriptions for college students'.",
+    "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 10:07:31 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214800+00:00"
+  },
+  {
+    "id": "ba89a4ed3cb7",
+    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
+    "source": "LiveMint",
+    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
+    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:51:13 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214833+00:00"
+  },
+  {
+    "id": "b9b224c38d70",
+    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
+    "source": "LiveMint",
+    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
+    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 15:29:45 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214849+00:00"
+  },
+  {
+    "id": "cf78a8c4357a",
+    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
+    "source": "LiveMint",
+    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
+    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:34:26 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214870+00:00"
+  },
+  {
+    "id": "dec0d50cb57f",
+    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
+    "source": "LiveMint",
+    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
+    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 08:20:49 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214888+00:00"
+  },
+  {
+    "id": "9eed41d541d0",
+    "title": "Govt may turn security concerns into a market for India-designed chips",
+    "source": "LiveMint",
+    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
+    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 06:00:24 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214904+00:00"
+  },
+  {
+    "id": "fc4637f3e372",
+    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "source": "LiveMint",
+    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 03:22:12 +0530",
+    "fetched_at": "2026-08-21T07:50:48.214918+00:00"
+  },
+  {
+    "id": "4690c660ca7b",
+    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+    "source": "Economic Times",
+    "summary": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' names were misspelled or written in pure gi",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/articleshow/133393842.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:57:25 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315070+00:00"
+  },
+  {
+    "id": "270e2a826cab",
+    "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
+    "source": "Economic Times",
+    "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for competitive examinatio",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:33:49 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315108+00:00"
+  },
+  {
+    "id": "324c6901300b",
+    "title": "South Korea plans chip windfall fund to back youth, AI investment",
+    "source": "Economic Times",
+    "summary": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:32:19 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315134+00:00"
+  },
+  {
+    "id": "2427cf7f9c55",
+    "title": "What if Meta loses trial? Penalties may top $1.4 trillion, matching its market cap",
+    "source": "Economic Times",
+    "summary": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap/articleshow/133392766.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 09:34:13 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315153+00:00"
+  },
+  {
+    "id": "9bd457ebbcbd",
+    "title": "Lawyers square off in fight over voice data used to train AI",
+    "source": "Economic Times",
+    "summary": "Ross Kimbarovsky of Loevy &amp; Loevy is representing the plaintiffs - a group of journalists, podcasters and audiobook narrators - in the proposed class action lawsuits. He said each of the defendants faces hundreds of millions of dollars in potential damages.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/articleshow/133391894.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:56:51 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315172+00:00"
+  },
+  {
+    "id": "de9ce8365365",
+    "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
+    "source": "Economic Times",
+    "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:51:33 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315187+00:00"
+  },
+  {
+    "id": "520b8f02e308",
+    "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
+    "source": "Economic Times",
+    "summary": "The move follows ​growing scrutiny of smart glasses over their ​recording capabilities, with courts in England and Wales this month prohibiting ​Meta smart glasses because ⁠of restrictions ‌on taking images ​and videos ​in courts.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-cinemas-restricting-meta-ai-and-other-smart-glasses-over-piracy-concerns/articleshow/133391682.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:43:58 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315208+00:00"
+  },
+  {
+    "id": "ee8cf104bb04",
+    "title": "Anthropic plans to change enterprise data retention policy",
+    "source": "Economic Times",
+    "summary": "Under the changes to the data retention policy, Anthropic will still require business customers ​to retain data for 30 ⁠days but ‌will give them the option ​to keep ​it on their own cloud computing ⁠infrastructure, the source said.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:41:01 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315229+00:00"
+  },
+  {
+    "id": "ca8b8df912b7",
+    "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+    "source": "Economic Times",
+    "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:35:17 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315248+00:00"
+  },
+  {
+    "id": "d3ee3cfc657b",
+    "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
+    "source": "Economic Times",
+    "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his ‌conduct would benefit ⁠the government ⁠of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evidence supported ​the guilty verdict on the ",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:33:10 +0530",
+    "fetched_at": "2026-08-21T07:50:48.315273+00:00"
   }
 ]
