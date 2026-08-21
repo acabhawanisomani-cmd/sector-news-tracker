@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXkwVi03dVlUaF9xclBlRlRJZklUOEEtajI5eVQySUQ2bVNjeDBpczE2Vk90MVRJbmJ0S0Z5RS01cHdaUWI1bGtJclZtaDA4dG1pOFJvNmNCTEw0UDI3VGpyR1ZVQmlXM0hSVVZYTkRkNXhwMDZZNjlhZlhQT3FoT2NIVlNhOXQzdGE5Qi1EWWEwc0hwMFNTTUxfRGtKNndZRWN5NUZJU01seHp2X1hnRw?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 00:31:44 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198715+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256039+00:00"
   },
   {
     "id": "08ab22ba4049",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkFmNnFxSDltajZwRHRONGhTUHh5X2pIaDlkWl90MUwyXzVHRmFoR2xleTBsdEYyZktoVUJqWURPLXRZLTdVUDZ3RFpkMVRXZjJwQVBOTkdkNHJ5WkU0QVhFV3FIcnlRZElxS2hPN0pvRzNCRXVkbmZPclljZ1N1ZF9Rc2x0UQ?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 05:00:00 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198753+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256076+00:00"
   },
   {
     "id": "5018ac8d2f9b",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3NlVUNWNndxYTZfcXViX0hjRVdCR3h6WS0xTlJTY0hmWmtfb3JPMlBVVzNtSzMtLVJZZlhVTmVhaDJIazBUMmpreVBmbDBieDV1RmpJUUJwQk1rZmpoWWo4aUdITVYzbVQzbE5yNW96SkZnQVltTGFJWHJqbkRNMTg3aDZuWXFDdVdNVDBFTlk2dVJMbWxKUnh3SE95M055RjNiQ2FINV80SFQw?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 13:32:38 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198771+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256093+00:00"
   },
   {
     "id": "066925f34007",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORF9OaGJEaGpuYkg3cWhUQVFuc0F3WkhER0pCNl9ta0JLUm5CUU1GajVQZVdQZDVkZDRaNDRrMExUSW1lR2ZXdGRJNmh6Q015OVZ3SklSZE92TkFKbm16SFZuZjdKMG84WXllOUhpQWJKdzZ4SlNOcVFXcGtkV1ctX2NwOXo5WEVrdGphenBkM0J3LWk2dVJPRnhn?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 19:16:35 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198789+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256111+00:00"
   },
   {
     "id": "a3017602f865",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenl1dVdzdWFUT3VYaEYwOFRIeVFyQ2RwMW9aUDdrbHJmOHkybHNwWU13TU5FVkczSGFILXhiaXB4dHY5c0tGWWpRY0xqR01KbmxjUnBlY093RTZlTy1IZXhnQTZlQlhHenZmVzkwel9XLVJPX1JLNzBPQXJRWTR0WkpORkJhZUpnQTZoamgtUmNMaUV2emxTZFFGVnJUYlBIZ1VubmNYMzdOT3B2dDVUSjV0dDRzS1QxaTZVZFVObFdYRDI3czB2SGhCRkFzTHg5eEw0T3FCVTk2MUZ1dGwtY3IxY1dGUQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:46:00 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198804+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256127+00:00"
   },
   {
     "id": "1261d85b557d",
@@ -57,17 +57,7 @@
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMGwtY00tYlk2ajMycmNJcFhBUE4tUTkzNGdLT3JzUThFbkY2TTVUOEVIT1Q1RjU3cWZxdC1SMFRyRmstbHZBT182dUNIb0VYY05tWGVwQXVZNkJRSzdfUWpyMzZjQTBTRWNSdERtelhJQU9QMWZ1TmFWcHJSMFltODY0S3pGOVp0MzI4RGZyUWthN001ZWVXRTBZTVRseWdNUEVtM1gyRHVkYl9DOEd4cEVLYUU1Y2tOSzcwdDRQbFlzRWZOZVFDeXNHcFl1MVRSMTlmQUNDT0sxbG9uMGI3OUlyNDRfcklwelFVN0RoTVlKejV1MHkwTWtsbw?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 13:00:00 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198818+00:00"
-  },
-  {
-    "id": "413603866daf",
-    "title": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows",
-    "source": "Reuters",
-    "summary": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGkwckxIcC12RFJNb3c2TkhuLWkyc0xfT2oxTDlGc2s0aUJWVHl1MklNNjZqa3laSEtjdHZPWXRKWk9TRW0yX0JSNXlhZmU5VGtXekNiTTVXZU5yTmxrZ2dDUVpNNkcxSWlZWGtLZDJFb1ZveWRKSDN1eXFPZXhrRVlsaXRxRFNLSXhTT2hJemVmMWI1VW9rakpXeHZscU5OaU1Vc3pjQ2J3dEhqYXBzRVJRb2NjSDM2WTdqWWZ6NVo?oc=5",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 00:35:00 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198831+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256142+00:00"
   },
   {
     "id": "07c8647dc3c7",
@@ -77,7 +67,17 @@
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYzloeFdFaFdYemRVOXhFWG9UemllS1NSQ1h4SThQUG9ES2p2MkhIcGstd0lvTmk4amRscUMxekNadnAxZWFMblVTcDRyTEZINU1rTlpiZjRPUXo2ZVJaR1BDRk04ZEg1Z0UwWmlCQjNObHRhZnJMcmNBTDBFbndERVNKUXZCSlhtdmEzOVZOZkc3Mlk0Wk40VVBSOXJLLUhsako5RDBuXzlCb25IVWMyaUlMa3JkaVBvN1doeWdTWVR1RzRRMGIwM3lTWm1nMU1ubnF5enllbjhaakxRTWdfc3JDdFAxU1plQmFZWElUM1A?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 07:15:04 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198846+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256158+00:00"
+  },
+  {
+    "id": "413603866daf",
+    "title": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows",
+    "source": "Reuters",
+    "summary": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGkwckxIcC12RFJNb3c2TkhuLWkyc0xfT2oxTDlGc2s0aUJWVHl1MklNNjZqa3laSEtjdHZPWXRKWk9TRW0yX0JSNXlhZmU5VGtXekNiTTVXZU5yTmxrZ2dDUVpNNkcxSWlZWGtLZDJFb1ZveWRKSDN1eXFPZXhrRVlsaXRxRFNLSXhTT2hJemVmMWI1VW9rakpXeHZscU5OaU1Vc3pjQ2J3dEhqYXBzRVJRb2NjSDM2WTdqWWZ6NVo?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 00:35:00 GMT",
+    "fetched_at": "2026-08-21T17:36:15.256172+00:00"
   },
   {
     "id": "8388da89c3f1",
@@ -87,7 +87,7 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVhZTGNKeUtlTk44aVNJTklKRHJrRldfMTR5dDU1NjVSaWduY01HbG9rdmpnU0NzZ1pydkR0Z1MzYW5kdkNyRFNNZ2xuU19HdTQxd0VaUHl3SXlrRUxuX0traW5hZVhOekttWnc0d2FQbDBjaDN1bXg5TTQ0NWwtWk10MnNuYXZWMzVDd3hHZGNqY2s0dW1hSElVV3QydDMtNTVTd0tsUjlQSnVOYzRKajVfUQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 20:00:14 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198859+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256186+00:00"
   },
   {
     "id": "8450b4d25c94",
@@ -97,7 +97,17 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGF5b3MyRUc3cFhCTEowSG9ZcHpOd0RXS0tjLUVJNVM4QnV0TDd0MVk4ZjJobVNOUENkTlY2YzdrNVl1eldLelV3eVQwOE9fdkh4RjJKWlg5NVg4X3U0NnpBUWpZMkdRNkNidjByMWZZWGNqYUY3aG1adGtoazFWTXBB?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 07:41:57 GMT",
-    "fetched_at": "2026-08-21T16:42:11.198875+00:00"
+    "fetched_at": "2026-08-21T17:36:15.256203+00:00"
+  },
+  {
+    "id": "d3e984f16b1b",
+    "title": "What comes after visibility?",
+    "source": "Supply Chain Management Review",
+    "summary": "What comes after visibility?&nbsp;&nbsp;Supply Chain Management Review",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5td3hIdGJBZnBQVFYyMU4ybkJwRC1zOExLQ1NHWDc4R21TUjhUQkktd0lZRFZJVHk2TFBuNkhDNGl2eUFWMVFOLTdZVlJ3SXpSckNCS3RsYjZLbGlxU3JMR01B?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 14:48:00 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400501+00:00"
   },
   {
     "id": "20c920850c88",
@@ -107,7 +117,87 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEpZVXVxTXkzQjQ4dGxMNU1fbWpVOGV6T3dwcFpCRktRcU9sWkNGOURlN3BaZzBPODBoRGRQRExmVjJKdmktbzJydGV6TE9MSURzUGdkUWhkRG1rSGVSR1Jma2ZZVERjMGFPYk5fU2xlMl92U1o4X21BS3QtZjFfVnlWMWd2RmNmRExSMVFCZEhrR01Hd21uRGJoWHFxS2Jya1JmdTBzeG5IUC1JeEZWU1BMRnlPQ0tlY0JfakRJVjA1ZmhFQzdVR0d30gHPAUFVX3lxTE5XRzlabzgwM3pJaDdJMFAtRVBBNkFfS3VkVDVnLVRpYWJlLURvT2labUJMY1FIa0lHSjIxOGMyNU9pWlNPNmIyRGJqcVY4T0NhdTFrVzh2TGFFVXd0OFhZTmlJNWtiUGpPUGdpWW1ZN29HQ0xfSS1rVVNEOVk4UXlURTlpVEdzSXVLUGx4TEc2TGhmVjM2dGw4eG80YUwyVTZtYkVXeGVVTERKaHhVLXB1NFlZRE5FUmJpQVhuMWF3N3ZKeFVmQU5Fazg4N3pocw?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 11:27:09 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169570+00:00"
+    "fetched_at": "2026-08-21T17:36:16.400533+00:00"
+  },
+  {
+    "id": "4f9084ea9454",
+    "title": "Stord, Walmart & Cyber Risk: Top Supply Chain News This Week",
+    "source": "Supply Chain Digital",
+    "summary": "Stord, Walmart & Cyber Risk: Top Supply Chain News This Week&nbsp;&nbsp;Supply Chain Digital",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0pWU2FpUWtfQmhtZDFaQk5mWVRzcVlSR1FWMFhSaVZaV0hVTzNDSGYxM01FeTBhYXV2czFDazVHWWtqa0k5eFYzZFhheWtoR1NvcGV4VmFyVUY2eTliVm1GeUZ3N3hzTVFSV3dIN29Cd19YcjVWZEE3WV9qdDl0ZjFOaHpMVFBzYzVpTEJ1blJNR0hBTVQ0?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 16:00:38 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400550+00:00"
+  },
+  {
+    "id": "0c6cca59a262",
+    "title": "Increasingly fragile supply chain keeps Island afloat",
+    "source": "MV Times",
+    "summary": "Increasingly fragile supply chain keeps Island afloat&nbsp;&nbsp;MV Times",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM01ZODN1ZFh3cHhhbF9OWUdHYmVtTzBkX3lrM0ZvU05fZjVfMzNUbElyVGFYb29ZRUt0RUlobFFNQUI2bDlYeklId1dMNDRua1hSRVprRlJfQ2E2M21wTEtuZUdhRmJDR1RsQVFURFI2ZWU5RFd3RU45eWttODNmTUVBcmwwX0FfUWp6Y3BoR2RDMjA?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 16:57:39 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400564+00:00"
+  },
+  {
+    "id": "c52f23acc597",
+    "title": "Logistics captains take on VCU supply chain management program",
+    "source": "DVIDS",
+    "summary": "Logistics captains take on VCU supply chain management program&nbsp;&nbsp;DVIDS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWWw0Zm10REM1SjA2YjdCWDVJbGVIc3kxang5RDZFMk1ZMFRLU24zMTRLUENmYnVCdXZHZFRwbWJ0di1SQzVJZUR6anRBYXdsVzI4Wkp1MjRDQQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 18 Aug 2026 12:43:00 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400578+00:00"
+  },
+  {
+    "id": "c484dfb14263",
+    "title": "What Rising Private Credit Stress Means for Supply Chains",
+    "source": "Logistics Viewpoints",
+    "summary": "What Rising Private Credit Stress Means for Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZUNUYwUF9nYjZGdXQtTlRsZ1RuYTNuaEhWS2tBVmR4MmhxTkRfM09xbTBVOGJxSndQNjVBMlg5c0hpX0JRaHd4R3plbGJzallIbDh4TVI2cXFsSUtNWVJ1YnpMUVU3UEZWV0dQT1VNLV9WemNPeUprOTR2ekNKX1J6ZzZOZklsNXhmeEdMZVRENWxYN2d2alBNMjBOZm5kV2hF?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 13:32:06 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400591+00:00"
+  },
+  {
+    "id": "9cde8081a49e",
+    "title": "Above the Fold: Supply Chain Logistics News (August 14, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (August 14, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlNKZjhNbEFRbDlUbFk3NUJ4eVNpaUV0RzlDVElQd3B2YVJsMUgwemVrZmstb2VSX3VGMG5wd2RiMk9QbTZvT1BpM1VYQjlteGlUbVpCUk1ZVjV0RFpqd2tWTXZGV2JheXNCS1FfLVZUWkpRdmh5d2dCVjFIRlBPYUV6cHdwc0lacjRYZzVwQlp1UDY5aFhaTVdrczBmYlE?oc=5",
+    "image": "",
+    "published_at": "Fri, 14 Aug 2026 14:59:10 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400607+00:00"
+  },
+  {
+    "id": "f10ef00b344c",
+    "title": "GXO Webinar: Orchestrating Hyperscale Logistics Operations",
+    "source": "Data Centre Magazine",
+    "summary": "GXO Webinar: Orchestrating Hyperscale Logistics Operations&nbsp;&nbsp;Data Centre Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnpXZGNiTGtnWmc0Z1ExVmVuR0Qza281aldGMlcycmZLRmZrOXJVSlJoclFzclZ4RFNmZjlZcUx2R2tUaEt4SFg4enZGMFp1dTFVdkZrTUcta3R3Xy1WYkhDWFd5ZFFBMl9LN29FcGRFTlZ4TjdPYThPOU9IZWJEYzFPQnZrcWg3UEFhOEpSU3lYUjNMZXM3NA?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:09:23 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400620+00:00"
+  },
+  {
+    "id": "8f2e2e787389",
+    "title": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference",
+    "source": "maritimeprofessional.com",
+    "summary": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference&nbsp;&nbsp;maritimeprofessional.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTF94ZlJweWNxQkdXMlBCV3YxV0ZucWFBUFBfYi0zUzB5c3lWczhITF9ZVGlybDFnNEwwWDhfSWpPRjREY2x5OF9UeVgxZW5jc25odHJGOVBCRXg1US1qWTdNeG1CcWJTbXQzTTZBYm1PYVlsMEdoSXVrM3lkX3ZRM3F30gGHAUFVX3lxTE1iVnNLeWotSmVodzJuY3JCYjBMcW5SVzB3ci05RE9ENG4zUmdIR0ljdWhVMVZ3ajA5ZFFBZXFHamVySVJaVHM5TXpSU2VnUzg1RmF5dnBXcXg0MHFGLTZ0LUZWaVhKbm5PNElzSS1yYmVtaGFya1pqU2NseXpDUTVzNHh0U0RaZw?oc=5",
+    "image": "",
+    "published_at": "Mon, 17 Aug 2026 15:56:02 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400635+00:00"
+  },
+  {
+    "id": "861ca34b8eb7",
+    "title": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership",
+    "source": "PR Newswire",
+    "summary": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY0Nqbk9nbFhZSHQtS2s0Ums4ZFFlcG4xZnc5MkVsdG9pM2FMZjNuTndsdmxuTEtqaGFYbDloQWYwVE1sWWFtRk9IZTFoUXkwZnBreXp4TXJwOERuU3BZRk9UUklqUFhibXZaeUdQMWN2MjhVZHhZNDJiaVNkVXhvUlFzN2JMX2t5UDJ3V1FROHJqT3ZVX2NlVFZJWHllZGhIS1ZLZDlrTFFXUkpEM1VSSWZDRVhxZlVtc0hDOFUxRDFzY1BYMUhZR3RxOFVPaUgxdlBzWFA1eEN0MGJsRVYxNWgzLURtYWZUcFNoWEt4T0tqcnN1cG1TelNETER4Snh2?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 15:23:00 GMT",
+    "fetched_at": "2026-08-21T17:36:16.400660+00:00"
   },
   {
     "id": "9d9992aa6493",
@@ -130,56 +220,6 @@
     "fetched_at": "2026-08-21T16:42:12.169614+00:00"
   },
   {
-    "id": "c52f23acc597",
-    "title": "Logistics captains take on VCU supply chain management program",
-    "source": "DVIDS",
-    "summary": "Logistics captains take on VCU supply chain management program&nbsp;&nbsp;DVIDS",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWWw0Zm10REM1SjA2YjdCWDVJbGVIc3kxang5RDZFMk1ZMFRLU24zMTRLUENmYnVCdXZHZFRwbWJ0di1SQzVJZUR6anRBYXdsVzI4Wkp1MjRDQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 18 Aug 2026 12:43:00 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169627+00:00"
-  },
-  {
-    "id": "c484dfb14263",
-    "title": "What Rising Private Credit Stress Means for Supply Chains",
-    "source": "Logistics Viewpoints",
-    "summary": "What Rising Private Credit Stress Means for Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZUNUYwUF9nYjZGdXQtTlRsZ1RuYTNuaEhWS2tBVmR4MmhxTkRfM09xbTBVOGJxSndQNjVBMlg5c0hpX0JRaHd4R3plbGJzallIbDh4TVI2cXFsSUtNWVJ1YnpMUVU3UEZWV0dQT1VNLV9WemNPeUprOTR2ekNKX1J6ZzZOZklsNXhmeEdMZVRENWxYN2d2alBNMjBOZm5kV2hF?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 13:32:06 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169639+00:00"
-  },
-  {
-    "id": "9cde8081a49e",
-    "title": "Above the Fold: Supply Chain Logistics News (August 14, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (August 14, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlNKZjhNbEFRbDlUbFk3NUJ4eVNpaUV0RzlDVElQd3B2YVJsMUgwemVrZmstb2VSX3VGMG5wd2RiMk9QbTZvT1BpM1VYQjlteGlUbVpCUk1ZVjV0RFpqd2tWTXZGV2JheXNCS1FfLVZUWkpRdmh5d2dCVjFIRlBPYUV6cHdwc0lacjRYZzVwQlp1UDY5aFhaTVdrczBmYlE?oc=5",
-    "image": "",
-    "published_at": "Fri, 14 Aug 2026 14:59:10 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169653+00:00"
-  },
-  {
-    "id": "f10ef00b344c",
-    "title": "GXO Webinar: Orchestrating Hyperscale Logistics Operations",
-    "source": "Data Centre Magazine",
-    "summary": "GXO Webinar: Orchestrating Hyperscale Logistics Operations&nbsp;&nbsp;Data Centre Magazine",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnpXZGNiTGtnWmc0Z1ExVmVuR0Qza281aldGMlcycmZLRmZrOXJVSlJoclFzclZ4RFNmZjlZcUx2R2tUaEt4SFg4enZGMFp1dTFVdkZrTUcta3R3Xy1WYkhDWFd5ZFFBMl9LN29FcGRFTlZ4TjdPYThPOU9IZWJEYzFPQnZrcWg3UEFhOEpSU3lYUjNMZXM3NA?oc=5",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:09:23 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169665+00:00"
-  },
-  {
-    "id": "8f2e2e787389",
-    "title": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference",
-    "source": "maritimeprofessional.com",
-    "summary": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference&nbsp;&nbsp;maritimeprofessional.com",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTF94ZlJweWNxQkdXMlBCV3YxV0ZucWFBUFBfYi0zUzB5c3lWczhITF9ZVGlybDFnNEwwWDhfSWpPRjREY2x5OF9UeVgxZW5jc25odHJGOVBCRXg1US1qWTdNeG1CcWJTbXQzTTZBYm1PYVlsMEdoSXVrM3lkX3ZRM3F30gGHAUFVX3lxTE1iVnNLeWotSmVodzJuY3JCYjBMcW5SVzB3ci05RE9ENG4zUmdIR0ljdWhVMVZ3ajA5ZFFBZXFHamVySVJaVHM5TXpSU2VnUzg1RmF5dnBXcXg0MHFGLTZ0LUZWaVhKbm5PNElzSS1yYmVtaGFya1pqU2NseXpDUTVzNHh0U0RaZw?oc=5",
-    "image": "",
-    "published_at": "Mon, 17 Aug 2026 15:56:02 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169680+00:00"
-  },
-  {
     "id": "3941baacbebd",
     "title": "NASA, Space Systems Command product support managers meet to discuss logistics",
     "source": "ssc.spaceforce.mil",
@@ -188,16 +228,6 @@
     "image": "",
     "published_at": "Thu, 20 Aug 2026 18:59:55 GMT",
     "fetched_at": "2026-08-21T16:42:12.169694+00:00"
-  },
-  {
-    "id": "861ca34b8eb7",
-    "title": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership",
-    "source": "PR Newswire",
-    "summary": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY0Nqbk9nbFhZSHQtS2s0Ums4ZFFlcG4xZnc5MkVsdG9pM2FMZjNuTndsdmxuTEtqaGFYbDloQWYwVE1sWWFtRk9IZTFoUXkwZnBreXp4TXJwOERuU3BZRk9UUklqUFhibXZaeUdQMWN2MjhVZHhZNDJiaVNkVXhvUlFzN2JMX2t5UDJ3V1FROHJqT3ZVX2NlVFZJWHllZGhIS1ZLZDlrTFFXUkpEM1VSSWZDRVhxZlVtc0hDOFUxRDFzY1BYMUhZR3RxOFVPaUgxdlBzWFA1eEN0MGJsRVYxNWgzLURtYWZUcFNoWEt4T0tqcnN1cG1TelNETER4Snh2?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 15:23:00 GMT",
-    "fetched_at": "2026-08-21T16:42:12.169720+00:00"
   },
   {
     "id": "4bf9681a9a06",
@@ -468,35 +498,5 @@
     "image": "",
     "published_at": "Wed, 19 Aug 2026 23:05:31 GMT",
     "fetched_at": "2026-08-20T18:50:37.372620+00:00"
-  },
-  {
-    "id": "c382a366f2fa",
-    "title": "Op-Ed: AI’s Last Mile and Why Your Supply Chain ‘Pilot’ Never Makes It into Production",
-    "source": "WWD",
-    "summary": "Op-Ed: AI’s Last Mile and Why Your Supply Chain ‘Pilot’ Never Makes It into Production&nbsp;&nbsp;WWD",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkczZXpMWDk2VzFlaU5mWUpLTEphR09aVG0yVF9LdzMzeW9lZjJ5Z2VyUTJ0RXhxMXljREd2NTlPOTRuUWNuY0JTMGNGU2ZCZXhWR2ZHSlBKTDU1bk1NNHIwZEtXM1dHdVlzYVpXa0JZak9hdXNhVGZQNWx0QU1qRHVJX2ZHLWEzMW9KZEVaYVNIYUVJOXJTZDZtMXhnWkZaUjNIOUFyVURONl9YamdINGVuQ2ZnWERrYmhnS2UxNFNhZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 14:01:20 GMT",
-    "fetched_at": "2026-08-20T17:36:57.686113+00:00"
-  },
-  {
-    "id": "09ab26f2b51f",
-    "title": "Transformation Project of the Year: Explore the Shortlist",
-    "source": "Supply Chain Digital",
-    "summary": "Transformation Project of the Year: Explore the Shortlist&nbsp;&nbsp;Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmp4eGl5SW9kNW10WGp3YXR0dUlEQ2JHVUwwY0k5WXI4SGxxYndXV0o0dnk2RlpBM0Z4YkpTc1NYcGVSbWx0clVVR0V6UDNoaXh1TmdlUGtENWZndmxvQWlrNEswUUZRRUlZM0tCN21NQWEwb0NnN0g2NXpzMFJncUp4N0tzZlFhVldJaklLTGRyeE5ZcEFz?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 13:55:07 GMT",
-    "fetched_at": "2026-08-20T16:42:42.554516+00:00"
-  },
-  {
-    "id": "44625743e00a",
-    "title": "Emerging Ecosystems: Clean Energy Manufacturing",
-    "source": "Business Facilities",
-    "summary": "Emerging Ecosystems: Clean Energy Manufacturing&nbsp;&nbsp;Business Facilities",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT09XNXhsejdPS1JyUEZIckRuSTYxZXlmTkQzQXRsQzFpemI0LWFpUGN3eExsRGxodjlLSjJyNU5CanlKVHJqZ1N0Q05QYW9xWmduX2Z3cFNETTRZbC1acEc3V0VySDZOSjhRWERKeTY2SDYwTFQ0QlJTYS1uLW5tS2FhY04?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 19:25:00 GMT",
-    "fetched_at": "2026-08-20T15:40:36.702194+00:00"
   }
 ]
