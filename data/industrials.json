@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXkwVi03dVlUaF9xclBlRlRJZklUOEEtajI5eVQySUQ2bVNjeDBpczE2Vk90MVRJbmJ0S0Z5RS01cHdaUWI1bGtJclZtaDA4dG1pOFJvNmNCTEw0UDI3VGpyR1ZVQmlXM0hSVVZYTkRkNXhwMDZZNjlhZlhQT3FoT2NIVlNhOXQzdGE5Qi1EWWEwc0hwMFNTTUxfRGtKNndZRWN5NUZJU01seHp2X1hnRw?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 00:31:44 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257201+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646318+00:00"
   },
   {
     "id": "08ab22ba4049",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkFmNnFxSDltajZwRHRONGhTUHh5X2pIaDlkWl90MUwyXzVHRmFoR2xleTBsdEYyZktoVUJqWURPLXRZLTdVUDZ3RFpkMVRXZjJwQVBOTkdkNHJ5WkU0QVhFV3FIcnlRZElxS2hPN0pvRzNCRXVkbmZPclljZ1N1ZF9Rc2x0UQ?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 05:00:00 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257230+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646353+00:00"
   },
   {
     "id": "066925f34007",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORF9OaGJEaGpuYkg3cWhUQVFuc0F3WkhER0pCNl9ta0JLUm5CUU1GajVQZVdQZDVkZDRaNDRrMExUSW1lR2ZXdGRJNmh6Q015OVZ3SklSZE92TkFKbm16SFZuZjdKMG84WXllOUhpQWJKdzZ4SlNOcVFXcGtkV1ctX2NwOXo5WEVrdGphenBkM0J3LWk2dVJPRnhn?oc=5",
     "image": "",
     "published_at": "Thu, 20 Aug 2026 19:16:35 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257247+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646371+00:00"
   },
   {
     "id": "5018ac8d2f9b",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3NlVUNWNndxYTZfcXViX0hjRVdCR3h6WS0xTlJTY0hmWmtfb3JPMlBVVzNtSzMtLVJZZlhVTmVhaDJIazBUMmpreVBmbDBieDV1RmpJUUJwQk1rZmpoWWo4aUdITVYzbVQzbE5yNW96SkZnQVltTGFJWHJqbkRNMTg3aDZuWXFDdVdNVDBFTlk2dVJMbWxKUnh3SE95M055RjNiQ2FINV80SFQw?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 13:32:38 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257263+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646387+00:00"
   },
   {
     "id": "07c8647dc3c7",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYzloeFdFaFdYemRVOXhFWG9UemllS1NSQ1h4SThQUG9ES2p2MkhIcGstd0lvTmk4amRscUMxekNadnAxZWFMblVTcDRyTEZINU1rTlpiZjRPUXo2ZVJaR1BDRk04ZEg1Z0UwWmlCQjNObHRhZnJMcmNBTDBFbndERVNKUXZCSlhtdmEzOVZOZkc3Mlk0Wk40VVBSOXJLLUhsako5RDBuXzlCb25IVWMyaUlMa3JkaVBvN1doeWdTWVR1RzRRMGIwM3lTWm1nMU1ubnF5enllbjhaakxRTWdfc3JDdFAxU1plQmFZWElUM1A?oc=5",
     "image": "",
     "published_at": "Fri, 21 Aug 2026 07:15:04 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257280+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646404+00:00"
   },
   {
     "id": "a3017602f865",
@@ -57,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenl1dVdzdWFUT3VYaEYwOFRIeVFyQ2RwMW9aUDdrbHJmOHkybHNwWU13TU5FVkczSGFILXhiaXB4dHY5c0tGWWpRY0xqR01KbmxjUnBlY093RTZlTy1IZXhnQTZlQlhHenZmVzkwel9XLVJPX1JLNzBPQXJRWTR0WkpORkJhZUpnQTZoamgtUmNMaUV2emxTZFFGVnJUYlBIZ1VubmNYMzdOT3B2dDVUSjV0dDRzS1QxaTZVZFVObFdYRDI3czB2SGhCRkFzTHg5eEw0T3FCVTk2MUZ1dGwtY3IxY1dGUQ?oc=5",
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:46:00 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257295+00:00"
+    "fetched_at": "2026-08-21T11:33:22.646418+00:00"
+  },
+  {
+    "id": "413603866daf",
+    "title": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows",
+    "source": "Reuters",
+    "summary": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGkwckxIcC12RFJNb3c2TkhuLWkyc0xfT2oxTDlGc2s0aUJWVHl1MklNNjZqa3laSEtjdHZPWXRKWk9TRW0yX0JSNXlhZmU5VGtXekNiTTVXZU5yTmxrZ2dDUVpNNkcxSWlZWGtLZDJFb1ZveWRKSDN1eXFPZXhrRVlsaXRxRFNLSXhTT2hJemVmMWI1VW9rakpXeHZscU5OaU1Vc3pjQ2J3dEhqYXBzRVJRb2NjSDM2WTdqWWZ6NVo?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 00:35:00 GMT",
+    "fetched_at": "2026-08-21T11:33:22.646432+00:00"
+  },
+  {
+    "id": "bfca7214c5b2",
+    "title": "Allegiance Search Expands Industrial Manufacturing Practice",
+    "source": "Supply House Times",
+    "summary": "Allegiance Search Expands Industrial Manufacturing Practice&nbsp;&nbsp;Supply House Times",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2s3cXl0VDRYVlVyUko3b2hsMmxYTzNHYjJDM3o4WWRCRjAwMXJ3ODRDcFdSS0t5STR5SXYzWlR2SnRXVUlUT25DUThVd3BHOHpTMWdhWm5HN1duT0xLNGtDYjRjWVJHN0Fnd242N1RUTm0ydlM0em5rSFhmOWQxcEVfd2xINnhUd2JvNExaZU41d1c0TmZ5UTUxbExudXVmblE?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 17:09:24 GMT",
+    "fetched_at": "2026-08-21T11:33:22.646445+00:00"
+  },
+  {
+    "id": "8450b4d25c94",
+    "title": "Denmark’s Industrial Outlook Dips to 97.9 in August, Reflecting Weaker Manufacturing Sentiment",
+    "source": "CryptoRank",
+    "summary": "Denmark’s Industrial Outlook Dips to 97.9 in August, Reflecting Weaker Manufacturing Sentiment&nbsp;&nbsp;CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGF5b3MyRUc3cFhCTEowSG9ZcHpOd0RXS0tjLUVJNVM4QnV0TDd0MVk4ZjJobVNOUENkTlY2YzdrNVl1eldLelV3eVQwOE9fdkh4RjJKWlg5NVg4X3U0NnpBUWpZMkdRNkNidjByMWZZWGNqYUY3aG1adGtoazFWTXBB?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 07:41:57 GMT",
+    "fetched_at": "2026-08-21T11:33:22.646462+00:00"
+  },
+  {
+    "id": "3bbf7b9011de",
+    "title": "July Industrial Production Rises Less Than Forecast as Manufacturing Growth Decelerates",
+    "source": "Yahoo Finance",
+    "summary": "July Industrial Production Rises Less Than Forecast as Manufacturing Growth Decelerates&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekJ1ZEVKUk9mdVk1UjRKY21BV0ZTLWp5NmhhU3NQQmlaRTFlaGRQS0xYaV9zbkV1UGNxdHdmazJuWk1uUENVUEVuREd6T1B6TkZIMEczaEgtOWMybE5ET28tNkpldHBoVi1HdGd1TkxhdnJfbXZTSGN1ZUdsZHJMY2gzXzhic1QyQWcxVWI4amVXVUxjLWRPMV92WQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 18 Aug 2026 19:25:02 GMT",
+    "fetched_at": "2026-08-21T11:33:22.646477+00:00"
+  },
+  {
+    "id": "9d9992aa6493",
+    "title": "Company of the Year 2026: The Four Contenders",
+    "source": "Supply Chain Digital",
+    "summary": "Company of the Year 2026: The Four Contenders&nbsp;&nbsp;Supply Chain Digital",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkRFbUlIaHc2Q2JHSXBSOUhpUzJ0T3BxVlVNS0RndlMyeXl6RkxTNjdhRkNheUlIVkVGaFR2QXN2bnlWNHV2RmtLQ3BrM1MydHl0Y0lrcXhycGc0WnUzd1JGZkwwc1hUV2pHUHVzTmdtc0hMMElMYWVHa2lkTnFuNHJNLTU4WjA?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:32:57 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571070+00:00"
+  },
+  {
+    "id": "3941baacbebd",
+    "title": "NASA, Space Systems Command product support managers meet to discuss logistics",
+    "source": "ssc.spaceforce.mil",
+    "summary": "NASA, Space Systems Command product support managers meet to discuss logistics&nbsp;&nbsp;ssc.spaceforce.mil",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2k3VGVWRm9ZdzRWNWp4Y191MktGRXBPSWZ4NmktTkdUY2tQLWRXSEpUNzNuRFRfM21ReFZvck0zWUdrcGpTakkxRUVzN3ZXVXNUa2t3WGc2aThGMkFrdTVhSlR3WG9rd1I5UHlJZlNmc29nVkhlU29zZ3M5UFlXc1BTMTBlU0lXNUJDM1pucDBBTjJTc2NiS3FYVm8xdUd2S2xwRXVQRFZsZG5pQVJBU3k5aFR1aGdFTVNQdmphdFpJVmxzTVRLcnBhRlYwQ0tpZ01oQ24yMVppdDVmZnZ6R1ZWTQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 18:59:55 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571102+00:00"
+  },
+  {
+    "id": "4bf9681a9a06",
+    "title": "The Evolution of Modern Supply Chains",
+    "source": "Times Record News",
+    "summary": "The Evolution of Modern Supply Chains&nbsp;&nbsp;Times Record News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWxmRlVPRjJESlUzZTEzQjg2V3k3Y3liS2E3enRSWGw4OHVRdmtfT3YwSW5scDhESVYtemwzZ2ZHelNrUTdXZExKZTZnd19SeGJqYUFqdE1fMjRWdUF1eU1JYXhiZTItRkVfbnBzSURkNFZMRWF4VU1XUTZxS1dNdzROYXFrUmlSQ3dkYkd5Nzc3V0VLS3NRaVc5ZHA2V0p1MVFtLWFtM1prM1ZENHFsWGlRbU4wek5WUkZXaFZxNXU2MFlkS3c?oc=5",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 18:15:00 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571118+00:00"
+  },
+  {
+    "id": "39a3e3dbd2fb",
+    "title": "What supply chain demands of enterprise AI",
+    "source": "Supply Chain Management Review",
+    "summary": "What supply chain demands of enterprise AI&nbsp;&nbsp;Supply Chain Management Review",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yTkstN3RSQXh1SWxyTkRRX1pEVUhMaGpVTkRWeHNiaEtxZjFWeDQ5RjFuN3l3NGk3cWppZWRaWVFLd25icktkcno4S3VJSGZ6NWlqTnp6MGVPRlJmUE9aVDhnMExoTFQ1UkE4QlVkajh4RXNocUxkTmhTRQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 12:55:00 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571133+00:00"
+  },
+  {
+    "id": "9cde8081a49e",
+    "title": "Above the Fold: Supply Chain Logistics News (August 14, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (August 14, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlNKZjhNbEFRbDlUbFk3NUJ4eVNpaUV0RzlDVElQd3B2YVJsMUgwemVrZmstb2VSX3VGMG5wd2RiMk9QbTZvT1BpM1VYQjlteGlUbVpCUk1ZVjV0RFpqd2tWTXZGV2JheXNCS1FfLVZUWkpRdmh5d2dCVjFIRlBPYUV6cHdwc0lacjRYZzVwQlp1UDY5aFhaTVdrczBmYlE?oc=5",
+    "image": "",
+    "published_at": "Fri, 14 Aug 2026 14:59:10 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571150+00:00"
+  },
+  {
+    "id": "f10ef00b344c",
+    "title": "GXO Webinar: Orchestrating Hyperscale Logistics Operations",
+    "source": "Data Centre Magazine",
+    "summary": "GXO Webinar: Orchestrating Hyperscale Logistics Operations&nbsp;&nbsp;Data Centre Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnpXZGNiTGtnWmc0Z1ExVmVuR0Qza281aldGMlcycmZLRmZrOXJVSlJoclFzclZ4RFNmZjlZcUx2R2tUaEt4SFg4enZGMFp1dTFVdkZrTUcta3R3Xy1WYkhDWFd5ZFFBMl9LN29FcGRFTlZ4TjdPYThPOU9IZWJEYzFPQnZrcWg3UEFhOEpSU3lYUjNMZXM3NA?oc=5",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:09:23 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571165+00:00"
+  },
+  {
+    "id": "c52f23acc597",
+    "title": "Logistics captains take on VCU supply chain management program",
+    "source": "DVIDS",
+    "summary": "Logistics captains take on VCU supply chain management program&nbsp;&nbsp;DVIDS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWWw0Zm10REM1SjA2YjdCWDVJbGVIc3kxang5RDZFMk1ZMFRLU24zMTRLUENmYnVCdXZHZFRwbWJ0di1SQzVJZUR6anRBYXdsVzI4Wkp1MjRDQQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 18 Aug 2026 12:43:00 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571180+00:00"
+  },
+  {
+    "id": "c484dfb14263",
+    "title": "What Rising Private Credit Stress Means for Supply Chains",
+    "source": "Logistics Viewpoints",
+    "summary": "What Rising Private Credit Stress Means for Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZUNUYwUF9nYjZGdXQtTlRsZ1RuYTNuaEhWS2tBVmR4MmhxTkRfM09xbTBVOGJxSndQNjVBMlg5c0hpX0JRaHd4R3plbGJzallIbDh4TVI2cXFsSUtNWVJ1YnpMUVU3UEZWV0dQT1VNLV9WemNPeUprOTR2ekNKX1J6ZzZOZklsNXhmeEdMZVRENWxYN2d2alBNMjBOZm5kV2hF?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 13:32:06 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571195+00:00"
+  },
+  {
+    "id": "8f2e2e787389",
+    "title": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference",
+    "source": "maritimeprofessional.com",
+    "summary": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference&nbsp;&nbsp;maritimeprofessional.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTF94ZlJweWNxQkdXMlBCV3YxV0ZucWFBUFBfYi0zUzB5c3lWczhITF9ZVGlybDFnNEwwWDhfSWpPRjREY2x5OF9UeVgxZW5jc25odHJGOVBCRXg1US1qWTdNeG1CcWJTbXQzTTZBYm1PYVlsMEdoSXVrM3lkX3ZRM3F30gGHAUFVX3lxTE1iVnNLeWotSmVodzJuY3JCYjBMcW5SVzB3ci05RE9ENG4zUmdIR0ljdWhVMVZ3ajA5ZFFBZXFHamVySVJaVHM5TXpSU2VnUzg1RmF5dnBXcXg0MHFGLTZ0LUZWaVhKbm5PNElzSS1yYmVtaGFya1pqU2NseXpDUTVzNHh0U0RaZw?oc=5",
+    "image": "",
+    "published_at": "Mon, 17 Aug 2026 15:56:02 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571213+00:00"
+  },
+  {
+    "id": "861ca34b8eb7",
+    "title": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership",
+    "source": "PR Newswire",
+    "summary": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY0Nqbk9nbFhZSHQtS2s0Ums4ZFFlcG4xZnc5MkVsdG9pM2FMZjNuTndsdmxuTEtqaGFYbDloQWYwVE1sWWFtRk9IZTFoUXkwZnBreXp4TXJwOERuU3BZRk9UUklqUFhibXZaeUdQMWN2MjhVZHhZNDJiaVNkVXhvUlFzN2JMX2t5UDJ3V1FROHJqT3ZVX2NlVFZJWHllZGhIS1ZLZDlrTFFXUkpEM1VSSWZDRVhxZlVtc0hDOFUxRDFzY1BYMUhZR3RxOFVPaUgxdlBzWFA1eEN0MGJsRVYxNWgzLURtYWZUcFNoWEt4T0tqcnN1cG1TelNETER4Snh2?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 15:23:00 GMT",
+    "fetched_at": "2026-08-21T11:33:23.571241+00:00"
   },
   {
     "id": "70b2e8e27189",
@@ -68,126 +208,6 @@
     "image": "",
     "published_at": "Tue, 18 Aug 2026 07:00:00 GMT",
     "fetched_at": "2026-08-21T10:37:31.257321+00:00"
-  },
-  {
-    "id": "bfca7214c5b2",
-    "title": "Allegiance Search Expands Industrial Manufacturing Practice",
-    "source": "Supply House Times",
-    "summary": "Allegiance Search Expands Industrial Manufacturing Practice&nbsp;&nbsp;Supply House Times",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2s3cXl0VDRYVlVyUko3b2hsMmxYTzNHYjJDM3o4WWRCRjAwMXJ3ODRDcFdSS0t5STR5SXYzWlR2SnRXVUlUT25DUThVd3BHOHpTMWdhWm5HN1duT0xLNGtDYjRjWVJHN0Fnd242N1RUTm0ydlM0em5rSFhmOWQxcEVfd2xINnhUd2JvNExaZU41d1c0TmZ5UTUxbExudXVmblE?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 17:09:24 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257335+00:00"
-  },
-  {
-    "id": "8450b4d25c94",
-    "title": "Denmark’s Industrial Outlook Dips to 97.9 in August, Reflecting Weaker Manufacturing Sentiment",
-    "source": "CryptoRank",
-    "summary": "Denmark’s Industrial Outlook Dips to 97.9 in August, Reflecting Weaker Manufacturing Sentiment&nbsp;&nbsp;CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGF5b3MyRUc3cFhCTEowSG9ZcHpOd0RXS0tjLUVJNVM4QnV0TDd0MVk4ZjJobVNOUENkTlY2YzdrNVl1eldLelV3eVQwOE9fdkh4RjJKWlg5NVg4X3U0NnpBUWpZMkdRNkNidjByMWZZWGNqYUY3aG1adGtoazFWTXBB?oc=5",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 07:41:57 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257351+00:00"
-  },
-  {
-    "id": "3bbf7b9011de",
-    "title": "July Industrial Production Rises Less Than Forecast as Manufacturing Growth Decelerates",
-    "source": "Yahoo Finance",
-    "summary": "July Industrial Production Rises Less Than Forecast as Manufacturing Growth Decelerates&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekJ1ZEVKUk9mdVk1UjRKY21BV0ZTLWp5NmhhU3NQQmlaRTFlaGRQS0xYaV9zbkV1UGNxdHdmazJuWk1uUENVUEVuREd6T1B6TkZIMEczaEgtOWMybE5ET28tNkpldHBoVi1HdGd1TkxhdnJfbXZTSGN1ZUdsZHJMY2gzXzhic1QyQWcxVWI4amVXVUxjLWRPMV92WQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 18 Aug 2026 19:25:02 GMT",
-    "fetched_at": "2026-08-21T10:37:31.257366+00:00"
-  },
-  {
-    "id": "9d9992aa6493",
-    "title": "Company of the Year 2026: The Four Contenders",
-    "source": "Supply Chain Digital",
-    "summary": "Company of the Year 2026: The Four Contenders&nbsp;&nbsp;Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkRFbUlIaHc2Q2JHSXBSOUhpUzJ0T3BxVlVNS0RndlMyeXl6RkxTNjdhRkNheUlIVkVGaFR2QXN2bnlWNHV2RmtLQ3BrM1MydHl0Y0lrcXhycGc0WnUzd1JGZkwwc1hUV2pHUHVzTmdtc0hMMElMYWVHa2lkTnFuNHJNLTU4WjA?oc=5",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:32:57 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143436+00:00"
-  },
-  {
-    "id": "3941baacbebd",
-    "title": "NASA, Space Systems Command product support managers meet to discuss logistics",
-    "source": "ssc.spaceforce.mil",
-    "summary": "NASA, Space Systems Command product support managers meet to discuss logistics&nbsp;&nbsp;ssc.spaceforce.mil",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2k3VGVWRm9ZdzRWNWp4Y191MktGRXBPSWZ4NmktTkdUY2tQLWRXSEpUNzNuRFRfM21ReFZvck0zWUdrcGpTakkxRUVzN3ZXVXNUa2t3WGc2aThGMkFrdTVhSlR3WG9rd1I5UHlJZlNmc29nVkhlU29zZ3M5UFlXc1BTMTBlU0lXNUJDM1pucDBBTjJTc2NiS3FYVm8xdUd2S2xwRXVQRFZsZG5pQVJBU3k5aFR1aGdFTVNQdmphdFpJVmxzTVRLcnBhRlYwQ0tpZ01oQ24yMVppdDVmZnZ6R1ZWTQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 18:59:55 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143459+00:00"
-  },
-  {
-    "id": "4bf9681a9a06",
-    "title": "The Evolution of Modern Supply Chains",
-    "source": "Times Record News",
-    "summary": "The Evolution of Modern Supply Chains&nbsp;&nbsp;Times Record News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWxmRlVPRjJESlUzZTEzQjg2V3k3Y3liS2E3enRSWGw4OHVRdmtfT3YwSW5scDhESVYtemwzZ2ZHelNrUTdXZExKZTZnd19SeGJqYUFqdE1fMjRWdUF1eU1JYXhiZTItRkVfbnBzSURkNFZMRWF4VU1XUTZxS1dNdzROYXFrUmlSQ3dkYkd5Nzc3V0VLS3NRaVc5ZHA2V0p1MVFtLWFtM1prM1ZENHFsWGlRbU4wek5WUkZXaFZxNXU2MFlkS3c?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 18:15:00 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143474+00:00"
-  },
-  {
-    "id": "9cde8081a49e",
-    "title": "Above the Fold: Supply Chain Logistics News (August 14, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (August 14, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlNKZjhNbEFRbDlUbFk3NUJ4eVNpaUV0RzlDVElQd3B2YVJsMUgwemVrZmstb2VSX3VGMG5wd2RiMk9QbTZvT1BpM1VYQjlteGlUbVpCUk1ZVjV0RFpqd2tWTXZGV2JheXNCS1FfLVZUWkpRdmh5d2dCVjFIRlBPYUV6cHdwc0lacjRYZzVwQlp1UDY5aFhaTVdrczBmYlE?oc=5",
-    "image": "",
-    "published_at": "Fri, 14 Aug 2026 14:59:10 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143489+00:00"
-  },
-  {
-    "id": "39a3e3dbd2fb",
-    "title": "What supply chain demands of enterprise AI",
-    "source": "Supply Chain Management Review",
-    "summary": "What supply chain demands of enterprise AI&nbsp;&nbsp;Supply Chain Management Review",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yTkstN3RSQXh1SWxyTkRRX1pEVUhMaGpVTkRWeHNiaEtxZjFWeDQ5RjFuN3l3NGk3cWppZWRaWVFLd25icktkcno4S3VJSGZ6NWlqTnp6MGVPRlJmUE9aVDhnMExoTFQ1UkE4QlVkajh4RXNocUxkTmhTRQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 12:55:00 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143502+00:00"
-  },
-  {
-    "id": "f10ef00b344c",
-    "title": "GXO Webinar: Orchestrating Hyperscale Logistics Operations",
-    "source": "Data Centre Magazine",
-    "summary": "GXO Webinar: Orchestrating Hyperscale Logistics Operations&nbsp;&nbsp;Data Centre Magazine",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnpXZGNiTGtnWmc0Z1ExVmVuR0Qza281aldGMlcycmZLRmZrOXJVSlJoclFzclZ4RFNmZjlZcUx2R2tUaEt4SFg4enZGMFp1dTFVdkZrTUcta3R3Xy1WYkhDWFd5ZFFBMl9LN29FcGRFTlZ4TjdPYThPOU9IZWJEYzFPQnZrcWg3UEFhOEpSU3lYUjNMZXM3NA?oc=5",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:09:23 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143515+00:00"
-  },
-  {
-    "id": "c52f23acc597",
-    "title": "Logistics captains take on VCU supply chain management program",
-    "source": "DVIDS",
-    "summary": "Logistics captains take on VCU supply chain management program&nbsp;&nbsp;DVIDS",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWWw0Zm10REM1SjA2YjdCWDVJbGVIc3kxang5RDZFMk1ZMFRLU24zMTRLUENmYnVCdXZHZFRwbWJ0di1SQzVJZUR6anRBYXdsVzI4Wkp1MjRDQQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 18 Aug 2026 12:43:00 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143528+00:00"
-  },
-  {
-    "id": "c484dfb14263",
-    "title": "What Rising Private Credit Stress Means for Supply Chains",
-    "source": "Logistics Viewpoints",
-    "summary": "What Rising Private Credit Stress Means for Supply Chains&nbsp;&nbsp;Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZUNUYwUF9nYjZGdXQtTlRsZ1RuYTNuaEhWS2tBVmR4MmhxTkRfM09xbTBVOGJxSndQNjVBMlg5c0hpX0JRaHd4R3plbGJzallIbDh4TVI2cXFsSUtNWVJ1YnpMUVU3UEZWV0dQT1VNLV9WemNPeUprOTR2ekNKX1J6ZzZOZklsNXhmeEdMZVRENWxYN2d2alBNMjBOZm5kV2hF?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 13:32:06 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143541+00:00"
-  },
-  {
-    "id": "8f2e2e787389",
-    "title": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference",
-    "source": "maritimeprofessional.com",
-    "summary": "The Heavy Lift Group Hosts 74th Annual Supply Chain, Logistics Conference&nbsp;&nbsp;maritimeprofessional.com",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTF94ZlJweWNxQkdXMlBCV3YxV0ZucWFBUFBfYi0zUzB5c3lWczhITF9ZVGlybDFnNEwwWDhfSWpPRjREY2x5OF9UeVgxZW5jc25odHJGOVBCRXg1US1qWTdNeG1CcWJTbXQzTTZBYm1PYVlsMEdoSXVrM3lkX3ZRM3F30gGHAUFVX3lxTE1iVnNLeWotSmVodzJuY3JCYjBMcW5SVzB3ci05RE9ENG4zUmdIR0ljdWhVMVZ3ajA5ZFFBZXFHamVySVJaVHM5TXpSU2VnUzg1RmF5dnBXcXg0MHFGLTZ0LUZWaVhKbm5PNElzSS1yYmVtaGFya1pqU2NseXpDUTVzNHh0U0RaZw?oc=5",
-    "image": "",
-    "published_at": "Mon, 17 Aug 2026 15:56:02 GMT",
-    "fetched_at": "2026-08-21T10:37:32.143555+00:00"
   },
   {
     "id": "9e995e131d83",
@@ -460,16 +480,6 @@
     "fetched_at": "2026-08-20T13:02:08.917887+00:00"
   },
   {
-    "id": "861ca34b8eb7",
-    "title": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership",
-    "source": "PR Newswire",
-    "summary": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY0Nqbk9nbFhZSHQtS2s0Ums4ZFFlcG4xZnc5MkVsdG9pM2FMZjNuTndsdmxuTEtqaGFYbDloQWYwVE1sWWFtRk9IZTFoUXkwZnBreXp4TXJwOERuU3BZRk9UUklqUFhibXZaeUdQMWN2MjhVZHhZNDJiaVNkVXhvUlFzN2JMX2t5UDJ3V1FROHJqT3ZVX2NlVFZJWHllZGhIS1ZLZDlrTFFXUkpEM1VSSWZDRVhxZlVtc0hDOFUxRDFzY1BYMUhZR3RxOFVPaUgxdlBzWFA1eEN0MGJsRVYxNWgzLURtYWZUcFNoWEt4T0tqcnN1cG1TelNETER4Snh2?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 15:23:00 GMT",
-    "fetched_at": "2026-08-20T13:02:10.040035+00:00"
-  },
-  {
     "id": "2cb3f9247c54",
     "title": "3PLs Slam Volatility: 9 Ways Providers Build Supply Chain Resilience",
     "source": "Inbound Logistics",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Wed, 19 Aug 2026 15:46:00 GMT",
     "fetched_at": "2026-08-20T11:34:21.871336+00:00"
-  },
-  {
-    "id": "f35c6e3fabdb",
-    "title": "3D Woven Composites Market Size, Share Report 2026-2033",
-    "source": "Grand View Research",
-    "summary": "3D Woven Composites Market Size, Share Report 2026-2033&nbsp;&nbsp;Grand View Research",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajNYdGp6VXByeWhoUDhtYTZoaXBieHlPM1BaeFFqUFpzdGVRM0dzdUlrb2ZMbVc4QXRWNUhKdC10SUJ1dGNuVVJ2S2VRbF9HMzhtYnRPU0xsOVZXS1dYVnZYOXRud0hienp3NXdHYUl0ajRGX0pXS0RsNGViOW05TnFQNmZHZ01HQjVaOW5n?oc=5",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 10:29:53 GMT",
-    "fetched_at": "2026-08-20T11:34:21.871437+00:00"
   }
 ]
