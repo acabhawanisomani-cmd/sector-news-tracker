@@ -1,5 +1,205 @@
 [
   {
+    "id": "ae2ed0e9d5fa",
+    "title": "South Korea plans chip windfall fund to back youth, AI investment",
+    "source": "LiveMint",
+    "summary": "SOUTHKOREA-CHIPS/FUND (PIX):South Korea plans chip windfall fund to back youth, AI investment",
+    "url": "https://www.livemint.com/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment-11787285364341.html",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 09:39:23 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893170+00:00"
+  },
+  {
+    "id": "a024fd95439f",
+    "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
+    "source": "LiveMint",
+    "summary": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
+    "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 13:22:54 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893194+00:00"
+  },
+  {
+    "id": "63bd25ccf101",
+    "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
+    "source": "LiveMint",
+    "summary": "India's key strength in artificial intelligence lies in the applications layer, while the country is simultaneously building capabilities in data centres and other digital infrastructure, Union Minister Ashwini Vaishnaw said in an interview with Morgan Stanley India Equity Strategist Ridham Desai.",
+    "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 11:40:40 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893211+00:00"
+  },
+  {
+    "id": "06fa43ac1113",
+    "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces ‘free AI subscriptions for college students’",
+    "source": "LiveMint",
+    "summary": "Alphabet CEO Sundar Pichai announced on Thursday the launch of Gemini's enhanced education tools for NEET, JEE, GRE and other exams. The company also launched ‘free Google AI subscriptions for college students'.",
+    "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
+    "image": "",
+    "published_at": "Thu, 20 Aug 2026 10:07:31 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893230+00:00"
+  },
+  {
+    "id": "ba89a4ed3cb7",
+    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
+    "source": "LiveMint",
+    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
+    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 20:51:13 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893248+00:00"
+  },
+  {
+    "id": "b9b224c38d70",
+    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
+    "source": "LiveMint",
+    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
+    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 15:29:45 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893259+00:00"
+  },
+  {
+    "id": "cf78a8c4357a",
+    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
+    "source": "LiveMint",
+    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
+    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 14:34:26 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893273+00:00"
+  },
+  {
+    "id": "dec0d50cb57f",
+    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
+    "source": "LiveMint",
+    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
+    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 08:20:49 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893286+00:00"
+  },
+  {
+    "id": "9eed41d541d0",
+    "title": "Govt may turn security concerns into a market for India-designed chips",
+    "source": "LiveMint",
+    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
+    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 06:00:24 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893297+00:00"
+  },
+  {
+    "id": "fc4637f3e372",
+    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "source": "LiveMint",
+    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 03:22:12 +0530",
+    "fetched_at": "2026-08-21T06:57:47.893307+00:00"
+  },
+  {
+    "id": "4690c660ca7b",
+    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+    "source": "Economic Times",
+    "summary": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' names were misspelled or written in pure gi",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/articleshow/133393842.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:57:25 +0530",
+    "fetched_at": "2026-08-21T06:57:48.007915+00:00"
+  },
+  {
+    "id": "270e2a826cab",
+    "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
+    "source": "Economic Times",
+    "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for competitive examinatio",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:33:49 +0530",
+    "fetched_at": "2026-08-21T06:57:48.007943+00:00"
+  },
+  {
+    "id": "324c6901300b",
+    "title": "South Korea plans chip windfall fund to back youth, AI investment",
+    "source": "Economic Times",
+    "summary": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 10:32:19 +0530",
+    "fetched_at": "2026-08-21T06:57:48.007978+00:00"
+  },
+  {
+    "id": "2427cf7f9c55",
+    "title": "What if Meta loses trial? Penalties may top $1.4 trillion, matching its market cap",
+    "source": "Economic Times",
+    "summary": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap/articleshow/133392766.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 09:34:13 +0530",
+    "fetched_at": "2026-08-21T06:57:48.007992+00:00"
+  },
+  {
+    "id": "9bd457ebbcbd",
+    "title": "Lawyers square off in fight over voice data used to train AI",
+    "source": "Economic Times",
+    "summary": "Ross Kimbarovsky of Loevy &amp; Loevy is representing the plaintiffs - a group of journalists, podcasters and audiobook narrators - in the proposed class action lawsuits. He said each of the defendants faces hundreds of millions of dollars in potential damages.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/articleshow/133391894.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:56:51 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008007+00:00"
+  },
+  {
+    "id": "de9ce8365365",
+    "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
+    "source": "Economic Times",
+    "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:51:33 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008019+00:00"
+  },
+  {
+    "id": "520b8f02e308",
+    "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
+    "source": "Economic Times",
+    "summary": "The move follows ​growing scrutiny of smart glasses over their ​recording capabilities, with courts in England and Wales this month prohibiting ​Meta smart glasses because ⁠of restrictions ‌on taking images ​and videos ​in courts.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-cinemas-restricting-meta-ai-and-other-smart-glasses-over-piracy-concerns/articleshow/133391682.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:43:58 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008034+00:00"
+  },
+  {
+    "id": "ee8cf104bb04",
+    "title": "Anthropic plans to change enterprise data retention policy",
+    "source": "Economic Times",
+    "summary": "Under the changes to the data retention policy, Anthropic will still require business customers ​to retain data for 30 ⁠days but ‌will give them the option ​to keep ​it on their own cloud computing ⁠infrastructure, the source said.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:41:01 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008048+00:00"
+  },
+  {
+    "id": "ca8b8df912b7",
+    "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+    "source": "Economic Times",
+    "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:35:17 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008062+00:00"
+  },
+  {
+    "id": "d3ee3cfc657b",
+    "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
+    "source": "Economic Times",
+    "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his ‌conduct would benefit ⁠the government ⁠of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evidence supported ​the guilty verdict on the ",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
+    "image": "",
+    "published_at": "Fri, 21 Aug 2026 08:33:10 +0530",
+    "fetched_at": "2026-08-21T06:57:48.008080+00:00"
+  },
+  {
     "id": "51d23099834e",
     "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
     "source": "The Verge",
@@ -298,205 +498,5 @@
     "image": "",
     "published_at": "Tue, 18 Aug 2026 08:04:19 GMT",
     "fetched_at": "2026-08-21T05:37:49.863233+00:00"
-  },
-  {
-    "id": "ae2ed0e9d5fa",
-    "title": "South Korea plans chip windfall fund to back youth, AI investment",
-    "source": "LiveMint",
-    "summary": "SOUTHKOREA-CHIPS/FUND (PIX):South Korea plans chip windfall fund to back youth, AI investment",
-    "url": "https://www.livemint.com/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment-11787285364341.html",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 09:39:23 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547458+00:00"
-  },
-  {
-    "id": "a024fd95439f",
-    "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
-    "source": "LiveMint",
-    "summary": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
-    "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 13:22:54 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547488+00:00"
-  },
-  {
-    "id": "63bd25ccf101",
-    "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
-    "source": "LiveMint",
-    "summary": "India's key strength in artificial intelligence lies in the applications layer, while the country is simultaneously building capabilities in data centres and other digital infrastructure, Union Minister Ashwini Vaishnaw said in an interview with Morgan Stanley India Equity Strategist Ridham Desai.",
-    "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 11:40:40 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547512+00:00"
-  },
-  {
-    "id": "06fa43ac1113",
-    "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces ‘free AI subscriptions for college students’",
-    "source": "LiveMint",
-    "summary": "Alphabet CEO Sundar Pichai announced on Thursday the launch of Gemini's enhanced education tools for NEET, JEE, GRE and other exams. The company also launched ‘free Google AI subscriptions for college students'.",
-    "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
-    "image": "",
-    "published_at": "Thu, 20 Aug 2026 10:07:31 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547537+00:00"
-  },
-  {
-    "id": "ba89a4ed3cb7",
-    "title": "Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?",
-    "source": "LiveMint",
-    "summary": "Amazon leads with ₹33,400 for an iPhone 15 exchange, followed by Flipkart at ₹31,500 and Apple at ₹25,500, based on my checks across different platforms. Final values vary by device condition, and additional discounts can influence the total purchase price of new iPhones.",
-    "url": "https://www.livemint.com/technology/tech-news/swapping-your-old-iphone-for-17-pro-max-flipkart-amazon-or-apple-store-trade-in-where-do-you-get-the-best-deal-11787134597722.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 20:51:13 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547561+00:00"
-  },
-  {
-    "id": "b9b224c38d70",
-    "title": "Apple iPhone 18 Pro release date: Discounted day re-enters the September schedule",
-    "source": "LiveMint",
-    "summary": "The iPhone 18 Pro Max may also see a higher starting price, with estimates ranging between ₹1,54,900 and ₹1,59,900.",
-    "url": "https://www.livemint.com/technology/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule-11787132766647.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 15:29:45 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547577+00:00"
-  },
-  {
-    "id": "cf78a8c4357a",
-    "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
-    "source": "LiveMint",
-    "summary": "This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms despite knowing that social media addiction was a real issue.",
-    "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 14:34:26 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547598+00:00"
-  },
-  {
-    "id": "dec0d50cb57f",
-    "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
-    "source": "LiveMint",
-    "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
-    "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 08:20:49 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547615+00:00"
-  },
-  {
-    "id": "9eed41d541d0",
-    "title": "Govt may turn security concerns into a market for India-designed chips",
-    "source": "LiveMint",
-    "summary": "The official’s statement comes at a time when India is awaiting the framework of investments under Centre’s Semicon 2.0 initiative",
-    "url": "https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 06:00:24 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547630+00:00"
-  },
-  {
-    "id": "fc4637f3e372",
-    "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "source": "LiveMint",
-    "summary": "META-TRIAL-CALIFORNIA:Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-    "url": "https://www.livemint.com/technology/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-as-landmark-trial-begins-11787089933272.html",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 03:22:12 +0530",
-    "fetched_at": "2026-08-21T05:37:54.547645+00:00"
-  },
-  {
-    "id": "270e2a826cab",
-    "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
-    "source": "Economic Times",
-    "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for competitive examinatio",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:33:49 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633398+00:00"
-  },
-  {
-    "id": "324c6901300b",
-    "title": "South Korea plans chip windfall fund to back youth, AI investment",
-    "source": "Economic Times",
-    "summary": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 10:32:19 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633430+00:00"
-  },
-  {
-    "id": "2427cf7f9c55",
-    "title": "What if Meta loses trial? Penalties may top $1.4 trillion, matching its market cap",
-    "source": "Economic Times",
-    "summary": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap/articleshow/133392766.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 09:34:13 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633450+00:00"
-  },
-  {
-    "id": "9bd457ebbcbd",
-    "title": "Lawyers square off in fight over voice data used to train AI",
-    "source": "Economic Times",
-    "summary": "Ross Kimbarovsky of Loevy &amp; Loevy is representing the plaintiffs - a group of journalists, podcasters and audiobook narrators - in the proposed class action lawsuits. He said each of the defendants faces hundreds of millions of dollars in potential damages.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/articleshow/133391894.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:56:51 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633469+00:00"
-  },
-  {
-    "id": "de9ce8365365",
-    "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
-    "source": "Economic Times",
-    "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:51:33 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633485+00:00"
-  },
-  {
-    "id": "520b8f02e308",
-    "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
-    "source": "Economic Times",
-    "summary": "The move follows ​growing scrutiny of smart glasses over their ​recording capabilities, with courts in England and Wales this month prohibiting ​Meta smart glasses because ⁠of restrictions ‌on taking images ​and videos ​in courts.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-cinemas-restricting-meta-ai-and-other-smart-glasses-over-piracy-concerns/articleshow/133391682.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:43:58 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633506+00:00"
-  },
-  {
-    "id": "ee8cf104bb04",
-    "title": "Anthropic plans to change enterprise data retention policy",
-    "source": "Economic Times",
-    "summary": "Under the changes to the data retention policy, Anthropic will still require business customers ​to retain data for 30 ⁠days but ‌will give them the option ​to keep ​it on their own cloud computing ⁠infrastructure, the source said.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:41:01 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633525+00:00"
-  },
-  {
-    "id": "ca8b8df912b7",
-    "title": "Nvidia denies report it is rolling out China AI chip by year-end",
-    "source": "Economic Times",
-    "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:35:17 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633544+00:00"
-  },
-  {
-    "id": "d3ee3cfc657b",
-    "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
-    "source": "Economic Times",
-    "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his ‌conduct would benefit ⁠the government ⁠of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evidence supported ​the guilty verdict on the ",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:33:10 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633567+00:00"
-  },
-  {
-    "id": "7b823ca4e4a8",
-    "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
-    "source": "Economic Times",
-    "summary": "The company expects the new entity to relist ​on the Korea Exchange on ⁠January 27, ‌2027, following a planned ​January 1 ​split.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/articleshow/133391438.cms",
-    "image": "",
-    "published_at": "Fri, 21 Aug 2026 08:29:31 +0530",
-    "fetched_at": "2026-08-21T05:37:54.633582+00:00"
   }
 ]
