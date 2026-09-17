@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDRBNWVyT1hlaElrNDlYakdhaWVveWZVY3pLblhfejhWNUxSdWVXdEFyOFdQMFZTYnpTZVN3RXVEeHNYSERiMlRwUFFmaXNoNFNDZkpuN3FmclVoaVpTSkQ1c3pJSjlrNXdMaUpONnF6LTJWY1BtNTFfa2kzazVyWDkzSXZFd0NENDVwZVNXMVZjLU9SdjJmalZ3eERLUDducTdNT0hyNA?oc=5",
     "image": "",
     "published_at": "Sun, 13 Sep 2026 14:37:23 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714248+00:00"
+    "fetched_at": "2026-09-17T07:30:23.112891+00:00"
   },
   {
     "id": "885864fdc298",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjSFVZQ0RGVGY5eEdxb3NaZmlMSnVWUjZpTU14RjYxSHZGdWR2UlZxenVvUE5Ob1Vmb05sN1k3VzAzWW9BSFF2MXBRVTluUGhRcXVONi1BbnBOUEl1cmFKS080R3RndERTakxN?oc=5",
     "image": "",
     "published_at": "Tue, 15 Sep 2026 03:36:15 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714281+00:00"
+    "fetched_at": "2026-09-17T07:30:23.112922+00:00"
   },
   {
     "id": "e01302c3b771",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXI0NWF1dG5GSklvQkZyckh0dnpBNFEyZmNDbGtjTzBhdXBlWG1UYm1yRE9uMnMxSldERjJsa2I0SXV3cGRLaUJHVXJNbE1NQV9ZZzUtZjRBVXgwc3JILUhlemJSSG81ZnFSYkVpSlNRVHFNN28xT3NvZThEMnY5bjNnSUllSVB6QzJnenZTejItaTBBQlFGMjlXVzBZQlVQ?oc=5",
     "image": "",
     "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714301+00:00"
+    "fetched_at": "2026-09-17T07:30:23.112942+00:00"
   },
   {
     "id": "5f21bb166291",
@@ -36,8 +36,8 @@
     "summary": "Monty Mobile: Why Europe isn’t the telecom benchmark for every market&nbsp;&nbsp;Mobile Europe",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGRnc1QzVPd2Q4M2hoR3d6VVRYbFVxTnBKSC1lY3hpaUZJbURPZUV5MHJneUpFYmxyMVd5NWhfNHJxbkNtdlZkdnRlcExuMVF2T05QdGU1a3F4Y0lmQ1J4U0lwZVJXYjBYRVE?oc=5",
     "image": "",
-    "published_at": "Wed, 16 Sep 2026 23:46:49 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714324+00:00"
+    "published_at": "Thu, 17 Sep 2026 01:46:55 GMT",
+    "fetched_at": "2026-09-17T07:30:23.112964+00:00"
   },
   {
     "id": "58e603fd9485",
@@ -47,7 +47,147 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGM0VUl4TWdOSk9xT2xWdjM3QUY1UjhGNGhXOHRObE1HRmgyMWJHMEotak1sc21nRGs3ald6T3RPM1pJSTFjRHhxV04wZ1ZpUkFzLWU5Vl9ra2Y3NzB0a3djTVY4eEYtY3cyX0JKZVpSN2xzZWVDcFYwTkktVXM5OUhmb29LNDhBRzZObFlxa0Z0YVdYUGlaTzd5YlBUWEc5dENkMW1SZFFQbjNUTmlwa2U2MXRtX25JVVRmOUtuTmsyRXUxQVE?oc=5",
     "image": "",
     "published_at": "Thu, 07 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714339+00:00"
+    "fetched_at": "2026-09-17T07:30:23.112981+00:00"
+  },
+  {
+    "id": "f2af7b9ebb9c",
+    "title": "Telecom’s 5G Hangover Mirrors the Modernization Fatigue Facing CFOs",
+    "source": "PYMNTS.com",
+    "summary": "Telecom’s 5G Hangover Mirrors the Modernization Fatigue Facing CFOs&nbsp;&nbsp;PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjdJeWhuUTZqbzJPNm5fX0ZtSFNxMGlxblF6WG1UZ2o3V0NBWGpJVWp3VnBUSWx0OHp3bHRTODhZVWlXRU1pakVBclBMVnFxUEdoNU1DYjhjZFpLVUFISmtOSUpCWmNZVEZIeGxOSlN6WlNnTjhRMFl6RFUtUW5xRWhkcEI2WklsZVNuNldoTzFza2xPU1k4MmlkU0hneXFUbDQtdE8tY0IyaldkZ21VS1c0eWlFamdOSkkyQTVn?oc=5",
+    "image": "",
+    "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:23.112998+00:00"
+  },
+  {
+    "id": "fbc2821d9612",
+    "title": "Fiber, 5G and more: winners and losers in Chile's telecom market",
+    "source": "BNamericas",
+    "summary": "Fiber, 5G and more: winners and losers in Chile's telecom market&nbsp;&nbsp;BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWNrZTFpelY1ODZreUkyenpOcHdrbjVBXzJYbGJpWmNOblJJb2o5SkxfYzRmalVnUUhFSE5pa1BIdmM3OEFBVUhNT193VzBtLTlIODFRMGpDa20xZ2YzOGJTVjNCUE9VR1VGNjlCc1AyWDVrV25RY1BUZVpEWlktQ0R2U2dTMmx1Q25ZRjZnODR3VlJsN1p0ZmY5dW1xcHJnTFE?oc=5",
+    "image": "",
+    "published_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:23.113014+00:00"
+  },
+  {
+    "id": "35119b5dce95",
+    "title": "ATxSG's CommunicAsia 2026: Redefining telecom in the age of 5G and AI",
+    "source": "S&P Global",
+    "summary": "ATxSG's CommunicAsia 2026: Redefining telecom in the age of 5G and AI&nbsp;&nbsp;S&P Global",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWENyT2VsQ1Y1STNQWWlvODBqU0llRndXdkhCTHVLZ1Y0VnV1TjZXanhEVnZlc1lQQnRsemdzTnBFU3pnb21JRFp5SDZSdkhlWlRqQ0V1NXJ4dGlEV3AyTkpmejZ4cVJOR1gxelFRd0dpbVNWMjBhYVZFbXVBOUh4cDl5TjA4LVBFX0JnWGc5Q0Z2aklzdWZDdnN6WEdqVnpHdjJqRDdnZFRqdUNKQVdLbUhYZHZ4X011cVY0eHFzVjFraFZveF9FOTd0NXhyXzNfaElfVVJOWG42VGg4WEE?oc=5",
+    "image": "",
+    "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:23.113030+00:00"
+  },
+  {
+    "id": "c334376673e5",
+    "title": "China Won the 5G Battle. Will It Win the 6G War?",
+    "source": "Center for European Policy Analysis (CEPA)",
+    "summary": "China Won the 5G Battle. Will It Win the 6G War?&nbsp;&nbsp;Center for European Policy Analysis (CEPA)",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMNDhVNFVzTlVfT09GdHNUX1hiU1JBdUJxOGVSdDdocWdTR3M4MmR3LW9VNkRBdW92NTZpSTE4bVE0R2tIVHIwV19mVTlWbHREdTlxRDNyRzI3WWlKQWtEcnYxQ2dqWGEwVWVTcnBBMDJqM2pUbUhsZmtSLTc?oc=5",
+    "image": "",
+    "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:23.113045+00:00"
+  },
+  {
+    "id": "9498b9bda357",
+    "title": "Perspectives from the Global Telecom Outlook, 2025–2029",
+    "source": "PwC",
+    "summary": "Perspectives from the Global Telecom Outlook, 2025–2029&nbsp;&nbsp;PwC",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTh1NXZSczczSUN6MlpsQlN6VTZiVWtsR3AzWUtYTHpqQ2xfcWFaR0gwbkZ1WEFRZjlzTEVyUF9SUTdVS2pHclJZbWlpNUVIVlAxN3ppRlRlUF9qOXVJUUFQbzRkazlPS3c0NTJITTU2WXZmeXpXSkhObktPSW9XMU9zOHJIczFncHkwcVRndU5fOFNqSTM1X291a1FIQQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:23.113060+00:00"
+  },
+  {
+    "id": "72e95fd1a923",
+    "title": "Bronston Legal Represents Noble Mobile in Acquisition of Helium Mobile Subscriber Business",
+    "source": "PR Newswire",
+    "summary": "Bronston Legal Represents Noble Mobile in Acquisition of Helium Mobile Subscriber Business&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGdVc0xnVTR3bFppenMyMkpHc2s4T21VNXVpZE9zalNzV1lfNDlQb0wyT05WTFE5Z2lfS0VlMU85TEJFMWs2VEhzakxqYzlEa1p3N0otR0dOc0hqZGUtczg5Y3VjRGpWYWxmODRDNGYwbnVpZUEzbS14OEhlS1JfUUo2V3hKRzZqZ0xhSkFGam51X3FkSUloQ1Fla2hzZHRPaFZnRUhCNUdfUFoyYl9iNEJoMlZ6dkRyX3JPelZVcTZBYm5ZZkVvSHp2NFc2R2Z2MkpxcmFqZFhtMXl0R044?oc=5",
+    "image": "",
+    "published_at": "Wed, 16 Sep 2026 12:33:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085151+00:00"
+  },
+  {
+    "id": "ef3b8bca7ef5",
+    "title": "12 Best 5G Stocks for 2026 and How to Invest",
+    "source": "The Motley Fool",
+    "summary": "12 Best 5G Stocks for 2026 and How to Invest&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanBTNFJCdUNaUzFGSGZnT0I4SmZpNHFqMXQ1ckVPX09mZE1iZmI4ZEdfT3RJRzRNYmtRT1ROUm9idkRxYUVjRFBhNDQwZUxVc1cwclNaU2JRelFxQlc1MTJuTE5xVXlydXlfdEFBUG01NlJlczhMdEVLeGlYTEdLVVh4MXQtd2tiaHZJ?oc=5",
+    "image": "",
+    "published_at": "Sun, 13 Sep 2026 19:59:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085179+00:00"
+  },
+  {
+    "id": "572852fad9ba",
+    "title": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money",
+    "source": "Britannica",
+    "summary": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money&nbsp;&nbsp;Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbHpTN3J4clltbUlhWGpKanVpc0tRWGJDZmtaMUJCeDEzSmxhalE1WTBiOFdpdVlSQXB2bXV4SGpQWG9SYThZakpVeUFsd3YzZWF5Sg?oc=5",
+    "image": "",
+    "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085200+00:00"
+  },
+  {
+    "id": "65bbbafb84e4",
+    "title": "Telecom Companies Seek Lower Financing Costs For Infrastructure",
+    "source": "MarketForces Africa",
+    "summary": "Telecom Companies Seek Lower Financing Costs For Infrastructure&nbsp;&nbsp;MarketForces Africa",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1gzdjMzRm9oc05oNl9OSEh6WE5veHc5clMzUV9HTFdtMUJFVy1GVUozZ0NJeGNPdkhKYzBTeTRCNWYzbmtwd3NTT3FjNXdkVm1HRFVTcnNhdE5GZEdzZFREWTNvWEFZazRGd0dGVnJVdW5EblRzZ044dWRobFA0SzFJOWVPdmNXZFZVTF80dFQwM3pM?oc=5",
+    "image": "",
+    "published_at": "Wed, 16 Sep 2026 17:30:37 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085234+00:00"
+  },
+  {
+    "id": "a8a2009f5a37",
+    "title": "Cross-Operator Joint Study on 5G Millimeter-Wave Infrastructure and Technical Architectures for Coverage Expansion",
+    "source": "docomo.ne.jp",
+    "summary": "Cross-Operator Joint Study on 5G Millimeter-Wave Infrastructure and Technical Architectures for Coverage Expansion&nbsp;&nbsp;docomo.ne.jp",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMWtmVEF0cVF5SzB2SF9DVUFYaThHS3J4Y3NYajdYMW9USkJPQWRjdS05QmVpY0dhWDZ2ZDRXZlRYTERscERqa3ZERkUzUktNV0ctWE9qN2MzZmxRbDcydUZOSkF1b3dXa0MyQ1VtUjlhVUtLSm9NellWSQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 16 Sep 2026 04:32:48 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085255+00:00"
+  },
+  {
+    "id": "08465905f8e4",
+    "title": "The Korea Telecommunications Business Association (KTOA) announced on the 14th that the domestic tel..",
+    "source": "매일경제",
+    "summary": "The Korea Telecommunications Business Association (KTOA) announced on the 14th that the domestic tel..&nbsp;&nbsp;매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HUnRSQ0g0R0NSbFp6UmZHT04tNnRyMG1WWWF5dzJQQ3hFVVZkSXBvbFg2NFJnZ3N2TGtvVU1ZNTA0RmJqRXZTeDhFMA?oc=5",
+    "image": "",
+    "published_at": "Mon, 14 Sep 2026 01:40:33 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085279+00:00"
+  },
+  {
+    "id": "216edb77a0c2",
+    "title": "Rama Telecom (NSE: RTL): Telecommunications Business Overview and Key Insights",
+    "source": "Kalkine India",
+    "summary": "Rama Telecom (NSE: RTL): Telecommunications Business Overview and Key Insights&nbsp;&nbsp;Kalkine India",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTBuSWVUNDZRdVR6dGJKV1hwcWhqejRSV2JDUDY0M0RsNFhzY3BGZDVhNzV2Rk5CaUZBTXVlMl9ZWXlFOWsxbGlfejlRVGVBLXJTdHdZR2lhNUMxUDAzMFdMaFRpOFJFeVpRb2VrMU9kZTlwbTUtTzU4QnIwclplVWlJemI4YXRrSThNWVZjbUgyNjZTNFQ1Y2FFOUZmZWZiZG9Md3NSQjVhNkhDYzl6SllMX0g0VGZTWmNJbjhmSkFXUkpsOE5FRnFB?oc=5",
+    "image": "",
+    "published_at": "Wed, 16 Sep 2026 15:25:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085295+00:00"
+  },
+  {
+    "id": "9db1097040c6",
+    "title": "Realbotix and European Telecom Company Launch Pilot to Expand Robot Capabilities in Live Presentations and Events",
+    "source": "Yahoo Finance",
+    "summary": "Realbotix and European Telecom Company Launch Pilot to Expand Robot Capabilities in Live Presentations and Events&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWNPXzFwQkoyeXRGenZaT295clo0elJvNzNfWVZnc2lRM0hTWEV2RHlpa0xISERkOWI5QTFoTmlpTFJVOFdxZmFyNmZsRm1nWF9JZjNLUXFaYjJYM2tQNkRELWxtcV9PeHZ4bUV5Q0RlclBSOXhsNWVHdGoyREg3V19tcGM4aXFjaklkaDJOaWd4aHBnMnZ2bXVNTkRKbkVhZFhQYXYxbHU?oc=5",
+    "image": "",
+    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085330+00:00"
+  },
+  {
+    "id": "a2a2f4c53d0a",
+    "title": "What Do Tuas’ (ASX:TUA) FY26 Updates Reveal About Simba Telecom?",
+    "source": "Kalkine",
+    "summary": "What Do Tuas’ (ASX:TUA) FY26 Updates Reveal About Simba Telecom?&nbsp;&nbsp;Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFVzSDFvZ2lzNlVNbDJ1VjJLRnRHcU1tdlhhRWFONW1PR3h5NXZ6SHR0aXk4c3FRTW03blpIZHJndjN0TjRlbTFXZ3FRT1RyOEhTMnUtWlNGLWFQWGJ6Wjdac1RpM3prekVSaVctcHlfMVZvbmJFWG1CWGRzNkZXb3otemdSWjdPSUp4ZUhMaHBUdlE1amYyZnF2ZmxfWWc?oc=5",
+    "image": "",
+    "published_at": "Wed, 16 Sep 2026 13:44:00 GMT",
+    "fetched_at": "2026-09-17T07:30:24.085347+00:00"
   },
   {
     "id": "da50cf796d60",
@@ -60,36 +200,6 @@
     "fetched_at": "2026-09-17T01:16:19.714356+00:00"
   },
   {
-    "id": "f2af7b9ebb9c",
-    "title": "Telecom’s 5G Hangover Mirrors the Modernization Fatigue Facing CFOs",
-    "source": "pymnts.com",
-    "summary": "Telecom’s 5G Hangover Mirrors the Modernization Fatigue Facing CFOs&nbsp;&nbsp;pymnts.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjdJeWhuUTZqbzJPNm5fX0ZtSFNxMGlxblF6WG1UZ2o3V0NBWGpJVWp3VnBUSWx0OHp3bHRTODhZVWlXRU1pakVBclBMVnFxUEdoNU1DYjhjZFpLVUFISmtOSUpCWmNZVEZIeGxOSlN6WlNnTjhRMFl6RFUtUW5xRWhkcEI2WklsZVNuNldoTzFza2xPU1k4MmlkU0hneXFUbDQtdE8tY0IyaldkZ21VS1c0eWlFamdOSkkyQTVn?oc=5",
-    "image": "",
-    "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714371+00:00"
-  },
-  {
-    "id": "fbc2821d9612",
-    "title": "Fiber, 5G and more: winners and losers in Chile's telecom market",
-    "source": "BNamericas",
-    "summary": "Fiber, 5G and more: winners and losers in Chile's telecom market&nbsp;&nbsp;BNamericas",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWNrZTFpelY1ODZreUkyenpOcHdrbjVBXzJYbGJpWmNOblJJb2o5SkxfYzRmalVnUUhFSE5pa1BIdmM3OEFBVUhNT193VzBtLTlIODFRMGpDa20xZ2YzOGJTVjNCUE9VR1VGNjlCc1AyWDVrV25RY1BUZVpEWlktQ0R2U2dTMmx1Q25ZRjZnODR3VlJsN1p0ZmY5dW1xcHJnTFE?oc=5",
-    "image": "",
-    "published_at": "Fri, 28 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714385+00:00"
-  },
-  {
-    "id": "35119b5dce95",
-    "title": "ATxSG's CommunicAsia 2026: Redefining telecom in the age of 5G and AI",
-    "source": "S&P Global",
-    "summary": "ATxSG's CommunicAsia 2026: Redefining telecom in the age of 5G and AI&nbsp;&nbsp;S&P Global",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWENyT2VsQ1Y1STNQWWlvODBqU0llRndXdkhCTHVLZ1Y0VnV1TjZXanhEVnZlc1lQQnRsemdzTnBFU3pnb21JRFp5SDZSdkhlWlRqQ0V1NXJ4dGlEV3AyTkpmejZ4cVJOR1gxelFRd0dpbVNWMjBhYVZFbXVBOUh4cDl5TjA4LVBFX0JnWGc5Q0Z2aklzdWZDdnN6WEdqVnpHdjJqRDdnZFRqdUNKQVdLbUhYZHZ4X011cVY0eHFzVjFraFZveF9FOTd0NXhyXzNfaElfVVJOWG42VGg4WEE?oc=5",
-    "image": "",
-    "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:19.714400+00:00"
-  },
-  {
     "id": "7516b95e5698",
     "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams",
     "source": "SDxCentral",
@@ -98,86 +208,6 @@
     "image": "",
     "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
     "fetched_at": "2026-09-17T01:16:19.714414+00:00"
-  },
-  {
-    "id": "72e95fd1a923",
-    "title": "Bronston Legal Represents Noble Mobile in Acquisition of Helium Mobile Subscriber Business",
-    "source": "PR Newswire",
-    "summary": "Bronston Legal Represents Noble Mobile in Acquisition of Helium Mobile Subscriber Business&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGdVc0xnVTR3bFppenMyMkpHc2s4T21VNXVpZE9zalNzV1lfNDlQb0wyT05WTFE5Z2lfS0VlMU85TEJFMWs2VEhzakxqYzlEa1p3N0otR0dOc0hqZGUtczg5Y3VjRGpWYWxmODRDNGYwbnVpZUEzbS14OEhlS1JfUUo2V3hKRzZqZ0xhSkFGam51X3FkSUloQ1Fla2hzZHRPaFZnRUhCNUdfUFoyYl9iNEJoMlZ6dkRyX3JPelZVcTZBYm5ZZkVvSHp2NFc2R2Z2MkpxcmFqZFhtMXl0R044?oc=5",
-    "image": "",
-    "published_at": "Wed, 16 Sep 2026 12:33:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713492+00:00"
-  },
-  {
-    "id": "ef3b8bca7ef5",
-    "title": "12 Best 5G Stocks for 2026 and How to Invest",
-    "source": "The Motley Fool",
-    "summary": "12 Best 5G Stocks for 2026 and How to Invest&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanBTNFJCdUNaUzFGSGZnT0I4SmZpNHFqMXQ1ckVPX09mZE1iZmI4ZEdfT3RJRzRNYmtRT1ROUm9idkRxYUVjRFBhNDQwZUxVc1cwclNaU2JRelFxQlc1MTJuTE5xVXlydXlfdEFBUG01NlJlczhMdEVLeGlYTEdLVVh4MXQtd2tiaHZJ?oc=5",
-    "image": "",
-    "published_at": "Sun, 13 Sep 2026 19:59:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713523+00:00"
-  },
-  {
-    "id": "572852fad9ba",
-    "title": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money",
-    "source": "Britannica",
-    "summary": "Orange SA | History, Facts, & Origin as France Télécom | Britannica Money&nbsp;&nbsp;Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbHpTN3J4clltbUlhWGpKanVpc0tRWGJDZmtaMUJCeDEzSmxhalE1WTBiOFdpdVlSQXB2bXV4SGpQWG9SYThZakpVeUFsd3YzZWF5Sg?oc=5",
-    "image": "",
-    "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713544+00:00"
-  },
-  {
-    "id": "a8a2009f5a37",
-    "title": "Cross-Operator Joint Study on 5G Millimeter-Wave Infrastructure and Technical Architectures for Coverage Expansion",
-    "source": "docomo.ne.jp",
-    "summary": "Cross-Operator Joint Study on 5G Millimeter-Wave Infrastructure and Technical Architectures for Coverage Expansion&nbsp;&nbsp;docomo.ne.jp",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMWtmVEF0cVF5SzB2SF9DVUFYaThHS3J4Y3NYajdYMW9USkJPQWRjdS05QmVpY0dhWDZ2ZDRXZlRYTERscERqa3ZERkUzUktNV0ctWE9qN2MzZmxRbDcydUZOSkF1b3dXa0MyQ1VtUjlhVUtLSm9NellWSQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 16 Sep 2026 04:32:48 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713560+00:00"
-  },
-  {
-    "id": "216edb77a0c2",
-    "title": "Rama Telecom (NSE: RTL): Telecommunications Business Overview and Key Insights",
-    "source": "kalkine.co.in",
-    "summary": "Rama Telecom (NSE: RTL): Telecommunications Business Overview and Key Insights&nbsp;&nbsp;kalkine.co.in",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTBuSWVUNDZRdVR6dGJKV1hwcWhqejRSV2JDUDY0M0RsNFhzY3BGZDVhNzV2Rk5CaUZBTXVlMl9ZWXlFOWsxbGlfejlRVGVBLXJTdHdZR2lhNUMxUDAzMFdMaFRpOFJFeVpRb2VrMU9kZTlwbTUtTzU4QnIwclplVWlJemI4YXRrSThNWVZjbUgyNjZTNFQ1Y2FFOUZmZWZiZG9Md3NSQjVhNkhDYzl6SllMX0g0VGZTWmNJbjhmSkFXUkpsOE5FRnFB?oc=5",
-    "image": "",
-    "published_at": "Wed, 16 Sep 2026 15:25:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713574+00:00"
-  },
-  {
-    "id": "08465905f8e4",
-    "title": "The Korea Telecommunications Business Association (KTOA) announced on the 14th that the domestic tel..",
-    "source": "매일경제",
-    "summary": "The Korea Telecommunications Business Association (KTOA) announced on the 14th that the domestic tel..&nbsp;&nbsp;매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HUnRSQ0g0R0NSbFp6UmZHT04tNnRyMG1WWWF5dzJQQ3hFVVZkSXBvbFg2NFJnZ3N2TGtvVU1ZNTA0RmJqRXZTeDhFMA?oc=5",
-    "image": "",
-    "published_at": "Mon, 14 Sep 2026 01:40:33 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713597+00:00"
-  },
-  {
-    "id": "a2a2f4c53d0a",
-    "title": "What Do Tuas’ (ASX:TUA) FY26 Updates Reveal About Simba Telecom?",
-    "source": "Kalkine",
-    "summary": "What Do Tuas’ (ASX:TUA) FY26 Updates Reveal About Simba Telecom?&nbsp;&nbsp;Kalkine",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFVzSDFvZ2lzNlVNbDJ1VjJLRnRHcU1tdlhhRWFONW1PR3h5NXZ6SHR0aXk4c3FRTW03blpIZHJndjN0TjRlbTFXZ3FRT1RyOEhTMnUtWlNGLWFQWGJ6Wjdac1RpM3prekVSaVctcHlfMVZvbmJFWG1CWGRzNkZXb3otemdSWjdPSUp4ZUhMaHBUdlE1amYyZnF2ZmxfWWc?oc=5",
-    "image": "",
-    "published_at": "Wed, 16 Sep 2026 13:44:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713628+00:00"
-  },
-  {
-    "id": "9db1097040c6",
-    "title": "Realbotix and European Telecom Company Launch Pilot to Expand Robot Capabilities in Live Presentations and Events",
-    "source": "Yahoo Finance",
-    "summary": "Realbotix and European Telecom Company Launch Pilot to Expand Robot Capabilities in Live Presentations and Events&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWNPXzFwQkoyeXRGenZaT295clo0elJvNzNfWVZnc2lRM0hTWEV2RHlpa0xISERkOWI5QTFoTmlpTFJVOFdxZmFyNmZsRm1nWF9JZjNLUXFaYjJYM2tQNkRELWxtcV9PeHZ4bUV5Q0RlclBSOXhsNWVHdGoyREg3V19tcGM4aXFjaklkaDJOaWd4aHBnMnZ2bXVNTkRKbkVhZFhQYXYxbHU?oc=5",
-    "image": "",
-    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-17T01:16:20.713644+00:00"
   },
   {
     "id": "90c66a95ac5b",
@@ -420,16 +450,6 @@
     "fetched_at": "2026-09-15T07:34:50.536584+00:00"
   },
   {
-    "id": "c334376673e5",
-    "title": "China Won the 5G Battle. Will It Win the 6G War?",
-    "source": "Center for European Policy Analysis (CEPA)",
-    "summary": "China Won the 5G Battle. Will It Win the 6G War?&nbsp;&nbsp;Center for European Policy Analysis (CEPA)",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMNDhVNFVzTlVfT09GdHNUX1hiU1JBdUJxOGVSdDdocWdTR3M4MmR3LW9VNkRBdW92NTZpSTE4bVE0R2tIVHIwV19mVTlWbHREdTlxRDNyRzI3WWlKQWtEcnYxQ2dqWGEwVWVTcnBBMDJqM2pUbUhsZmtSLTc?oc=5",
-    "image": "",
-    "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-15T01:21:07.832873+00:00"
-  },
-  {
     "id": "6ac6c804c188",
     "title": "AI can boost telecom network autonomy, but accountability is key: TRAI chief",
     "source": "Awaz The Voice",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Wed, 17 Jun 2026 10:48:03 GMT",
     "fetched_at": "2026-09-14T12:36:51.621059+00:00"
-  },
-  {
-    "id": "2d534ee28e06",
-    "title": "Scam alert: Officials advise of telecommunication scams",
-    "source": "mylethbridgenow.com",
-    "summary": "Scam alert: Officials advise of telecommunication scams&nbsp;&nbsp;mylethbridgenow.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWZ1aUtpTklLc0ZOS0M2SlVYZXRVWDdjSEZtQUd6dHJfWFh3V01IY2dCVWZrWnVBVng3cjFDRjdVX0g5RzVBVWxqeW5xM0R6SjhVeHc5emhUTlBldGl0QjI3eXBjd0I2QTFVZm13VHUtaDFIbzBmT2lWZUppNXl4d216UnNGUHoxVXJKcXN5WXB1TGE3MXFGWldNeUlvbi02V0hDYk82UmlhWWRMOEE?oc=5",
-    "image": "",
-    "published_at": "Thu, 10 Sep 2026 16:09:55 GMT",
-    "fetched_at": "2026-09-14T06:01:28.769299+00:00"
-  },
-  {
-    "id": "e52ee701a66e",
-    "title": "Call masking activities return to telecom sector",
-    "source": "thenationonlineng.net",
-    "summary": "Call masking activities return to telecom sector&nbsp;&nbsp;thenationonlineng.net",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWFPRklQWXhzRWpNbWFXd0xMN0FFYnlOSUFFZl96MjhaS2hjUzJKak1Tc0Jpd1N6VkhGaU12RktaUXcwb0x6XzlrblI0VTEySmhvenNSSmpRZjI2M0p5SE94c29rRERtZGVPVDNQOVZOenczOE9JZFBPbWd0dWlfZEpBTlRnUQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 14 Sep 2026 05:04:37 GMT",
-    "fetched_at": "2026-09-14T06:01:28.769325+00:00"
   }
 ]
