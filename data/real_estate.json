@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHlqdW11X2JJdGNxcDF4VHVzTGNzR1BwOHZOYTVvVElGS2p0eWtDNWhlSHgxMmVFU1Qwci14T29XR1hvQmFWWnVaaVl0blh5TmhLX2NkVmNueTVadndDdVhJcmkwTmdKd0dzdEktR0RoMnVMd0M1Y0hBb3JTWE96WS1DckxIVkhNb2RBa2NFX2hoWmdn?oc=5",
     "image": "",
     "published_at": "Sun, 20 Sep 2026 04:21:28 GMT",
-    "fetched_at": "2026-09-20T11:13:25.851980+00:00"
+    "fetched_at": "2026-09-20T15:54:23.541875+00:00"
   },
   {
     "id": "6562c43abb11",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazBhbS1SeTFHRVVFMGxmclY1YnctZTBCaUp5YUJyTEtON09kX0FxbE54SkxxS0ZxMVNoeG1NMlI4UW01UEZlZFVJM0pBZ0Q0dUczVnlWc1lCU0xFTGFQcVZ5SnRaZ0hQel9HclFlY3hPMnkyMjFQMWNrVWV2bWk2S0o3MVpHWkVKVS1rZ2NQTlVEUV8wM0hTVjdLWDRsTWpqTEdJWElMMmg0ZzMybnFfaTBqM0NFQQ?oc=5",
     "image": "",
     "published_at": "Sun, 20 Sep 2026 04:42:09 GMT",
-    "fetched_at": "2026-09-20T11:13:25.851999+00:00"
+    "fetched_at": "2026-09-20T15:54:23.541905+00:00"
   },
   {
     "id": "e38001da597d",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmQxOEFSN2c0dUhtUHBoOXlLQ0F4aENaQXVnX3JKbGxYVHpDZmxxRjVacGtfd2NUc3ozR3dLZnZ0QzhuTHJ5VlllZHZvMnMyZzZmdlhiVUdxRjY3N1FRNUx3aUQxcE1JT3dESktZazhldGdVV3BMWnp6Qkcta19HZDJSam5wUEFBM1d4TkRJMkdXcjlFNVV0M1U4X2VfeDV3YnpFMUxjejQ?oc=5",
     "image": "",
     "published_at": "Sat, 19 Sep 2026 23:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852008+00:00"
+    "fetched_at": "2026-09-20T15:54:23.541921+00:00"
   },
   {
     "id": "5e852c06113b",
@@ -37,7 +37,167 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0l1OTRkLVFRSHp6cFI0YnJMamlOaDhGS3cwX3QzbkI4U0Y1ajI4X0pCQzNsZEdKQWlxLVJXbnBPLWhGU0JrM0dlRkl3NVVOTmJkQldhTTFaVU5ySXlpdkhXYlRJMkpwN2lfeHBOaXRSR09NNkpwNkcySWZiLVBZMUJFUzFLT3otU1o2ZW8ySzJ1Tm82el9OSmhodmtZVE52YTJ6TXVfaXNOS21UYkh3Ny1DMXBRUQ?oc=5",
     "image": "",
     "published_at": "Tue, 15 Sep 2026 20:22:24 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852015+00:00"
+    "fetched_at": "2026-09-20T15:54:23.541934+00:00"
+  },
+  {
+    "id": "51058c8d130a",
+    "title": "‘It’s discouraging’: Increasingly expensive housing market stymies would-be buyers",
+    "source": "NBC News",
+    "summary": "‘It’s discouraging’: Increasingly expensive housing market stymies would-be buyers&nbsp;&nbsp;NBC News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHNuUS14bnVYWTk5ZUhxWEMyTWJCZ2xkZjhNTnktRjNhbm5LUnZ5dHNJNnVET2RPTXlUVjZ5WGxaRGZtcU1iOHIycmM4MmxSMGcxMEVuOXFsbnRPZ0lwVWdsckZHcFJ1S2ZrMVVsbENtd0dnQlY3bk1QaHZ4dDhOdDRTMDNnS3VfVExGNGRXWUhwZ1NRVnlRM1pn?oc=5",
+    "image": "",
+    "published_at": "Fri, 18 Sep 2026 13:10:30 GMT",
+    "fetched_at": "2026-09-20T15:54:23.541956+00:00"
+  },
+  {
+    "id": "d2b8ca6e72c9",
+    "title": "More homes, fewer buyers: Triangle enters rare buyer's market",
+    "source": "ABC11 News",
+    "summary": "More homes, fewer buyers: Triangle enters rare buyer's market&nbsp;&nbsp;ABC11 News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkpwRnduWWZvRGlCdkljUUxmNzA4S201V2VDMi0tZzR3M3ZJSzdCem14U0R5cVctX0dDUFIwdjJFMjJNLUo0dzJ1ZDZzN3h6cDBMendoMVhIeTloMjNRTDIyVkJWdW54QVdfUFNpMmd2S3prZGhIYzl5SEZ3YkVOcUtvZ1ZlSUJMODJ1RtIBkgFBVV95cUxPZ3QtMUtTajZ5ZkZXUFdqTjBkdGNaVWZMRzBnb0gyVjExZm9BUEc3YV81ejFhNG40RGJZY1llci1FamtpTmlVSUxtbXlVSjJLS2tMZjZXTVJuSDdfb28yWUVQcEdIaV9XMXY1TDhVMThwZkxRampza3pxUzFidnhIa2UwaGFjck5nXzNuS2hRY2Jtdw?oc=5",
+    "image": "",
+    "published_at": "Thu, 17 Sep 2026 23:10:22 GMT",
+    "fetched_at": "2026-09-20T15:54:23.541971+00:00"
+  },
+  {
+    "id": "18d82e4ae306",
+    "title": "Real Estate Report: Colorado housing market shifts further toward buyers",
+    "source": "coloradobiz.com",
+    "summary": "Real Estate Report: Colorado housing market shifts further toward buyers&nbsp;&nbsp;coloradobiz.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazdWbGpOa0h0V0lrcVc2eDNEUGhqSEVLTHVtUnRyRnBoTGpSaWJvWXJRNlJPUzduMmlLZHpoTmtfUnRLajVTcHpzSzhla1loaXF1Sk80Mnk3eGw3WVdHdnBMakI4WEFKYmMxU1VMajdpeUN1Z0xwVVY5MkJfSUpQanRJbw?oc=5",
+    "image": "",
+    "published_at": "Thu, 17 Sep 2026 22:01:04 GMT",
+    "fetched_at": "2026-09-20T15:54:23.541984+00:00"
+  },
+  {
+    "id": "fe3e5743ce66",
+    "title": "Will incentives give China’s housing market more than a short-lived rebound?",
+    "source": "South China Morning Post",
+    "summary": "Will incentives give China’s housing market more than a short-lived rebound?&nbsp;&nbsp;South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1NweGh0eWJ4RlFxS3dxSXR2Q1EzV2pkbGs0b1gwdkRpM2NsQ2NONV9KN0lYblN4dVNGMWFmZ2Eyai1tNEI3aUVhSW0xQXhnajB5N21yWXNETVp1bWxxc3ExTW1NODlHbmZGLXdOZldjRnVTR0VJVHFKS0ZSZXJGX2VtX2IzVUphMWg5S1BfRmcxdm1JWkh3X3ZYczVVWS1sZXVTcU9qeXFXVzBBd2hKZHJLenpuUVFuMGNLVG55dUFweEI2dEZ2bUhiakdQQ3fSAc8BQVVfeXFMUFRJeURnZHl2QWVqVEtxZHFENzhXUUpjaHNkZmhxOUNpYVF2TVVIOVM2WnN1Uzl3cm1pZGhFQXhJVkM3ZFhXYUxXQ1B4a0pZbkplU3dqZU12S0VSZUhpblZ5YVF0WjNEZ2x0UXpfUnFNS1Y2blVvXzB5V3loMTg1QUgwM1BiNFJBN0hsUUVPWWc3cWlFQXRzS1NYX2JHRkoxSjgzdDVFeE4xZjV1YUYydS1GWXdCUmt2MndVc3ZGb1JxUDNXWlFJai1QclBHUUVz?oc=5",
+    "image": "",
+    "published_at": "Sun, 20 Sep 2026 03:00:09 GMT",
+    "fetched_at": "2026-09-20T15:54:23.542003+00:00"
+  },
+  {
+    "id": "21ab8735d129",
+    "title": "Home sellers may have to 'take a hit' as rates rise, real estate experts say",
+    "source": "Fox Business",
+    "summary": "Home sellers may have to 'take a hit' as rates rise, real estate experts say&nbsp;&nbsp;Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenRGWFBOQkFKMHhkNl9HYlI1RUpyWFowellNamhPd2VQY2s3Y3JjQWZmN1RDSzBISVV6TFFId3dFMjZlR25Ycmo5bUs1TUlTYXczcFJYSlVZWldQNXJHeHdMLUJUT0pvQWtudWdwTGZQeXFYYjFBT25wZGhkclVzLTRuVHZWeDJrdmNpNHRoc1JhLVpGRHlQTmVkRkvSAaIBQVVfeXFMTXByTFJvLUstMkdLMDV5d1dCTHNpSzFOQUV3X0pjMEFUYmF1c2tBRW5tQXlCNmJCV3JhaDRTX1I5ZWdmSDd2OFZ3MWtoNGxVVTdFdEoteVpMd3JBaTNJODRYLU9nSFR4alA0Y0x1VHJpeC1RVEdCZHktVTZXNVVRU05vRW54M2xTbVJmY2ZKejJ4LW9pOUpFSk1qY0FITGJjOUN3?oc=5",
+    "image": "",
+    "published_at": "Thu, 17 Sep 2026 17:10:02 GMT",
+    "fetched_at": "2026-09-20T15:54:23.542021+00:00"
+  },
+  {
+    "id": "ae9ff8c1c096",
+    "title": "Real estate sector's entering into stock stage does not mean the industry is receding",
+    "source": "Global Times",
+    "summary": "Real estate sector's entering into stock stage does not mean the industry is receding&nbsp;&nbsp;Global Times",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aFgwYllySDlyUFRGR2Vuamtub21lWUFNWGE3YW9EaHRDb1ZqTUptWWZNYnRyUFdmbDdLaEdYb1A2b3Vub1BGNTBKS3FnMVBpdkZDT2NLMHJMMWhmcDJQRmpB?oc=5",
+    "image": "",
+    "published_at": "Sun, 20 Sep 2026 12:41:00 GMT",
+    "fetched_at": "2026-09-20T15:54:23.542036+00:00"
+  },
+  {
+    "id": "62bdf1a7ae87",
+    "title": "Significant shift in Aussie property market as trend reverses: 'Strongest in a decade'",
+    "source": "Yahoo Finance Australia",
+    "summary": "Significant shift in Aussie property market as trend reverses: 'Strongest in a decade'&nbsp;&nbsp;Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWFFOXd6QUZZT3g5NE5JeWdESEpmY0NxdnNncXQzNXIyX09KbUZFNzFPTGEzWUd4SjhFajk0R3JXWW1Hd01BdlYtRzlJbGp1RThabFEyNGxNUlFQOWtMaHRyV25DMUxLZEdmQ1cxN09LOU5TSXNzc3ZzZVh4VmtiODJOMTNqTWs0OGpSTHE0OFpBUWFiTnVMNml6Y1JvNXBtU3Z6clhzMEtLeEF6eTRpZ2o3SUtmUHZIQUdRWktQT1NzLUF5MkJlSFRJWkE?oc=5",
+    "image": "",
+    "published_at": "Fri, 18 Sep 2026 19:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609775+00:00"
+  },
+  {
+    "id": "2b581d091ee4",
+    "title": "Global real estate transparency index 2026",
+    "source": "JLL",
+    "summary": "Global real estate transparency index 2026&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdzRzdEF2blFpTmV0WDhaUEROdW5BOXlPSV85T09ncjB0OWNhWEhBRXFta3pUUFZHOW1LU1k0Q3Fadnh3eDgwZkRmbzRWV3NRYWZCTHpzRGoxVVFUWnlzRW8xa040YnpJQmRVS0ozamtwSGhWYTNjanFKaUk?oc=5",
+    "image": "",
+    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609801+00:00"
+  },
+  {
+    "id": "05457b2f858a",
+    "title": "Existing-Home Sales",
+    "source": "National Association of REALTORS®",
+    "summary": "Existing-Home Sales&nbsp;&nbsp;National Association of REALTORS®",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlU4ZXU5RldrUklXSXVXODR3SkhndkM1TXo3eERSeEstTGZDWkZ1MGNtdThnUXZZaGpLSUY4aW5UTC1NN0xoRHQzZmFGTFRmaktIaVZDNVBzclp2TWJyUmgtSm55dk5hYzlWRnkwMlZvRkFtajhQeWdqMC1zMkdfU1lETGVMelNHb1kxMDQ0TQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609816+00:00"
+  },
+  {
+    "id": "6a967bd96a2c",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "image": "",
+    "published_at": "Thu, 13 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609831+00:00"
+  },
+  {
+    "id": "1543e0aa3d46",
+    "title": "France's Residential Property Market Analysis 2026",
+    "source": "Global Property Guide",
+    "summary": "France's Residential Property Market Analysis 2026&nbsp;&nbsp;Global Property Guide",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSY0ZPX0Fld0ZRSXVBWURNRHFZVWdhdGZlaXhtZGgtX1pXMmowX2k2REYxSGp5aTFkeXNrdklNSnc0TVpqM2FwdHIyUjBQX0FkSXBfaFM2VlVINDFtaHZUTWdvSGRkd0Y2NHB6V3RKaUM?oc=5",
+    "image": "",
+    "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609843+00:00"
+  },
+  {
+    "id": "c407b740f400",
+    "title": "Real estate market shifts focus to usability and quality of life - Vietnam Investment Review",
+    "source": "VIR",
+    "summary": "Real estate market shifts focus to usability and quality of life&nbsp;&nbsp;Vietnam Investment Review - VIR",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1BZdGRrX1I1QzRFVFotYWRKdGRKMVdOdTFWUlcxbzlXX3FrcDE2YnBORXFjZm1QWGpLTWlTMG5TN2xJZW5oSnVmN1AtQjFZeHJDbDNNbndiRVdZWDBQVDB5dUhHUTc4c3JRQWpfaXUyRmpSRE9MQUpWaWdhRXZYWm5MLXNVOUR5U0VUdnhoTU9RMnNPYkFQOUJ2QQ?oc=5",
+    "image": "",
+    "published_at": "Sat, 19 Sep 2026 09:54:34 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609859+00:00"
+  },
+  {
+    "id": "948bd765d706",
+    "title": "The Case for Hong Kong Real Estate",
+    "source": "J.P. Morgan Private Bank",
+    "summary": "The Case for Hong Kong Real Estate&nbsp;&nbsp;J.P. Morgan Private Bank",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWRrdlp0R19xcHRMbnRUcmRmTFo2OENnSnZYTkd5WWJ3elNmbUs3RC1zdVdjSmNUNDVRTUFMcmVjOWlna1hhTUJLa2sxTEdJZmRFVGF5QlpLMXF5OXhadWZjWElxUk9MOGptVmpaekpPYmkzdi1zcG5DRkp5NTB0cS13b19qUHJSVGRLNzdkMExwYnBaQkREMkR3N3hGZzdjTmdiOTdkQTAwZGlkYTBj?oc=5",
+    "image": "",
+    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609871+00:00"
+  },
+  {
+    "id": "61f1e3252b24",
+    "title": "Matthew Sanchez, Realtor in Pico Rivera, CA, Announces Continued Growth Built on Family Real Estate Experience Dating to 1991",
+    "source": "FinancialContent",
+    "summary": "Matthew Sanchez, Realtor in Pico Rivera, CA, Announces Continued Growth Built on Family Real Estate Experience Dating to 1991&nbsp;&nbsp;FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZ1NmUXdqNkpHOGNtT3hLODQ2MlFiY00tdlV3bEc3VHJOaC04TjltN2w0cnFudEpBa3NMNkdUN2ZFZXg1LW5GTXJkcnM0ZTFKNGhsUGc0ZXFlQ3NRSUczSGhSR0VQeVVGWTJaOV9fTjh3TnI4bEMxNndtdTVJdVdwVjdEUk5Hdld0ZVJfS0FpcmF4aXhoX1dBUHhJdFNEUFhXTmEzTkd6UDBtQ3h3cXpROFhocHc4eG53TG9NVXp5WW1Kb0J0dGkzSVU0UG90cHNqRDhFaU85aGlBaDJmVldNNFBuYnNhaERIY292c3VwMWtHUnI0ZTZJYlFJUHdCNGIxWW4wUWJzUVYyQm1za0YtQV91TTA5ams?oc=5",
+    "image": "",
+    "published_at": "Sat, 19 Sep 2026 06:38:00 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609889+00:00"
+  },
+  {
+    "id": "998a03c8260e",
+    "title": "Unified Real Estate APIs: AnyProp Consolidates Nationwide MLS Listing Data",
+    "source": "Trend Hunter",
+    "summary": "Unified Real Estate APIs: AnyProp Consolidates Nationwide MLS Listing Data&nbsp;&nbsp;Trend Hunter",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAycmRHeEpiLXFpc1R3aW5TU1lnRjUydGxqTGsxM1NnLVNlUjlkWlB5MVZPSURrMnZFSzFPbVBVVGU2djhKT1R1VHdub1hDaHJnUmhqSkpzcEJOUzQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 18 Sep 2026 08:29:50 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609902+00:00"
+  },
+  {
+    "id": "84894e58cb58",
+    "title": "The next wave of property boom: Chandigarh Tricity among 11 cities expected to lead real estate growth",
+    "source": "The Indian Express",
+    "summary": "The next wave of property boom: Chandigarh Tricity among 11 cities expected to lead real estate growth&nbsp;&nbsp;The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnpyNFRRb2hWZlZmVmdGdkZ0cWdCa0laUmt5bnlqM2NLTGFxT0ZfZXRwRHY4OGJmcGNiY2RJTFRwOUIyaDVna0d6bk5EeWtCSlVyb1FYcFk1RVlsdWk5cFBuQldsWVpQSmVrV1RjWXhRQlpYVHhPYUUwcVdBN2FRcm5yaGRWbFJPeXJ5a0gwYU05aHNhblVYRno1Y2xtSjlTYlRNRzN6eko1OHZMeXlTS1FObkZOQ3pRNm5FN1Q1bHd6cEpPOENhWi1CVFkwdG00Sk1j0gHaAUFVX3lxTE9keF9RLTF0R0N5UlVwS3kyQnFBU285cmd5RkhHbGFKempUMUFCNE1qMFViSDJCSVNldUVGMW04STBGQnh0YWNiWWxYYkk5Y1Y4bU14RFZGVzhmQTFweTBudGpWR3l1ZkZrMjBKTm9ybGdIbnk5Z2RfZFRnbnRtbnlTYV83U0R2WW5uZ3pkaFlTcWo3cXRwVmdiTk1qa3dXLTJmMTV5blY2T2swRk4zQW91czZIQjA5UUVnQUprd2xvYkhMWmlKYkNTRGZrbDZTUEstT0g4TkE0XzZ3?oc=5",
+    "image": "",
+    "published_at": "Sun, 20 Sep 2026 05:40:09 GMT",
+    "fetched_at": "2026-09-20T15:54:24.609919+00:00"
   },
   {
     "id": "57e31e848082",
@@ -50,16 +210,6 @@
     "fetched_at": "2026-09-20T11:13:25.852024+00:00"
   },
   {
-    "id": "51058c8d130a",
-    "title": "‘It’s discouraging’: Increasingly expensive housing market stymies would-be buyers",
-    "source": "NBC News",
-    "summary": "‘It’s discouraging’: Increasingly expensive housing market stymies would-be buyers&nbsp;&nbsp;NBC News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHNuUS14bnVYWTk5ZUhxWEMyTWJCZ2xkZjhNTnktRjNhbm5LUnZ5dHNJNnVET2RPTXlUVjZ5WGxaRGZtcU1iOHIycmM4MmxSMGcxMEVuOXFsbnRPZ0lwVWdsckZHcFJ1S2ZrMVVsbENtd0dnQlY3bk1QaHZ4dDhOdDRTMDNnS3VfVExGNGRXWUhwZ1NRVnlRM1pn?oc=5",
-    "image": "",
-    "published_at": "Fri, 18 Sep 2026 13:10:30 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852037+00:00"
-  },
-  {
     "id": "6ce38cd8174a",
     "title": "Real estate expert warns of housing market strain as mortgage rates surge",
     "source": "Fox News",
@@ -70,116 +220,6 @@
     "fetched_at": "2026-09-20T11:13:25.852045+00:00"
   },
   {
-    "id": "fe3e5743ce66",
-    "title": "Will incentives give China’s housing market more than a short-lived rebound?",
-    "source": "South China Morning Post",
-    "summary": "Will incentives give China’s housing market more than a short-lived rebound?&nbsp;&nbsp;South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1NweGh0eWJ4RlFxS3dxSXR2Q1EzV2pkbGs0b1gwdkRpM2NsQ2NONV9KN0lYblN4dVNGMWFmZ2Eyai1tNEI3aUVhSW0xQXhnajB5N21yWXNETVp1bWxxc3ExTW1NODlHbmZGLXdOZldjRnVTR0VJVHFKS0ZSZXJGX2VtX2IzVUphMWg5S1BfRmcxdm1JWkh3X3ZYczVVWS1sZXVTcU9qeXFXVzBBd2hKZHJLenpuUVFuMGNLVG55dUFweEI2dEZ2bUhiakdQQ3fSAc8BQVVfeXFMUFRJeURnZHl2QWVqVEtxZHFENzhXUUpjaHNkZmhxOUNpYVF2TVVIOVM2WnN1Uzl3cm1pZGhFQXhJVkM3ZFhXYUxXQ1B4a0pZbkplU3dqZU12S0VSZUhpblZ5YVF0WjNEZ2x0UXpfUnFNS1Y2blVvXzB5V3loMTg1QUgwM1BiNFJBN0hsUUVPWWc3cWlFQXRzS1NYX2JHRkoxSjgzdDVFeE4xZjV1YUYydS1GWXdCUmt2MndVc3ZGb1JxUDNXWlFJai1QclBHUUVz?oc=5",
-    "image": "",
-    "published_at": "Sun, 20 Sep 2026 03:00:09 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852056+00:00"
-  },
-  {
-    "id": "18d82e4ae306",
-    "title": "Real Estate Report: Colorado housing market shifts further toward buyers",
-    "source": "ColoradoBiz",
-    "summary": "Real Estate Report: Colorado housing market shifts further toward buyers&nbsp;&nbsp;ColoradoBiz",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazdWbGpOa0h0V0lrcVc2eDNEUGhqSEVLTHVtUnRyRnBoTGpSaWJvWXJRNlJPUzduMmlLZHpoTmtfUnRLajVTcHpzSzhla1loaXF1Sk80Mnk3eGw3WVdHdnBMakI4WEFKYmMxU1VMajdpeUN1Z0xwVVY5MkJfSUpQanRJbw?oc=5",
-    "image": "",
-    "published_at": "Thu, 17 Sep 2026 22:01:04 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852063+00:00"
-  },
-  {
-    "id": "21ab8735d129",
-    "title": "Home sellers may have to 'take a hit' as rates rise, real estate experts say",
-    "source": "Fox Business",
-    "summary": "Home sellers may have to 'take a hit' as rates rise, real estate experts say&nbsp;&nbsp;Fox Business",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenRGWFBOQkFKMHhkNl9HYlI1RUpyWFowellNamhPd2VQY2s3Y3JjQWZmN1RDSzBISVV6TFFId3dFMjZlR25Ycmo5bUs1TUlTYXczcFJYSlVZWldQNXJHeHdMLUJUT0pvQWtudWdwTGZQeXFYYjFBT25wZGhkclVzLTRuVHZWeDJrdmNpNHRoc1JhLVpGRHlQTmVkRkvSAaIBQVVfeXFMTXByTFJvLUstMkdLMDV5d1dCTHNpSzFOQUV3X0pjMEFUYmF1c2tBRW5tQXlCNmJCV3JhaDRTX1I5ZWdmSDd2OFZ3MWtoNGxVVTdFdEoteVpMd3JBaTNJODRYLU9nSFR4alA0Y0x1VHJpeC1RVEdCZHktVTZXNVVRU05vRW54M2xTbVJmY2ZKejJ4LW9pOUpFSk1qY0FITGJjOUN3?oc=5",
-    "image": "",
-    "published_at": "Thu, 17 Sep 2026 17:10:02 GMT",
-    "fetched_at": "2026-09-20T11:13:25.852071+00:00"
-  },
-  {
-    "id": "2b581d091ee4",
-    "title": "Global real estate transparency index 2026",
-    "source": "JLL",
-    "summary": "Global real estate transparency index 2026&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdzRzdEF2blFpTmV0WDhaUEROdW5BOXlPSV85T09ncjB0OWNhWEhBRXFta3pUUFZHOW1LU1k0Q3Fadnh3eDgwZkRmbzRWV3NRYWZCTHpzRGoxVVFUWnlzRW8xa040YnpJQmRVS0ozamtwSGhWYTNjanFKaUk?oc=5",
-    "image": "",
-    "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826219+00:00"
-  },
-  {
-    "id": "05457b2f858a",
-    "title": "Existing-Home Sales",
-    "source": "National Association of REALTORS®",
-    "summary": "Existing-Home Sales&nbsp;&nbsp;National Association of REALTORS®",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlU4ZXU5RldrUklXSXVXODR3SkhndkM1TXo3eERSeEstTGZDWkZ1MGNtdThnUXZZaGpLSUY4aW5UTC1NN0xoRHQzZmFGTFRmaktIaVZDNVBzclp2TWJyUmgtSm55dk5hYzlWRnkwMlZvRkFtajhQeWdqMC1zMkdfU1lETGVMelNHb1kxMDQ0TQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826229+00:00"
-  },
-  {
-    "id": "6a967bd96a2c",
-    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-    "source": "Forbes",
-    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-    "image": "",
-    "published_at": "Thu, 13 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826237+00:00"
-  },
-  {
-    "id": "1543e0aa3d46",
-    "title": "France's Residential Property Market Analysis 2026",
-    "source": "Global Property Guide",
-    "summary": "France's Residential Property Market Analysis 2026&nbsp;&nbsp;Global Property Guide",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSY0ZPX0Fld0ZRSXVBWURNRHFZVWdhdGZlaXhtZGgtX1pXMmowX2k2REYxSGp5aTFkeXNrdklNSnc0TVpqM2FwdHIyUjBQX0FkSXBfaFM2VlVINDFtaHZUTWdvSGRkd0Y2NHB6V3RKaUM?oc=5",
-    "image": "",
-    "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826244+00:00"
-  },
-  {
-    "id": "c407b740f400",
-    "title": "Real estate market shifts focus to usability and quality of life - Vietnam Investment Review",
-    "source": "VIR",
-    "summary": "Real estate market shifts focus to usability and quality of life&nbsp;&nbsp;Vietnam Investment Review - VIR",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1BZdGRrX1I1QzRFVFotYWRKdGRKMVdOdTFWUlcxbzlXX3FrcDE2YnBORXFjZm1QWGpLTWlTMG5TN2xJZW5oSnVmN1AtQjFZeHJDbDNNbndiRVdZWDBQVDB5dUhHUTc4c3JRQWpfaXUyRmpSRE9MQUpWaWdhRXZYWm5MLXNVOUR5U0VUdnhoTU9RMnNPYkFQOUJ2QQ?oc=5",
-    "image": "",
-    "published_at": "Sat, 19 Sep 2026 09:54:34 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826252+00:00"
-  },
-  {
-    "id": "948bd765d706",
-    "title": "The Case for Hong Kong Real Estate",
-    "source": "J.P. Morgan Private Bank",
-    "summary": "The Case for Hong Kong Real Estate&nbsp;&nbsp;J.P. Morgan Private Bank",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWRrdlp0R19xcHRMbnRUcmRmTFo2OENnSnZYTkd5WWJ3elNmbUs3RC1zdVdjSmNUNDVRTUFMcmVjOWlna1hhTUJLa2sxTEdJZmRFVGF5QlpLMXF5OXhadWZjWElxUk9MOGptVmpaekpPYmkzdi1zcG5DRkp5NTB0cS13b19qUHJSVGRLNzdkMExwYnBaQkREMkR3N3hGZzdjTmdiOTdkQTAwZGlkYTBj?oc=5",
-    "image": "",
-    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826258+00:00"
-  },
-  {
-    "id": "62bdf1a7ae87",
-    "title": "Significant shift in Aussie property market as trend reverses: 'Strongest in a decade'",
-    "source": "Yahoo Finance Australia",
-    "summary": "Significant shift in Aussie property market as trend reverses: 'Strongest in a decade'&nbsp;&nbsp;Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWFFOXd6QUZZT3g5NE5JeWdESEpmY0NxdnNncXQzNXIyX09KbUZFNzFPTGEzWUd4SjhFajk0R3JXWW1Hd01BdlYtRzlJbGp1RThabFEyNGxNUlFQOWtMaHRyV25DMUxLZEdmQ1cxN09LOU5TSXNzc3ZzZVh4VmtiODJOMTNqTWs0OGpSTHE0OFpBUWFiTnVMNml6Y1JvNXBtU3Z6clhzMEtLeEF6eTRpZ2o3SUtmUHZIQUdRWktQT1NzLUF5MkJlSFRJWkE?oc=5",
-    "image": "",
-    "published_at": "Fri, 18 Sep 2026 19:00:00 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826267+00:00"
-  },
-  {
-    "id": "84894e58cb58",
-    "title": "The next wave of property boom: Chandigarh Tricity among 11 cities expected to lead real estate growth",
-    "source": "The Indian Express",
-    "summary": "The next wave of property boom: Chandigarh Tricity among 11 cities expected to lead real estate growth&nbsp;&nbsp;The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnpyNFRRb2hWZlZmVmdGdkZ0cWdCa0laUmt5bnlqM2NLTGFxT0ZfZXRwRHY4OGJmcGNiY2RJTFRwOUIyaDVna0d6bk5EeWtCSlVyb1FYcFk1RVlsdWk5cFBuQldsWVpQSmVrV1RjWXhRQlpYVHhPYUUwcVdBN2FRcm5yaGRWbFJPeXJ5a0gwYU05aHNhblVYRno1Y2xtSjlTYlRNRzN6eko1OHZMeXlTS1FObkZOQ3pRNm5FN1Q1bHd6cEpPOENhWi1CVFkwdG00Sk1j0gHaAUFVX3lxTE9keF9RLTF0R0N5UlVwS3kyQnFBU285cmd5RkhHbGFKempUMUFCNE1qMFViSDJCSVNldUVGMW04STBGQnh0YWNiWWxYYkk5Y1Y4bU14RFZGVzhmQTFweTBudGpWR3l1ZkZrMjBKTm9ybGdIbnk5Z2RfZFRnbnRtbnlTYV83U0R2WW5uZ3pkaFlTcWo3cXRwVmdiTk1qa3dXLTJmMTV5blY2T2swRk4zQW91czZIQjA5UUVnQUprd2xvYkhMWmlKYkNTRGZrbDZTUEstT0g4TkE0XzZ3?oc=5",
-    "image": "",
-    "published_at": "Sun, 20 Sep 2026 05:40:09 GMT",
-    "fetched_at": "2026-09-20T11:13:26.826276+00:00"
-  },
-  {
     "id": "3564ddef5dba",
     "title": "Essex Property Trust stock holds steady as investors weigh recent results",
     "source": "AD HOC NEWS",
@@ -188,16 +228,6 @@
     "image": "",
     "published_at": "Sat, 19 Sep 2026 19:57:28 GMT",
     "fetched_at": "2026-09-20T11:13:26.826283+00:00"
-  },
-  {
-    "id": "d2b8ca6e72c9",
-    "title": "More homes, fewer buyers: Triangle enters rare buyer's market",
-    "source": "ABC11 News",
-    "summary": "More homes, fewer buyers: Triangle enters rare buyer's market&nbsp;&nbsp;ABC11 News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkpwRnduWWZvRGlCdkljUUxmNzA4S201V2VDMi0tZzR3M3ZJSzdCem14U0R5cVctX0dDUFIwdjJFMjJNLUo0dzJ1ZDZzN3h6cDBMendoMVhIeTloMjNRTDIyVkJWdW54QVdfUFNpMmd2S3prZGhIYzl5SEZ3YkVOcUtvZ1ZlSUJMODJ1RtIBkgFBVV95cUxPZ3QtMUtTajZ5ZkZXUFdqTjBkdGNaVWZMRzBnb0gyVjExZm9BUEc3YV81ejFhNG40RGJZY1llci1FamtpTmlVSUxtbXlVSjJLS2tMZjZXTVJuSDdfb28yWUVQcEdIaV9XMXY1TDhVMThwZkxRampza3pxUzFidnhIa2UwaGFjck5nXzNuS2hRY2Jtdw?oc=5",
-    "image": "",
-    "published_at": "Thu, 17 Sep 2026 23:10:22 GMT",
-    "fetched_at": "2026-09-20T05:59:41.125829+00:00"
   },
   {
     "id": "45a8a91ae558",
@@ -468,35 +498,5 @@
     "image": "",
     "published_at": "Thu, 17 Sep 2026 12:05:00 GMT",
     "fetched_at": "2026-09-18T01:11:40.524768+00:00"
-  },
-  {
-    "id": "6c2de97dc9dc",
-    "title": "Investors Bought 27% of U.S. Homes in Q2 2026 — Why Mega-Buyers Are Stepping Back",
-    "source": "Norada Real Estate Investments",
-    "summary": "Investors Bought 27% of U.S. Homes in Q2 2026 — Why Mega-Buyers Are Stepping Back&nbsp;&nbsp;Norada Real Estate Investments",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHBFMlZIeDlCbk9NR3QyMC1aU3RMUXlpNUdRUmp5d0Exb2VpZ09ta09QdzE4cXJRMGQ0QUlSQk1LVXZ6TkFBSlNUZ25TYTNJVGlURVBCbmhNRGIzUW9oS0NzM1BDTTlFbjhBeUU3YUxGWDNBdVdnWld6VjZ1LXk1SXp4Y2NzeWE4MzNz?oc=5",
-    "image": "",
-    "published_at": "Thu, 17 Sep 2026 15:23:16 GMT",
-    "fetched_at": "2026-09-18T01:11:40.524799+00:00"
-  },
-  {
-    "id": "8646c9e85891",
-    "title": "UEM Sunrise stock holds steady amid property market headwinds",
-    "source": "ad-hoc-news.de",
-    "summary": "UEM Sunrise stock holds steady amid property market headwinds&nbsp;&nbsp;ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjE5M0xKaWlfVV83Mjczb0JfTWtHX0VWSE95XzVEek45cEVjT2JkejVSamR3eVJCbDhNeHhqQnp4bU5ubTdUQ3czWUk2UE9vUUxLX1UyeWdSYnhvaXBBTHhrY2Q0UjdXRFBmWWw3N3hObE1BaE9iRnVYMWZ2c0w3dzdIaWMta0VBeUFXUHR5N3luS3JsSXlzUFhzR2h0MFB4eDdJT3ZTY2hJZXlTTXhGbE1MUmlsaHZISy1fTA?oc=5",
-    "image": "",
-    "published_at": "Thu, 17 Sep 2026 13:48:59 GMT",
-    "fetched_at": "2026-09-18T01:11:41.526150+00:00"
-  },
-  {
-    "id": "36ce9e1701fd",
-    "title": "Real estate market shows signs of recovery after prolonged slowdown",
-    "source": "The Kathmandu Post",
-    "summary": "Real estate market shows signs of recovery after prolonged slowdown&nbsp;&nbsp;The Kathmandu Post",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGt4NDlUeEhVZk9yVDNPU1FLd190UWRJS2UtenpMSnJWam8tT2N1QXB6TGlBNDNCRnFJa3pjbmxjMWhSN3Nub2piYThPd0pPRHpJSEJZaGVvQWFpZ19MM3MzWURva005N2JVSzBEZXJCcUFTSmt4VFh0MlIwa0FKVTlIOHRKZFlUWVl3OUdhZ2hDMlJLbHV0MlhpckNsVklnV3BVeldIekc5T1lhcUNj?oc=5",
-    "image": "",
-    "published_at": "Wed, 16 Sep 2026 01:09:16 GMT",
-    "fetched_at": "2026-09-18T01:11:41.526163+00:00"
   }
 ]
