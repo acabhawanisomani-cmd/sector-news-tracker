@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5",
     "image": "",
     "published_at": "Sun, 20 Sep 2026 10:35:29 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197234+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579705+00:00"
   },
   {
     "id": "5d716e8bf286",
@@ -17,17 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1Vfa0dKWkN0SHdPNFhtV2FQZko1UU8yTzBlLUY4dE1ZME1ldGdJdlFTSjNzQ2JkRWxFNXRaT1pielk1T042aVJOd3NMNWxjX1BuVGpMbXZkUTZwbjFZbHRFVkRNUG5USERQWGNlZldoajJIOWk0elFaYncxN3JSU2pQS1J2MGRUR3NfZXVRZENxNHhfOU93ckNqemtzUTFaRGZoODRfMWo?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 10:42:00 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197261+00:00"
-  },
-  {
-    "id": "85d4df147002",
-    "title": "India and US September PMIs Jump: India Services Hits 55.8, US Manufacturing Hits 57",
-    "source": "Sahi",
-    "summary": "India and US September PMIs Jump: India Services Hits 55.8, US Manufacturing Hits 57&nbsp;&nbsp;Sahi",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm4zRGhkT0NKeFQ4dWs2al9GVXp4amh0eTB2ZXZlM1hqMjlEQ2t4OVV6VU1odDRrc09td2xwVGpDUmpPbUN3YW5PblhBSFM3WHNVTERSNDhMUW5BOGljWEd4enJKSHJuVy1zS3lwM2NIM1BabDd3Z0NjN3VRZk00VzhtaGNsQzNQQ2loZ1BiMi1JX1JNVXlqZnh5OU8?oc=5",
-    "image": "",
-    "published_at": "Wed, 23 Sep 2026 17:04:27 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197278+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579736+00:00"
   },
   {
     "id": "baf506586e02",
@@ -37,7 +27,27 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlNoMDdjZTZ1eTFKMnVUTkpDUDVZdm85OFZ5N0p5TUtlNTh2UjRyNHZqeVk2cVVBdVQ2MDBrRVNfbEtJRWQ4cllBeDZCOXpGdmJhRF9rS2s4VGhDZjZwVHVZa21fTktzYVhsR20zVlVQR0lqZ25oN1QzSFlNMzVRTWlJaVBZd0plS0J4ZFdBenAxaXJGcHR4MEVWa2FnTXZxVlk4dXdySDhYLUpMUjRsaDJCTkNEOF9nRjBHMW16a2FVel8tWEZvZFRaXzI?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 10:14:25 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197300+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579760+00:00"
+  },
+  {
+    "id": "85d4df147002",
+    "title": "India and US September PMIs Jump: India Services Hits 55.8, US Manufacturing Hits 57",
+    "source": "Sahi",
+    "summary": "India and US September PMIs Jump: India Services Hits 55.8, US Manufacturing Hits 57&nbsp;&nbsp;Sahi",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm4zRGhkT0NKeFQ4dWs2al9GVXp4amh0eTB2ZXZlM1hqMjlEQ2t4OVV6VU1odDRrc09td2xwVGpDUmpPbUN3YW5PblhBSFM3WHNVTERSNDhMUW5BOGljWEd4enJKSHJuVy1zS3lwM2NIM1BabDd3Z0NjN3VRZk00VzhtaGNsQzNQQ2loZ1BiMi1JX1JNVXlqZnh5OU8?oc=5",
+    "image": "",
+    "published_at": "Wed, 23 Sep 2026 17:04:27 GMT",
+    "fetched_at": "2026-09-24T04:21:58.579778+00:00"
+  },
+  {
+    "id": "767166484a72",
+    "title": "India’s September PMI Rises To 56.5 As Manufacturing Growth Accelerates, Services Also Improve",
+    "source": "Swarajya",
+    "summary": "India’s September PMI Rises To 56.5 As Manufacturing Growth Accelerates, Services Also Improve&nbsp;&nbsp;Swarajya",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTNpMEsxd21CeWZTSmhUcTRYOHo3dFZlOEY4TnV6eVY3aEVCZ0tLNEZWMGU5Z3MxYWZVbXBzMmhET1VMOTBZd3lFYW5sM0NvbExMR2JWWUVRc2trSkF3WUpTNWxVLUo1T3c3UEFRWkYzWDFRRHVPT0FZUDJIZWprOEk4bUxKWmJ2N3BEbk5XSXkyQjcwY1A2YVJZQzVUWE8yU1lHSkxHZlYyU214ZjZIYlV5VFdCbW5TMV9HNEtndWZpX0NN0gHUAUFVX3lxTE1RYmRVM19hT1Q3SjdXcWR0Nkh3bWFwckJPUE1kbjNTSlBvaUk5cWJvdGRNUFp3N1dwS2dVbFIwSVBLMGNCeFBMcjVRRUtNaGJ2X2s1TVpqRl9SbzhsWm02WFVBalF3ZXowbUFIcWF1LXd6d1FOVlhSd0dQV2lTaHliQW54Mk51WnU5a3VheEFZMnp1MzZzRlYyRnl0eXBuaXR1NTB4NXNTb1prbkVseTZRUUFfcFVJaUZJT25DRENWYVVwYUpFOFdPcUdNRkYzWUJ0RGhJ?oc=5",
+    "image": "",
+    "published_at": "Wed, 23 Sep 2026 15:07:50 GMT",
+    "fetched_at": "2026-09-24T04:21:58.579798+00:00"
   },
   {
     "id": "02a07d3e9935",
@@ -47,37 +57,27 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelRYeTAwZi14SUFEVGN3dXdnLVR1eEoyRjV1cDdEcGY1UUdsVGdqUENXa1VGRGZ3ejhvTUljUXVsdlhUYnoxaGRkRkVfb3VjOGtWSjZFeHVhLXNESXVNMGEyb09qM21ZZlJ1LUhyOW9NRUtTdWhNeFFwbWtyV0RJTG9GUS1OcncwUk8xcEtOc3AtWG9Lc0ZTZ3I3QWRsWUduQzVXU1FGZG55SkYyTjBDZGVWVG5UbmxONHZ1WV9zbVJQTUF1RVR6WTJFTDVSeE0?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 06:59:47 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197316+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579813+00:00"
   },
   {
-    "id": "767166484a72",
-    "title": "India’s September PMI Rises To 56.5 As Manufacturing Growth Accelerates, Services Also Improve",
-    "source": "swarajyamag.com",
-    "summary": "India’s September PMI Rises To 56.5 As Manufacturing Growth Accelerates, Services Also Improve&nbsp;&nbsp;swarajyamag.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTNpMEsxd21CeWZTSmhUcTRYOHo3dFZlOEY4TnV6eVY3aEVCZ0tLNEZWMGU5Z3MxYWZVbXBzMmhET1VMOTBZd3lFYW5sM0NvbExMR2JWWUVRc2trSkF3WUpTNWxVLUo1T3c3UEFRWkYzWDFRRHVPT0FZUDJIZWprOEk4bUxKWmJ2N3BEbk5XSXkyQjcwY1A2YVJZQzVUWE8yU1lHSkxHZlYyU214ZjZIYlV5VFdCbW5TMV9HNEtndWZpX0NN0gHUAUFVX3lxTE1RYmRVM19hT1Q3SjdXcWR0Nkh3bWFwckJPUE1kbjNTSlBvaUk5cWJvdGRNUFp3N1dwS2dVbFIwSVBLMGNCeFBMcjVRRUtNaGJ2X2s1TVpqRl9SbzhsWm02WFVBalF3ZXowbUFIcWF1LXd6d1FOVlhSd0dQV2lTaHliQW54Mk51WnU5a3VheEFZMnp1MzZzRlYyRnl0eXBuaXR1NTB4NXNTb1prbkVseTZRUUFfcFVJaUZJT25DRENWYVVwYUpFOFdPcUdNRkYzWUJ0RGhJ?oc=5",
+    "id": "ad0aadbe5a80",
+    "title": "India Manufacturing Tracker 2026",
+    "source": "India Briefing",
+    "summary": "India Manufacturing Tracker 2026&nbsp;&nbsp;India Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFNBQzYzUnlPVnEwS3NaNzRDUXphdzJrcHQzQ1dfWWhtc1kyM0lBUmowV3JpLTJLR1J1eWNIblg2UVUxZHN0WS1yMjNkdHVjc2lfVVl5czBDbWpIaG1YZHJEODlwd1p1bzA2eTktMW9hU2NVaXpFR19pTzJoX2NQRmw1dmEwTnM?oc=5",
     "image": "",
-    "published_at": "Wed, 23 Sep 2026 15:07:50 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197336+00:00"
+    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-24T04:21:58.579823+00:00"
   },
   {
     "id": "57fdb2ee57b5",
     "title": "India Manufacturing Expands Most in 7 Months",
-    "source": "tradingview.com",
-    "summary": "India Manufacturing Expands Most in 7 Months&nbsp;&nbsp;tradingview.com",
+    "source": "TradingView",
+    "summary": "India Manufacturing Expands Most in 7 Months&nbsp;&nbsp;TradingView",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzVRZ0lJZTllZVRVMEh2TWYtUFU4NVFSRDRDYkRMN1k0N3d1RXJkNEFWTHExOW1EVktQY2lHaTQwTUpKSFBmeExDRUlDX05rN1dtQXVnYTlIQnFjQjNVcXF6NXctUXVDSWlJTzVVSGcwd0ZVLVl4LVdXVWg0Wldqam95a0M2VzU3X05zaXd3akVGcE5lYXpFWXlSTQ?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 05:05:00 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197349+00:00"
-  },
-  {
-    "id": "7187c6781173",
-    "title": "India flash PMI rises to 56.5 in September as manufacturing strengthens",
-    "source": "Business Standard",
-    "summary": "India flash PMI rises to 56.5 in September as manufacturing strengthens&nbsp;&nbsp;Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWI2ZHhWYTRUQnVvTTc1cHIxLThWLVRXQ0VZYnJKM0NJdTdCU3JRekoyQ2NYVmltRWRyOGVQR3hncUxsTTlsNTZIcUdxel9BZjVIVlVmaE9zbE1za0JwRlpXTm95MmZENWpSVzVGNThmRS15MDJ2Rnp3bjZ2TVRfWG1LUmQtbEhHZ0RNSmFmWllja0xiZW1DRFJ1R0hHX25TLUllUThaRHk0SkNZaGZHX3ZMVE5oMVh0Z2IwdzVnNDl4OUJ1alHSAcsBQVVfeXFMTkxjdGRpV1QxenNkNTdWZ2R2cWI5a1JzY0h1VFdKUlpWZHBpVUJTWFlaMVZnSW1kWGEwS0hHRTZ0RVhkX1M4NmJ2bUVxQWRDalY0TmRJWHRhVHhBcU4wTkpoN0NScEhFU3NYYUhLbVBmcUktWS1nUWwyelFyZl9DSGc1MEg2dGpna3JiQzNsYVhEZC00NmdBUUhPNWE2RHNURXNiZklyRkJfYVE4TVJoOXRPa3NtWFhoZ1BIU3ZVdzNUZkNoZnl4bnhTa2M?oc=5",
-    "image": "",
-    "published_at": "Wed, 23 Sep 2026 05:07:26 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197365+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579835+00:00"
   },
   {
     "id": "e2cea6bfc4a0",
@@ -87,17 +87,17 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHBTcEFmRGFoaFF1MURuazRHRlMwd3FsZVpRQk1td1ZyQzU4VjNRS0RJc1Bza3RtN0FCaFF6SzRmd2VQRG9VdTFJcHBTekc5TmJkT2s2Nkp6enp5SzhBSEZGNjN5ZG1kdEZHNHZBVEFpWU1KczBNcDh3Mkp2YTJOSjlHU3hZOFN1LUQ1TjFTd2dCZkRzcC1qcU9Hckk3UWVIQ3N5Zk5PcGVRTkNKVkF0VU5R0gG_AUFVX3lxTFBnOTB1eGJ0NWdIMVJ6QzdrdEJVQms5cjJnaG1sT2M1ZEhOV3Y4MDRNV0R2WGNRVTdZdXdlQXBHYlpYeHJXalZkbU5PNF94U3hzc0pPcGlQVHFRQXhFRzNuSzVjamMzUHotdWVSdkVjMS1mVmFDbGZwRTZHUHIxdzdiZnRYSXJNejdyZm1GVFJ6VTN1MlRacFJfTUtDX0U5S2FMb2ZUQnN1YmJHN1VvTnpXYlpCeUMwOGNuRDlNNWZF?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 06:12:13 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197379+00:00"
+    "fetched_at": "2026-09-24T04:21:58.579850+00:00"
   },
   {
-    "id": "ad0aadbe5a80",
-    "title": "India Manufacturing Tracker 2026",
-    "source": "india-briefing.com",
-    "summary": "India Manufacturing Tracker 2026&nbsp;&nbsp;india-briefing.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFNBQzYzUnlPVnEwS3NaNzRDUXphdzJrcHQzQ1dfWWhtc1kyM0lBUmowV3JpLTJLR1J1eWNIblg2UVUxZHN0WS1yMjNkdHVjc2lfVVl5czBDbWpIaG1YZHJEODlwd1p1bzA2eTktMW9hU2NVaXpFR19pTzJoX2NQRmw1dmEwTnM?oc=5",
+    "id": "7187c6781173",
+    "title": "India flash PMI rises to 56.5 in September as manufacturing strengthens",
+    "source": "Business Standard",
+    "summary": "India flash PMI rises to 56.5 in September as manufacturing strengthens&nbsp;&nbsp;Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWI2ZHhWYTRUQnVvTTc1cHIxLThWLVRXQ0VZYnJKM0NJdTdCU3JRekoyQ2NYVmltRWRyOGVQR3hncUxsTTlsNTZIcUdxel9BZjVIVlVmaE9zbE1za0JwRlpXTm95MmZENWpSVzVGNThmRS15MDJ2Rnp3bjZ2TVRfWG1LUmQtbEhHZ0RNSmFmWllja0xiZW1DRFJ1R0hHX25TLUllUThaRHk0SkNZaGZHX3ZMVE5oMVh0Z2IwdzVnNDl4OUJ1alHSAcsBQVVfeXFMTkxjdGRpV1QxenNkNTdWZ2R2cWI5a1JzY0h1VFdKUlpWZHBpVUJTWFlaMVZnSW1kWGEwS0hHRTZ0RVhkX1M4NmJ2bUVxQWRDalY0TmRJWHRhVHhBcU4wTkpoN0NScEhFU3NYYUhLbVBmcUktWS1nUWwyelFyZl9DSGc1MEg2dGpna3JiQzNsYVhEZC00NmdBUUhPNWE2RHNURXNiZklyRkJfYVE4TVJoOXRPa3NtWFhoZ1BIU3ZVdzNUZkNoZnl4bnhTa2M?oc=5",
     "image": "",
-    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-23T23:33:38.197390+00:00"
+    "published_at": "Wed, 23 Sep 2026 05:07:26 GMT",
+    "fetched_at": "2026-09-24T04:21:58.579865+00:00"
   },
   {
     "id": "baa126e98971",
@@ -107,7 +107,7 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW9tNVV4cHdLbGRMWFp2dTNfNTdNdkhmdWVFSWsxWlhGZjBtU3pTUWVUck9FTXJCb3JWZkNtVG5Ja0ZkMW0zZFBCNURaZjFEWmVyeUUyQ0FlSWQ4VldvYVRGcm9wbGYwSUwxMGI2V0xkVFQ5Sy1hMVVONl9IaEhHRUtNT1ZiT3VPMkIxUF8zUlRNQmo2UlJobVBnU2toSVJmSndFWm1uOTEtOHdTRnFuNGIxMng4dFNxNE94SnRZUlJ4bXVI?oc=5",
     "image": "",
     "published_at": "Wed, 23 Sep 2026 10:28:07 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186311+00:00"
+    "fetched_at": "2026-09-24T04:21:59.619476+00:00"
   },
   {
     "id": "b8a5a1321c0a",
@@ -117,7 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZThoR0pjMTZ4SnE4N1hTSVBZSksyRU5GRWltTjhvWVZPU1dJQ0ZYTENwV25OSXlWV19vVG1YRFFkV1NHVnF0c3JIUW9RUnJ6ZjZDdDZxVk5oT0ZoSHJ1S1N5OVpEM2lHdXFz?oc=5",
     "image": "",
     "published_at": "Tue, 22 Sep 2026 11:25:00 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186337+00:00"
+    "fetched_at": "2026-09-24T04:21:59.619511+00:00"
   },
   {
     "id": "2c9cfc07f128",
@@ -127,7 +127,77 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnhXSHlsdkdjSDQ5OWVqMjJLM0ZvTkNfbW1nV0tPRnkzUy1aWWQ5elZTSkxZUkNKekxGZjV5cldsdk5CRGhiMnhodnFERU1Wb0lHbmZiSVJRaE5uTVdNRlZoNGFyWktOTjZvUUsxaVF1WU56Nmpudnl5NDhrZzRfc1UxRnVfTDh6dTFBbEd2WnJBVkh2UkR6TDVQbGdON0JoZ1VLX2p6dVhEQ1ZaYXFRUGtrMVdVM0JmQmFicVhR0gHEAUFVX3lxTFBmSHdJVDJoTHQ5WU5GNHg5anRNQUgxX2hmZzBQd2s0bDFvcGxkbFM2WnBGRUdOWXJGNGpsVHVCR29hQWlwMVJOc3FwQjJ0TGFOVElSWXpjWDlaWEFtaWM5cm5KNExfTldyUVpoYWd0Mk5LWEZjdEFIRFBvckpvSUtCUW0tSEIzeHdpblJzYm1hUTZacnBUUndlZzFOSkdIVFRsQ3MtSXZWWTlzZXZBZFZ3R0pDM19TNkY1VmFKbG40VHVvQTc?oc=5",
     "image": "",
     "published_at": "Wed, 16 Sep 2026 02:30:00 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186359+00:00"
+    "fetched_at": "2026-09-24T04:21:59.619536+00:00"
+  },
+  {
+    "id": "f6b5280aefec",
+    "title": "RITES, NHIDCL join hands to support highway and infrastructure projects",
+    "source": "ET Infra",
+    "summary": "RITES, NHIDCL join hands to support highway and infrastructure projects&nbsp;&nbsp;ET Infra",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY1VLeGM2dWFzSHl5VTRXS2o0S2JmSzVYRW5qNGZtREFhNHR3LXlPNFhENUZiM3VKQ21EQmNWYkFJbzRQNklSb1BUbVp0OVhSZXE5cWxYX0FfU0NxUU9Xb0NzcS1WZVRGTW0zNlNrdXVQZFN5SUl3eTVuSG5sc00xM1Z0VHpibU9YUGh0V2lYVFJzbWVROFhfd3gzTzNSV0tvMWtzUlNnUWp0V19PRUdEWDZ6SUNqY3lOVV9uWVNNakFDNFl0bGp5eXlKV3VBa3c4QTNteG5vNjZkTHBZc0tTStIB4AFBVV95cUxPY1VLeGM2dWFzSHl5VTRXS2o0S2JmSzVYRW5qNGZtREFhNHR3LXlPNFhENUZiM3VKQ21EQmNWYkFJbzRQNklSb1BUbVp0OVhSZXE5cWxYX0FfU0NxUU9Xb0NzcS1WZVRGTW0zNlNrdXVQZFN5SUl3eTVuSG5sc00xM1Z0VHpibU9YUGh0V2lYVFJzbWVROFhfd3gzTzNSV0tvMWtzUlNnUWp0V19PRUdEWDZ6SUNqY3lOVV9uWVNNakFDNFl0bGp5eXlKV3VBa3c4QTNteG5vNjZkTHBZc0tTSg?oc=5",
+    "image": "",
+    "published_at": "Wed, 23 Sep 2026 11:04:14 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619553+00:00"
+  },
+  {
+    "id": "bbfdaf2288a1",
+    "title": "India’s Data Center Boom Should Learn from its Dams",
+    "source": "Tech Policy Press",
+    "summary": "India’s Data Center Boom Should Learn from its Dams&nbsp;&nbsp;Tech Policy Press",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3ZwSXV1UWhlYjRCeGpCc3NTUVBMR1U3WUhuNGR0UzNfcENkbm5iV0R2dGM5Q1BBX3lRcTBPYmpjTEhVOW5Jc2FfRHJuNFhTbGJiTHZxeWZGdlRBTDFHSWF4MjQ5dFZiYzRGbXpleUNIbGFGNEZkQ3lveE5HNWFQRg?oc=5",
+    "image": "",
+    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619571+00:00"
+  },
+  {
+    "id": "6f2252227c00",
+    "title": "NaBFID conclave explores new ways to fund India’s infrastructure needs",
+    "source": "propnewstime.com",
+    "summary": "NaBFID conclave explores new ways to fund India’s infrastructure needs&nbsp;&nbsp;propnewstime.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3Y1cmdzUTdGRGpWcUhabXBwaGZNRzhadlZYamZ4bkJJU0xrYVVSV1lJX2NjUTZJOTNXaGJGaEdlcnZTWi1sMVZrbXF4eEp5TlAyR1VkMlRTRVU1TlloWHRJOW9TUFBESXZ5TDk0OElZQ0xnQWZwUFFabTQzbUgtMmY0UTJLckZFZTNqZHpWY3ZvZUlkenNKYkxEX3ZnY3YwQUwybi11bTlPcEtEWEFPTHNvNTlYVVdpc0F3RnlFdw?oc=5",
+    "image": "",
+    "published_at": "Tue, 22 Sep 2026 10:01:36 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619588+00:00"
+  },
+  {
+    "id": "3ed5ba1709ae",
+    "title": "Expressway Infrastructure Development Outlook in India",
+    "source": "IBEF",
+    "summary": "Expressway Infrastructure Development Outlook in India&nbsp;&nbsp;IBEF",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEtLU2pSRjdwYkttTVktc05ib0lvT0Q4WnNZOTBtX1R3NmVzWDZxT2pDaTV1azhqYlZ6TWw2VmRsdGROektFVXEyczlFelRMZ0xNQ09PdjkycEJQaHVxaU1uWWxDSThnTm03ZzU2SjNwS09oanJIbk9Wd0R3THAtMFR0a3ptcGNMQ3pNSFlXandsSEhPVlVmTGlPaw?oc=5",
+    "image": "",
+    "published_at": "Wed, 09 Sep 2026 15:16:00 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619601+00:00"
+  },
+  {
+    "id": "02388080320b",
+    "title": "India infrastructure output rises, August growth at 4.8%",
+    "source": "Traders Union",
+    "summary": "India infrastructure output rises, August growth at 4.8%&nbsp;&nbsp;Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NxRTBsRkpTZEhHNTVsMTZTWU1IcGRnS2w4STBDaWJQV1VDRV83aW01eVNjQk1KWjRaV2V0RlRUTDB2Vm0wa2hYaFpkR1ZUOGlTNnA1R1pieGducHN5SzNYMXR1a1VjaWhhcEd2MTVwRmRRa0pXVUNfaHJwaUczUGtObWJBVmFmNFFtcW9pVWdQNXhtaml5aGhEME5odHhvYkE?oc=5",
+    "image": "",
+    "published_at": "Mon, 21 Sep 2026 11:42:30 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619615+00:00"
+  },
+  {
+    "id": "291e3b199095",
+    "title": "Tata Electronics, GSV partner for semiconductor talent",
+    "source": "Bisinfotech",
+    "summary": "Tata Electronics, GSV partner for semiconductor talent&nbsp;&nbsp;Bisinfotech",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXc2ZFlzZVJMSzlpeUl3aDdBTmgwS2dweXhiUnZwU1RRLXVubHdYdmNvOF9LY085VDdsZU8waERnem15dkRrSWUxeENmbGl1bGpxU3pLeE91N0pVeV9BbUJZMVJib202cE1vWWJjMGY2cU4tbVhKTTFERmliYXd3dUVPdU54VUtxWUt1Vk5wX2pMYUY2TThzTDV2amxvTUVZYXEtQTdrMGQ3cF93WFRqU3VMdDA3VzhvdUhKV3ZDYlJuTmxFZ1dmbEJYMHAwZzZFM3IxWUkzOG4teUN6LXh5eEhB?oc=5",
+    "image": "",
+    "published_at": "Wed, 23 Sep 2026 11:39:46 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619629+00:00"
+  },
+  {
+    "id": "d539b76408bb",
+    "title": "NHAI, SSNNL sign MoU to fast-track highway, canal and pipeline crossings in Gujarat",
+    "source": "The New Indian Express",
+    "summary": "NHAI, SSNNL sign MoU to fast-track highway, canal and pipeline crossings in Gujarat&nbsp;&nbsp;The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXplX1dPSzlYQUE3eTAxSnJCWnlWMEROXzhlRjFERURUT0Q2VDBqRk1UVHdxZ0ZlYTk5QVM4MWlRZkdVMUlCOFE4MTFTdTJIdkNVeVlWNjd1YkJvQVhpQ2k5alVaU3BKTVhNcGZrdFhzREdLU1dVWU1qblgzRjJlWkRDLWV6RWN4YndlSUdraXRTQ21qNy05LWtfcUpCcUtpTS10bW9HQ1RnazU0cDZ0dm9saGpxX0lYdC11WXd4OGFub2pFZXVLUC01MWJBenVzYUcxcG4yOFDSAeYBQVVfeXFMUEdaUll6VHdwcWtDRFlRRUJzTXk2U0xaM0dXTGozVEdIcVVVOGNVZnJwNHVUYUktWktqalFiUmU1YVlXRXRmNVhvU3JLZFJmcTU5MS03aHU2LVdLYnhoSkhPX1BHcHFBbW1OWDFrOE5JMl9pczg0QjVKYTYtaFl0LS1JQ2kyQkVBT3dQZlJXZ0NJd2RmLWZrV2NSUVExTUZZREJVYWN1ZlRlZzJ1a1JkNFNoUmhUQjFkWGNSZmpNRk45YmF0TlBlV1VDOUNiU2lHUzZLdWtFdlNTaVdXbDctTzg5SDFOb1E?oc=5",
+    "image": "",
+    "published_at": "Tue, 22 Sep 2026 17:04:26 GMT",
+    "fetched_at": "2026-09-24T04:21:59.619646+00:00"
   },
   {
     "id": "201bc866f57b",
@@ -138,66 +208,6 @@
     "image": "",
     "published_at": "Wed, 23 Sep 2026 04:33:00 GMT",
     "fetched_at": "2026-09-23T23:33:39.186378+00:00"
-  },
-  {
-    "id": "bbfdaf2288a1",
-    "title": "India’s Data Center Boom Should Learn from its Dams",
-    "source": "Tech Policy Press",
-    "summary": "India’s Data Center Boom Should Learn from its Dams&nbsp;&nbsp;Tech Policy Press",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3ZwSXV1UWhlYjRCeGpCc3NTUVBMR1U3WUhuNGR0UzNfcENkbm5iV0R2dGM5Q1BBX3lRcTBPYmpjTEhVOW5Jc2FfRHJuNFhTbGJiTHZxeWZGdlRBTDFHSWF4MjQ5dFZiYzRGbXpleUNIbGFGNEZkQ3lveE5HNWFQRg?oc=5",
-    "image": "",
-    "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186394+00:00"
-  },
-  {
-    "id": "6f2252227c00",
-    "title": "NaBFID conclave explores new ways to fund India’s infrastructure needs",
-    "source": "Prop News Time",
-    "summary": "NaBFID conclave explores new ways to fund India’s infrastructure needs&nbsp;&nbsp;Prop News Time",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3Y1cmdzUTdGRGpWcUhabXBwaGZNRzhadlZYamZ4bkJJU0xrYVVSV1lJX2NjUTZJOTNXaGJGaEdlcnZTWi1sMVZrbXF4eEp5TlAyR1VkMlRTRVU1TlloWHRJOW9TUFBESXZ5TDk0OElZQ0xnQWZwUFFabTQzbUgtMmY0UTJLckZFZTNqZHpWY3ZvZUlkenNKYkxEX3ZnY3YwQUwybi11bTlPcEtEWEFPTHNvNTlYVVdpc0F3RnlFdw?oc=5",
-    "image": "",
-    "published_at": "Tue, 22 Sep 2026 10:01:36 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186411+00:00"
-  },
-  {
-    "id": "3ed5ba1709ae",
-    "title": "Expressway Infrastructure Development Outlook in India",
-    "source": "IBEF",
-    "summary": "Expressway Infrastructure Development Outlook in India&nbsp;&nbsp;IBEF",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEtLU2pSRjdwYkttTVktc05ib0lvT0Q4WnNZOTBtX1R3NmVzWDZxT2pDaTV1azhqYlZ6TWw2VmRsdGROektFVXEyczlFelRMZ0xNQ09PdjkycEJQaHVxaU1uWWxDSThnTm03ZzU2SjNwS09oanJIbk9Wd0R3THAtMFR0a3ptcGNMQ3pNSFlXandsSEhPVlVmTGlPaw?oc=5",
-    "image": "",
-    "published_at": "Wed, 09 Sep 2026 15:16:00 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186424+00:00"
-  },
-  {
-    "id": "291e3b199095",
-    "title": "Tata Electronics, GSV partner for semiconductor talent",
-    "source": "Bisinfotech",
-    "summary": "Tata Electronics, GSV partner for semiconductor talent&nbsp;&nbsp;Bisinfotech",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXc2ZFlzZVJMSzlpeUl3aDdBTmgwS2dweXhiUnZwU1RRLXVubHdYdmNvOF9LY085VDdsZU8waERnem15dkRrSWUxeENmbGl1bGpxU3pLeE91N0pVeV9BbUJZMVJib202cE1vWWJjMGY2cU4tbVhKTTFERmliYXd3dUVPdU54VUtxWUt1Vk5wX2pMYUY2TThzTDV2amxvTUVZYXEtQTdrMGQ3cF93WFRqU3VMdDA3VzhvdUhKV3ZDYlJuTmxFZ1dmbEJYMHAwZzZFM3IxWUkzOG4teUN6LXh5eEhB?oc=5",
-    "image": "",
-    "published_at": "Wed, 23 Sep 2026 11:39:46 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186437+00:00"
-  },
-  {
-    "id": "02388080320b",
-    "title": "India infrastructure output rises, August growth at 4.8%",
-    "source": "Traders Union",
-    "summary": "India infrastructure output rises, August growth at 4.8%&nbsp;&nbsp;Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1NxRTBsRkpTZEhHNTVsMTZTWU1IcGRnS2w4STBDaWJQV1VDRV83aW01eVNjQk1KWjRaV2V0RlRUTDB2Vm0wa2hYaFpkR1ZUOGlTNnA1R1pieGducHN5SzNYMXR1a1VjaWhhcEd2MTVwRmRRa0pXVUNfaHJwaUczUGtObWJBVmFmNFFtcW9pVWdQNXhtaml5aGhEME5odHhvYkE?oc=5",
-    "image": "",
-    "published_at": "Mon, 21 Sep 2026 11:42:30 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186450+00:00"
-  },
-  {
-    "id": "d539b76408bb",
-    "title": "NHAI, SSNNL sign MoU to fast-track highway, canal and pipeline crossings in Gujarat",
-    "source": "The New Indian Express",
-    "summary": "NHAI, SSNNL sign MoU to fast-track highway, canal and pipeline crossings in Gujarat&nbsp;&nbsp;The New Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXplX1dPSzlYQUE3eTAxSnJCWnlWMEROXzhlRjFERURUT0Q2VDBqRk1UVHdxZ0ZlYTk5QVM4MWlRZkdVMUlCOFE4MTFTdTJIdkNVeVlWNjd1YkJvQVhpQ2k5alVaU3BKTVhNcGZrdFhzREdLU1dVWU1qblgzRjJlWkRDLWV6RWN4YndlSUdraXRTQ21qNy05LWtfcUpCcUtpTS10bW9HQ1RnazU0cDZ0dm9saGpxX0lYdC11WXd4OGFub2pFZXVLUC01MWJBenVzYUcxcG4yOFDSAeYBQVVfeXFMUEdaUll6VHdwcWtDRFlRRUJzTXk2U0xaM0dXTGozVEdIcVVVOGNVZnJwNHVUYUktWktqalFiUmU1YVlXRXRmNVhvU3JLZFJmcTU5MS03aHU2LVdLYnhoSkhPX1BHcHFBbW1OWDFrOE5JMl9pczg0QjVKYTYtaFl0LS1JQ2kyQkVBT3dQZlJXZ0NJd2RmLWZrV2NSUVExTUZZREJVYWN1ZlRlZzJ1a1JkNFNoUmhUQjFkWGNSZmpNRk45YmF0TlBlV1VDOUNiU2lHUzZLdWtFdlNTaVdXbDctTzg5SDFOb1E?oc=5",
-    "image": "",
-    "published_at": "Tue, 22 Sep 2026 17:04:26 GMT",
-    "fetched_at": "2026-09-23T23:33:39.186466+00:00"
   },
   {
     "id": "1bc8144418ed",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Mon, 21 Sep 2026 09:27:35 GMT",
     "fetched_at": "2026-09-22T04:28:20.142447+00:00"
-  },
-  {
-    "id": "11efc9236ea0",
-    "title": "Maruti Suzuki targets 30% women enrolment at Manesar manufacturing institute by 2028-29",
-    "source": "ET Auto",
-    "summary": "Maruti Suzuki targets 30% women enrolment at Manesar manufacturing institute by 2028-29&nbsp;&nbsp;ET Auto",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVm53YlM4aktGdURUTUNKQWo4dG4tZnJRWHF2V19xNklWOWtodGg5QjVTSWJTTm05QTdZRnpTYmZxanJFWkVpa2RBSkdfZ2Y1cHBoRHB3dGtTWW91cGVoeS12TGdid2xYMld2N0FyR2JoOTZlcUh5ZmdHRnVhc1NaYmVpUndmTjBXZkZKc1FWWmlYLWx5QWF3andObzBISGpGRVNUaklJR0ozM2I4VUNhOHhSRmNCeG5NNEZ3TU9aYVo5cmpzSGlkVXhyVUxhTi1VdXU1WnZoYWw2N3A4d21OVklxWXFGSDRNQUxER0Z0cU5NSjDSAfgBQVVfeXFMTzgzNFd3eEd3cVF3eERPdDdmS00tT0hNWFBNY0lWZmcxOXppeTJlZXZ6OFROV0JPZ2cxWk1aYTRwVEFfc0EtbGYyMmlqZXJHOFRsTDBZMVdvMkRzalJ6T1NSOE0xd0s5blItT3g2OFplZkY2STJ1Q2ZrRHZ3Y2Z3MnBzUmtBbjVaQXJ4MThaMFgyNEwwSDVueHJtS3dZTE84LUloaUVvVzE1REVkS1ZSY3NXMUFHWVBKblB3Vlhvb0wyWXlzbG4zNngtVjZUTzF3aWRDMl91dWdnMUwtTzRnZGY5NUhhWHV1Wk0yU3UyQWRQYjZxbmFqMDk?oc=5",
-    "image": "",
-    "published_at": "Mon, 21 Sep 2026 11:00:35 GMT",
-    "fetched_at": "2026-09-22T04:28:20.142462+00:00"
   }
 ]
