@@ -1,5 +1,45 @@
 [
   {
+    "id": "8b4aa6e1d0d2",
+    "title": "Survey Shows U.S. Manufacturing Activity Dips Slightly",
+    "source": "industrialinfo.com",
+    "summary": "Survey Shows U.S. Manufacturing Activity Dips Slightly&nbsp;&nbsp;industrialinfo.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXdBd1VYRFJabnVDQUFIN3dpSWNQRW9wRXpTTUZXN2RTRTZ0YnVrMXM5V052eEtaQm1Xb0VrRXRKUDIzcXA0SGNvN2NNSUs1dFBBSURadjVLM0FBXzhtR0tFcG8tWEs2ckh5SGs3akRGcGw2ODlPTTRNZmxYSE5kTVpvVlRkOTRTMUhjZW94NTBIWlBJdWQxU2pIbmlkdHVPbHNTQzFUMA?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905691+00:00"
+  },
+  {
+    "id": "302e8c9b15bd",
+    "title": "NJMEP Manufacturing Day draws 800 as industry looks to growth, innovation",
+    "source": "ROI-NJ",
+    "summary": "NJMEP Manufacturing Day draws 800 as industry looks to growth, innovation&nbsp;&nbsp;ROI-NJ",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNYRlhERkxRWG5DbTlKRzlMdFgxMUg2LVRCRHNJdzFteTV2UEIxU0Z6Q3EtcXgyaFRJRHF0V3o4OGFiWFVZWU9SeF9yNnhJX2hUUW5Fal9yWDhleTBFaFM1LTEwakFpTkVrVXdsb3J3dE5pSTFULXk5d0tYSTItZmE4d2R5UlRWSHJRSk03LTRlQkRVbVppTWVkbnl3SXN0OFJ6cGR1aWFkT3hEbzFJTTJvOEF4VGxhRUN3ejFNWnRzRGUzX1pINlhn?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 13:27:04 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905720+00:00"
+  },
+  {
+    "id": "70e8c17f2bbc",
+    "title": "Year of the pivot: Repositioning around AI, software and other factors impacting industrial automation",
+    "source": "controlglobal.com",
+    "summary": "Year of the pivot: Repositioning around AI, software and other factors impacting industrial automation&nbsp;&nbsp;controlglobal.com",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeVBYVEVIbW1LXzUtVDFhaEdJU0wzS0xJMDhqYUptN2pOSEhBSXBsQXBfanAtY1pmanAtV25YUEVnS0hGUV9MRHp1MUZWOTNBcjNVNEJUV05HZDcyQXVoRnZNRXpEVXJNZTF4MlBGUlhMTDlGcUNKSWZNSXBwMXp0Zk1pUjBnUmZzOTdodDc4cnhsX1lvaHNhR3NoOWhVVjRfMDJCUnZQYWJibTJIS3BTcDY4MzZvSjFjTGFMQUVpc29VX3IwNmx6OWF6VThoNDQyWnJYcnNGQWRTSHFkdGtVOWgtOTBTcXdLNElz?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 16:55:46 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905734+00:00"
+  },
+  {
+    "id": "0f3e1da2288c",
+    "title": "Wyoming Banks On High-Paying Manufacturing Jobs Keeping Workforce In State",
+    "source": "Cowboy State Daily",
+    "summary": "Wyoming Banks On High-Paying Manufacturing Jobs Keeping Workforce In State&nbsp;&nbsp;Cowboy State Daily",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHowc3FiTXNPNVJKTzk0VkdLVm1lNHdvYWwxTFZZeFgzMkt6OFlLY2d1dGhCOTFGb2pYRjljWVp2Y0RlSUJKS1M1aHNpSGU5dkJfbHdKTy1qYXpqdnJ0WDBlSzk1SENjQk1McE9DUWY4aW9INkhVRHpuYzRiVC1TNzNPLVdRTjVid0kyYkdJeFJZZmJaWE9CNDlyTXVUQ1VnMHVtQ184bFAySXpCMThrNGM0WXl6U0tUNFRWWQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 16:28:00 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905746+00:00"
+  },
+  {
     "id": "bad62c0e84aa",
     "title": "Manufacturing industry adds 9K jobs in September",
     "source": "Manufacturing Dive",
@@ -7,17 +47,157 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1Z0clFMcXA0a1hDRlJraTA5Z2JVTHlFbGYtbUVZUUJjQ2t0ZUtyZ21DZDJvNWpKRFZOWDBLdHk1SmQ1a29TU1RDWVJDLXFIQzNjMTVpSDJMdXY4UWRKUjJlOGpJNi1mVnU5OWpwSXBFN25KSzNibjJXTDdicFYzb2tJU29PVVkxZWstRlRJX2hXY2VpRENxRldyRWtsLWRreGRSdzN3TlAtdldCVjZJRDQyaw?oc=5",
     "image": "",
     "published_at": "Fri, 02 Oct 2026 21:04:09 GMT",
-    "fetched_at": "2026-10-05T08:47:54.590940+00:00"
+    "fetched_at": "2026-10-05T18:15:40.905756+00:00"
+  },
+  {
+    "id": "c4171db31414",
+    "title": "Malaysia is invested in the industries of the future. Now it needs them to power productivity.",
+    "source": "Atlantic Council",
+    "summary": "Malaysia is invested in the industries of the future. Now it needs them to power productivity.&nbsp;&nbsp;Atlantic Council",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWERlRk1VX1lkeG9xOFQteDJxSERpZkNQZndqbnpFWXhIVGxLeV9HOW9fQUVVcnNFREZmbkJDQy1yeVh5VG5VcHBXcDJPcDVmMmNkUzlFWUtnQXNRSk5IUW9Rei1qNnFlTHp3OUxOTXJvelJ3aDF6NnllRktSRmRBbmV4cTFZWS1zeEZqLVhocVFhLWJwZUNNak5pVGFUT09aTmtCS04xeTFmZnF3NjFaenpmRlZDc0FTVmJBVGdGQ1VySGRkdGMzYUJNd215Ql9zOHQ3RnJ3?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 17:34:00 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905768+00:00"
   },
   {
     "id": "83db3c91b7e9",
     "title": "U.S. Manufacturing Sector Expanded in September",
-    "source": "inddist.com",
-    "summary": "U.S. Manufacturing Sector Expanded in September&nbsp;&nbsp;inddist.com",
+    "source": "Industrial Distribution",
+    "summary": "U.S. Manufacturing Sector Expanded in September&nbsp;&nbsp;Industrial Distribution",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUFQN1BzQU4weGtqWnFVM3ZfRXNicXF5bF9SbDU4NUF6RkFiMm8zX3RxNG9ONENNOThkTW1mNDRWclpmalUyc0RxOW9MdEQ3NXdVMldXb1Jpc3pRcW9sRmc1WHo1UGZGeU9YRXNVR0RFbFJYVmw4OUlXcjNiUEVlU2RpRGE3eW96QjgyTlhyLVpkdEhGOFE?oc=5",
     "image": "",
     "published_at": "Fri, 02 Oct 2026 21:42:30 GMT",
-    "fetched_at": "2026-10-05T08:47:54.590967+00:00"
+    "fetched_at": "2026-10-05T18:15:40.905779+00:00"
+  },
+  {
+    "id": "7df91f13e76b",
+    "title": "4 Stocks to Boost Your Portfolio on Steady Growth in Factory Orders",
+    "source": "Yahoo Finance",
+    "summary": "4 Stocks to Boost Your Portfolio on Steady Growth in Factory Orders&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBuT2JzejdTVmI5YjM5anMyUkZtMWl3YzhQNzJyMHpaaV9rVzFWWlhvdEFUTkhuajRuMjhCM1h4cjJRZ240WEh2T1B2WFFfTWxDT2VQeTNDSVMtZGZyWHI2QU5hVEw0MXVSTXlIVVRSWXIwS0U4S3RiUk5zUTZCaE9aSDFQY2RpVGVjcXhiTzhxTExmWTRiZUlTb2o?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 11:16:00 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905790+00:00"
+  },
+  {
+    "id": "2f2123f900da",
+    "title": "Space industry co-op helped Northeastern student build confidence",
+    "source": "Northeastern Global News",
+    "summary": "Space industry co-op helped Northeastern student build confidence&nbsp;&nbsp;Northeastern Global News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORU9tS00xalJpc2diUlI2OEpPQnBiSkNJSUFxSzV2S3J1RnpFckVTZnY5WG9lSng2UW5Wc29jamxGX0FXWGZfMDhlOG5hM0x3dC05NUVzeG8yeG44c3NGcnk5VTVHaUcyVEdxVmgwd1pUdkFGRmxsWUUzUUlsNE5xQQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 18:07:36 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905800+00:00"
+  },
+  {
+    "id": "e69aca41c499",
+    "title": "Census Bureau Data Highlight Continued Importance of Nation’s Storied Manufacturing Industry",
+    "source": "Census.gov",
+    "summary": "Census Bureau Data Highlight Continued Importance of Nation’s Storied Manufacturing Industry&nbsp;&nbsp;Census.gov",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SRTVFV3dORk5YbXlBYW83a1NCaE5QdHNBdE84X0QxWXQtZ0M1bkNwb2pVZHZKVFFQUmpYaUczNndyZjY5VFJNVENzZzBWamt3NjEwc0o1YndtRUNadEpCR1VnNEtMaUExcXFtWjI3QmdrZFpSSDhjSk5n?oc=5",
+    "image": "",
+    "published_at": "Mon, 28 Sep 2026 04:00:00 GMT",
+    "fetched_at": "2026-10-05T18:15:40.905820+00:00"
+  },
+  {
+    "id": "8b04433a2d1b",
+    "title": "Why supply chain visibility works best when data is shared",
+    "source": "Supply Chain Dive",
+    "summary": "Why supply chain visibility works best when data is shared&nbsp;&nbsp;Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtEUUVabFZjSENmbm5RakN3LXNrMHNRYm95SjREZ2V2d25tdmlYaFFXRk9FX0FVam9MNjB2TUhlS2plODlzVWJOWVNYOHVvUUZybUJPRkNRYzdkeEJTR0ptYWE0aGZDVkY4RlZGZDJfd0RMNVNCYzNqbzZ3UG5lS3F2eWtYcFhXSmIxd0xJR2oyeXpSQVl4bkNmMHh6RlpoZWtZOWdaMA?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 14:56:39 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998688+00:00"
+  },
+  {
+    "id": "24b0ab427347",
+    "title": "3 Logistics Stocks Retail Investors Are Watching As Supply Chains Stay Under Pressure",
+    "source": "Yahoo Finance",
+    "summary": "3 Logistics Stocks Retail Investors Are Watching As Supply Chains Stay Under Pressure&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3BwY2RhQWhPSm9VNGFIR1JtcE1MUEJOcXFsRHZob0QwUTJ1WmlvdTRvNTNPZExjN1QwczlMVzRSYk9sTDNRLWNRYnBtb25zVHYxVjJVblh1VmhaTi1zV3hNMG1UNUlMT1dlWml5WW1CUGtNOENIMmpBM19QY2lWU1pVQ0N2Y05EeC1NTWVmTGRCQ0w1OUszQXhqaERHREFWaVE?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 15:10:33 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998717+00:00"
+  },
+  {
+    "id": "c5a416e5be4b",
+    "title": "AI Will Not Transform the Supply Chain Until the Architecture Around It Catches Up",
+    "source": "Logistics Viewpoints",
+    "summary": "AI Will Not Transform the Supply Chain Until the Architecture Around It Catches Up&nbsp;&nbsp;Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0s4U1VibkdLMUh0SGV6Rl9QSVNlb1FUaXRNckV4dlh2MHhsM3FRZjVTY3lHbnFLekMxUUZkdnQ0clctVjJtQXYzaENvSU9LQXhRVC1EUy1Eb2ZhbXZsMTU5QnhfS0o2RWdoQzR0Q2J1LVRvSVNDM1YyNGJkUEQ4dmlOQ3hfeV9VRVVuUkk2c3c4bVFoTVVvXzcydzY3MjNWUG9IS0k3Y3RKQlMtbDU4VXRqbE5ieFk2cFloNmR5YUxSS3RL?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 14:00:00 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998731+00:00"
+  },
+  {
+    "id": "e91b81a87032",
+    "title": "Overhaul Advances Cold Chain Product Portfolio with In-Transit Risk Intelligence and Expanded Industry Expertise",
+    "source": "PR Newswire",
+    "summary": "Overhaul Advances Cold Chain Product Portfolio with In-Transit Risk Intelligence and Expanded Industry Expertise&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUWw2aVQ5aS0yY29WOTB0b3VMR05oYnBEbmVvS2hWU3JCZWtqXzU0TGRBMFY3SnhPeUt5bExES1h5aTVPTFE2ZldrRDNKT2hxR1h5MmRVNElYQnpQOHJJdzc1b01jODlvZXMtREpMNXA4Q3hsbGVtMzdXTVRmeE1JNEp4RVQ3R1lnaFRmNjZraXBGWjczUnVUVTJWakV5ai1zR0NZMDBYcU9oSV9uZkNSbnVEOUllR25wb3AybnFmS0ZvQm9oTVVzLWVRYXFvV2R4Sk44Skh6Q3o5VFlCaGpLWnpyVURfMEpZUkx5eDV0d2RGSGotSS05eEZ1elA?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 13:00:00 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998744+00:00"
+  },
+  {
+    "id": "c5d78e74fa99",
+    "title": "Hot Food Startup Works With Cool Logistics Solution Provider",
+    "source": "Forbes",
+    "summary": "Hot Food Startup Works With Cool Logistics Solution Provider&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2Z4LXVEc2JIcjE3YXpVN2RwRzBuNVZKc3lzc3hOeENFRHB1bEpnS3VIMnFyZHBqYjJuaklVQ1pTN2dKTFBBa1hndjlaS0k5UG9ZSk41d1B2TjQ1OURZWlhMVVJQZHF4aGdubFVqLWt6ODkwaWk4Nkt1Zk9Ic0QxY1dnM3AtdUQtUDBKYUp3OTk2QjRkQ2xWcWtIeHJ4alFrdVZPREFHVnJsdVJLa01VX0kyLUExR0RaRUtn?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 09:51:33 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998755+00:00"
+  },
+  {
+    "id": "b9c61cf4a077",
+    "title": "Q&A: Mark Burstein, SVP, Inspectorio",
+    "source": "Logistics Management",
+    "summary": "Q&A: Mark Burstein, SVP, Inspectorio&nbsp;&nbsp;Logistics Management",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Tb1ZhMjZkSXAzZFVuYXlqVmE3NUlUcWNDNFFqZm1yTnFaUGNabGpobjJtUkNaSXNpanA4M3V0WnhIbGtPUEhDeDdySmtfLXVUQ0QwalVGOFpCV1h3X05pTEhQYkpzTVQ1ektNN2hCN0NjVnZXTXNXM1BTVQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 12:46:26 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998765+00:00"
+  },
+  {
+    "id": "fe1932e5d479",
+    "title": "Above the Fold: Supply Chain Logistics News (October 2, 2026)",
+    "source": "Talking Logistics with Adrian Gonzalez",
+    "summary": "Above the Fold: Supply Chain Logistics News (October 2, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON25lb0VXdFQxb3RVb2EtWmJKYUloTW5yN3ZJMXZ4eWM2dmZHZG43ZktyNzJnWmptLVpMa0lmcG1BRmRMUGU1d1FYV1NKSUVqWkdfemcySTdGUl9kc05BS0J0YkMxVUpnMDNXYXhWY3ZTQUFQUEpxT2hMdGg5WEFGS1JQdDU4YnhqcWJjN3NkQVZMeHZrVTZhYW50ODl5MzA?oc=5",
+    "image": "",
+    "published_at": "Fri, 02 Oct 2026 12:40:58 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998777+00:00"
+  },
+  {
+    "id": "7802fd1e7e72",
+    "title": "C.H. Robinson to acquire RXO in $5.8bn deal",
+    "source": "Automotive Logistics",
+    "summary": "C.H. Robinson to acquire RXO in $5.8bn deal&nbsp;&nbsp;Automotive Logistics",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDQtRHpSUlZEUlhSTFJmY1N4TnNOckVHZXBNbkJ1alJrYkZOU0owNTVSNFRod3RtTUtPQlFxZFdGalJudVNRajFKLXVvXy1EMnlCdEhlTVF0clJEd0h6OG5DVUY5VGFDQ0tNTElBZ01CRmlQcGF3cUxBcExEdEktZV9RVlFfT3VHbHhQOVgwVGc3N2d2R3hzTnRUNGN0ZDg?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 14:51:19 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998787+00:00"
+  },
+  {
+    "id": "b6990be75161",
+    "title": "First Shift: Emergency reserves meet an energy network still under strain",
+    "source": "Supply Chain Management Review",
+    "summary": "First Shift: Emergency reserves meet an energy network still under strain&nbsp;&nbsp;Supply Chain Management Review",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTY2MDhsUTJobTZnTk9vcjNqbXpwREkzZk1xcTVSelFYX2FnZ09CN3RoeW9sNFRZclY1SzJKbWREQkdDcG9lRVprNUlHXzk5LVg4bm5hVHB1X0FqTldHTUx1T25ueVZMbkoyeHE3RF9XbnVQM082ZUY3VGR5cmNyb09MWC1XWUxyamVXSU40VlVqRUk?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 13:47:00 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998799+00:00"
+  },
+  {
+    "id": "e6942cadc7fc",
+    "title": "D-Wave Partners with University of Arkansas to Establish Quantum Supply Chain Initiative",
+    "source": "Quantum Computing Report",
+    "summary": "D-Wave Partners with University of Arkansas to Establish Quantum Supply Chain Initiative&nbsp;&nbsp;Quantum Computing Report",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcURBeEhpVDkzamtFWU9YZGkza3gyX0xfX2pxb3FENW01dmVwYkZGelN4SmgzWU5xY2YwT1gwRkF1UlhEMVVDVU1JMWI1dGRrSEtEUFZfWjJQa01UcjRuaHIyYU05bHo0c2tfWkRFRmF3bVVRZk9oWkNFdzZnWkRjQjVBeWFUZXRzVjFOR3hsemxQMEltQU55clNWNnVnUnNNQ3NTVGFqbGN5bUE0VkY0U2J5YlgzbGZIdTlpT2I3NUdyUdIBxwFBVV95cUxPM2FmTzNHWkFWbm1wZk1oSFR6V2JoX1lkVWJTZXk0eklsUWpmVnBTNko1RUZocEtJV0hmaWEtU0JIeHVBNnpFbUgyVnhrdUVnTDQ3VDZOdUhvbEpRSWNHYlM5NUpDcE5uQUgxOGxwQmtINUJNbzVLamQxWXdBUndzYVNyYlNNQUdEbzhlVlZ5SkNVSVJ3eUNPSnNSS1l2XzlSRUlWX3J0VzFXcHUwM2U0enRteURWaXFCQ0gxdWVaYlpiUU5fejdN?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 16:25:56 GMT",
+    "fetched_at": "2026-10-05T18:15:41.998813+00:00"
   },
   {
     "id": "60c9168d26b7",
@@ -28,16 +208,6 @@
     "image": "",
     "published_at": "Wed, 30 Sep 2026 19:31:24 GMT",
     "fetched_at": "2026-10-05T08:47:54.590983+00:00"
-  },
-  {
-    "id": "e69aca41c499",
-    "title": "Census Bureau Data Highlight Continued Importance of Nation’s Storied Manufacturing Industry",
-    "source": "Census.gov",
-    "summary": "Census Bureau Data Highlight Continued Importance of Nation’s Storied Manufacturing Industry&nbsp;&nbsp;Census.gov",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SRTVFV3dORk5YbXlBYW83a1NCaE5QdHNBdE84X0QxWXQtZ0M1bkNwb2pVZHZKVFFQUmpYaUczNndyZjY5VFJNVENzZzBWamt3NjEwc0o1YndtRUNadEpCR1VnNEtMaUExcXFtWjI3QmdrZFpSSDhjSk5n?oc=5",
-    "image": "",
-    "published_at": "Mon, 28 Sep 2026 04:00:00 GMT",
-    "fetched_at": "2026-10-05T08:47:54.591007+00:00"
   },
   {
     "id": "211f3751b103",
@@ -98,16 +268,6 @@
     "image": "",
     "published_at": "Sun, 04 Oct 2026 06:29:51 GMT",
     "fetched_at": "2026-10-05T08:47:54.591114+00:00"
-  },
-  {
-    "id": "fe1932e5d479",
-    "title": "Above the Fold: Supply Chain Logistics News (October 2, 2026)",
-    "source": "Talking Logistics with Adrian Gonzalez",
-    "summary": "Above the Fold: Supply Chain Logistics News (October 2, 2026)&nbsp;&nbsp;Talking Logistics with Adrian Gonzalez",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON25lb0VXdFQxb3RVb2EtWmJKYUloTW5yN3ZJMXZ4eWM2dmZHZG43ZktyNzJnWmptLVpMa0lmcG1BRmRMUGU1d1FYV1NKSUVqWkdfemcySTdGUl9kc05BS0J0YkMxVUpnMDNXYXhWY3ZTQUFQUEpxT2hMdGg5WEFGS1JQdDU4YnhqcWJjN3NkQVZMeHZrVTZhYW50ODl5MzA?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 12:40:58 GMT",
-    "fetched_at": "2026-10-05T08:47:55.562827+00:00"
   },
   {
     "id": "b53282b813e5",
@@ -338,165 +498,5 @@
     "image": "",
     "published_at": "Thu, 01 Oct 2026 15:36:55 GMT",
     "fetched_at": "2026-10-04T02:30:56.839585+00:00"
-  },
-  {
-    "id": "70308ea83427",
-    "title": "Michigan LIFT Launches to Accelerate Industrial Innovation, Scale Manufacturing Growth and Strengthen U.S. Competitiveness",
-    "source": "Michigan Economic Development Corporation",
-    "summary": "Michigan LIFT Launches to Accelerate Industrial Innovation, Scale Manufacturing Growth and Strengthen U.S. Competitiveness&nbsp;&nbsp;Michigan Economic Development Corporation",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDMwbVZZYlpxMDNEc0tzZjJMU2JPTmg1MVBKY0Jxd2lUdERoQUNVekFYdTRzS2pYajBmR1VIUlNudGlyNnV3bldxQ29zMmlJQ0JiX1ZBUzhtNjVtU09uOGlCRjZuSVRmcTUxR19zSk5lQ3h2aC15M25JdExrZUl3Mnl4MnU5dw?oc=5",
-    "image": "",
-    "published_at": "Tue, 29 Sep 2026 20:16:09 GMT",
-    "fetched_at": "2026-10-04T02:30:56.839604+00:00"
-  },
-  {
-    "id": "4b3476108908",
-    "title": "Not just ocean: How Maersk grew its US logistics capabilities",
-    "source": "Supply Chain Dive",
-    "summary": "Not just ocean: How Maersk grew its US logistics capabilities&nbsp;&nbsp;Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3NxTG9TWl80ZThFcFIxVEhPVmVvR1NXZm9aZkxXNWp4YWVZdnV3cWF2b2hkb1A5anllQzdZdzNUeFUyT1VELXJzcTNYY3RfVUUxazRQVWdlVlE2WnN1LTJIUXlzU3NpU1ZDcFBEenhqQUNLbmFDeDhMeG1FejZuSWExUnJkRldndTYwdDlHWENsVHZPdngxRUJHYmtRZmpKR1RCS1ctcVc?oc=5",
-    "image": "",
-    "published_at": "Wed, 30 Sep 2026 20:06:25 GMT",
-    "fetched_at": "2026-10-04T02:30:57.756917+00:00"
-  },
-  {
-    "id": "b799bbdaa157",
-    "title": "Senator Deb Fischer Awarded 2026 Champion of the Industry Award by Association of Equipment Manufacturers",
-    "source": "Rural Radio Network",
-    "summary": "Senator Deb Fischer Awarded 2026 Champion of the Industry Award by Association of Equipment Manufacturers&nbsp;&nbsp;Rural Radio Network",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNOb1hhUGI1d0hTejNiVUNMZXJUNlNMMldVV3ZLN2ZtUi05dGtIMkpzYTFmSnBjUmx6aGpPa1pZYjNzTkF4TE1JVi15WG5SM0J5d1dmOG0tS2FZeGp2ZUFpVUpjRjllbkZaZTE1UHNLcFJSRTVVWXJ0clBrTnhIMURvUzQ2SW9GOGZwRHlpa1MtTWw2MXZnV05QWk9wU3FXSkRrRGozQnFFQlpyd2Zha3F4Y2dpcmNNTEdUR2JwNXdxYUk5N3JnX0V4SVBBcUNzUGw1Mkxsd2RfZw?oc=5",
-    "image": "",
-    "published_at": "Sat, 03 Oct 2026 17:50:49 GMT",
-    "fetched_at": "2026-10-03T22:49:06.206785+00:00"
-  },
-  {
-    "id": "ad3aaa429802",
-    "title": "Amazon rolls out new capabilities for bulky package shippers",
-    "source": "Supply Chain Dive",
-    "summary": "Amazon rolls out new capabilities for bulky package shippers&nbsp;&nbsp;Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNidW94OWp2NWhhQkNiZ0daM3BlLU1NaDJZczRzVnJsVEQwUWs1TnZRWUxfeFJ3c2ZrZmFFUnJnYWxLZkpOUDlLV0oyaW5xMkNETFJQQnZGWXVVZzg3UWpMTEF2R3hZMVF0WlJyY0cwenRnUGVrVEsxS0x3a0toaFlJTUN5RHlRUzYydk5KRlhuenBqanpYMVQ0WnVNc2U5dmh1dmpIMUU?oc=5",
-    "image": "",
-    "published_at": "Wed, 30 Sep 2026 15:08:12 GMT",
-    "fetched_at": "2026-10-03T22:49:07.281198+00:00"
-  },
-  {
-    "id": "ec160eb34830",
-    "title": "South Carolina Proclaims October Manufacturing Month to Highlight Career Growth and Economic Power",
-    "source": "Fort Mill Sun",
-    "summary": "South Carolina Proclaims October Manufacturing Month to Highlight Career Growth and Economic Power&nbsp;&nbsp;Fort Mill Sun",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdE13ZWVfeFJuOHd1b2lYQ1Z1cFhTWDZpTjliYWk0T2dHZ3ljdjlwaGUzSmMzZFc4UW1GV0pZd29pRW0wY2prekFEczkyM3h4ZVZ4UGUxeEN2VjNXSUhxeHlyVnU3eXJ2eFZ2ckFLc3d2OGlhaG1hY2RFSnNzUWpoOURiNGRzMW1NclphTmlhS3FZLWxVY09YZ2daZmtJaWhYbC1KeDhyNEw0ZGdPbHVieDVKckRmNnVtdHZHdVhpMHFNamE4VHI5dnlhamQwSm5kbFkzcA?oc=5",
-    "image": "",
-    "published_at": "Sat, 03 Oct 2026 01:49:32 GMT",
-    "fetched_at": "2026-10-03T19:09:24.220919+00:00"
-  },
-  {
-    "id": "24412234495b",
-    "title": "Global Trade Management Is Becoming a Real-Time Supply Chain Control System",
-    "source": "Logistics Viewpoints",
-    "summary": "Global Trade Management Is Becoming a Real-Time Supply Chain Control System&nbsp;&nbsp;Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHRSaUVSM0VObVUwWWdMaWdHTmZRUFJ4VmVlYlJWeFNYNnphNm1jOHJfdkZZU3F1Ty1TQ1U3OG5wOWRrNGZNbWIzNVJjMFRjSUhDQ0piNmZDQmRtLWVETVM3Z1Z4d3MxQlZEMXYyazhnS2FSdzNUV0J2LWdXUFVMSlpsQVBZMUFDRldkNnJ4Yk9XUzYzZXFlanNZcXpObmxZVHV2Zm52LTFnNGlXaXdGZjhCaEZMUlFKZDRV?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 14:00:00 GMT",
-    "fetched_at": "2026-10-03T19:09:25.302321+00:00"
-  },
-  {
-    "id": "027712fb656d",
-    "title": "The Emerging Tech Reshaping Minnesota’s Manufacturing Sector",
-    "source": "Thomasnet",
-    "summary": "The Emerging Tech Reshaping Minnesota’s Manufacturing Sector&nbsp;&nbsp;Thomasnet",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFcEduMXI1M3EtdDFVN0prODRjcFlEazZ3T09KODVIU3gxRllyd25aS0ViYm55VHllT2lUMFhlV1ZVOUV5OU1zcE15WEw2NGxRSFMzUl9vZ0czekp5ZlRnSW9QZ2RTZ3pJdWtLeQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 01 Oct 2026 22:16:08 GMT",
-    "fetched_at": "2026-10-03T15:07:16.204760+00:00"
-  },
-  {
-    "id": "f0157bc6fba2",
-    "title": "GAF Expands SkillBridge Partnership for Transitioning Service Members",
-    "source": "LBM Journal",
-    "summary": "GAF Expands SkillBridge Partnership for Transitioning Service Members&nbsp;&nbsp;LBM Journal",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTVlkNEtMLWt1X0tpMmFnWktJQlI2Rl9HcWJtcUNxcE4xMkVVNXh4eW9HZHVUU1hzeHRXOFFoNzBQQkY1TGsxWnY5S0hiS1lQZE1BSm9PQ0V6eEdQekhjOWp2djg2c3BQZVJ0bnF1SUpwZnc5U2JpY1cxWE1uOHVWVmM0dVNnTEdUTVo2SHFOSHpWRGlnVjFITzk2SVFxUTRxLXVseDJzalZoQW4tbXhEY2RCZnNoOENYVTIta0ZYUS1qdm13V2lKQXlaYXNVSUcyaW55T241OXBmV3NSUEw1OHpFSQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 20:35:15 GMT",
-    "fetched_at": "2026-10-03T15:07:16.204774+00:00"
-  },
-  {
-    "id": "830286192ced",
-    "title": "This Week's Top Five Stories in Supply Chain",
-    "source": "Supply Chain Digital",
-    "summary": "This Week's Top Five Stories in Supply Chain&nbsp;&nbsp;Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHFGRllZdXoyZzNEYjRLMlFPZ01maWtfUzNocVFwWHpiYjR6TUhlN2lKbGRoWnA0U1RrSzEyWW1fWGl4VFg3TFF6UktBTGRIMmtLYy16NHNhTWJLWDVFUHhpT2Z2SzRrODhGblFUNHhzbVRnaTdDc3daV190cXowYXlFRlNNemM2WUNEX0JPTFo0Mnc?oc=5",
-    "image": "",
-    "published_at": "Sat, 03 Oct 2026 08:09:28 GMT",
-    "fetched_at": "2026-10-03T15:07:17.276204+00:00"
-  },
-  {
-    "id": "c72dc6d92094",
-    "title": "The Case for the American Manufacturing Asset Class",
-    "source": "Andreessen Horowitz",
-    "summary": "The Case for the American Manufacturing Asset Class&nbsp;&nbsp;Andreessen Horowitz",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTllZNHNzVDJZRnRmd1JYNDlOaUNBXzFGcG5hbzVoaDBQamg0NXlLVmM4azNEbThha0E4bDNQTS1ZY2MtSE92bmpCckZGaFRJc1VaZG1odXlpNHh2MVlzTHQ0XzZYRXI1T0JWT1BrazYzc3RhbTVhQg?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 16:08:51 GMT",
-    "fetched_at": "2026-10-03T10:20:18.677531+00:00"
-  },
-  {
-    "id": "bc2a8219d220",
-    "title": "Manufacturing is the lifeblood of our regional economy",
-    "source": "The News-Enterprise",
-    "summary": "Manufacturing is the lifeblood of our regional economy&nbsp;&nbsp;The News-Enterprise",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdE45Y3duTTFnTzdHakVEUVFMYklhUnVwRFQ1akNWSC1MZGh3Nmg5Y1JFUXhKNFdhdHZ4MUs2NUZYTTI1WG45SWRZX0s1bkZQX1c3X0EtcEc2SkItbTBLeTVMdjgwVmV5RTJaVXBSR1czVUZXRTFNODNESk8ySzhxM1FfRXMwTk1rS25sZ2xEWGs0Y2lOR1ZJQ1FLSUEzTmpRbFgzRkZMOVY4VWVpME1RXzVwRm5ieFlzMi15QURweTFPM1dwaU5BaENxblBpeU9ObVN5b1NEZDNXU0ZjVUNNT0MwdVpnVlU?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 05:22:00 GMT",
-    "fetched_at": "2026-10-03T04:56:35.417949+00:00"
-  },
-  {
-    "id": "e5380362e66e",
-    "title": "6th annual Manufacturing In Action connects 400+ students with Valley employers",
-    "source": "WTAP",
-    "summary": "6th annual Manufacturing In Action connects 400+ students with Valley employers&nbsp;&nbsp;WTAP",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXhPY3NueG10dWxWUDZuRUFXLWpXYUxTcnRiVV93eE53LUpSc29zSjRNS2V3U2tTRGlzbE90cE90U0lRbm9VRExwRi1XTHY4OFc4dnJRUXFqT2lYOER0Rnc2WE5SbjVaWW1UVkFpWUYwVXlQaWVJV2JPTFIydTFPdUgxQVdJeWhwblFNLUI3M2lnUTBwbVRETXZMWUw3eGFFT1p5UVNNMGczNEFB?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 20:44:00 GMT",
-    "fetched_at": "2026-10-02T23:41:20.061656+00:00"
-  },
-  {
-    "id": "1edd892f7842",
-    "title": "Magnetostrictive Linear Transducers Market Forecast to 2035: Industrial Automation Demand Drives 6% CAGR",
-    "source": "IndexBox",
-    "summary": "Magnetostrictive Linear Transducers Market Forecast to 2035: Industrial Automation Demand Drives 6% CAGR&nbsp;&nbsp;IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVhzdFBJUmo2dng0UkhvTnlzWXdtalcyMkhXN0tZWEtRR0ZTWmU4TkQwT1E1eTc1YmtSakY1WXhRQ3I5b1p5MnR3VjdvaU9vRzVBR2Y4R0kwbElKUTI2NTJyWVRpc0JTS1JDVU9XTXZtVXl0dXNpN0ZzVVNFdzdyb2dMM1FjSjJPZEVVNFh4WkN2NllqLUNIVk0xRkVYVG5MVHZabm85U01BdDVjT2dqZ1I2eVZYc1FQemNVSnBhT2s4ZUQyd042ZlFxSzg?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 17:21:04 GMT",
-    "fetched_at": "2026-10-02T23:41:20.061705+00:00"
-  },
-  {
-    "id": "40fd79194353",
-    "title": "Making It In the Bay: Bay Area Manufacturing Labor Market Analysis",
-    "source": "UC Berkeley Labor Center",
-    "summary": "Making It In the Bay: Bay Area Manufacturing Labor Market Analysis&nbsp;&nbsp;UC Berkeley Labor Center",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTXpiY2xzNThfc3dSS2IxZG5ybjdNSmVmM2xxSzRkWVc3dTdqYVV4TkRteFBDcjlzcmFZeThlbFlHbDlNSUZQM3dtdENQaVI0UHlpcGE5RlZwNFNvWFk1M29RSWo?oc=5",
-    "image": "",
-    "published_at": "Wed, 30 Sep 2026 13:54:04 GMT",
-    "fetched_at": "2026-10-02T19:08:01.680639+00:00"
-  },
-  {
-    "id": "3369d83a6800",
-    "title": "Manufacturing sector flashes 'green' light in August - Focus Taiwan",
-    "source": "CNA English News",
-    "summary": "Manufacturing sector flashes 'green' light in August&nbsp;&nbsp;Focus Taiwan - CNA English News",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RaWZJZVVoLXdvbHk5YXJoODk3TUpWbGJzWjNXdWRqZ3g2cFRKQWNkeEw5RmsxMElZNmFWWkxhcjdkQlJyNF9Hd0JISmJIUDNzaFA5bWpoVQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 02 Oct 2026 09:20:00 GMT",
-    "fetched_at": "2026-10-02T19:08:01.680753+00:00"
-  },
-  {
-    "id": "418e80c1f0a5",
-    "title": "UPS launches Secure Commerce platform to help shippers manage supply chain risk",
-    "source": "Logistics Management",
-    "summary": "UPS launches Secure Commerce platform to help shippers manage supply chain risk&nbsp;&nbsp;Logistics Management",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDVJaWNLekc4MVoyWGlYckUtTEc2UkZSaVpHUHlISDhSeV9fN21WYmd2Y043UkdObENGOFUyeEJkZWcydXFQTjZlX25ENnpoU3dMOW9XMmZLMDFxMkpyOW1CZldLcXNCa0lLRFRyaHgycXVrenVUWFFxc0VaQ3NMOHFTU0FHeDA1Umw2V181V1hzY3NMNEpjS3FPMGY4VFRKbGxWOF9BSHBWZ3NBNnY5dVh1cG1EVFl0?oc=5",
-    "image": "",
-    "published_at": "Thu, 01 Oct 2026 15:20:30 GMT",
-    "fetched_at": "2026-10-02T19:08:02.654123+00:00"
   }
 ]
