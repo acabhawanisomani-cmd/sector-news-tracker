@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUY3aXJ5RldDU0d0Y0szYk9TWFVYRnFmdzlCcVFROTIzeHR0U2NiYk9xTHBMbGlJaXpxYzVuNXpNb3lodmRYN3BVLURRczJwQkh5SF9hVDRKTmtHOUpaeFRiTG1iaXc1N0hxeDRBX1RhOHBldHd2VHBpSWZ1OGYtLVRxMlVwOEREYkhYTk1mVnEyTVZNUDVPUzdUdm9neTNoT0NodURJTHFWR2dQT3VjT0xlcUFjdGtI?oc=5",
     "image": "",
     "published_at": "Fri, 09 Oct 2026 01:04:40 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965866+00:00"
+    "fetched_at": "2026-10-09T16:03:26.900658+00:00"
   },
   {
     "id": "ccf415b1a141",
@@ -17,17 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2NGMEpDUGtBOVUtTGVKdmdzdkRuZ2JCNnEwczNpNkdCeVB0bDNlYzdPNk11djZXalljaS1GMTlheXpoRlRQWHJiOXNHaDhRNU5zYndJQkJJRWNZLUtjakdBUk5CS1p6OGtvZ2ctZUFxYWtJUkxKbkJPNEM1ZnJqU3VVVHZQY3VQSHZueHVoMA?oc=5",
     "image": "",
     "published_at": "Thu, 08 Oct 2026 12:12:20 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965892+00:00"
-  },
-  {
-    "id": "f47c977d9d38",
-    "title": "Top 10: Oil & Energy Companies in the US",
-    "source": "Energy Digital",
-    "summary": "Top 10: Oil & Energy Companies in the US&nbsp;&nbsp;Energy Digital",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FVE5EcHdBclpvV3gzNFhtcHdsa1BmRjQyMGRsVldwamFaQXR2WFExREFNWEYzdXZXZjdkX1F5RUM5SDJBS2J2d2h5MkVCQ1o1RFBnQ1J2a0hXSGY2Y3BOWDQzekxVMFJwUXZaNUZiUk9VczlhczJJQg?oc=5",
-    "image": "",
-    "published_at": "Thu, 08 Oct 2026 09:55:35 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965906+00:00"
+    "fetched_at": "2026-10-09T16:03:26.900687+00:00"
   },
   {
     "id": "7e5ce6dcdf94",
@@ -37,7 +27,17 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVNlcGhJYWpfY0ZNNHY4MFZDZ3NyaU9zQ21NLXhnQmxqeTQwN2JsWnc5a041cWRfSUhDRVhXYVRKTi05aXBFaHNLYV9XWlBLVTVKR1E5VXFWQmxPX2cwQXRZUUdHT1JFem1xX09Zel92SXZTLVI2WDBGWVJaNHplMlR4a3BBSlVtRG9Kd29yRGxQa2FveENISQ?oc=5",
     "image": "",
     "published_at": "Mon, 05 Oct 2026 15:48:55 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965921+00:00"
+    "fetched_at": "2026-10-09T16:03:26.900703+00:00"
+  },
+  {
+    "id": "f47c977d9d38",
+    "title": "Top 10: Oil & Energy Companies in the US",
+    "source": "Energy Digital",
+    "summary": "Top 10: Oil & Energy Companies in the US&nbsp;&nbsp;Energy Digital",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FVE5EcHdBclpvV3gzNFhtcHdsa1BmRjQyMGRsVldwamFaQXR2WFExREFNWEYzdXZXZjdkX1F5RUM5SDJBS2J2d2h5MkVCQ1o1RFBnQ1J2a0hXSGY2Y3BOWDQzekxVMFJwUXZaNUZiUk9VczlhczJJQg?oc=5",
+    "image": "",
+    "published_at": "Thu, 08 Oct 2026 09:55:35 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900717+00:00"
   },
   {
     "id": "f05c3cfb2658",
@@ -47,7 +47,157 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjhqZi11WERhdUo2aGZGTGpub0ZMbElrSjJ5S1RWTG40aDEzRFlweC15Zmw3S2Z6SGNEckxxS2lqX08yVnZyWWU2SDl1ODZlQjEzQTFMVEh6VV9Ha1pORGhqNGlzLVZ3Tmg2STNiTFdXMThuajZhaTZTMFY1SVl4azlzaTJaODdHdktqa1VMenp6SlRPd1NNYtIBngFBVV95cUxQWmlJc0F3UExfVWVFYjdjNExoZ245SndkZ3FXSDJDZENyT3QzR05xbmNieGY0YVlYQi1DWjJCWWdhMVlJOWtLUXhwVGZRaURKWllHWUZ2ZDdVay02VGJmRHNWeDZFUV9ubnFXQlI2TjBCV2hNX0Y3Y0RlX213Q3VvU3pDNGhXRUtTeXAyV2RmR3g1Q2ZMUk5ueDJ0Z040dw?oc=5",
     "image": "",
     "published_at": "Wed, 07 Oct 2026 20:05:00 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965936+00:00"
+    "fetched_at": "2026-10-09T16:03:26.900732+00:00"
+  },
+  {
+    "id": "b2656d8ccdb8",
+    "title": "Energy sector faces risks of painful cost overruns, RBC says",
+    "source": "The Globe and Mail",
+    "summary": "Energy sector faces risks of painful cost overruns, RBC says&nbsp;&nbsp;The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVVwYWFyT084Z3A4RlNlaEZSZDNxUW9Za0hscTQ0TnZXMzFKSkU4WU1GRC1hSEtxNEtoX1FGY19XMER0ZllfUmowbzBpcDVUMk80My1FWUtPZ0lGMjl5YTF6WEl1bHpuWmN5TUE1bl9MMkV4dHdYZGxjWk9KRTNKWHpZRnhTLWhFbGtwdGd5RVVlTkpoc1gtOUhNTkpBeTNJU3BXWkYtbGxzUnVyeDNmZFFMZ3ZKdw?oc=5",
+    "image": "",
+    "published_at": "Wed, 07 Oct 2026 09:00:00 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900746+00:00"
+  },
+  {
+    "id": "a70db6480290",
+    "title": "Methane Policy Readiness in ASEAN’s Oil and Gas Sector Assessments of Indonesia, Malaysia, Thailand, Viet Nam",
+    "source": "ASEAN Centre for Energy",
+    "summary": "Methane Policy Readiness in ASEAN’s Oil and Gas Sector Assessments of Indonesia, Malaysia, Thailand, Viet Nam&nbsp;&nbsp;ASEAN Centre for Energy",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHhLODBTeUVfWjlRaDh6R3AyUHFKaHhsWEdCRjAxbFhGQm9XN1daZDQ3TWRzMnlFZ0VnUlBhY2Z1dXVvY1hiTEdfd2tXRU0zckREZk96eVptVmFoRjcxR1hIanJJU2k5aXM1Zy02VVZIWGt0NW5jQlZ3SWVIQ0tud29KY1ktWk1qdUN0LXBTbkZTS2ZQaTY5UDBHSjIxUURiLUVUZThValNkYU1vaDk4clh5dDQ3eGpvdzZ5UFNCVW5GakpOWVg3WE9ES1ZqdHo4OHdxT3RVQmZZQQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 07 Oct 2026 04:45:31 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900771+00:00"
+  },
+  {
+    "id": "3e02fed80891",
+    "title": "Italy moves to speed oil, gas projects in energy security push",
+    "source": "Reuters",
+    "summary": "Italy moves to speed oil, gas projects in energy security push&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE9PNnNsWnhZckpuM0xyUy10NWpTSDc4M0FKX20wZ2pYYUtPTjdGYVhvSEF3VG9xdkh4ODRVeUk4VFhuRjRKa2c4OV9XMXBGd2ItckJudVY1dkRhYnF0T1ozdm5YbGwyRlJLek02N3RGYS01eFNReE5yN1NjWWxTNG1UV3U3RnlkZFp1NldHbnczTmRBSmdudjJ6VU13NVIyVUFJRDVqM1oyVG8?oc=5",
+    "image": "",
+    "published_at": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900785+00:00"
+  },
+  {
+    "id": "7ef70b9e9d15",
+    "title": "Zacks Industry Outlook Western Midstream, Global Partners and NGL Energy Partners",
+    "source": "TradingView",
+    "summary": "Zacks Industry Outlook Western Midstream, Global Partners and NGL Energy Partners&nbsp;&nbsp;TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1ZBYS02OVJiMUkxV0FEX01YZFJwNGV1MUNJM0lEWEhhM0xJVUlZbjcyeEEwbzMtcTBEY3JyQUx6STlQUDFQemxlbUJyUkJtU0JocGNxWUFsVWhXN3lfckZpcm50SFlzSUd3SzZqX0JoLUw4UVBGcXNVV19Ic3hwTGFBNU9Udzg1bHhwQTYyNFhRcFJKXzIxTDExZmJBc0tQbEpUcUdVdEV3cEFOcVJxalh0bHQ2STJnWThuTF9wSXpJZDlzX1luQTJKLVRrd2I1anc?oc=5",
+    "image": "",
+    "published_at": "Thu, 08 Oct 2026 06:27:00 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900799+00:00"
+  },
+  {
+    "id": "7112a2797016",
+    "title": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy",
+    "source": "Yahoo Finance",
+    "summary": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUJ6WXdiZWgxaFplX0Z2ekVOZlVGWlR6S0F4Mnd3STBPVFN3MGh0Q3o1NDhkV08wSHB2ZE02X0hscGJEWDdoYVZJX0JWNXhRT0d5dmJGZzRfZUFpRmxMaFhlQmRXRXZ2ajNYcXozMzNDM0h4WDZQSmJBNm1HODJ3N0pIcWhKUVRmeC1sT3YyeV81LWE5SVE?oc=5",
+    "image": "",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-09T16:03:26.900816+00:00"
+  },
+  {
+    "id": "46974452770c",
+    "title": "Solar Rooftop Potential",
+    "source": "Department of Energy (.gov)",
+    "summary": "Solar Rooftop Potential&nbsp;&nbsp;Department of Energy (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuSk03WFQ0Yjd5U3AtM0hUdWxSNWNRS3FLTWlDZUU5WVRodU9QWHRLUWpCc2tEUkhaLWtQMC1CUnF5U3llSHcwWi1EZ0p6ZEFMRXdhclZ2ZldtZmVjOEE1dGg0Y3hiVDhUWVZr?oc=5",
+    "image": "",
+    "published_at": "Mon, 05 Oct 2026 15:48:55 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139589+00:00"
+  },
+  {
+    "id": "ac5aa9eb6d38",
+    "title": "Illinois State and Heartland students bring solar power to Navajo Nation homes through Skip the Grid",
+    "source": "Illinois State University News",
+    "summary": "Illinois State and Heartland students bring solar power to Navajo Nation homes through Skip the Grid&nbsp;&nbsp;Illinois State University News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUh4ZVNaRk5MN3J3bU1zdG4xVUZaOXozRTliM240RkN5d2pNcGtBdTBfcjdLWTFnOThDYUpSci1BZ29ROUprbzl0Qlp3c0ZiclFuaW40aUgyMHN2cldsVFZGV0ZmOW52ZGJpNHhDZ3Z5X2cwc015UjM2Nm5CZDBCb2dHY3Fxd2NRLUpTS3V4SjVzbDZqdEFFMHEzbmJQUlMxZE8zSkc2RGVGMWNNVG40TTU5d21YdGwzV1BxVXpGMy00VHNjRGN3a2ZVZmRQdkNNcnJlQkJwcw?oc=5",
+    "image": "",
+    "published_at": "Wed, 07 Oct 2026 18:55:40 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139623+00:00"
+  },
+  {
+    "id": "6330cbe4fdf6",
+    "title": "Institutional equity funds community solar projects for Pivot Energy and Generate Capital",
+    "source": "PV Tech",
+    "summary": "Institutional equity funds community solar projects for Pivot Energy and Generate Capital&nbsp;&nbsp;PV Tech",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEFlMWtJTGhzbnl5bDlsOXBfZzVWUXFxOTN4WWRsQUQ2d0Z3dFFXbVlhQWNKUG45c2k4LUYweUNkci1GMzJqUjRlMnRnczZycU81TDRmclBYdG1GNldjdUt5YmprM200SkJmS0huYlEwSDZiOVhoXzBsWlgtbUN0MFpoY1U2VXRYV2ptTmhGdV90MUxueWg3RjZIb1dhTHItNzdsekhfdDJNRFhTYTF2UFo4UUk?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 13:27:05 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139641+00:00"
+  },
+  {
+    "id": "ae540effa7c3",
+    "title": "Grenergy secures $460 Million financing for 446 MW of solar capacity and 1.8 GWh of energy storage in Chile",
+    "source": "Renewable Energy Magazine",
+    "summary": "Grenergy secures $460 Million financing for 446 MW of solar capacity and 1.8 GWh of energy storage in Chile&nbsp;&nbsp;Renewable Energy Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm9RamhCcU54QlVRUzU0NHltS3JGRmpaemFDMXB5MnVoNl9hdWN0Snp4TTVwWjd6c2JYWFRMS2FLLWZEM0hYVmdDRnJSbUw3S1NhZ3hRTEpJTGJGTUtZb0NGbXF0QnNTa180VTFPUTh3NEhHMDJYRjdkVkgzbzM5WGU3Nk45T29yN0tYYjRrSFNuVm1vX1E2UUdkRkUwSEt4UWlhb011VQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 11:48:41 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139662+00:00"
+  },
+  {
+    "id": "13fa178e3880",
+    "title": "Case study: Apartment solar? A novel approach from Bucharest",
+    "source": "Renewable Energy World",
+    "summary": "Case study: Apartment solar? A novel approach from Bucharest&nbsp;&nbsp;Renewable Energy World",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlRUUUpSMXNDVWpVQ2Q0d3BrT1QydWwzQkZ1RmNjUGtIcGlJN2E2c19NdzVTVzY5OTI4LVFZbzk0YWpnclVDS3pZNlN1NG5HT0ZEc05sYVZ1emRseHlsUVN0MVE1NHJrVnNhM1FYQ2RUbEJPRURYaDR1WEZGQ0ZfUmZzOUVXREpXWGtFZkF5VGZ6MTkyU21rWkZQbVFlVFZmRVY2Nm1rRDZCeTJOWGswd3JtUlg?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 10:01:38 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139677+00:00"
+  },
+  {
+    "id": "8c9392b81a6a",
+    "title": "Solar Panels That Plug Into Your Wall Are About to Be Everywhere",
+    "source": "National Geographic",
+    "summary": "Solar Panels That Plug Into Your Wall Are About to Be Everywhere&nbsp;&nbsp;National Geographic",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0NPQnM1TjdnNDdOaC1WeVZCS3QwRld3Um9ZYjN0ZzNzTUNIYnptYWx6anNuWmlNbnVEY202UWhjSlI3dHRxQk9YSHViSGdoSWExRUxWQWR3WmdmWjJXd0tWNTg3NExOLUl2SWNyY2lsM2ZJWVE1TG5RSGtmYzJYV3hGSzdOU3JHY2pBOFZXM1Z1U3FuWFJiTEFIRF9GQjE5Zmc?oc=5",
+    "image": "",
+    "published_at": "Wed, 07 Oct 2026 11:07:12 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139694+00:00"
+  },
+  {
+    "id": "7e1edab94f21",
+    "title": "Grenergy secures USD 457m for Chilean solar-storage platforms",
+    "source": "Renewables Now",
+    "summary": "Grenergy secures USD 457m for Chilean solar-storage platforms&nbsp;&nbsp;Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlcwd0lGNHhuZ21SVms4Uy1zMEZDQ3Z2a29fUnF0MjJKOXRNckt5QXBvU0JfbVNQdEVEdlg4SjQ0SGdNUzJZemF5VXA5aUJDSE1TOFVneGFTQ3pFeHp6TFNoTGUxN0g3Snh6dUVvSk8yakU5WmdHYkJNQVBxWWNibm1hMUVGUTQwVHlqdjVqd2dLVmZQcnlhalNXeDBBSzhXSVRV?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 07:48:31 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139708+00:00"
+  },
+  {
+    "id": "6286ca8090eb",
+    "title": "China’s AI Race Against the US Hinges on Harnessing Its Green Energy Advantage",
+    "source": "Bloomberg.com",
+    "summary": "China’s AI Race Against the US Hinges on Harnessing Its Green Energy Advantage&nbsp;&nbsp;Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83MTd0MGJIalJTNmJrbnBmRHp5TmI5U2N3aEJrNk9YTWM3SVN1cmFXalA3TGVjdHJPUEZNWmlmNXNEUU1IQ1hHOERBcWprd2JiNUFOT2pFc203a1lpRHBCZ29tWHNnRDZ1cGJpcDZueFg?oc=5",
+    "image": "",
+    "published_at": "Thu, 08 Oct 2026 21:00:00 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139731+00:00"
+  },
+  {
+    "id": "0a401b856922",
+    "title": "Thousands of wind and solar park systems sit exposed on the internet across Europe",
+    "source": "Help Net Security",
+    "summary": "Thousands of wind and solar park systems sit exposed on the internet across Europe&nbsp;&nbsp;Help Net Security",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzRERTlvZU5hR3FGRzhHeHZYTWdTOXpMOXp2RjFucmxyZndDbjhKU0Ywc3lYa1QwRHRRSkV2TVpGSUVpMGY1UTlObWxrWTZVWmV5UExxT0pvNnJUd3ctc3ZPR0dtTHc2RmpWZG5hZ3RjbGxZQm1tbk1mYy1ZbkJaVzRzdw?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 05:30:52 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139748+00:00"
+  },
+  {
+    "id": "94c3c31f6214",
+    "title": "Samruk-Energy and O-GREEN Sign Key Renewable Energy Pact",
+    "source": "SolarQuarter",
+    "summary": "Samruk-Energy and O-GREEN Sign Key Renewable Energy Pact&nbsp;&nbsp;SolarQuarter",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmZDNy02VzRKenZKc1VTS2Q2bU5yX2xDSlFPSDBlVk9Ba015cWtfRW5ZYzNWNG9NSm5kMl9RT3ZTVVprZ0lVQmh1bEI5ZGhuQXNheXdBWlJkQ3k1ek50Z0U4MW1uNEhaRk45N3hNc2NBMmZZUTFINWY3dWM1aEtCZW1pNGFqRmVTdTY1NnFJdUJ3VXRxRlcyZWVHbWRNTnZ0a1R6UFRSbkx6S21Da1ppRG1MWlFKd2xFMXg5S3c4eURUUkhKQXg2T1Vpak5fNlV6RzJxNXVYOVc1WWV1UUtfLQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 09 Oct 2026 13:09:55 GMT",
+    "fetched_at": "2026-10-09T16:03:28.139762+00:00"
   },
   {
     "id": "e18699ac6702",
@@ -58,56 +208,6 @@
     "image": "",
     "published_at": "Wed, 07 Oct 2026 15:23:20 GMT",
     "fetched_at": "2026-10-09T08:53:38.965951+00:00"
-  },
-  {
-    "id": "b2656d8ccdb8",
-    "title": "Energy sector faces risks of painful cost overruns, RBC says",
-    "source": "The Globe and Mail",
-    "summary": "Energy sector faces risks of painful cost overruns, RBC says&nbsp;&nbsp;The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVVwYWFyT084Z3A4RlNlaEZSZDNxUW9Za0hscTQ0TnZXMzFKSkU4WU1GRC1hSEtxNEtoX1FGY19XMER0ZllfUmowbzBpcDVUMk80My1FWUtPZ0lGMjl5YTF6WEl1bHpuWmN5TUE1bl9MMkV4dHdYZGxjWk9KRTNKWHpZRnhTLWhFbGtwdGd5RVVlTkpoc1gtOUhNTkpBeTNJU3BXWkYtbGxzUnVyeDNmZFFMZ3ZKdw?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 09:00:00 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965965+00:00"
-  },
-  {
-    "id": "a70db6480290",
-    "title": "Methane Policy Readiness in ASEAN’s Oil and Gas Sector Assessments of Indonesia, Malaysia, Thailand, Viet Nam",
-    "source": "ASEAN Centre for Energy",
-    "summary": "Methane Policy Readiness in ASEAN’s Oil and Gas Sector Assessments of Indonesia, Malaysia, Thailand, Viet Nam&nbsp;&nbsp;ASEAN Centre for Energy",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHhLODBTeUVfWjlRaDh6R3AyUHFKaHhsWEdCRjAxbFhGQm9XN1daZDQ3TWRzMnlFZ0VnUlBhY2Z1dXVvY1hiTEdfd2tXRU0zckREZk96eVptVmFoRjcxR1hIanJJU2k5aXM1Zy02VVZIWGt0NW5jQlZ3SWVIQ0tud29KY1ktWk1qdUN0LXBTbkZTS2ZQaTY5UDBHSjIxUURiLUVUZThValNkYU1vaDk4clh5dDQ3eGpvdzZ5UFNCVW5GakpOWVg3WE9ES1ZqdHo4OHdxT3RVQmZZQQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 04:45:31 GMT",
-    "fetched_at": "2026-10-09T08:53:38.965989+00:00"
-  },
-  {
-    "id": "3e02fed80891",
-    "title": "Italy moves to speed oil, gas projects in energy security push",
-    "source": "Reuters",
-    "summary": "Italy moves to speed oil, gas projects in energy security push&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE9PNnNsWnhZckpuM0xyUy10NWpTSDc4M0FKX20wZ2pYYUtPTjdGYVhvSEF3VG9xdkh4ODRVeUk4VFhuRjRKa2c4OV9XMXBGd2ItckJudVY1dkRhYnF0T1ozdm5YbGwyRlJLek02N3RGYS01eFNReE5yN1NjWWxTNG1UV3U3RnlkZFp1NldHbnczTmRBSmdudjJ6VU13NVIyVUFJRDVqM1oyVG8?oc=5",
-    "image": "",
-    "published_at": "Fri, 11 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-09T08:53:38.966003+00:00"
-  },
-  {
-    "id": "7ef70b9e9d15",
-    "title": "Zacks Industry Outlook Western Midstream, Global Partners and NGL Energy Partners",
-    "source": "TradingView",
-    "summary": "Zacks Industry Outlook Western Midstream, Global Partners and NGL Energy Partners&nbsp;&nbsp;TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1ZBYS02OVJiMUkxV0FEX01YZFJwNGV1MUNJM0lEWEhhM0xJVUlZbjcyeEEwbzMtcTBEY3JyQUx6STlQUDFQemxlbUJyUkJtU0JocGNxWUFsVWhXN3lfckZpcm50SFlzSUd3SzZqX0JoLUw4UVBGcXNVV19Ic3hwTGFBNU9Udzg1bHhwQTYyNFhRcFJKXzIxTDExZmJBc0tQbEpUcUdVdEV3cEFOcVJxalh0bHQ2STJnWThuTF9wSXpJZDlzX1luQTJKLVRrd2I1anc?oc=5",
-    "image": "",
-    "published_at": "Thu, 08 Oct 2026 06:27:00 GMT",
-    "fetched_at": "2026-10-09T08:53:38.966017+00:00"
-  },
-  {
-    "id": "8c9392b81a6a",
-    "title": "Solar Panels That Plug Into Your Wall Are About to Be Everywhere",
-    "source": "National Geographic",
-    "summary": "Solar Panels That Plug Into Your Wall Are About to Be Everywhere&nbsp;&nbsp;National Geographic",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0NPQnM1TjdnNDdOaC1WeVZCS3QwRld3Um9ZYjN0ZzNzTUNIYnptYWx6anNuWmlNbnVEY202UWhjSlI3dHRxQk9YSHViSGdoSWExRUxWQWR3WmdmWjJXd0tWNTg3NExOLUl2SWNyY2lsM2ZJWVE1TG5RSGtmYzJYV3hGSzdOU3JHY2pBOFZXM1Z1U3FuWFJiTEFIRF9GQjE5Zmc?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 11:07:12 GMT",
-    "fetched_at": "2026-10-09T08:53:39.945299+00:00"
   },
   {
     "id": "fe125441cad1",
@@ -168,16 +268,6 @@
     "image": "",
     "published_at": "Thu, 08 Oct 2026 16:23:20 GMT",
     "fetched_at": "2026-10-09T08:53:39.945414+00:00"
-  },
-  {
-    "id": "7e1edab94f21",
-    "title": "Grenergy secures USD 457m for Chilean solar-storage platforms",
-    "source": "Renewables Now",
-    "summary": "Grenergy secures USD 457m for Chilean solar-storage platforms&nbsp;&nbsp;Renewables Now",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlcwd0lGNHhuZ21SVms4Uy1zMEZDQ3Z2a29fUnF0MjJKOXRNckt5QXBvU0JfbVNQdEVEdlg4SjQ0SGdNUzJZemF5VXA5aUJDSE1TOFVneGFTQ3pFeHp6TFNoTGUxN0g3Snh6dUVvSk8yakU5WmdHYkJNQVBxWWNibm1hMUVGUTQwVHlqdjVqd2dLVmZQcnlhalNXeDBBSzhXSVRV?oc=5",
-    "image": "",
-    "published_at": "Fri, 09 Oct 2026 07:48:31 GMT",
-    "fetched_at": "2026-10-09T08:53:39.945428+00:00"
   },
   {
     "id": "7065d4afedf1",
@@ -310,16 +400,6 @@
     "fetched_at": "2026-10-08T16:19:34.209568+00:00"
   },
   {
-    "id": "ac5aa9eb6d38",
-    "title": "Illinois State and Heartland students bring solar power to Navajo Nation homes through Skip the Grid",
-    "source": "Illinois State University News",
-    "summary": "Illinois State and Heartland students bring solar power to Navajo Nation homes through Skip the Grid&nbsp;&nbsp;Illinois State University News",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUh4ZVNaRk5MN3J3bU1zdG4xVUZaOXozRTliM240RkN5d2pNcGtBdTBfcjdLWTFnOThDYUpSci1BZ29ROUprbzl0Qlp3c0ZiclFuaW40aUgyMHN2cldsVFZGV0ZmOW52ZGJpNHhDZ3Z5X2cwc015UjM2Nm5CZDBCb2dHY3Fxd2NRLUpTS3V4SjVzbDZqdEFFMHEzbmJQUlMxZE8zSkc2RGVGMWNNVG40TTU5d21YdGwzV1BxVXpGMy00VHNjRGN3a2ZVZmRQdkNNcnJlQkJwcw?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 18:55:40 GMT",
-    "fetched_at": "2026-10-08T16:19:34.209602+00:00"
-  },
-  {
     "id": "ef50f2b87258",
     "title": "BLC Energy cleared to build another Scottish solar-storage plant",
     "source": "Renewables Now",
@@ -358,16 +438,6 @@
     "image": "",
     "published_at": "Mon, 05 Oct 2026 20:35:36 GMT",
     "fetched_at": "2026-10-08T16:19:34.209691+00:00"
-  },
-  {
-    "id": "46974452770c",
-    "title": "Solar Rooftop Potential",
-    "source": "Department of Energy (.gov)",
-    "summary": "Solar Rooftop Potential&nbsp;&nbsp;Department of Energy (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuSk03WFQ0Yjd5U3AtM0hUdWxSNWNRS3FLTWlDZUU5WVRodU9QWHRLUWpCc2tEUkhaLWtQMC1CUnF5U3llSHcwWi1EZ0p6ZEFMRXdhclZ2ZldtZmVjOEE1dGg0Y3hiVDhUWVZr?oc=5",
-    "image": "",
-    "published_at": "Mon, 05 Oct 2026 15:48:55 GMT",
-    "fetched_at": "2026-10-08T16:19:34.209716+00:00"
   },
   {
     "id": "88aec3b7d6fb",
@@ -428,75 +498,5 @@
     "image": "",
     "published_at": "Thu, 08 Oct 2026 05:36:14 GMT",
     "fetched_at": "2026-10-08T08:44:57.870998+00:00"
-  },
-  {
-    "id": "bc50b2cc1459",
-    "title": "Iowa Farmers Union, solar group sues USDA over changes to renewable energy funding program",
-    "source": "Daily Gate City",
-    "summary": "Iowa Farmers Union, solar group sues USDA over changes to renewable energy funding program&nbsp;&nbsp;Daily Gate City",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOOUJWUVBidkx4cGZOR2ViamYwR3NlVHJUODIyXzRnMDdKXzB3b1MzeEtzeFFJODRIZjZvTHQ5OHN1SzdadHc4VWU5WGlRaHZHcGdCdDJ4Nm1pTnNRLVFWMDQxc3FNUElad2FJRkg0X0FTWFAtcUV3Szd3STlUZ0hELWloUjZmZVhPSWhGNnB1QUdrVjVkZGVsUS1WTTZnT1llNDdxYTg1ZTRHZDl5QlFDNnJNbjJpelYxcEVleW9ZNlJkRzlNcV9VZ0xMZkhVbzF0Xy16azZvcUpDTWtzbnptbjk2Y2I3Yl9iQUFDUzNTdE1GSUVDS3IxTS0zcldvOGZQR2dfUUVwLXdzemhRZ2RRZmItbWMxcTJfYW5FU0t0d3ZKTGNM?oc=5",
-    "image": "",
-    "published_at": "Tue, 06 Oct 2026 05:00:00 GMT",
-    "fetched_at": "2026-10-08T08:44:57.871015+00:00"
-  },
-  {
-    "id": "6c375a2a7bb0",
-    "title": "Renewable Energy Update 10.2.26",
-    "source": "JDSupra",
-    "summary": "Renewable Energy Update 10.2.26&nbsp;&nbsp;JDSupra",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RDhUdnBDMjZoRzhHNjlfOUdtLTdoMVlxenJ6SlhYcVRaWmVYT1N6RmREM00yZU1UY1JOVThwSC1Ldnk0RFFXTXRfU3ktdHQ1RTJWc0lSbFJ3dUozN1RHS09LQnJ6R2YzN0otV2pMVkQ4bWNlVVI5QlhJZ1dtaHc?oc=5",
-    "image": "",
-    "published_at": "Mon, 05 Oct 2026 22:00:17 GMT",
-    "fetched_at": "2026-10-08T08:44:57.871026+00:00"
-  },
-  {
-    "id": "456c79f859b9",
-    "title": "USDA & DOE Solar Energy and Farming Initiatives",
-    "source": "Department of Energy (.gov)",
-    "summary": "USDA & DOE Solar Energy and Farming Initiatives&nbsp;&nbsp;Department of Energy (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2RnTVVWdGpON1FLenZvOGVOTGtFdTk4V0ktMG9Ya0RpT3BOalJ4dFhvc0ROejA5NHJzYWNILXhFTk85djZKdmFtVkc3OTZzZDBzYlYybU54a2VNRndiRFR0SEE0THJZUG9xd3h0ZWFlWGhnT1pDUXU5c1ZmNV9kdVhBeUVNMmhP?oc=5",
-    "image": "",
-    "published_at": "Mon, 05 Oct 2026 15:48:55 GMT",
-    "fetched_at": "2026-10-08T08:44:57.871041+00:00"
-  },
-  {
-    "id": "2443bdc86e83",
-    "title": "These Energy Companies Put Oklahoma City on the Map. Now They’re Moving to Texas.",
-    "source": "WSJ",
-    "summary": "These Energy Companies Put Oklahoma City on the Map. Now They’re Moving to Texas.&nbsp;&nbsp;WSJ",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE1pTTA4OU55cVlpWUhfRVVaYlYtSWp2N0c1MWd0ODJHMWtlTEwxQm15eVlYMF9KLXdJSF9SLXRGN091SndkclIxVDhTdUlHQW1XUUhiQjZyb2VsbC0xZENOVF9yT2RvT0hIeDYyVzR0V1NmeUhDMHJ5emxxaEZYRnZCRC1Md05HM19QU3YtVnBiWHlsWFNQY3JDYXlTUEFNSTlZSi1zczZneHpGYWVSSGRhekpMU3lOankzWGpXSDF4bFFKMlE?oc=5",
-    "image": "",
-    "published_at": "Mon, 05 Oct 2026 18:07:58 GMT",
-    "fetched_at": "2026-10-08T01:43:43.929603+00:00"
-  },
-  {
-    "id": "bc267d737574",
-    "title": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom",
-    "source": "Offshore Technology",
-    "summary": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom&nbsp;&nbsp;Offshore Technology",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmdkdGdQMlpmVHBiOXBTay1LZDc5Z1I3cWphZHFUNVdyZWxESXJpQUFWeFN0YWVYYXNWNGdvY29kc0VWRmZrU3lpcTVFSXE5ZDQybThUbmFuSm43aWlJWm4tMWI1VFUwTDVPS2d4NlVFcnVOdzRPQUUwdk4weGVzSmlaQW8xOEJ1VW9uQXM0MFFaTGlacXd5LTVLSHFqaXlNYUcxXw?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 09:48:03 GMT",
-    "fetched_at": "2026-10-08T01:43:43.929632+00:00"
-  },
-  {
-    "id": "ff69dd5d3f83",
-    "title": "A Look at Iran’s Kharg Island and Energy Sector",
-    "source": "EnergyNow",
-    "summary": "A Look at Iran’s Kharg Island and Energy Sector&nbsp;&nbsp;EnergyNow",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanFtcUpRRXlKLUFyTFlnUnVEZnp4TkwxS3BZbmtBUm1FWWU5cU9sZGxnVzdSSVpUTk5UbnJTUm4weEpydFhUNWQ5Ti1TT0h6SUQ5YXhJZnJyTEh5WW5kNFJmWTZVbGJ0Mm5SNXNiTFpkelVRblNBUGFuQUxtbk9nTDBB?oc=5",
-    "image": "",
-    "published_at": "Wed, 07 Oct 2026 09:15:05 GMT",
-    "fetched_at": "2026-10-08T01:43:43.929647+00:00"
-  },
-  {
-    "id": "cad60afbee0d",
-    "title": "Spanberger recommends a quarter million acres of new solar panels on farms and forests",
-    "source": "WJLA",
-    "summary": "Spanberger recommends a quarter million acres of new solar panels on farms and forests&nbsp;&nbsp;WJLA",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFl1TjJYR1RXWGJMZXVWOWJuT1dmOURvZWQxVWdJWksxaUhFTTZCWnFlMl96UUpyQ3ZjWGxmSDZnaktzUUdWTXJCeVlvZDFkemE1MHp5SXdIZXRwM2I4eHlLUzdHcTloNG00NVFTQkx3N0hUbjREdzA0M2dtTEZRcTM4ZHhoMnhWX3U3dDNoeWRHcWVGT0hVbkhJMDVZN0N5NG40Y0ZCT0hyUTViLW1reEdUZjc?oc=5",
-    "image": "",
-    "published_at": "Tue, 06 Oct 2026 03:35:16 GMT",
-    "fetched_at": "2026-10-08T01:43:44.989281+00:00"
   }
 ]
