@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLbzFuVHZkTXluVlFyaE1BTXhtc1FPTExaRFRMUVFSTk9KN3pJZEhiX2NlSWJwbzQ1d1lIVnFHNW5LSUJOeVVPUEcwSnBFek1EWkQwTzVCNU5ON1IwVTk4cWxB?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 06:03:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264362+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750450+00:00"
   },
   {
     "id": "c07d2e644aa8",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelE1SXVieUVTdnlWMl9sc2pBS1lVQ2Jfb282WXlxTldkMHQ3N0lEQjNYR2Z6STNGcm9QYlBPUkh5YXlwcTJSXzVYM3ZxQ2pDbW14ejR1RVRNdkdFazZpc1BEMkc3NDR0d2FEME1HVDRpaWdTR3BGdVVMSHdCR25jb0pkOWNyZ2tPSkRCYUpMMVZuS1VKUEljMUhYZmRVNmFyeS1QODdfcw?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 17:00:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264395+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750482+00:00"
   },
   {
     "id": "56e2f1ffc11b",
@@ -27,7 +27,17 @@
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd2MyWG5zeHV4dm1Gb1BtMllxNGdsVHlmMmQ1ZVNyR3NKRVZoMTQ4eXJad1dMOF95X1NaMXE4TDB5UlZ5OW5tQTEzSU5uV0laUmR3dmRPaXRVVFpBQUhETUszNVpTQzhhTU5pUERGeVFrdmJ3dm4xRTg3OFg5NWM3OTNtc0VJeHBuQjdlZWxydVpjUVF0T1NrbjV3ZU55QWVKaGNoNGVWV0hhVjY5UDgtMGYxVDZPakI3U2hkT0dVNDlOcW9aZ2dSamxkYmRENDFrWlhIekE4eV9vaXpnMTdGVDQ3WHAtaU1zTVRvY1E3UTZVaDF6Q3VtbE54Q0c2d3JK0gGOAkFVX3lxTE9nbWpsNWJRMnd0d3JTQ29DMUpnRnpwT0xPSTNFUEI2c29iTTRNZ01uaW1EUzN2cnQzRTFFMG9oZWRqSE5WZjJtMGhHYmZQM3E4eE1mN0t3NEhXdmQ5ZjdBRGZpazBBbTVXRHYzblpNenFSdzdmZmZiTVB1aUYxWGIyOWhKZnlOYXRQM1JFX3NDemN5TmVlSDI3YmNKcFlhNndtRXBiNU1UVjJ6bndTQXlBRXpyVFBaODJrUWIyZ0ZHcEVQMUZpa2NwYURESXRlNlpNQlNfUEZLbG1maHVzSFNndkZjM05LSjJvTnlZRTcxY1d2YkN6MHRMOGNDWnJKNnlaNWVoSUNSX0pXVkJTUQ?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 15:15:37 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264438+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750521+00:00"
+  },
+  {
+    "id": "2342cde87ce5",
+    "title": "WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants",
+    "source": "LinkedIn",
+    "summary": "WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants&nbsp;&nbsp;LinkedInHackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants&nbsp;&nbsp;The Hacker NewsHackers breach Microsoft 365 tenants via ConnectWise supply-chain attack&nbsp;&nbsp;BleepingCompu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3BaSGs5Y0R6NjR0RzRITVc2TGo1Yjd6aVFIamM0LWxzeEM2S1lhbEkxOWc0eGh6ZGY5XzNpQXNmcmoyWmtuQlRjN1NwQVJ5UER4TFh2ZEF1WXNWT0phNlJRUFJoY1c5Z3RBcHE0NXNMMlpTVndLeHBiYllHVUpDOUVmNzI0eEdBQzZZRg?oc=5",
+    "image": "",
+    "published_at": "Sat, 17 Oct 2026 20:00:06 GMT",
+    "fetched_at": "2026-10-18T10:47:35.750541+00:00"
   },
   {
     "id": "85ff77864013",
@@ -37,47 +47,37 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGh1MjdWNklWVWFKTjRsNDhxNG1QelE3MG1PVms0REFHXzdJQjhzV3c5ellERnVSa2F5aE9vUVhhdlRaWEszelg4TERLZng5QzRmT2MxRzlIdjZoY1pIZDVsYVJIamktQ3ZneUdXakE5aXA2aGRpc0l5ZHV4WVIycTVmOEE0X3ZCa205SGtlaXY?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 18:30:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264477+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750568+00:00"
   },
   {
-    "id": "8bf5040a13fe",
-    "title": "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G Is this conversation helpful so far?",
+    "id": "4e82e681c5d7",
+    "title": "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G",
     "source": "My Mobile India",
-    "summary": "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G Is this conversation helpful so far?&nbsp;&nbsp;My Mobile IndiaOPPO Find X10 series launching in India on October 22nd, launch offers live&nbsp;&nbsp;91MobilesThese are the first Oppo Find X10 Pro Max camera sa",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDhuZ2VUZW9LZWZ5MmxlZ0dFakYzLUlSbW52OFoyTU1IWTd0MjBJUndLUkpyNEMzZ0ZvQUlBOVV6Y1ppS2VsMDJSZ29UOHZDLUVodnlqY3JmdGsxNU9xX1F3Vk82QWh6MWZheHB3bEIwQU1UeWxUNXVxMHhzRktUMnVEbVpPZ0VhMUNyOXRlbEw3MnhQNnVDTFEybGFxbGtYNG56bWxpXzVSV0FFWFgzTjhON0haZWowZ0tjZEpkY3EzbGk3dTBBOURjSE5IVWtWS1dDNDVjc0RjOFpIVVh2OXhNN1hjUFN0VFE?oc=5",
+    "summary": "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G&nbsp;&nbsp;My Mobile IndiaThese are the first Oppo Find X10 Pro Max camera samples&nbsp;&nbsp;Tech AdvisorCheck out the first Oppo Find X10 Pro Max and Find X10 camera samples - GSMArena.com news&nbsp;&nbsp;GSM",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjZlbG5QdlBOdjY1aUMzcmdtRFlDTHFaQnQ0ajlEOUhIeVFwUjB4WUhUY19HNGFLOGlEbGdNZkZud3pTOU1XLVFudDBMWWRIM0tYeVNHS3VRTnFMV2JZeUl4N25oaWo1cVFfTzYxN0Q3MkpSemVTY1Z2a0dVUmNHQk1sMkIycWFMdEV0bENpcVh5dTVOTFE3UzFWRVVONE45NGhKSGJRanJ4UzFYbmxkQ2FLRVhybFVTV2c?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 14:21:38 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264516+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750597+00:00"
   },
   {
-    "id": "b6f1b529c9b0",
-    "title": "Fertility After Childhood Cancer Linked to Pubertal Hormone Levels",
-    "source": "EMJ",
-    "summary": "Fertility After Childhood Cancer Linked to Pubertal Hormone Levels&nbsp;&nbsp;EMJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWMxX2JNTFNEeGxDWW1KNU5Pd2JiX2tYeDI4MlpvY085Q1BwUTFHcFdON1pYd05RbEpNN3VRdWZGLWtPNmNJUEcwVEZROFdSNGNlYjZxRnpENmNsWEg3cUZWTWZ6ellzVGsyZm8yMUFyNVA0cUxYYm1KeUQzeU5wRWlZcTRzblh2OHR5amtndG1BcHRtY2VlWGxSTnhKdkFyMTR4NWFPVXVPNTA?oc=5",
+    "id": "c68558e775b9",
+    "title": "Microsoft is killing a pointless extra process that slows Windows 11 app launches, but you can't force enable it yet",
+    "source": "Windows Latest",
+    "summary": "Microsoft is killing a pointless extra process that slows Windows 11 app launches, but you can't force enable it yet&nbsp;&nbsp;Windows Latest",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUpKaWU0MUY5bG03WHJHaGZCaWhLWDdLWXVvVG1RMmxXMERSZjd0d184TTE5MG1XR2ZURGI0LUhRcWs3RnNxdXYzRkRvX1pmNEdyamtYQnB4b1dNWkhsdGtqUUNWNVgzVHh0akhNMk9uUlp6c2dCQTI1SENOcFlmakdMUFVqenNkblJ2N3RURDBjWWxES1VjZU84dTFtOVNycXJabWo3T1g5Y05RYllVN0liSm1tNUVqWGlkdXg1eE1MWXdvNzlIdnRHX01XTWo2WkxBMl9PUGYyUzhLUTFEZUxIY2RndmE2NjRCVw?oc=5",
     "image": "",
-    "published_at": "Sat, 17 Oct 2026 12:03:59 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264531+00:00"
+    "published_at": "Sat, 17 Oct 2026 06:35:57 GMT",
+    "fetched_at": "2026-10-18T10:47:35.750611+00:00"
   },
   {
-    "id": "2342cde87ce5",
-    "title": "WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants",
-    "source": "LinkedIn",
-    "summary": "WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants&nbsp;&nbsp;LinkedInHackers breach Microsoft 365 tenants via ConnectWise supply-chain attack&nbsp;&nbsp;BleepingComputer",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3BaSGs5Y0R6NjR0RzRITVc2TGo1Yjd6aVFIamM0LWxzeEM2S1lhbEkxOWc0eGh6ZGY5XzNpQXNmcmoyWmtuQlRjN1NwQVJ5UER4TFh2ZEF1WXNWT0phNlJRUFJoY1c5Z3RBcHE0NXNMMlpTVndLeHBiYllHVUpDOUVmNzI0eEdBQzZZRg?oc=5",
+    "id": "42d7cd989d0e",
+    "title": "GTA 6 launch trailer analysis praises performance boost, denying PS5 resolution downgrade",
+    "source": "Notebookcheck",
+    "summary": "GTA 6 launch trailer analysis praises performance boost, denying PS5 resolution downgrade&nbsp;&nbsp;NotebookcheckGTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?&nbsp;&nbsp;Digital FoundryGTA 6 PS5 Features Revealed by PlayStation Ahead of Launch&nbsp;&nbsp;VICEGTA VI’s new",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDJ3WjBnRXNjOGd2V2Nsb0VybDZWQXVZQkRjUlIwRVJvalBpQXkwcDJHTFJ0cGxYcmVJMTFrMFpQLU9ROTE1LXRERW13dzBVeGJjNFJpeVZtZjA3QW1hRmpsMkgzVUpqRmJrZU15U3ZYYkZiYlZsNERyOEF2ZjVuUjF5TEdpYlZteEgtdEt4YmdXTDdwMWJpeUl1WkZzd0J3UXdhTUNpWjJBWHRxWURJTkZUY25wUmNIOWNIcGR3UjY0UXk0Nk56ZUNPWUJKZw?oc=5",
     "image": "",
-    "published_at": "Sat, 17 Oct 2026 20:00:06 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264548+00:00"
-  },
-  {
-    "id": "a0d8d16f404d",
-    "title": "GTA 6 is eyeing Lucia as the next Arthur Morgan; here's why",
-    "source": "GAMINGbible",
-    "summary": "GTA 6 is eyeing Lucia as the next Arthur Morgan; here's why&nbsp;&nbsp;GAMINGbibleCyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]&nbsp;&nbsp;https://tech-insider.org/'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms&nbsp;&nbsp;Polygon.comLatest Leaked GTA 6 Vi",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenI1Z0NxRU8wYXlhV3JEeTJYbm5kNjNscXNNb2lqNnVfUkVZVGJCVjRSVHlNWjU0LVpqR3I4RXM1cGhlajRsMFprUGhBbGdFX0EwTHQ0U1FBUS1NRzdmaU45VDFKVW9DZDNZc2JJU1lfTlVqdk9ELVJGWjVCSHE4eHZ6dnZBVEFVQTRTNF9GRWticjA?oc=5",
-    "image": "",
-    "published_at": "Fri, 16 Oct 2026 17:00:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264584+00:00"
+    "published_at": "Fri, 16 Oct 2026 19:15:00 GMT",
+    "fetched_at": "2026-10-18T10:47:35.750641+00:00"
   },
   {
     "id": "06311ac5f460",
@@ -87,17 +87,27 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWtidDVPZ0Vtc2Z3SWktN0RXaTkwa2Z2OTVKV0I5VFFUTk9jZlY2V3R5Sm5GR2xad0VwNzB1SllsMEF2eS1lWDh6Y2dOQmYyR0FYaFh1QWpfOVl4d3hIZF8zdHFqUzdmUU55bTdibEpTZWJtSy1rYmROVDRoeHVGQWxLem54OFRsV2gydXAwa001dXVGYkJIZ1JFdDY2bjZPZmw0?oc=5",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 20:00:20 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264618+00:00"
+    "fetched_at": "2026-10-18T10:47:35.750672+00:00"
   },
   {
-    "id": "dcdd08016514",
-    "title": "Android Circuit: S27 Ultra Specs, Fitbit Edge Arrives, RedMagic 12 Pro Launch",
-    "source": "Yahoo Tech",
-    "summary": "Android Circuit: S27 Ultra Specs, Fitbit Edge Arrives, RedMagic 12 Pro Launch&nbsp;&nbsp;Yahoo TechGalaxy S27 Ultra comes alive in new renders and a trailer and I see Samsung’s vision&nbsp;&nbsp;PhoneArenaSamsung Galaxy S27+ might miss out on UWB - GSMArena.com news&nbsp;&nbsp;GSMArena.comGalaxy S27",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRy1SUzBreGFoSkhEOEdXQ1JHZ2pCcW9jamlvOEpkbHc0eTJvMzBnaUdzNG5VNk9xWmd5d3A1Y1Zxc2FTT01BdE1wNlpkS2kxWm9RR3dJbTg2QzZEWHRvZHM2TDNBOE5mX2dNQ0UtSXdzdmhseU56SjFGM0tQR3ZIbGlZR0hISVp5cExpWklR?oc=5",
+    "id": "b6f1b529c9b0",
+    "title": "Fertility After Childhood Cancer Linked to Pubertal Hormone Levels",
+    "source": "EMJ",
+    "summary": "Fertility After Childhood Cancer Linked to Pubertal Hormone Levels&nbsp;&nbsp;EMJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWMxX2JNTFNEeGxDWW1KNU5Pd2JiX2tYeDI4MlpvY085Q1BwUTFHcFdON1pYd05RbEpNN3VRdWZGLWtPNmNJUEcwVEZROFdSNGNlYjZxRnpENmNsWEg3cUZWTWZ6ellzVGsyZm8yMUFyNVA0cUxYYm1KeUQzeU5wRWlZcTRzblh2OHR5amtndG1BcHRtY2VlWGxSTnhKdkFyMTR4NWFPVXVPNTA?oc=5",
     "image": "",
-    "published_at": "Fri, 16 Oct 2026 22:00:37 GMT",
-    "fetched_at": "2026-10-18T05:39:05.264655+00:00"
+    "published_at": "Sat, 17 Oct 2026 12:03:59 GMT",
+    "fetched_at": "2026-10-18T10:47:35.750683+00:00"
+  },
+  {
+    "id": "f6569d14c12d",
+    "title": "Share Market News: Nifty 50 Outlook & Prediction",
+    "source": "Liquide Blog",
+    "summary": "Share Market News: Nifty 50 Outlook & Prediction&nbsp;&nbsp;Liquide Blog",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWl3bzY2TEl0WEJaRWtLS0ZfV1l4NU5pdzJFbTl0NDgwZ2VEWHBBYzdBUGFXYnFYRGdRZm1UMHhPZjA0Y1VHSXowUkROclY5cDNwZ2VYMURJN0kxV0ZzSHpFcEI0TWtLMlpKd2ZwVlRMQm02S1hiRVFnVjQzaFNFenRXZC1KVm9KbTdrd29MWUh2blh6Z3dvU1Nn?oc=5",
+    "image": "",
+    "published_at": "Sun, 18 Oct 2026 09:46:20 GMT",
+    "fetched_at": "2026-10-18T10:47:36.232562+00:00"
   },
   {
     "id": "c1639d1154e8",
@@ -107,17 +117,7 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1pwSlJQV0RUR2x6YnYzdUNNcWFGQWtRX2ZxQXRMRkFGYkRGUEQ1U2JVQ0ZVX1ZXNFFORWN1aGVlbWpzRVVHM0dfazZXLWRmc1ZTTTg0R2tzUFZaX3VfaVhMNkVvU0Q4Vk9rdkhsanhJRm14aEMtN2hSbUxNT0tBSC1pM3VPMlg2ZWp5cURKb3kzQkh1RUxPMHIxMElQVGs?oc=5",
     "image": "",
     "published_at": "Wed, 14 Oct 2026 10:52:10 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754804+00:00"
-  },
-  {
-    "id": "cbdb0f897b85",
-    "title": "India tech sector offers attractive investment opportunities as it transitions to AI, says Richard Harris",
-    "source": "CNBC TV18",
-    "summary": "India tech sector offers attractive investment opportunities as it transitions to AI, says Richard Harris&nbsp;&nbsp;CNBC TV18",
-    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNZmVwcUFtcFFzR2RyVEpSZDV2YXNNaDhkenVTNEJCNWppTDd3VkhnWnEzT2V0TnNQdWxZRWZWZWt0eE04UFBMTl83RmMxa3h0U21KT284ZzB0NUdYZUNZdExxbXVBcXkyWWxZU1k3eVdURXF5MGhXVHk4S0diS1BEMTc0SkNLbW9fU2tDSjY3TWJGeHI0aWlhSEJCVHB5RExuOEdTaFkta2QyUGctQUhWZFBCYlBhQkVfRlNYZHRsSlFEamd5Rk1wMTNsNmZpcm5TVldmal85RldSRHNDQjYxVTMtcFZyR2hmNHg2aGM4U09Way1sX1l6dkFibDlZYkhOdGZaeVdKeXN6Q09VNmFDR3BlMEpab2E1RXJNb2JTSXhiU3EzS2RNWkl1X0lvUUZrVGRsOFZR0gG7AkFVX3lxTFBDMzhyM1p5c2NXRFdTSF9fUHRWVEdkaUphaGNRR1lpM1hReGdaX1hmRVo0cU8wOGRzUjVxMWVCa3dKc2Y0MUlZNThLN3VmRXM1dGpkSFctTnk5ZFhDWDVKS1hEWFBZMzFZQTA0NS10NVhIYzQzWUFzekFtRUowYmV5ZEpvZk5UT1pSaU1IbEtjVnpBbnRObDVHcVpDcTYtaGV1SjJ3SHJDdkphSmJzaXN1ZVJOVzFQdUg5bTVpVFRDVk8zXzlXdFdMLTFsMDJ5Z2JuMVc4ZEpxN3BkVzdMNDVTSUk1TUtKTFFib0o1b2NRNFpJV0xsdV84aDh4T2Rqc2dxLVZzUUdvUHhWaGx3SHZLdURXaHBERzN0QlExYjlnanlRaEtUNFBVM1pRaW04TkFkVGU1cG5uR2gwSQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 14 Oct 2026 03:32:11 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754835+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232588+00:00"
   },
   {
     "id": "3eaed9d51992",
@@ -127,7 +127,17 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZXQV9qTHdJRnRPV0pobFd1Y0Zqd05RTmNZbkFhUm11TWhLU1NON1FuMTdMT1V1SEVKaFJ2VWpLeUluOUdTMEV2OVhiUmRDNkdvc1IzMTdmeXVYV1JyUnNCVDNBRWEyU1NXQVhKQTMxWU1XU0wzSDViYUtVODFzazF2UWQ4aE42YWRZaFRfOE92VkREaE1aRzFPNjczLXd5Y0JqUy1B0gGrAUFVX3lxTE1GcjJvMlBoY3k5bEJMQVJzVGpRUG1ZbzFkdVdSdWxsWlJXMzRTb0RsSlVwSE9hemxBS2VweXNXenpiYVdTUExCM013NFg1Y2RPSGNkZzRJTlpGVVhsbE9wTHFNU3NBZmxTYnZJYmQ1QXRLMGlBNzlNVDBPb2ZHVEZySmV4bWV2OFVHZFBNcmNIYnVkOEo0X0ZvaThJajJqV3N3bHVLRkdOM3ZVMA?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 08:05:50 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754851+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232601+00:00"
+  },
+  {
+    "id": "cbdb0f897b85",
+    "title": "India tech sector offers attractive investment opportunities as it transitions to AI, says Richard Harris",
+    "source": "CNBC TV18",
+    "summary": "India tech sector offers attractive investment opportunities as it transitions to AI, says Richard Harris&nbsp;&nbsp;CNBC TV18",
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNZmVwcUFtcFFzR2RyVEpSZDV2YXNNaDhkenVTNEJCNWppTDd3VkhnWnEzT2V0TnNQdWxZRWZWZWt0eE04UFBMTl83RmMxa3h0U21KT284ZzB0NUdYZUNZdExxbXVBcXkyWWxZU1k3eVdURXF5MGhXVHk4S0diS1BEMTc0SkNLbW9fU2tDSjY3TWJGeHI0aWlhSEJCVHB5RExuOEdTaFkta2QyUGctQUhWZFBCYlBhQkVfRlNYZHRsSlFEamd5Rk1wMTNsNmZpcm5TVldmal85RldSRHNDQjYxVTMtcFZyR2hmNHg2aGM4U09Way1sX1l6dkFibDlZYkhOdGZaeVdKeXN6Q09VNmFDR3BlMEpab2E1RXJNb2JTSXhiU3EzS2RNWkl1X0lvUUZrVGRsOFZR0gG7AkFVX3lxTFBDMzhyM1p5c2NXRFdTSF9fUHRWVEdkaUphaGNRR1lpM1hReGdaX1hmRVo0cU8wOGRzUjVxMWVCa3dKc2Y0MUlZNThLN3VmRXM1dGpkSFctTnk5ZFhDWDVKS1hEWFBZMzFZQTA0NS10NVhIYzQzWUFzekFtRUowYmV5ZEpvZk5UT1pSaU1IbEtjVnpBbnRObDVHcVpDcTYtaGV1SjJ3SHJDdkphSmJzaXN1ZVJOVzFQdUg5bTVpVFRDVk8zXzlXdFdMLTFsMDJ5Z2JuMVc4ZEpxN3BkVzdMNDVTSUk1TUtKTFFib0o1b2NRNFpJV0xsdV84aDh4T2Rqc2dxLVZzUUdvUHhWaGx3SHZLdURXaHBERzN0QlExYjlnanlRaEtUNFBVM1pRaW04TkFkVGU1cG5uR2gwSQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 14 Oct 2026 03:32:11 GMT",
+    "fetched_at": "2026-10-18T10:47:36.232616+00:00"
   },
   {
     "id": "e0fcd4cf9c41",
@@ -137,7 +147,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1FQTURRYWZrT3Z6RTFsekNsSWVOUndiZ1J1TG9xMnZqMGVELTFhdEN3MzA4bHhOYmlqT01VYmQ2OHlOMWpkV2hLZlJRNU5LWm03VWtCRTIzbExVT0VWVjEwcGMzS1F0WXlfMTdjUzgzM09uSHdWaFZRUlZIb0ozeHBZb2gwTGJpWWNleWFHbGdja05GaHR5TmZ6YXptbUFFLUdqRVRWUkhOM1J6U3hQS3FB?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 07:56:27 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754867+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232628+00:00"
   },
   {
     "id": "085e2291276d",
@@ -147,7 +157,17 @@
     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeW9HNkZuQy12ZlJFRmRpNlFQbmZUZ3RhZV9iX29uYW9hRlRKRFlUQS1CWVJEMXlpaEJzLXhITXZYOE96SkdNOUhEbkluTDlmbnNhMXczOE53dE44eWRHYjhOTmNXV3NCWENMUWZqamJsQ3RrMVNncG1RRnRyb2RaWHhJZWpnRy1SZFpzOFZ1WC1pLWxrNFV5RElPMFpwVjFlS25BZmJSc2l4WWJQTmJtdmdubVZDNERSMnI1bXllWEV5WU44WS1SQUYxVjJ5SVkwaUh1UW42N0hZY0JBR3VOdF9xRGw5bVBDd09KYVF3cjZsdlpNeDA2UUtfRThrOWtsTTdSMVNlbHV2LXc2dERUbFJn?oc=5",
     "image": "",
     "published_at": "Thu, 15 Oct 2026 12:04:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754884+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232642+00:00"
+  },
+  {
+    "id": "f6b1e93f0d6c",
+    "title": "Indian IT stocks record best week in 18 years amid global AI sell-off",
+    "source": "Rediff",
+    "summary": "Indian IT stocks record best week in 18 years amid global AI sell-off&nbsp;&nbsp;Rediff",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQzRyXy13dUlSc3JCcU9tdGt6UmJjM1JycTdSSnRTT2cwYWJvb2pjdUVzanNZU0Zmb1BYdzRfbUVhb1hiTGRDM2FlSE9FV28yU2tRZFBCOElidk1uNEF4TXBHdENnNURicGRja0ZaRlJXelJFd2hob3MxZVYtMl9xdVM2WjBjdVFqanNHTWhmT0N2cWFkSnVNNmxUOXRsWnhPeW4zbDhYWmtqT2JXVjdUbmtyb1J3MWdtUHlVQlhTWGlXM2hvcTl0cTg3ZmpkVkZpeGfSAdQBQVVfeXFMT3hFNkJINnpWZkR1RWE0OXRtaXdFejhqWGtTeHUxbl9ZNktaZVNqOTZqdG1SMmwzS1BBYkdZTjRKR0ZDNXNXdE9ndFFwdU95VEFONktoaU9pYUFEYWZvNHEyM0IzTmlieWNXMGpQeVl1XzZjU0RrQmExUjkzNzlyZmowR2I3N2QyUlZwREtWSEFRUTBxSlVDX2V0VW13S2ctNUNKN3F5MllreDZrb3lDRFJ3VkdLYUptRWdVOEJxOW5hbnRyTEZpeEJ2TE9aZWgzSGx0RjE?oc=5",
+    "image": "",
+    "published_at": "Sat, 17 Oct 2026 11:04:56 GMT",
+    "fetched_at": "2026-10-18T10:47:36.232654+00:00"
   },
   {
     "id": "a751a28c7158",
@@ -157,17 +177,7 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3lFeWFERUNwOEduVFduVXI1NzdvNVpyVm5fNllHLXZ1Z3RtSGZzSkNDSzZCYWQ2bXhzOEQ0UlpuNE1VT0N4c3VCYThBSnRBZU84OUtLYmUwc1hGRmkxbkhHcWtMVUZFTE1yQlFSNTJPVWk5MV9pV1dpRExkNTVZZmdrS3FIMDVVUGgxVDZRWjMwd2ZIWGhyaDlkSWVNYk84S0c4VA?oc=5",
     "image": "",
     "published_at": "Thu, 15 Oct 2026 06:44:22 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754903+00:00"
-  },
-  {
-    "id": "dac3aeb120cd",
-    "title": "US visa curbs could fuel reverse brain drain. Is India’s IT sector ready?",
-    "source": "Moneycontrol.com",
-    "summary": "US visa curbs could fuel reverse brain drain. Is India’s IT sector ready?&nbsp;&nbsp;Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVQtQ096U2NOc3h5SDlBTzRhbHE1bTlDalI1RHF5dno0Qjh1bVJ0Q0x4dU9jdGNKWlpKVjVrTjFvamVVcl80Q25MXzRkakRFdWFYSXFzTUUzdmp5MlctYS1QTDBNWnJLV0k4dENrVFExVFRGRkF5ZDA0R1VCNHJibUhNUGxZa0d1bEpxcHEwM0E5TVV0cUNpaUxQeHBHWS1aeUp4NlVfQnBNTjIxU3B1YWRnVE1uSzBWVkI3R0NWZ3A3UjhtYUhaQVF30gHPAUFVX3lxTE4wdkRzUWVRUHNFNXFBTlNwU2c2cFFoYkpObTB2N3Vqc1dMLXZyZnRFQmZHdHdRX3NUczZkTm52eDVGN0lacExuWEhfN0ZwbmNMTFBhOWEweXp1cHFxY2pBMWxOU0ducEdNc21PN0R6dHh5cGp0UzdCSmlXQ3J1bzFlUnpqZkNPa1VYci1EdTNXNEdtckN4dmEwMzlxM19Wd3ZPSjZGdTV1a09rdGp6ZGVfeXk2M2dibnVzZWRhNGJXUWVLYVFfcExxcEg2U09acw?oc=5",
-    "image": "",
-    "published_at": "Tue, 13 Oct 2026 09:22:14 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754921+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232671+00:00"
   },
   {
     "id": "9dd88c0846f5",
@@ -177,37 +187,27 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 10:44:54 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754937+00:00"
+    "fetched_at": "2026-10-18T10:47:36.232684+00:00"
   },
   {
-    "id": "058a7bf470c8",
-    "title": "'Green Card curbs could make India shift to high-value tech work'",
-    "source": "The Hindu",
-    "summary": "'Green Card curbs could make India shift to high-value tech work'&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTlM1WVFsRDVJUkpVUURiMXZ1WVl3NElTdGZyZTF4QmVOeVpYNjFncWs3aU9xdDhuRXZydFExcHhQNXdQbkVKSnJMNWk1cC1MbmlCNnZiMDNJR1hjelNEbTFBeXpKOThWZjlmaGg5SmM5V3FuQm9mVWI2ZC1INEpwN3YyNE5FVWNCX1FVMlVhckw2NTYwV013VHVOLTdQd3NiZmhvYkkwbUlHMFhvQXdqQTM3cUk4MTU0VDRtYi1RSXZCNUJzdlM3TG12MUQ3cFB0dGZtd0N1c0VJMXF3UVYwOTZyaTdfcE02dHNPUG94cEhDdXhWWkxBRNIB_wFBVV95cUxNNDNOZkdfV0p4LTZnSnFrRUoydGRISlNEN01sMEtXaHA5YjJ2MGVZR1FJQVBoTV9JNThhV01kTTRjdFNOY0VhUk1HVnJnSFpfaUJJcEJpZ1ZlUVFyWDJIaFlJQkNlOXpQalFHS04yM082VUxSWUdMM3J6cWw0UTd4aTNKLVBQNHpWZnZMMmdvdDk0NEZMZGNaMDhwRVA4dC1OUkhhbkJWQl8tUXpnRzJTLUMtM3VSUTJ0VjV1OTdRbWlhc2FoUVVfQUMyNVdBQmNkQjJDb01VR0JoYWdRRkRpaFNDS21TYk1JR1p2Rm9xQkpMSUt6SW54bVhlRzBJNlE?oc=5",
+    "id": "dac3aeb120cd",
+    "title": "US visa curbs could fuel reverse brain drain. Is India’s IT sector ready?",
+    "source": "Moneycontrol.com",
+    "summary": "US visa curbs could fuel reverse brain drain. Is India’s IT sector ready?&nbsp;&nbsp;Moneycontrol.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVQtQ096U2NOc3h5SDlBTzRhbHE1bTlDalI1RHF5dno0Qjh1bVJ0Q0x4dU9jdGNKWlpKVjVrTjFvamVVcl80Q25MXzRkakRFdWFYSXFzTUUzdmp5MlctYS1QTDBNWnJLV0k4dENrVFExVFRGRkF5ZDA0R1VCNHJibUhNUGxZa0d1bEpxcHEwM0E5TVV0cUNpaUxQeHBHWS1aeUp4NlVfQnBNTjIxU3B1YWRnVE1uSzBWVkI3R0NWZ3A3UjhtYUhaQVF30gHPAUFVX3lxTE4wdkRzUWVRUHNFNXFBTlNwU2c2cFFoYkpObTB2N3Vqc1dMLXZyZnRFQmZHdHdRX3NUczZkTm52eDVGN0lacExuWEhfN0ZwbmNMTFBhOWEweXp1cHFxY2pBMWxOU0ducEdNc21PN0R6dHh5cGp0UzdCSmlXQ3J1bzFlUnpqZkNPa1VYci1EdTNXNEdtckN4dmEwMzlxM19Wd3ZPSjZGdTV1a09rdGp6ZGVfeXk2M2dibnVzZWRhNGJXUWVLYVFfcExxcEg2U09acw?oc=5",
     "image": "",
-    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754953+00:00"
+    "published_at": "Tue, 13 Oct 2026 09:22:14 GMT",
+    "fetched_at": "2026-10-18T10:47:36.232700+00:00"
   },
   {
-    "id": "b00ab8f1132e",
-    "title": "India Targets $100 Billion Media and Entertainment Industry",
-    "source": "StratNews Global",
-    "summary": "India Targets $100 Billion Media and Entertainment Industry&nbsp;&nbsp;StratNews Global",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekw5OTA0NjNLbmxKaXh6cUoycVVJU3puVUE4RUg3aHZyaUpNbXhFcC05ZUFTMUdmM2tRd3VDaXZtclhOUEtqVGFyUGNwN2E3THlzQmJzZkhMdFFxOEdXbnlITmlaOG9YZm5QODB5TGtrWWptTFpILVlPZEdReUJsU1dwa0pkZEtTSmFFWA?oc=5",
+    "id": "9c92003422a1",
+    "title": "Indian food processing industry: Limited appetite for value-added exports",
+    "source": "Media India Group",
+    "summary": "Indian food processing industry: Limited appetite for value-added exports&nbsp;&nbsp;Media India Group",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkw3cU5kcVJjWHF4YkltUU5zd0FwenpRVkhXdmNXSEVUaE8wTXdLSzY0RVdfMHZ6QWpLUW9qbWV6YlJlZ0NCbmtqY0VnckZNU1FzSkx1bkxIYy1jZDRIbG8wQUtlbXZaM2IyQ25qVDFWZzJfZWJYNGRsUThvbHhIT0x4Yk1Yd24yMEhhYVVZTmx5SHJ4Xy1BSE1VUlFOZzduZnhPLUliSHAzcDhoN2NjXw?oc=5",
     "image": "",
-    "published_at": "Fri, 16 Oct 2026 06:05:25 GMT",
-    "fetched_at": "2026-10-18T05:39:05.754966+00:00"
-  },
-  {
-    "id": "ecd0c824a248",
-    "title": "Trump’s Targeting of Indian IT Firms Hits India-US Ties Again",
-    "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-    "summary": "Trump’s Targeting of Indian IT Firms Hits India-US Ties Again&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3I3NDdpSHlYdkVjTU5PcDlHTENxZ0xhaHFWOGp6MlJEaEtjUlBwVE40RGZxYl9nb1lwYjZVQmFkUXZ1dXA1SThrNXZyeGZhT0Yybm1nSV9PbXdqXzVWOVpudWo3Q0N1ZFR2LWNJMDliUlhXcDhVZVB4OThxZWhsb0dhMVdHY1NnRERGMDZNTV9oUmRqOWZlRA?oc=5",
-    "image": "",
-    "published_at": "Mon, 12 Oct 2026 12:30:26 GMT",
-    "fetched_at": "2026-10-18T05:39:06.730915+00:00"
+    "published_at": "Sun, 18 Oct 2026 06:53:14 GMT",
+    "fetched_at": "2026-10-18T10:47:37.229110+00:00"
   },
   {
     "id": "48990eca9b54",
@@ -217,7 +217,17 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1UtNkp2VHFnZmh3dHlnTlZsMW1udDlSTFJ4amxkTFcyQVVES2Z0eU9zQzFweDd3WDBlV1prYUFFZlJ1WGFsWHpDalZjcTFPUDE0T0UzSzVFNXE1bUoyTi1WYWhTLU1jdGZ5dXAtTlRQYTQ3MzVBMnRzVVo2UEZyZTMtZHVPcGRRQ0NZdkJUd2NTb3hORGc?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 14:29:45 GMT",
-    "fetched_at": "2026-10-18T05:39:06.730947+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229139+00:00"
+  },
+  {
+    "id": "2ee0ea902b4d",
+    "title": "Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude",
+    "source": "The Economic Times",
+    "summary": "Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude&nbsp;&nbsp;The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWnozeXpTekg0Zl9Qb1c1RE9yQVdTX2VFeXM4UXBGS0NIamtlVjZXaWQxZkNxMGJWTmpSRkxBbGVSc3NNekVVUXNzMEVBeVRKazJzeGs4NmtkdHpTalN0RE53QTNUT3ZiVEJrZlRHUzZ5cTN4aUNIa0hzdElZMnJQV3ZzUHNYNHBMLWMwdFo3QkpWLXlCaVM4SEtqMFROYXU0dEpaQlNzN0JpaEdtWU43TlJqZWRTRHFRVnhLOWo4Vm91aGdUQ0lPd3lfblRobi1vbnBJdUdyc0N3V2FWSk8xaEo1TGhXWUJNR3A4X3RZMnF2Qnh6c3Fz0gH8AUFVX3lxTE5OM3otZWN6ZDNSR2c5N0trUG9HN1ZRTzdibi1aR3h6RDFQUWVuMUg0U0xXMUdENWstYkhXbmdwZ0gwYUJOeWxuYUNVaTJPQlZ3LTdQUXBqZWxXMmZtQXI1U3dOMjlVTEpEX1FDcVNNY0R0b1k4V2p2NjIydXBtWk5YcUlkYVhON281Y2NOeElGRGExUW5mYkhZdUhlWjBmM1hfZjF3VzFBTExrOE4tRmd4aV9xZzlPcDVMbzZDM3hPWDZILWkwMDRveVdrYTBDX3JCZmhTbGNiYm14dzFGbjRXTkpmRWp1b1FIenRRRVlPMmQxQnlTTUZSZ1VkbA?oc=5",
+    "image": "",
+    "published_at": "Sun, 18 Oct 2026 05:28:12 GMT",
+    "fetched_at": "2026-10-18T10:47:37.229155+00:00"
   },
   {
     "id": "51dfed33cf34",
@@ -227,17 +237,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHYzWWdnbFVBMXZHZ1FLUThkUWgzRTRZdmhKdlg1Tlp5TUZJQVRHcWRrUnpsZjB3LVRrdW9nZHUyZk05US0xdXRkSTZ4ZFRHY29rWEM3X0tJdENWZTFidExuWjlGVktiX2hvNGdqQ1o4ZlRBZXJXNFEzU1hTTENDcThjMFBEeE9zenU3NFdCQmtGWmJncnZna01YUU9ndGthLVd3djdOVVcxUQ?oc=5",
     "image": "",
     "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-18T05:39:06.730963+00:00"
-  },
-  {
-    "id": "58dcc440389a",
-    "title": "DRDO Opens Lightweight 30mm Armour Technology to Indian Industry",
-    "source": "Raksha Anirveda",
-    "summary": "DRDO Opens Lightweight 30mm Armour Technology to Indian Industry&nbsp;&nbsp;Raksha Anirveda",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmRkMW9PbkMwRmY4TEVPUEVuMEU5cWlOUWVzT1VTcGlMeHcyWkN4aEtNSndyV08tMGRRS01ZT2tEN250MTJwdDhIVWstbUNGSjQxMVlJdEpsX3pXOUxZNUV5dGRTSWlPMW1pdTdnWXdaTld5NlMzNEdnMzFjM0FBUFBNczVaZjlOZGpOaHZWamFIWU9TWUhQYg?oc=5",
-    "image": "",
-    "published_at": "Sat, 17 Oct 2026 16:18:43 GMT",
-    "fetched_at": "2026-10-18T05:39:06.730977+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229167+00:00"
   },
   {
     "id": "284c86f77e2a",
@@ -247,7 +247,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
     "image": "",
     "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731009+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229184+00:00"
   },
   {
     "id": "13751abba898",
@@ -257,7 +257,7 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFdNQ1BkZzFQckppV0F4UEJselNDcTl3bFJzUE5PTlZjQlBVYXctcEY0MkkzSHJ2RDNqclI1TUJUajBVTEcxd0I0dktEMUJSajZfT29VakJyX2JOdlN2dENWRTM5TkhZeXVzNmVnSy1DRGRld0RXVE85MWFqRC05VGtGZ1o5VS1iYVVTTVh3aWZnUmRGMDdwZVNLa9IBoAFBVV95cUxQd09ybTRBMk5ZWXZYOTRfMkxYTEhhMXlvWnV5RzhaV0RMZzZ6VkpQYUREcjBTaHRSOURSMXIwa0pVNEMxYXJwV0FpdUpoX3QxUkJGcWtuRktYQXVXelh5TGJ2LTBFV3N5cGhKQXZKMl94V1hCYkh1YnVzaUNNN2lxaWI3STc1cEIySFU2REc4Y1NUSHY4RWJ4OF82UFUwNmhk?oc=5",
     "image": "",
     "published_at": "Wed, 14 Oct 2026 08:48:04 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731030+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229199+00:00"
   },
   {
     "id": "936fdac5533e",
@@ -267,17 +267,27 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ta1BIS0czamROSFRUem1yTmlHSUphcmtkQVVXZUtrSlZPRGNUenJaUnRVSklkX1pHNXRHekNjWHo0ckpwc3dXRmQ1WjJZYjhnd3FrellfS3o0bF8wNG1GSXA4TXNnZDZkZUlJTjFIMjZIWjdPMmRHOWUxc9IBgAFBVV95cUxPbnBfLWJ2OFdSQ3poTFY3aER0RGp5NVNLRS1ETzlING5fWTNLR1Fvc1NpZTBVb3hGbEI1d0JOVk0tUnc1N3JYa2Yzb0hrYmtKckR6MXBXOUYyeHF6RTVQTElFbFk0MmlENU9MVDJIU3d4dFplUXpIVUR5UkFkUWpHLQ?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 12:19:38 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731048+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229215+00:00"
   },
   {
-    "id": "ac24b65a610a",
-    "title": "Yash confirms Rs 4,000 crore budget for Ramayana, says ‘We need to prove the strength of the Indian film...",
-    "source": "Moneycontrol.com",
-    "summary": "Yash confirms Rs 4,000 crore budget for Ramayana, says ‘We need to prove the strength of the Indian film...&nbsp;&nbsp;Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNVpGcXNvRzJyM0JwekpaYmxUb0VHbUs4aDlVZUNQbHl6VDVxNWtFQmpXMG1tZmg3eVMyMlcybV9HdjFtNUt0YUk0S2VvSUhHYmRkZXE2V1V4dTRHQkUzVnBqV2dUYjlkdlpkTWRzRC1TeXptbjlKSThSalpmVk50NHkwYk9WYVNxWXJnNVNLZHVRUkg3N2ZmSE1sc0RNbDAwUWZVcWZfOW10SUxqcHZfb3BDb2NyS0RGUWZ6TmUxVVJFcGpnR0lEVnRNekFHelJFZEdnTjNLeE9LandLOXAxd1ZZdlhFQUFGZk1USFpLbkF0M1JPSE04YVVBYnNVVUxWSDdrYl8tSTNKY3RGVEdSczBPQi3SAZoCQVVfeXFMTzdtVzJ2Rl8zTDUwSkJaUGN0ZXk1eGpSc0pJelRKS3RFMTFIZUhZMUxfVkFNaFFMekhCeXRrUnFnZEkwMWU1LTZ2N2tvRHhBX0NKWDNLamEtUWRRa0hnamZTX2pOVnMwemJ1dW1mcHR4aUMtS0JnMTZXVUg5SGV2QjR6WmpjeGFiN1plV211cjk3US1jSFhNeUJXS09wU3R1TGpCQ2hsTGE3dFpJUWZqcFNSRy1FRFdXWTg0RGFoZVdITmg0Z0s2WVRqM3Ytb0VkbHFxZFhFU0hMd2VlNDE2NXgxWnFDdndaaXpkMk9KR05PSDNLNWNXN2Zfd2hLMUQyTm9uWWRST0E5M01IRDBoZzhUQXlyNHczaGVB?oc=5",
+    "id": "974fc3c7c94a",
+    "title": "CII GreenCo launches circularity guidelines for Indian industry",
+    "source": "Prop News Time",
+    "summary": "CII GreenCo launches circularity guidelines for Indian industry&nbsp;&nbsp;Prop News Time",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1JWbE1aY0dhOFZ2ZDl1MzY1aWdIa2U4MFRNNDZVb1ZlWlpiNmkwTV8wb2NGMnAyaC1IcXMyVXNRWGxPYWJOUURzWnpsUGxJM0NyMTRnQXNVaVV0WFA0OVBRYTdIYXdCSFNtNFJndlZsdmZONFJsY01iREZJYVpLZ1ktYm5xTm1YbklkUU9PaDNPNXJiRS03UkE5OGMxSlhZMTBuUFdyX2tPX25fcGxCOThrQ0dudw?oc=5",
     "image": "",
-    "published_at": "Sun, 18 Oct 2026 04:48:43 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731069+00:00"
+    "published_at": "Sun, 18 Oct 2026 00:03:20 GMT",
+    "fetched_at": "2026-10-18T10:47:37.229226+00:00"
+  },
+  {
+    "id": "58dcc440389a",
+    "title": "DRDO Opens Lightweight 30mm Armour Technology to Indian Industry",
+    "source": "Raksha Anirveda",
+    "summary": "DRDO Opens Lightweight 30mm Armour Technology to Indian Industry&nbsp;&nbsp;Raksha Anirveda",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmRkMW9PbkMwRmY4TEVPUEVuMEU5cWlOUWVzT1VTcGlMeHcyWkN4aEtNSndyV08tMGRRS01ZT2tEN250MTJwdDhIVWstbUNGSjQxMVlJdEpsX3pXOUxZNUV5dGRTSWlPMW1pdTdnWXdaTld5NlMzNEdnMzFjM0FBUFBNczVaZjlOZGpOaHZWamFIWU9TWUhQYg?oc=5",
+    "image": "",
+    "published_at": "Sat, 17 Oct 2026 16:18:43 GMT",
+    "fetched_at": "2026-10-18T10:47:37.229237+00:00"
   },
   {
     "id": "3e4d9e34d29a",
@@ -287,17 +297,27 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVVjNkZmdXpEYnJVLWpmM19vUzJJWGZzTndEMlVuZ2VmS2l5M3BTaDU1ckFKS0lySV9BcmRZMVlFekNqVnEyOElmc0NTTmRFd2QzeG9mSkhxSGpRUDBIamtOUXNJa0NMVGszQTRyb0lfT1NMNTg1SkwzbS1FX05nWlo5U2FQeXZnMmQtQUVpanBOU3BCa0FDelQwYXdiQUJOdTY2Wm1ibUNNTXNyVS16RVFfcDNXZ2tIWEp0U3FtTDRwVlZURmstcjVNQQ?oc=5",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 21:00:23 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731086+00:00"
+    "fetched_at": "2026-10-18T10:47:37.229249+00:00"
   },
   {
-    "id": "c14da359a4e7",
-    "title": "Largest-ever FDI in India’s financial sector: Cabinet approves sale of IDBI Bank to Fairfax for ₹52,878 crore",
-    "source": "The Hindu",
-    "summary": "Largest-ever FDI in India’s financial sector: Cabinet approves sale of IDBI Bank to Fairfax for ₹52,878 crore&nbsp;&nbsp;The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWpkaEhzaUVEemU2RTF2RXc5dkhKd0lKTk5IZEpNSHB6RTEwbU53czBUQ1prRFUyMzJmY09jaVhtWmN4RlFqcDBxTWtVdFA1ejlmTkM1UmRYbnBGSHZDTEhuS3RleFZDVGptWUk0NWU3N01PdE1kWUNYMVh3dlNTMzQya05qdm1rM2l2Z2V6Vm5PQnZnclh5Mm11ejE1NjdDaV8xLTY3Ql94bzBsOWNUUElROGxnQWIwakp3SUVxSFRQb0Mzd2g1ajN5aFhGUkJnUkZ5R09MR21vaEd1bjg5VnRtc2Y3cmVDaWpoT1h0SFTSAfcBQVVfeXFMTmp1a3gxa1NBZUVMSHIzVTFjSzlwQ3hSWllZdURhWEhvQnhva2J5VVU5ZUU3ZFpSUDNiSHdiSHI5d2M4ZTVpNnkzcVFIMWozejVkckFwUFFmNGVmYmFEdVZIbHlabEJydk8yRkdOcWFoaDhUQldJaWc0N2x3c05lQVh4ZzdmMUYzbWNIT29ndkRuZGZBS2ZvNUhla3IzVjNpMmVKc1pFcHljZ0dsWXdPYWdIUFducmZOT1phRU80eHNrOENENktfR1phSUNPQVlhd1pmZFM3YlFEcllpQ09mVTZUUF9hV3ViZm1WZmRmWVFLT2dPVFNsUQ?oc=5",
+    "id": "07717350a862",
+    "title": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
+    "source": "LiveMint",
+    "summary": "Artificial intelligence could improve disease screening, medical diagnostics and remote patient monitoring while making healthcare more accessible and affordable, Secretary of the Ministry of Electronics and Information Technology (MeitY) S. Krishnan said at a technology conclave in Varanasi, highli",
+    "url": "https://www.livemint.com/technology/meitybacked-conclave-explores-ai-applications-in-healthcare-assistive-technologies-11792308092347.html",
     "image": "",
-    "published_at": "Wed, 14 Oct 2026 11:34:41 GMT",
-    "fetched_at": "2026-10-18T05:39:06.731106+00:00"
+    "published_at": "Sun, 18 Oct 2026 12:51:32 +0530",
+    "fetched_at": "2026-10-18T10:47:42.110310+00:00"
+  },
+  {
+    "id": "21e671c29068",
+    "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+    "source": "LiveMint",
+    "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+    "url": "https://www.livemint.com/technology/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools-11792307481426.html",
+    "image": "",
+    "published_at": "Sun, 18 Oct 2026 12:41:20 +0530",
+    "fetched_at": "2026-10-18T10:47:42.110333+00:00"
   },
   {
     "id": "2b994b81db65",
@@ -307,7 +327,7 @@
     "url": "https://www.livemint.com/technology/apple-october-2026-launches-touchscreen-macbook-pro-m6-imac-oled-ipad-mini-and-more-expected-11792144048285.html",
     "image": "",
     "published_at": "Sun, 18 Oct 2026 09:00:49 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519471+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110354+00:00"
   },
   {
     "id": "73c0646b2b4a",
@@ -317,7 +337,7 @@
     "url": "https://www.livemint.com/technology/tech-news/iphone-18-pro-max-vs-galaxy-s26-ultra-key-differences-in-camera-display-battery-and-performance-11792259146732.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 23:44:15 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519502+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110367+00:00"
   },
   {
     "id": "5b5f4eda8be5",
@@ -327,7 +347,7 @@
     "url": "https://www.livemint.com/technology/redmagic-12-pro-launched-with-185hz-display-rgb-water-cooling-and-8-400mah-battery-check-prices-and-top-features-11792249429605.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 21:27:55 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519524+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110381+00:00"
   },
   {
     "id": "e38670c3e958",
@@ -337,7 +357,7 @@
     "url": "https://www.livemint.com/technology/tech-news/apple-iphone-duos-extraordinary-pre-order-frenzy-raises-stakes-for-its-foldable-smartphone-debut-11792249877954.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 21:16:50 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519544+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110395+00:00"
   },
   {
     "id": "9262f6cf0d4d",
@@ -347,7 +367,7 @@
     "url": "https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 15:34:18 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519566+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110411+00:00"
   },
   {
     "id": "05fa12f2049a",
@@ -357,7 +377,7 @@
     "url": "https://www.livemint.com/technology/tech-news/iphone-17-at-rs-54-000-17pro-at-rs-57-000-heres-how-you-can-get-the-iphone-17-and-17-pro-at-half-the-price-11792228929713.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 15:09:02 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519592+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110431+00:00"
   },
   {
     "id": "01f658989af8",
@@ -367,7 +387,7 @@
     "url": "https://www.livemint.com/technology/ai-could-give-small-businesses-competitive-edge-over-large-firms-former-uk-pm-rishi-sunak-11792226876294.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 14:17:55 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519611+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110444+00:00"
   },
   {
     "id": "0572d3bcbf6d",
@@ -377,27 +397,7 @@
     "url": "https://www.livemint.com/technology/tech-news/iqoo-neo12-to-launch-in-october-with-snapdragon-8-elite-gen-5-9000mah-battery-what-we-know-so-far-11792219878963.html",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 13:16:12 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519627+00:00"
-  },
-  {
-    "id": "45bd54983ab6",
-    "title": "MENA must classify AI data centres as critical loads, overhaul power planning amid rising demand: WEF",
-    "source": "LiveMint",
-    "summary": "The World Economic Forum (WEF) has called for countries in the Middle East and North Africa (MENA) to classify artificial intelligence (AI) data centres as “critical dynamic loads” and overhaul energy planning, warning that rising electricity demand, water scarcity and extreme heat could threaten th",
-    "url": "https://www.livemint.com/technology/mena-must-classify-ai-data-centres-as-critical-loads-overhaul-power-planning-amid-rising-demand-wef-11792212023650.html",
-    "image": "",
-    "published_at": "Sat, 17 Oct 2026 10:10:23 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519654+00:00"
-  },
-  {
-    "id": "98f576a9645e",
-    "title": "North Korea says it tested new torpedo system with AI capabilities",
-    "source": "LiveMint",
-    "summary": "North Korea says it tested new torpedo system with AI capabilities",
-    "url": "https://www.livemint.com/technology/north-korea-says-it-tested-new-torpedo-system-with-ai-capabilities-11792209104378.html",
-    "image": "",
-    "published_at": "Sat, 17 Oct 2026 09:21:43 +0530",
-    "fetched_at": "2026-10-18T05:39:11.519665+00:00"
+    "fetched_at": "2026-10-18T10:47:42.110457+00:00"
   },
   {
     "id": "4e403b46510e",
@@ -407,7 +407,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/dad-the-internet-at-home-is-too-slow-how-jios-founding-idea-took-shape/articleshow/135009724.cms",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 12:52:56 +0530",
-    "fetched_at": "2026-10-18T05:39:11.571861+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304877+00:00"
   },
   {
     "id": "351d38a3c7ab",
@@ -417,7 +417,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135010716.cms",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 09:56:04 +0530",
-    "fetched_at": "2026-10-18T05:39:11.571897+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304910+00:00"
   },
   {
     "id": "1e8208f38b1a",
@@ -427,7 +427,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
     "image": "",
     "published_at": "Sat, 17 Oct 2026 09:48:50 +0530",
-    "fetched_at": "2026-10-18T05:39:11.571928+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304936+00:00"
   },
   {
     "id": "f8cf3ec59a2b",
@@ -437,7 +437,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 22:50:25 +0530",
-    "fetched_at": "2026-10-18T05:39:11.571949+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304953+00:00"
   },
   {
     "id": "8362609fac7b",
@@ -447,7 +447,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-report/articleshow/135000017.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 22:42:04 +0530",
-    "fetched_at": "2026-10-18T05:39:11.571966+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304965+00:00"
   },
   {
     "id": "1221a49ae25d",
@@ -457,7 +457,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 22:29:30 +0530",
-    "fetched_at": "2026-10-18T05:39:11.572007+00:00"
+    "fetched_at": "2026-10-18T10:47:42.304985+00:00"
   },
   {
     "id": "aff578a59947",
@@ -467,7 +467,7 @@
     "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 22:17:50 +0530",
-    "fetched_at": "2026-10-18T05:39:11.572032+00:00"
+    "fetched_at": "2026-10-18T10:47:42.305005+00:00"
   },
   {
     "id": "bb602c3c3f26",
@@ -477,7 +477,7 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-announces-plans-to-enter-residential-air-conditioner-segment/articleshow/134998753.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 21:30:51 +0530",
-    "fetched_at": "2026-10-18T05:39:11.572054+00:00"
+    "fetched_at": "2026-10-18T10:47:42.305024+00:00"
   },
   {
     "id": "cf02729c30a0",
@@ -487,7 +487,7 @@
     "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-dips-marginally-revenue-up-13-6-yoy/articleshow/134997435.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 19:51:33 +0530",
-    "fetched_at": "2026-10-18T05:39:11.572074+00:00"
+    "fetched_at": "2026-10-18T10:47:42.305042+00:00"
   },
   {
     "id": "55b8ae125e0d",
@@ -497,6 +497,6 @@
     "url": "https://economictimes.indiatimes.com/tech/technology/supermarket-operator-aholds-websites-app-remain-offline-5-days-after-cyber-incident/articleshow/134996115.cms",
     "image": "",
     "published_at": "Fri, 16 Oct 2026 18:37:30 +0530",
-    "fetched_at": "2026-10-18T05:39:11.572094+00:00"
+    "fetched_at": "2026-10-18T10:47:42.305059+00:00"
   }
 ]
