@@ -1,15 +1,5 @@
 [
   {
-    "id": "cfdbe7a67a69",
-    "title": "The haunted housing market",
-    "source": "Axios",
-    "summary": "The haunted housing market&nbsp;&nbsp;Axios",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTJfRDZtMVZnYzl4dS0yd2kzYTlydV96c3Y2aXlzRU5ieE5CYjNRbldsVzkxdVZQUjFNdlMtaE95alhxbWRTWXdXQzlkOHMwamQ3eGtaRThSQ25yTmF5S09GQlNwNmVmcUxmMGF4NjliUQ?oc=5",
-    "image": "",
-    "published_at": "Sat, 31 Oct 2026 02:20:16 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351181+00:00"
-  },
-  {
     "id": "6ecc52bf0930",
     "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
     "source": "Goldman Sachs",
@@ -17,7 +7,17 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0kyVHNyaTRLelZaTGN5QU1kNG5nd1cyVGVCYkRuYWpwV2JxTXJTel9QYUkwN1ZJaVB1UVgzSUVDcHVuSk5SeEFfVkVlalpRNnhvM0FwczVDMFFROW4zc1VxY3JYSkNfZVo5RjA2NHNFQkFma3ctYzRRS3gxWW5XZTZ2T3V1VzRoLVhvdW5WNHRSeVJndWh1OGFzdktnSjRibTBERjZOSm1aQVF2?oc=5",
     "image": "",
     "published_at": "Fri, 30 Oct 2026 19:01:10 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351214+00:00"
+    "fetched_at": "2026-11-01T07:18:42.849028+00:00"
+  },
+  {
+    "id": "cfdbe7a67a69",
+    "title": "The haunted housing market",
+    "source": "Axios",
+    "summary": "The haunted housing market&nbsp;&nbsp;Axios",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTJfRDZtMVZnYzl4dS0yd2kzYTlydV96c3Y2aXlzRU5ieE5CYjNRbldsVzkxdVZQUjFNdlMtaE95alhxbWRTWXdXQzlkOHMwamQ3eGtaRThSQ25yTmF5S09GQlNwNmVmcUxmMGF4NjliUQ?oc=5",
+    "image": "",
+    "published_at": "Sat, 31 Oct 2026 02:20:16 GMT",
+    "fetched_at": "2026-11-01T07:18:42.849053+00:00"
   },
   {
     "id": "01d4973b3a9c",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2M3NWM5Y196bVY3SFVZYlJLdWx6b0xIa0UtTjdpcDF1QU03QTVvVzV5Rm95Y2J3ODZZNHluYy1tdS1nUWJ0Y0VheHNNdG9rUENOSV9TNVdKYWlzTHNkQjZvZHljVzRNazFjNk5rSDJXNWRXMWhKS2RQdjJ1bUFuZ3ZMUG5LZ0xfa0ZRZWhySF8wWEs1Z1NwNDhUMUFiYjVPeGx4eThldGw0d1MySzZXeHl2ZkY3Rzhpc3g2YWNmTFZBblJMek5v?oc=5",
     "image": "",
     "published_at": "Tue, 27 Oct 2026 15:58:08 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351228+00:00"
+    "fetched_at": "2026-11-01T07:18:42.849069+00:00"
   },
   {
     "id": "6799e0dcff0e",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0drMkpLLVZyQVhkV1QwMThXcmdPQUdkNmY3NHh5SGhsNlVnbUh1dUU1TlJZc2FlZVJPcWJfdUpYM08tMW80Nl95QUtwOF91eHRhTVdueHpCRHBIN1E4d1JnR29ENGVYWlplQ3ZFWFd6LThobWxuZ2hSaVo1Smd1a0VCWGQ2Wm5qRlFsV3EzUHlReE1mOWxvS3RWSHR3b2RtVkhtOG1ZY0N2cWJRTTNjcklB?oc=5",
     "image": "",
     "published_at": "Thu, 29 Oct 2026 21:16:05 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351266+00:00"
+    "fetched_at": "2026-11-01T07:18:42.849091+00:00"
   },
   {
     "id": "847592753c01",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbG5zZHFMZWs4dUlqWDBfWExZSGV4NG5pOXdmdlpmLWxjcUoyWGY3akJBNUg3U2pNejY0YmR4aHN5NlhjN1ozcTNzbEZ0dmZqeGdtZC1CTEdfcTgtN1dfVUJhcGtmLVdKaFZxUHBZX2FDSVN4VXJQZTlRYVV5NEVINE5WZjNtN0lqLXRETi1ic2dkNDdMUzhmSUZkR2s0Q1BtUTA1cGVQeEhITE1ZQVoxMjhvR1ZrNm1uUno5ck5RY2szc3JvTmozWVE5OUdsM2ZRRzMtWGMyZTVsN0JHaFVPTTlEcTBNVnc?oc=5",
     "image": "",
     "published_at": "Thu, 29 Oct 2026 08:08:58 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351289+00:00"
+    "fetched_at": "2026-11-01T07:18:42.849114+00:00"
   },
   {
     "id": "207e6fbb7943",
@@ -57,7 +57,137 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVRXSjR4dkdFRWtsbzNNcmx3bmZEMGZCM1ZDbmdaX2xUdUZHN3VwYi1hVVpBWFJ2b2VtVm1RSEpHZ3lUMlNLb21ZRDBmZkQxS1NtbjNJWWZwa3piQXE3TnZBUWFCdEdQYWhad21tRmp6RHZoamo5WERUUGVLeVUtb1lINm9TRVRvN2IzX2tFdkNQU1RvVGViQ2VnY1FrOXdBLW1fZkJ3YVFQZHU3ZDRkVEgwMjd0bzZPak9iSGZB?oc=5",
     "image": "",
     "published_at": "Fri, 30 Oct 2026 20:21:47 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351306+00:00"
+    "fetched_at": "2026-11-01T07:18:42.849131+00:00"
+  },
+  {
+    "id": "587f20df120a",
+    "title": "Atlanta luxury real estate sales, prices keep rising - Atlanta Business Chronicle",
+    "source": "The Business Journals",
+    "summary": "Atlanta luxury real estate sales, prices keep rising - Atlanta Business Chronicle&nbsp;&nbsp;The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3d1dTdMZVptU1FSRHlKbDBPSlloamd2SGN2S0YwRExBX1ljcjFxOVVNUjgxVVpHcG9PNzdlVkhzRlRGQUVxSUpLcWVWbFNUcm5HQ3lXSktqRkZfR0J6alBZY3lNMHhZdHk5RmtTZmlfa1BmT0lfbjVTRnFfcG9MVk5PRUdNNDB6cUZ1UC1USlVfRlQ5MmlKdHByZGtfRGtwQWUzVzJ3?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 14:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:42.849147+00:00"
+  },
+  {
+    "id": "2361a3a606d3",
+    "title": "Pending Home Sales Decreased 7.3% in September",
+    "source": "National Association of REALTORS®",
+    "summary": "Pending Home Sales Decreased 7.3% in September&nbsp;&nbsp;National Association of REALTORS®",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGRZU0s5WkNrSlFHNlUwVUlFZWc3amt3a3QwQmhQM1B6MnJBcU9tUHJqSlBQek9ubkhUTE1fb2R2bENtTS1TdFc5M1k0QW10cmpHbzBTbHBTYlk5WUZVQWxvT0ZOM1IwQy01MThKS2MyUG8zclVUelQ0NlVmSzctQmZ2UHFKOVhNTUxHSzZ5bw?oc=5",
+    "image": "",
+    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:42.849163+00:00"
+  },
+  {
+    "id": "c77f6b39a145",
+    "title": "St. Louis Reclaims Its Crown as America’s Top Luxury Housing Market",
+    "source": "Realtor.com",
+    "summary": "St. Louis Reclaims Its Crown as America’s Top Luxury Housing Market&nbsp;&nbsp;Realtor.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEtrVWVtUFZfYk1HWWxLTlBSMVF2aXFOcjA4anpIWmh2NFNNaTJSd0dfZS1FNXhtUmVZZUFVY25hcWFiM01oWEFTOTVhVHNiV251bjJfQTlDczFmNEdnbVFJOXFuQzE4TzZvUlZidU12anRzbDRnUklWZjRFQ09ZWV82cFliN0VaOG82eU9TMmVrOFlTR1kzUFgtUWNaaDhiS3REb2FB?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 Oct 2026 16:05:12 GMT",
+    "fetched_at": "2026-11-01T07:18:42.849180+00:00"
+  },
+  {
+    "id": "58540ab7eb80",
+    "title": "Just before Halloween, a new report reveals a frightening trend in America’s housing market",
+    "source": "Fast Company",
+    "summary": "Just before Halloween, a new report reveals a frightening trend in America’s housing market&nbsp;&nbsp;Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlJiaG1rZXNmOHFxbllRZ182NTVuWG54cmN1eU40Nk1YLXc0bE9ybGhiblVxNkstRWJVU1Nac0VnV2RMcmZPS0FsY3ROcVJYOFhEZEo5dHBXal92YnJyQVNIcFZ0MnB6aThGV2t5VnVZWWl4UFZIejVpbXpObkpLN215LXdmODYtekN1TzZkVVg5LUtneGtkUmNyd3hIMWFOOF9la3ZCbXJZTzhBekxTdDB6cWNWS0dFNncwbTEyZkE0ZFdJ?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 20:25:26 GMT",
+    "fetched_at": "2026-11-01T07:18:42.849198+00:00"
+  },
+  {
+    "id": "6a967bd96a2c",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "image": "",
+    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705080+00:00"
+  },
+  {
+    "id": "d64e5f325977",
+    "title": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027",
+    "source": "The Real Deal",
+    "summary": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027&nbsp;&nbsp;The Real Deal",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVmM1BYTlNWV01lbXRQYjFnbzdLcnppSVhsYW0wYnJydFUtdWw1WGc4WW5tNGxQaTVqbDNLSWRYeTZjTEo4TjBSSjVZblExdG5obzRSUUxpbGdnWXFlTzA3ZDBOUEItWlJpalpNY0hjeG9MWHl3dm1xb1k0bG1seWtOWUc3RkVlSkVPYnliaw?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 14:45:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705107+00:00"
+  },
+  {
+    "id": "bf86ae6fe7e9",
+    "title": "2027 Commercial Real Estate Outlook",
+    "source": "Deloitte",
+    "summary": "2027 Commercial Real Estate Outlook&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRVZFVWZlZad1hiMmxVQml6eEEwUWR1SFJPRm1SWVQ1NXFsLVlsM0JMb1FDS1pFdE42aWFMWmtkU3Y1WWRQMEppZUZXZFphTm5uWnJrUlhLQ2poN21qXzU4R3BjR3dTbGNCSW9yR1hXd2dEblJQMmp4OWIza2l2WUJobHhXZDB0Mk1FZnVLN0VGY3c1T0RjZHJTalVPWTY1am1tRGNrNHA0bEd1dFJBZ3NocXVBWjJUSm82WDNQN256aE44eUJEcWlxek5vM0FiOGRraHRpVQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705120+00:00"
+  },
+  {
+    "id": "739b67fe3490",
+    "title": "Global real estate outlook mid-year update",
+    "source": "JLL",
+    "summary": "Global real estate outlook mid-year update&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
+    "image": "",
+    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705133+00:00"
+  },
+  {
+    "id": "953fd8b621c8",
+    "title": "Property prices tell very different stories across the same city - latest investment news - API Magazine",
+    "source": "Australian Property Investor Magazine",
+    "summary": "Property prices tell very different stories across the same city - latest investment news - API Magazine&nbsp;&nbsp;Australian Property Investor Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN090Y2pielJONEptNXBsNUZwVUFJS3RfeWY5Z0VPOEUzY0VpZEVRQ3dNV3Y4QjBjQVM4aFpYNzJwaS1mQmxBVThlekp4dkFCazdTc0ZucDFIVGdOSXRKS2c3UkNBZkJIS194REN4M2RZOXVpV0VlanBJVXFubGJQYTBKOTNSWHFhOExsd0RRd29uLWFPOWdHdkhTMXZoakZRWWFkRHAwbE41eHhv?oc=5",
+    "image": "",
+    "published_at": "Sat, 31 Oct 2026 00:05:44 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705151+00:00"
+  },
+  {
+    "id": "a187e9eaa286",
+    "title": "Looming decision next week could wipe out benefits of falling home prices",
+    "source": "Real Estate",
+    "summary": "Looming decision next week could wipe out benefits of falling home prices&nbsp;&nbsp;Real Estate",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDhtVVFzUEh5RmZSMjRyVmdBQlpiVngzNXFEMWpZUUpnWmw1a1pxcjJJcmRnZUF3amtGZWF0dTFJcHZMSkJzZ0t2X0hRVHNzVEh0dHhQM00zaW5BTnpGbTBfMjhQV195Q3NhOGxIdWNDc2pXNE9UU1JBcnR0ejJ5OGpnZC10TFY4czFqYWlPVjJQNFpoSUZEQ2hmY0pqZnpzRUtmTjAwb0xMdWE0VHc?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 05:39:24 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705166+00:00"
+  },
+  {
+    "id": "5fb1602a45eb",
+    "title": "Portugal Property Market: Prices Drop €50,000 in Porto as Beja Rents Surge",
+    "source": "Portugal.fr",
+    "summary": "Portugal Property Market: Prices Drop €50,000 in Porto as Beja Rents Surge&nbsp;&nbsp;Portugal.fr",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kRWVpWlZJcVBzekROS0x3OTdyOGVibVZJWjl3b0FINlp1WVFfeEw5QkdSWTEzQ3FJMzdNOElxSjc4OTF6emFCeEZwRi1NV2JpVGk3aUV5c3J1TTN0eU12YVh5OTAtSkxQMFdrMVpjYjduMG85LXF3?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 Oct 2026 04:01:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705183+00:00"
+  },
+  {
+    "id": "1650d15c6f86",
+    "title": "Market Watch",
+    "source": "TRREB",
+    "summary": "Market Watch&nbsp;&nbsp;TRREB",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMElYazZnMTNaamFUb05yaEZNMUpzczQxaEJqRE1pUW81cEpiWXA0Y29IWUw3S1JwY2xneUlxUXNKYmxyVjhDM1FteDQzUGJ0VVI5bw?oc=5",
+    "image": "",
+    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705192+00:00"
+  },
+  {
+    "id": "9c7a534b3610",
+    "title": "Ryan Specialty Q3 organic growth slows to 4% against ‘toughest comparison’",
+    "source": "Intelligent Insurer",
+    "summary": "Ryan Specialty Q3 organic growth slows to 4% against ‘toughest comparison’&nbsp;&nbsp;Intelligent Insurer",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWVibGc2QV8zUHNyQ0VPWlVvUUVveW93MlBWSnRwanBGZGdKSVdoR1kybEpGaHpJZ1ZvY1o4SmFGNm9tTGpySW1FYWlZZlhtR0ZyYnN3S3lVUjFGVzdaT2JXaV91bVJvYjlGYUZNeUV5czJTMVhETWNzMWs3UDg3NnQzeTAxelQybENzVU85WEItX25vV28wTzFURXIzSGFNMHVnWk14S05FQQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 13:10:20 GMT",
+    "fetched_at": "2026-11-01T07:18:43.705209+00:00"
   },
   {
     "id": "b0524344ea47",
@@ -80,26 +210,6 @@
     "fetched_at": "2026-11-01T00:54:01.351339+00:00"
   },
   {
-    "id": "6a967bd96a2c",
-    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-    "source": "Forbes",
-    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-    "image": "",
-    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351353+00:00"
-  },
-  {
-    "id": "587f20df120a",
-    "title": "Atlanta luxury real estate sales, prices keep rising - Atlanta Business Chronicle",
-    "source": "The Business Journals",
-    "summary": "Atlanta luxury real estate sales, prices keep rising - Atlanta Business Chronicle&nbsp;&nbsp;The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3d1dTdMZVptU1FSRHlKbDBPSlloamd2SGN2S0YwRExBX1ljcjFxOVVNUjgxVVpHcG9PNzdlVkhzRlRGQUVxSUpLcWVWbFNUcm5HQ3lXSktqRkZfR0J6alBZY3lNMHhZdHk5RmtTZmlfa1BmT0lfbjVTRnFfcG9MVk5PRUdNNDB6cUZ1UC1USlVfRlQ5MmlKdHByZGtfRGtwQWUzVzJ3?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 14:00:00 GMT",
-    "fetched_at": "2026-11-01T00:54:01.351367+00:00"
-  },
-  {
     "id": "7caaf13ce596",
     "title": "Interview: Underlying Factors Driving the Housing Market",
     "source": "Texas Real Estate Research Center",
@@ -108,16 +218,6 @@
     "image": "",
     "published_at": "Wed, 28 Oct 2026 07:00:00 GMT",
     "fetched_at": "2026-11-01T00:54:02.374184+00:00"
-  },
-  {
-    "id": "d64e5f325977",
-    "title": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027",
-    "source": "The Real Deal",
-    "summary": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027&nbsp;&nbsp;The Real Deal",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVmM1BYTlNWV01lbXRQYjFnbzdLcnppSVhsYW0wYnJydFUtdWw1WGc4WW5tNGxQaTVqbDNLSWRYeTZjTEo4TjBSSjVZblExdG5obzRSUUxpbGdnWXFlTzA3ZDBOUEItWlJpalpNY0hjeG9MWHl3dm1xb1k0bG1seWtOWUc3RkVlSkVPYnliaw?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 14:45:00 GMT",
-    "fetched_at": "2026-11-01T00:54:02.374224+00:00"
   },
   {
     "id": "46ecff7ceb79",
@@ -138,16 +238,6 @@
     "image": "",
     "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
     "fetched_at": "2026-11-01T00:54:02.374270+00:00"
-  },
-  {
-    "id": "bf86ae6fe7e9",
-    "title": "2027 Commercial Real Estate Outlook",
-    "source": "Deloitte",
-    "summary": "2027 Commercial Real Estate Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRVZFVWZlZad1hiMmxVQml6eEEwUWR1SFJPRm1SWVQ1NXFsLVlsM0JMb1FDS1pFdE42aWFMWmtkU3Y1WWRQMEppZUZXZFphTm5uWnJrUlhLQ2poN21qXzU4R3BjR3dTbGNCSW9yR1hXd2dEblJQMmp4OWIza2l2WUJobHhXZDB0Mk1FZnVLN0VGY3c1T0RjZHJTalVPWTY1am1tRGNrNHA0bEd1dFJBZ3NocXVBWjJUSm82WDNQN256aE44eUJEcWlxek5vM0FiOGRraHRpVQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T00:54:02.374281+00:00"
   },
   {
     "id": "05457b2f858a",
@@ -190,16 +280,6 @@
     "fetched_at": "2026-10-31T21:20:01.337355+00:00"
   },
   {
-    "id": "953fd8b621c8",
-    "title": "Property prices tell very different stories across the same city - latest investment news - API Magazine",
-    "source": "Australian Property Investor Magazine",
-    "summary": "Property prices tell very different stories across the same city - latest investment news - API Magazine&nbsp;&nbsp;Australian Property Investor Magazine",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN090Y2pielJONEptNXBsNUZwVUFJS3RfeWY5Z0VPOEUzY0VpZEVRQ3dNV3Y4QjBjQVM4aFpYNzJwaS1mQmxBVThlekp4dkFCazdTc0ZucDFIVGdOSXRKS2c3UkNBZkJIS194REN4M2RZOXVpV0VlanBJVXFubGJQYTBKOTNSWHFhOExsd0RRd29uLWFPOWdHdkhTMXZoakZRWWFkRHAwbE41eHhv?oc=5",
-    "image": "",
-    "published_at": "Sat, 31 Oct 2026 00:05:44 GMT",
-    "fetched_at": "2026-10-31T21:20:01.337396+00:00"
-  },
-  {
     "id": "6735f1de96f0",
     "title": "Higher interest rates make Brisbane Australia’s toughest property market for couples to buy",
     "source": "Real Estate",
@@ -208,56 +288,6 @@
     "image": "",
     "published_at": "Sat, 31 Oct 2026 19:08:07 GMT",
     "fetched_at": "2026-10-31T21:20:01.337419+00:00"
-  },
-  {
-    "id": "739b67fe3490",
-    "title": "Global real estate outlook mid-year update",
-    "source": "JLL",
-    "summary": "Global real estate outlook mid-year update&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
-    "image": "",
-    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-31T21:20:01.337447+00:00"
-  },
-  {
-    "id": "5fb1602a45eb",
-    "title": "Portugal Property Market: Prices Drop €50,000 in Porto as Beja Rents Surge",
-    "source": "Portugal.fr",
-    "summary": "Portugal Property Market: Prices Drop €50,000 in Porto as Beja Rents Surge&nbsp;&nbsp;Portugal.fr",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kRWVpWlZJcVBzekROS0x3OTdyOGVibVZJWjl3b0FINlp1WVFfeEw5QkdSWTEzQ3FJMzdNOElxSjc4OTF6emFCeEZwRi1NV2JpVGk3aUV5c3J1TTN0eU12YVh5OTAtSkxQMFdrMVpjYjduMG85LXF3?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Oct 2026 04:01:00 GMT",
-    "fetched_at": "2026-10-31T21:20:01.337467+00:00"
-  },
-  {
-    "id": "58540ab7eb80",
-    "title": "Just before Halloween, a new report reveals a frightening trend in America’s housing market",
-    "source": "Fast Company",
-    "summary": "Just before Halloween, a new report reveals a frightening trend in America’s housing market&nbsp;&nbsp;Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlJiaG1rZXNmOHFxbllRZ182NTVuWG54cmN1eU40Nk1YLXc0bE9ybGhiblVxNkstRWJVU1Nac0VnV2RMcmZPS0FsY3ROcVJYOFhEZEo5dHBXal92YnJyQVNIcFZ0MnB6aThGV2t5VnVZWWl4UFZIejVpbXpObkpLN215LXdmODYtekN1TzZkVVg5LUtneGtkUmNyd3hIMWFOOF9la3ZCbXJZTzhBekxTdDB6cWNWS0dFNncwbTEyZkE0ZFdJ?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 20:25:26 GMT",
-    "fetched_at": "2026-10-31T17:37:05.918472+00:00"
-  },
-  {
-    "id": "1650d15c6f86",
-    "title": "Market Watch",
-    "source": "TRREB",
-    "summary": "Market Watch&nbsp;&nbsp;TRREB",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMElYazZnMTNaamFUb05yaEZNMUpzczQxaEJqRE1pUW81cEpiWXA0Y29IWUw3S1JwY2xneUlxUXNKYmxyVjhDM1FteDQzUGJ0VVI5bw?oc=5",
-    "image": "",
-    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-31T17:37:06.814096+00:00"
-  },
-  {
-    "id": "9c7a534b3610",
-    "title": "Ryan Specialty Q3 organic growth slows to 4% against ‘toughest comparison’",
-    "source": "Intelligent Insurer",
-    "summary": "Ryan Specialty Q3 organic growth slows to 4% against ‘toughest comparison’&nbsp;&nbsp;Intelligent Insurer",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWVibGc2QV8zUHNyQ0VPWlVvUUVveW93MlBWSnRwanBGZGdKSVdoR1kybEpGaHpJZ1ZvY1o4SmFGNm9tTGpySW1FYWlZZlhtR0ZyYnN3S3lVUjFGVzdaT2JXaV91bVJvYjlGYUZNeUV5czJTMVhETWNzMWs3UDg3NnQzeTAxelQybENzVU85WEItX25vV28wTzFURXIzSGFNMHVnWk14S05FQQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 13:10:20 GMT",
-    "fetched_at": "2026-10-31T17:37:06.814114+00:00"
   },
   {
     "id": "3bff337bee8a",
@@ -348,16 +378,6 @@
     "image": "",
     "published_at": "Fri, 30 Oct 2026 07:14:57 GMT",
     "fetched_at": "2026-10-30T19:11:40.056815+00:00"
-  },
-  {
-    "id": "c77f6b39a145",
-    "title": "St. Louis Reclaims Its Crown as America’s Top Luxury Housing Market",
-    "source": "Realtor.com",
-    "summary": "St. Louis Reclaims Its Crown as America’s Top Luxury Housing Market&nbsp;&nbsp;Realtor.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEtrVWVtUFZfYk1HWWxLTlBSMVF2aXFOcjA4anpIWmh2NFNNaTJSd0dfZS1FNXhtUmVZZUFVY25hcWFiM01oWEFTOTVhVHNiV251bjJfQTlDczFmNEdnbVFJOXFuQzE4TzZvUlZidU12anRzbDRnUklWZjRFQ09ZWV82cFliN0VaOG82eU9TMmVrOFlTR1kzUFgtUWNaaDhiS3REb2FB?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Oct 2026 16:05:12 GMT",
-    "fetched_at": "2026-10-30T13:59:47.710901+00:00"
   },
   {
     "id": "c27f0e2386d5",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Thu, 29 Oct 2026 07:19:22 GMT",
     "fetched_at": "2026-10-29T14:04:43.328439+00:00"
-  },
-  {
-    "id": "4a708254a921",
-    "title": "Abu Dhabi property market trends in Q3 2026: Bayut’s analysis highlights diverse demand and sustained confidence",
-    "source": "Zawya",
-    "summary": "Abu Dhabi property market trends in Q3 2026: Bayut’s analysis highlights diverse demand and sustained confidence&nbsp;&nbsp;Zawya",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZEQtUWk2d3VFU1c5dmMzMVk5NzBLcGl5SktPTklwczBfMG95OElZSmpBRkdWdXliQmhxa2trTV9FVENzaktwa2stTm9PUE13cFN3YmRXb3c2blZLS2lWaWcwT3Q2YXJEeC02QmhhNzBXT094Ynk3QmhUU1V2VVNFNzJQcHJFQWFYZmNZVU1kWXY0NEhtTzBXV19Vd3I0Qlo3NHAzTDMtaHpMZXBzblk2WFJsWDBqWXJNZ3lYdnpHQkZqX1JvSWZfV2FhVThOZXBrVl9ocFhsV1F5Q3ZmTm5YTzZIb3Y0RVBLbkxFdlBvTDJuZGp1U2stbUdaZTFPaURFcnQ0VQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 10:57:00 GMT",
-    "fetched_at": "2026-10-29T14:04:43.328463+00:00"
-  },
-  {
-    "id": "4119c5b4d520",
-    "title": "Why Is Melcor Developments (TSX:MRD) on the TSX Watchlist as Investors Assess Canadian Property-Market Conditions?",
-    "source": "kalkine.ca",
-    "summary": "Why Is Melcor Developments (TSX:MRD) on the TSX Watchlist as Investors Assess Canadian Property-Market Conditions?&nbsp;&nbsp;kalkine.ca",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSlI5NUdWS1J1Qzg3LWtOaE5nUnJiYklEZUluc3BuU1JQaEdtSVVnMU1ablF1MHBUamppbGJnalRMbDI0LUdSU2t4MnZZd25iTkdxenFFbFc0a1VvRF8zNXQ2ZWtRTkFJT1N2MGZUcnRqdGVXNDhzeGdpSzBJWkdYSmpEX2xkNzFqU3VSaHQwemJ0RHNFZlJZZ2UxbDljTkNraVBCUktyeW5DS2VfNWYzMEktV1hkZVp0RExEdXRvWDBLSkdxVWhXUEVjLXRkbXEtV2Q1eTNlNHgtWnhibjh3?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 16:49:00 GMT",
-    "fetched_at": "2026-10-29T14:04:43.328482+00:00"
   }
 ]
