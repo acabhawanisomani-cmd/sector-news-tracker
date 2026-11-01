@@ -1,15 +1,5 @@
 [
   {
-    "id": "6ecc52bf0930",
-    "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
-    "source": "Goldman Sachs",
-    "summary": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates&nbsp;&nbsp;Goldman Sachs",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0kyVHNyaTRLelZaTGN5QU1kNG5nd1cyVGVCYkRuYWpwV2JxTXJTel9QYUkwN1ZJaVB1UVgzSUVDcHVuSk5SeEFfVkVlalpRNnhvM0FwczVDMFFROW4zc1VxY3JYSkNfZVo5RjA2NHNFQkFma3ctYzRRS3gxWW5XZTZ2T3V1VzRoLVhvdW5WNHRSeVJndWh1OGFzdktnSjRibTBERjZOSm1aQVF2?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 19:01:10 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694262+00:00"
-  },
-  {
     "id": "cfdbe7a67a69",
     "title": "The haunted housing market",
     "source": "Axios",
@@ -17,7 +7,17 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTJfRDZtMVZnYzl4dS0yd2kzYTlydV96c3Y2aXlzRU5ieE5CYjNRbldsVzkxdVZQUjFNdlMtaE95alhxbWRTWXdXQzlkOHMwamQ3eGtaRThSQ25yTmF5S09GQlNwNmVmcUxmMGF4NjliUQ?oc=5",
     "image": "",
     "published_at": "Fri, 30 Oct 2026 11:21:03 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694290+00:00"
+    "fetched_at": "2026-11-01T23:28:46.240647+00:00"
+  },
+  {
+    "id": "6ecc52bf0930",
+    "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+    "source": "Goldman Sachs",
+    "summary": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates&nbsp;&nbsp;Goldman Sachs",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0kyVHNyaTRLelZaTGN5QU1kNG5nd1cyVGVCYkRuYWpwV2JxTXJTel9QYUkwN1ZJaVB1UVgzSUVDcHVuSk5SeEFfVkVlalpRNnhvM0FwczVDMFFROW4zc1VxY3JYSkNfZVo5RjA2NHNFQkFma3ctYzRRS3gxWW5XZTZ2T3V1VzRoLVhvdW5WNHRSeVJndWh1OGFzdktnSjRibTBERjZOSm1aQVF2?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 19:01:10 GMT",
+    "fetched_at": "2026-11-01T23:28:46.240672+00:00"
   },
   {
     "id": "01d4973b3a9c",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2M3NWM5Y196bVY3SFVZYlJLdWx6b0xIa0UtTjdpcDF1QU03QTVvVzV5Rm95Y2J3ODZZNHluYy1tdS1nUWJ0Y0VheHNNdG9rUENOSV9TNVdKYWlzTHNkQjZvZHljVzRNazFjNk5rSDJXNWRXMWhKS2RQdjJ1bUFuZ3ZMUG5LZ0xfa0ZRZWhySF8wWEs1Z1NwNDhUMUFiYjVPeGx4eThldGw0d1MySzZXeHl2ZkY3Rzhpc3g2YWNmTFZBblJMek5v?oc=5",
     "image": "",
     "published_at": "Tue, 27 Oct 2026 15:58:08 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694305+00:00"
+    "fetched_at": "2026-11-01T23:28:46.240684+00:00"
   },
   {
     "id": "6799e0dcff0e",
@@ -37,7 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0drMkpLLVZyQVhkV1QwMThXcmdPQUdkNmY3NHh5SGhsNlVnbUh1dUU1TlJZc2FlZVJPcWJfdUpYM08tMW80Nl95QUtwOF91eHRhTVdueHpCRHBIN1E4d1JnR29ENGVYWlplQ3ZFWFd6LThobWxuZ2hSaVo1Smd1a0VCWGQ2Wm5qRlFsV3EzUHlReE1mOWxvS3RWSHR3b2RtVkhtOG1ZY0N2cWJRTTNjcklB?oc=5",
     "image": "",
     "published_at": "Thu, 29 Oct 2026 21:16:05 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694330+00:00"
+    "fetched_at": "2026-11-01T23:28:46.240703+00:00"
   },
   {
     "id": "847592753c01",
@@ -47,17 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbG5zZHFMZWs4dUlqWDBfWExZSGV4NG5pOXdmdlpmLWxjcUoyWGY3akJBNUg3U2pNejY0YmR4aHN5NlhjN1ozcTNzbEZ0dmZqeGdtZC1CTEdfcTgtN1dfVUJhcGtmLVdKaFZxUHBZX2FDSVN4VXJQZTlRYVV5NEVINE5WZjNtN0lqLXRETi1ic2dkNDdMUzhmSUZkR2s0Q1BtUTA1cGVQeEhITE1ZQVoxMjhvR1ZrNm1uUno5ck5RY2szc3JvTmozWVE5OUdsM2ZRRzMtWGMyZTVsN0JHaFVPTTlEcTBNVnc?oc=5",
     "image": "",
     "published_at": "Thu, 29 Oct 2026 08:08:58 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694353+00:00"
-  },
-  {
-    "id": "6a967bd96a2c",
-    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-    "source": "Forbes",
-    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-    "image": "",
-    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694367+00:00"
+    "fetched_at": "2026-11-01T23:28:46.240722+00:00"
   },
   {
     "id": "207e6fbb7943",
@@ -67,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVRXSjR4dkdFRWtsbzNNcmx3bmZEMGZCM1ZDbmdaX2xUdUZHN3VwYi1hVVpBWFJ2b2VtVm1RSEpHZ3lUMlNLb21ZRDBmZkQxS1NtbjNJWWZwa3piQXE3TnZBUWFCdEdQYWhad21tRmp6RHZoamo5WERUUGVLeVUtb1lINm9TRVRvN2IzX2tFdkNQU1RvVGViQ2VnY1FrOXdBLW1fZkJ3YVFQZHU3ZDRkVEgwMjd0bzZPak9iSGZB?oc=5",
     "image": "",
     "published_at": "Fri, 30 Oct 2026 20:21:47 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694386+00:00"
+    "fetched_at": "2026-11-01T23:28:46.240735+00:00"
+  },
+  {
+    "id": "2361a3a606d3",
+    "title": "Pending Home Sales Decreased 7.3% in September",
+    "source": "National Association of REALTORS®",
+    "summary": "Pending Home Sales Decreased 7.3% in September&nbsp;&nbsp;National Association of REALTORS®",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGRZU0s5WkNrSlFHNlUwVUlFZWc3amt3a3QwQmhQM1B6MnJBcU9tUHJqSlBQek9ubkhUTE1fb2R2bENtTS1TdFc5M1k0QW10cmpHbzBTbHBTYlk5WUZVQWxvT0ZOM1IwQy01MThKS2MyUG8zclVUelQ0NlVmSzctQmZ2UHFKOVhNTUxHSzZ5bw?oc=5",
+    "image": "",
+    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:46.240748+00:00"
+  },
+  {
+    "id": "8c152720ff93",
+    "title": "Florida housing market holds steady in September",
+    "source": "| Florida Realtors",
+    "summary": "Florida housing market holds steady in September&nbsp;&nbsp;| Florida Realtors",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc285YjNaWk5rbDRmNVA5RjF3aEFNTHhrUVVSZTlfS2NaUE5ERDRmWmhuT0lTVC1sUDJ3RkE2c0preHA4WENlUUlScG9SMFY3WEZzWmtmQjlBZHBwR21nWUlhOWFlRjhySmswZkdVZnVvUzNsTE81a19pVVFtZjB4VzNJSDN5QTZWd1pxM3UtSGZURWZ2bDV6UXdxaEF0N1VfZ3IxVVlGWkNyczRKT29n?oc=5",
+    "image": "",
+    "published_at": "Fri, 16 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:46.240758+00:00"
+  },
+  {
+    "id": "ce407bae5e68",
+    "title": "Millionaire Renters Are Booming in This Market—Even Though Buying Is Within Reach",
+    "source": "Realtor.com",
+    "summary": "Millionaire Renters Are Booming in This Market—Even Though Buying Is Within Reach&nbsp;&nbsp;Realtor.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnFKbVd0R0UtYUF5X2hCUnhtRnhnRFhvaC16MlUyRXNqZE10Qlh2VHdacFBKcnNtVEtCUGlrdzkwUjN0MlNPZENfMEtNTWk2YTZVTUZ4eGRqR2NseVJlMTRpSUNOV0h4b2R2Q1BkeXRfV3lIQjJWdkJ3ZDU2V0lwUEpSakFrU005NTdr?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 15:58:18 GMT",
+    "fetched_at": "2026-11-01T23:28:46.240771+00:00"
+  },
+  {
+    "id": "6b5f7e0b751b",
+    "title": "CA home sales drop amid ‘affordability challenges.’ Where to find houses for $237K",
+    "source": "Sacramento Bee",
+    "summary": "CA home sales drop amid ‘affordability challenges.’ Where to find houses for $237K&nbsp;&nbsp;Sacramento Bee",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMG5KbDFpeDRNNEpVUXpGVHRYdFAtVTNiSzVZcnY1b3dnd3A0amQyUW9xdGRBOUdwejdjWkdtajU4N21UelM4bTBoZkpLNmlKcEpORGstX2xKYi1ZdGk2NjByWWQtTVVIUDZZUg?oc=5",
+    "image": "",
+    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:46.240788+00:00"
+  },
+  {
+    "id": "ea4027f028d3",
+    "title": "US Real Estate Market — How AI and E-Commerce are Transforming Property Trends",
+    "source": "The Korea Daily",
+    "summary": "US Real Estate Market — How AI and E-Commerce are Transforming Property Trends&nbsp;&nbsp;The Korea Daily",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wNUlncVJEQXU0UldSM1lLUUx6eGc5LXZuc0RNeDI0cjg4TndxQTg5NmFGenFPNGVRVFJpMy0tS3VkNGVJT1JrWFdfcWpwbHUxOE90V0M0b3ZvTldhQ0lkZHByXzFrQzREQW9uQllYOWFhSGhVMUNv?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 15:10:22 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079126+00:00"
+  },
+  {
+    "id": "38b277c3eab7",
+    "title": "Best Real Estate Keynote Speakers 2027 | #1 Scott Steinberg",
+    "source": "https://www.futuristsspeakers.com/",
+    "summary": "Best Real Estate Keynote Speakers 2027 | #1 Scott Steinberg&nbsp;&nbsp;https://www.futuristsspeakers.com/",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlZhVC1ySTM1LUNGMWQyRlA2cmhjSy1NY19DVnJ5WkZGOGVzV3JRTjB6YXlhd2N4UlVYX3AyR1dLRzgyN3ZoQTRNZWRxQWNfNHhGV2RSczRuSWczREg2emxmTmRRVVNjNjA0RGgxbERpSlhRSlpmel9lbzJmWm9FUmNR?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 12:34:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079153+00:00"
+  },
+  {
+    "id": "6a967bd96a2c",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "summary": "Housing Market Predictions For 2026: When Will Home Prices Drop?&nbsp;&nbsp;Forbes",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "image": "",
+    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079165+00:00"
+  },
+  {
+    "id": "d64e5f325977",
+    "title": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027",
+    "source": "The Real Deal",
+    "summary": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027&nbsp;&nbsp;The Real Deal",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVmM1BYTlNWV01lbXRQYjFnbzdLcnppSVhsYW0wYnJydFUtdWw1WGc4WW5tNGxQaTVqbDNLSWRYeTZjTEo4TjBSSjVZblExdG5obzRSUUxpbGdnWXFlTzA3ZDBOUEItWlJpalpNY0hjeG9MWHl3dm1xb1k0bG1seWtOWUc3RkVlSkVPYnliaw?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 14:45:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079182+00:00"
+  },
+  {
+    "id": "d63b1924fa9b",
+    "title": "When wealth outruns wages: The changing dynamics of global property markets",
+    "source": "The Straits Times",
+    "summary": "When wealth outruns wages: The changing dynamics of global property markets&nbsp;&nbsp;The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGY3Yklsa1YtVzdsT1Y1c185M3VuS3g1d1NGdWNsLXBFbEFyOTR2MGxqYTJXak9nalViT3k2YnZscFBwVlJTY1JrWm84SGllNG1rd3ZnOWQwcUxFYmJqVHZ5dS1jbUFIQWVuaE50dmRsV0drSXRtMXl3ZGFtMENraEVtTEs0bVgwYldKRTMtWTQ2UFE3QmtCNVU5SWZnRFFadDVkU2tqZUd3TWkyal9lQ01n?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 21:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079209+00:00"
+  },
+  {
+    "id": "bf86ae6fe7e9",
+    "title": "2027 Commercial Real Estate Outlook",
+    "source": "Deloitte",
+    "summary": "2027 Commercial Real Estate Outlook&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRVZFVWZlZad1hiMmxVQml6eEEwUWR1SFJPRm1SWVQ1NXFsLVlsM0JMb1FDS1pFdE42aWFMWmtkU3Y1WWRQMEppZUZXZFphTm5uWnJrUlhLQ2poN21qXzU4R3BjR3dTbGNCSW9yR1hXd2dEblJQMmp4OWIza2l2WUJobHhXZDB0Mk1FZnVLN0VGY3c1T0RjZHJTalVPWTY1am1tRGNrNHA0bEd1dFJBZ3NocXVBWjJUSm82WDNQN256aE44eUJEcWlxek5vM0FiOGRraHRpVQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079218+00:00"
+  },
+  {
+    "id": "739b67fe3490",
+    "title": "Global real estate outlook mid-year update",
+    "source": "JLL",
+    "summary": "Global real estate outlook mid-year update&nbsp;&nbsp;JLL",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
+    "image": "",
+    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079226+00:00"
+  },
+  {
+    "id": "47ee3a209256",
+    "title": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation",
+    "source": "PR Newswire",
+    "summary": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation&nbsp;&nbsp;PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS2s1bENweDhleWJ3SDVLZThsRXJyV0xYbWQxV0JRUEFvUUFsaHEwMUhyRnVvM3dlTjdsb0Iyd1IwMkI1aHZsdW95OFlHQ2RtMkQ4YVB5VU1WYjQ4R1NIU2lLTFpMczVPZV9reTZ1VmNLVjNmaGx6d05wUUs0ZW5SSVhRM0Jqb29ZbmVrMzJDUktfeVdZQV9Xb2VaR0lnbUw5WTRpTjV2djNQN3pBYkNWekRfZ2x0MzFnNmdkSFBWWkhZNGtLVnV5eXJBZW15YmhHWkFFcUxKVUxnZjRIaVJNbG1hUXdKeTZ0WWlWTg?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 11:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079238+00:00"
+  },
+  {
+    "id": "953fd8b621c8",
+    "title": "Property prices tell very different stories across the same city - latest investment news - API Magazine",
+    "source": "Australian Property Investor Magazine",
+    "summary": "Property prices tell very different stories across the same city - latest investment news - API Magazine&nbsp;&nbsp;Australian Property Investor Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN090Y2pielJONEptNXBsNUZwVUFJS3RfeWY5Z0VPOEUzY0VpZEVRQ3dNV3Y4QjBjQVM4aFpYNzJwaS1mQmxBVThlekp4dkFCazdTc0ZucDFIVGdOSXRKS2c3UkNBZkJIS194REN4M2RZOXVpV0VlanBJVXFubGJQYTBKOTNSWHFhOExsd0RRd29uLWFPOWdHdkhTMXZoakZRWWFkRHAwbE41eHhv?oc=5",
+    "image": "",
+    "published_at": "Sat, 31 Oct 2026 00:05:44 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079251+00:00"
+  },
+  {
+    "id": "24cbc2fc6e0d",
+    "title": "Housing downturn broadens as Brisbane and Perth lead the decline | Latest Cotality Home Index Report",
+    "source": "Property Update",
+    "summary": "Housing downturn broadens as Brisbane and Perth lead the decline | Latest Cotality Home Index Report&nbsp;&nbsp;Property Update",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjhCVlc1SHpvSm5ZTU0za2ZocUtNNFZsTDVUNWxqU1pGMnJBQmtuUWlFMERoV2IzZlFXY2xiamVkdnBGVFFQSk1nWG1sU2M2Y3NkeFdQeVQ3dUhKU1NrQmJjWE9PVndiMmJmb0hXZEFza1Baa3U2cE96aEhTQXRSdENOWDNmLWFQaDJSY1VpenFvMlY3eERqUDdnUW1HMzN1TWxQRk5GREFCQWFGYjRiUHQ5eW4ydkpNVXVMQ2RNLVU1Z01sYUQ5RA?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 14:04:18 GMT",
+    "fetched_at": "2026-11-01T23:28:47.079263+00:00"
   },
   {
     "id": "3361a8e10853",
@@ -80,16 +210,6 @@
     "fetched_at": "2026-11-01T19:29:21.694403+00:00"
   },
   {
-    "id": "ce407bae5e68",
-    "title": "Millionaire Renters Are Booming in This Market—Even Though Buying Is Within Reach",
-    "source": "Realtor.com",
-    "summary": "Millionaire Renters Are Booming in This Market—Even Though Buying Is Within Reach&nbsp;&nbsp;Realtor.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnFKbVd0R0UtYUF5X2hCUnhtRnhnRFhvaC16MlUyRXNqZE10Qlh2VHdacFBKcnNtVEtCUGlrdzkwUjN0MlNPZENfMEtNTWk2YTZVTUZ4eGRqR2NseVJlMTRpSUNOV0h4b2R2Q1BkeXRfV3lIQjJWdkJ3ZDU2V0lwUEpSakFrU005NTdr?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 15:58:18 GMT",
-    "fetched_at": "2026-11-01T19:29:21.694420+00:00"
-  },
-  {
     "id": "9d18a5e1b3a4",
     "title": "High interest rates stall Denver housing market as sellers outnumber buyers",
     "source": "9News",
@@ -98,86 +218,6 @@
     "image": "",
     "published_at": "Mon, 19 Oct 2026 07:00:00 GMT",
     "fetched_at": "2026-11-01T19:29:21.694433+00:00"
-  },
-  {
-    "id": "38b277c3eab7",
-    "title": "Best Real Estate Keynote Speakers 2027 | #1 Scott Steinberg",
-    "source": "https://www.futuristsspeakers.com/",
-    "summary": "Best Real Estate Keynote Speakers 2027 | #1 Scott Steinberg&nbsp;&nbsp;https://www.futuristsspeakers.com/",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlZhVC1ySTM1LUNGMWQyRlA2cmhjSy1NY19DVnJ5WkZGOGVzV3JRTjB6YXlhd2N4UlVYX3AyR1dLRzgyN3ZoQTRNZWRxQWNfNHhGV2RSczRuSWczREg2emxmTmRRVVNjNjA0RGgxbERpSlhRSlpmel9lbzJmWm9FUmNR?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Nov 2026 12:34:00 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529161+00:00"
-  },
-  {
-    "id": "ea4027f028d3",
-    "title": "US Real Estate Market — How AI and E-Commerce are Transforming Property Trends",
-    "source": "The Korea Daily",
-    "summary": "US Real Estate Market — How AI and E-Commerce are Transforming Property Trends&nbsp;&nbsp;The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wNUlncVJEQXU0UldSM1lLUUx6eGc5LXZuc0RNeDI0cjg4TndxQTg5NmFGenFPNGVRVFJpMy0tS3VkNGVJT1JrWFdfcWpwbHUxOE90V0M0b3ZvTldhQ0lkZHByXzFrQzREQW9uQllYOWFhSGhVMUNv?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Nov 2026 15:10:22 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529200+00:00"
-  },
-  {
-    "id": "d64e5f325977",
-    "title": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027",
-    "source": "The Real Deal",
-    "summary": "Billionaire Ken Griffin’s deals, Tyko’s $2B-plus construction loans keep Miami among top real estate markets for 2027&nbsp;&nbsp;The Real Deal",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVmM1BYTlNWV01lbXRQYjFnbzdLcnppSVhsYW0wYnJydFUtdWw1WGc4WW5tNGxQaTVqbDNLSWRYeTZjTEo4TjBSSjVZblExdG5obzRSUUxpbGdnWXFlTzA3ZDBOUEItWlJpalpNY0hjeG9MWHl3dm1xb1k0bG1seWtOWUc3RkVlSkVPYnliaw?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 14:45:00 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529237+00:00"
-  },
-  {
-    "id": "bf86ae6fe7e9",
-    "title": "2027 Commercial Real Estate Outlook",
-    "source": "Deloitte",
-    "summary": "2027 Commercial Real Estate Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRVZFVWZlZad1hiMmxVQml6eEEwUWR1SFJPRm1SWVQ1NXFsLVlsM0JMb1FDS1pFdE42aWFMWmtkU3Y1WWRQMEppZUZXZFphTm5uWnJrUlhLQ2poN21qXzU4R3BjR3dTbGNCSW9yR1hXd2dEblJQMmp4OWIza2l2WUJobHhXZDB0Mk1FZnVLN0VGY3c1T0RjZHJTalVPWTY1am1tRGNrNHA0bEd1dFJBZ3NocXVBWjJUSm82WDNQN256aE44eUJEcWlxek5vM0FiOGRraHRpVQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529249+00:00"
-  },
-  {
-    "id": "739b67fe3490",
-    "title": "Global real estate outlook mid-year update",
-    "source": "JLL",
-    "summary": "Global real estate outlook mid-year update&nbsp;&nbsp;JLL",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydVh3SWtfU0xjRmp5MDh6bExYZnEtNkNDcEZlTzdCX0VfVW14UGh2RTVVR0UxdHR6a3hId1FHalhDeUVoMzRMWllkUU9VeF8zQzFBZG9VM250RlZ2RVRfUE9CX2hJc0JhUXJkakxiWFVCdks1OE13?oc=5",
-    "image": "",
-    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529260+00:00"
-  },
-  {
-    "id": "47ee3a209256",
-    "title": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation",
-    "source": "PR Newswire",
-    "summary": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation&nbsp;&nbsp;PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS2s1bENweDhleWJ3SDVLZThsRXJyV0xYbWQxV0JRUEFvUUFsaHEwMUhyRnVvM3dlTjdsb0Iyd1IwMkI1aHZsdW95OFlHQ2RtMkQ4YVB5VU1WYjQ4R1NIU2lLTFpMczVPZV9reTZ1VmNLVjNmaGx6d05wUUs0ZW5SSVhRM0Jqb29ZbmVrMzJDUktfeVdZQV9Xb2VaR0lnbUw5WTRpTjV2djNQN3pBYkNWekRfZ2x0MzFnNmdkSFBWWkhZNGtLVnV5eXJBZW15YmhHWkFFcUxKVUxnZjRIaVJNbG1hUXdKeTZ0WWlWTg?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Nov 2026 11:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529275+00:00"
-  },
-  {
-    "id": "24cbc2fc6e0d",
-    "title": "Housing downturn broadens as Brisbane and Perth lead the decline | Latest Cotality Home Index Report",
-    "source": "Property Update",
-    "summary": "Housing downturn broadens as Brisbane and Perth lead the decline | Latest Cotality Home Index Report&nbsp;&nbsp;Property Update",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjhCVlc1SHpvSm5ZTU0za2ZocUtNNFZsTDVUNWxqU1pGMnJBQmtuUWlFMERoV2IzZlFXY2xiamVkdnBGVFFQSk1nWG1sU2M2Y3NkeFdQeVQ3dUhKU1NrQmJjWE9PVndiMmJmb0hXZEFza1Baa3U2cE96aEhTQXRSdENOWDNmLWFQaDJSY1VpenFvMlY3eERqUDdnUW1HMzN1TWxQRk5GREFCQWFGYjRiUHQ5eW4ydkpNVXVMQ2RNLVU1Z01sYUQ5RA?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Nov 2026 14:03:45 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529293+00:00"
-  },
-  {
-    "id": "953fd8b621c8",
-    "title": "Property prices tell very different stories across the same city - latest investment news - API Magazine",
-    "source": "Australian Property Investor Magazine",
-    "summary": "Property prices tell very different stories across the same city - latest investment news - API Magazine&nbsp;&nbsp;Australian Property Investor Magazine",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN090Y2pielJONEptNXBsNUZwVUFJS3RfeWY5Z0VPOEUzY0VpZEVRQ3dNV3Y4QjBjQVM4aFpYNzJwaS1mQmxBVThlekp4dkFCazdTc0ZucDFIVGdOSXRKS2c3UkNBZkJIS194REN4M2RZOXVpV0VlanBJVXFubGJQYTBKOTNSWHFhOExsd0RRd29uLWFPOWdHdkhTMXZoakZRWWFkRHAwbE41eHhv?oc=5",
-    "image": "",
-    "published_at": "Sat, 31 Oct 2026 00:05:44 GMT",
-    "fetched_at": "2026-11-01T19:29:22.529309+00:00"
   },
   {
     "id": "1650d15c6f86",
@@ -198,16 +238,6 @@
     "image": "",
     "published_at": "Fri, 30 Oct 2026 14:00:00 GMT",
     "fetched_at": "2026-11-01T07:18:42.849147+00:00"
-  },
-  {
-    "id": "2361a3a606d3",
-    "title": "Pending Home Sales Decreased 7.3% in September",
-    "source": "National Association of REALTORS®",
-    "summary": "Pending Home Sales Decreased 7.3% in September&nbsp;&nbsp;National Association of REALTORS®",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGRZU0s5WkNrSlFHNlUwVUlFZWc3amt3a3QwQmhQM1B6MnJBcU9tUHJqSlBQek9ubkhUTE1fb2R2bENtTS1TdFc5M1k0QW10cmpHbzBTbHBTYlk5WUZVQWxvT0ZOM1IwQy01MThKS2MyUG8zclVUelQ0NlVmSzctQmZ2UHFKOVhNTUxHSzZ5bw?oc=5",
-    "image": "",
-    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T07:18:42.849163+00:00"
   },
   {
     "id": "c77f6b39a145",
@@ -468,35 +498,5 @@
     "image": "",
     "published_at": "Thu, 29 Oct 2026 14:47:00 GMT",
     "fetched_at": "2026-10-30T06:58:11.848030+00:00"
-  },
-  {
-    "id": "8c152720ff93",
-    "title": "Florida housing market holds steady in September",
-    "source": "| Florida Realtors",
-    "summary": "Florida housing market holds steady in September&nbsp;&nbsp;| Florida Realtors",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc285YjNaWk5rbDRmNVA5RjF3aEFNTHhrUVVSZTlfS2NaUE5ERDRmWmhuT0lTVC1sUDJ3RkE2c0preHA4WENlUUlScG9SMFY3WEZzWmtmQjlBZHBwR21nWUlhOWFlRjhySmswZkdVZnVvUzNsTE81a19pVVFtZjB4VzNJSDN5QTZWd1pxM3UtSGZURWZ2bDV6UXdxaEF0N1VfZ3IxVVlGWkNyczRKT29n?oc=5",
-    "image": "",
-    "published_at": "Fri, 16 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-30T06:58:11.848055+00:00"
-  },
-  {
-    "id": "c6461ce4a11c",
-    "title": "Home Prices Rebound in Florida as Miami Sees 3.3% Growth",
-    "source": "Realtor.com",
-    "summary": "Home Prices Rebound in Florida as Miami Sees 3.3% Growth&nbsp;&nbsp;Realtor.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1E0WHl5SGhZQUxVQ2p2NThJTFJzeDNuSzNSRWdsYVQwY2M2VllxMXNwbDFuOTJGTEFoSHRGZkxtU2d2Q2ctZ21QWTZwaGNKNm02VkpaaC1GNTJsT3NYQnhwdXBZWkk5SnRaTVJzT3JHdEgyT2h2OWxLUC1kRklMUDk2MUtrd182?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Oct 2026 14:08:37 GMT",
-    "fetched_at": "2026-10-30T06:58:12.857157+00:00"
-  },
-  {
-    "id": "d5cb37f7a439",
-    "title": "Healthcare property market starts 2026 with a clear upward trend – strongest quarter since Q4 2021",
-    "source": "Cushman & Wakefield",
-    "summary": "Healthcare property market starts 2026 with a clear upward trend – strongest quarter since Q4 2021&nbsp;&nbsp;Cushman & Wakefield",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1YybGVyVTdsSVhIMWg0OHFlWFJlZFBwU2E5bWNZbm5pTnBWRXlnb2trWGotUjRDVEFjcTZPOGtGX28wVGZ2a2xnV29SSVQ4VlRUTV9JNkdiWEdFRTJhSUdubVg0YTZiSFZaMGNaakRQczM4ZXlTRlFweDkzRGhpci1WYWlQd2l4SjFLUlA2TEQ2V1FpeWd1enN3?oc=5",
-    "image": "",
-    "published_at": "Sun, 04 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-30T06:58:12.857308+00:00"
   }
 ]

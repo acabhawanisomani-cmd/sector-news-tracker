@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DSmFGRkZrMGt5eUlkekhXQ3c4VmJ3aFpYRzhqdmgwdm1lZ25Yd09jYnB0anNDQ2lsWTIxMjl4a2RQbjlsNWY3eWJibGFmTWJ5Vjl1X3ZRR0Y1OHBNR2FNYzJRRnREYmVXeHNYWjktWExNM1V4N3ZOQ3ptNDN6QQ?oc=5",
     "image": "",
     "published_at": "Mon, 26 Oct 2026 07:48:28 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985243+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973814+00:00"
   },
   {
     "id": "b6f5ab966c27",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTJuLXpiU3Q2RkhfQ0dySFJ1R0lLYjVRVXRPeElHeERNT25DRWRwaHJ4REFmRUNTeklUSnFqMlVoR2lDOUVMWkx5VmhUeUlrX0VpU2JUWHBRMzlFTWRyUERFbHFMc2dnYVp6UWswbXExVEUzdHdLbDdpRVQ5TUFQWVJVM2xqQVl3aDBHYg?oc=5",
     "image": "",
     "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985273+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973839+00:00"
   },
   {
     "id": "b2a7434cb6d4",
@@ -27,7 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0FQeUluV25CVEFTNGk4QjNHOUFVZkZYWkJmTzlYazltLXBZdjh4R2ktRWNpdTFZTGR1RXRqSVN6UmpsQVR5M2pOT1VISnNiYURkcXdQLUVnTGxpMnNuOWpra1JqVVdmM1Rtb2lJaURGRm13YjlFbnRGcEZxcUZ0VWxBaDNGQkZfLVVkWlhodDJVM3ZyWHRWU2dqTVhxZ21K?oc=5",
     "image": "",
     "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985292+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973853+00:00"
   },
   {
     "id": "240aa76084a9",
@@ -37,17 +37,7 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUy12a25yakdPblZtakVRM0EzZGRMOTdxcmpKVXZuMGRkZTRlelBKN09CUGFWZUF1LXd3QkJHWmRPU1pqWDdkV2E0WVpKdU1tNWpsSG04UUpPaDc3VUpGOUFSTkhIdU1mMnpOWkpmb2N3MURtVFYtWUVMS0FOeDFFc2N0Z2RrZldDdTYtdmYwTVFvXzFfb0FtT3RubXpfdjJlUXQ1TFJuUFEwdFhxVHBWS3kzYVQ3N29feDEwLWpiOUFFOE1LTUN0Uk8xWVdKWTdjRWdWeXhR?oc=5",
     "image": "",
     "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985308+00:00"
-  },
-  {
-    "id": "12420b9afe61",
-    "title": "Study on Use Cases and Business Models of New Calling",
-    "source": "GSMA",
-    "summary": "Study on Use Cases and Business Models of New Calling&nbsp;&nbsp;GSMA",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX21uenk0ZDZSNUtWZTV6VzFWRTctbDhQT25qc0xFM2pybTJVeUF2aGV2Um13V1JSbFdZUUlDbTRKOGowdElXdVRWcXRhNndmZFZiVDhuVWlhaXFwX1d6TWZTbHlnNlo1M3RwSER3bEtmemdVU1VNbDd3SlVQZWFyamhkVENzakR5cEhLQkF2QU9vMnA4bno1ZkhubURLeUprb0kzNXJmVllHZjNDb3VqQm91TTZjdTI2QUdrYVlmclRBRzJ1aDItc2tMM1phUQ?oc=5",
-    "image": "",
-    "published_at": "Mon, 12 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985320+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973865+00:00"
   },
   {
     "id": "71bdc25bbb92",
@@ -57,7 +47,17 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejNLVmxaSUh0YmVPajZtZmJzNWtieXhFZ3FYcklEaDVxUGNmVktEbUZqLVJCc0I4QlBIZTlfSG5tbzFTdzdURG5GQmt0TEZHaGVFMTYza0g3cTUyNnFEdVo2blcyOEtiRDJtWXQtRGd5SnpXUlhvTVh0TTVYTUtHNkFoZXVLMEwtVThWaU1wYmEzRlAxYjZtYTRPUldmMjFoRjV2UkxNNzV4eTBFdGdj?oc=5",
     "image": "",
     "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985334+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973876+00:00"
+  },
+  {
+    "id": "12420b9afe61",
+    "title": "Study on Use Cases and Business Models of New Calling",
+    "source": "GSMA",
+    "summary": "Study on Use Cases and Business Models of New Calling&nbsp;&nbsp;GSMA",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX21uenk0ZDZSNUtWZTV6VzFWRTctbDhQT25qc0xFM2pybTJVeUF2aGV2Um13V1JSbFdZUUlDbTRKOGowdElXdVRWcXRhNndmZFZiVDhuVWlhaXFwX1d6TWZTbHlnNlo1M3RwSER3bEtmemdVU1VNbDd3SlVQZWFyamhkVENzakR5cEhLQkF2QU9vMnA4bno1ZkhubURLeUprb0kzNXJmVllHZjNDb3VqQm91TTZjdTI2QUdrYVlmclRBRzJ1aDItc2tMM1phUQ?oc=5",
+    "image": "",
+    "published_at": "Mon, 12 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:57.973885+00:00"
   },
   {
     "id": "c334376673e5",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMNDhVNFVzTlVfT09GdHNUX1hiU1JBdUJxOGVSdDdocWdTR3M4MmR3LW9VNkRBdW92NTZpSTE4bVE0R2tIVHIwV19mVTlWbHREdTlxRDNyRzI3WWlKQWtEcnYxQ2dqWGEwVWVTcnBBMDJqM2pUbUhsZmtSLTc?oc=5",
     "image": "",
     "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985349+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973897+00:00"
   },
   {
     "id": "75e093a67eca",
@@ -77,7 +77,127 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlc0R2M1R4eVNNMjVoNXFlTF91Y1ZTU0t1OVBaa1g2SWFGNzB3RFFsVlZkQzdWUGFnVUdFV25yME5RYXFlWWI4anQxY1FkQm5hOXpVR1dHWFZ6V3VrZk0zS0RIWXVtRHFyOWFNNzVFd295SnRtX2t4aFZuN1FSQQ?oc=5",
     "image": "",
     "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985361+00:00"
+    "fetched_at": "2026-11-01T23:28:57.973906+00:00"
+  },
+  {
+    "id": "a22523ce384d",
+    "title": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need",
+    "source": "Data Center Dynamics",
+    "summary": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need&nbsp;&nbsp;Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNGVtWm03UzBRMmhaMUdJTklubXFCdHZLX2Y5enJMcWp5VUF0bE5XaFNfTFNNLThKc2lqcDUtMlBQWlFCM3l5RktKS2VBd2p5QlpBS3gyMEtNTHVBVWp2NjF3U1hfbWhneEp6ZVhkR3ZRUVhBbXF5UHRkSmlkYlU4eU5SbFRtRmhnanhKQTVlS1B0YTJzS2lLbzdha0doYmxzRkpWRTRhMUZIbzNMYjlTUmVjeC10aTJLRFBFM3BzZjhpNGFNZ3FYZEZ6dXlXcE9nSHFoSGJyejk0cnlXdHU5V2lLUERzUEJGLXMwbTRzNA?oc=5",
+    "image": "",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:57.973919+00:00"
+  },
+  {
+    "id": "7516b95e5698",
+    "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams",
+    "source": "SDxCentral",
+    "summary": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams&nbsp;&nbsp;SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5",
+    "image": "",
+    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:57.973931+00:00"
+  },
+  {
+    "id": "5d781591b61e",
+    "title": "US-China tech war escalates as Chinese telecom giants developing Africa’s 5G and cloud networks face potential US ban",
+    "source": "Business Insider Africa",
+    "summary": "US-China tech war escalates as Chinese telecom giants developing Africa’s 5G and cloud networks face potential US ban&nbsp;&nbsp;Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa05jQWZucnpvWU5jOGVVTGRuT2ZMYV9OS1dCa0Q1T3l6TUNhdEdnWmhGTFVsNmlxV2N2T0JZY19VWEtWdGk3ZzFDVngzd3RsMGx0ODU5bGhQSUtOZkV2aTFUVTFYcGJCVXktcnF6bFhuN2RfSzFlUFpXUUlyZFF6NFZfYm1OekVfMk5rejYyT2J1SXBnQl9zUFBwMFVEWml6TmJ1MERBUWVSUS1tVmhIQmlsRzJOS3YwYl93MHRoNXJYMkI2M05zdEFLLVJCcmRjYXVaRWtTb2hzQQ?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 23:21:20 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874207+00:00"
+  },
+  {
+    "id": "051961fe8b35",
+    "title": "Chinese telecoms giants in Washington’s crosshairs as FCC weighs fresh curbs",
+    "source": "South China Morning Post",
+    "summary": "Chinese telecoms giants in Washington’s crosshairs as FCC weighs fresh curbs&nbsp;&nbsp;South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN1pkRTVwUDZJRXZrM2kyUjdJVVpSZ1gwNmlSelNoSUpoWFRGQVJUWmZZQU42RWhaazdHM3g5T3R0NEJJMzJOQ29VQ3JkU1lETmx6SGxkZWVzU1diWnFtUU1MRmZuZFhNcExYNWxuTjlDbFVqVkhZSkZBbUloLTVYVkhHeDVObUF2dmFkUmRWeHhseGg3VnRHWGJkUFBzeFBSWU85SC1ZSkVubkF4djlTM3FpejdLU01XZ2czcjhleGNDMkxFY2RpNg?oc=5",
+    "image": "",
+    "published_at": "Fri, 30 Oct 2026 13:00:06 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874235+00:00"
+  },
+  {
+    "id": "e8ec4cbc30d2",
+    "title": "What's that new development on Estrada Drive in East El Paso?",
+    "source": "El Paso Times",
+    "summary": "What's that new development on Estrada Drive in East El Paso?&nbsp;&nbsp;El Paso Times",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3ZhbW9jeEZ6d192aTlrSV9kSTZhdGFYb2RodVhBemp4MUc5ZGllSzN1U25HWVNYeDFZQ3A1M3JYUVpHZWtSbzFod3k1X0xKanBYV29Yejh6MWFOMXR6ekM2UTJpejN1aHFhQVRvaEdNdWhpdUszcGNxUlRYS2l0WVBQb19YQXBWRVFmcFA3aVlRT2hVazRpeERpTWpLT2ZidVJ4MXduV1FPa1JUbUNpTkdIYXU3bkktQjRzUnNmV3BVUjNTQ1NGT2RleEs?oc=5",
+    "image": "",
+    "published_at": "Tue, 27 Oct 2026 14:02:00 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874250+00:00"
+  },
+  {
+    "id": "8e514944d14a",
+    "title": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "summary": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU1sOVROWXBlZndPWDlmLWNXSzVQVUUxYXl5Zm1LUklyUGlOTDFlUHFuZ0hsSVpjN000WEprc212VHFHQ1RKYkhxQ2puMDVWQ1Eza2c2WWZYQ3luQWtxbGVGeXc4TURDWlVmQTVIcEpVNmdtOUVZbndJN1N4dHJDeEJjUjhzU0VYMkJRcDNWSUtoMkhyWmY1YzJRUXlpc3RiV2VOdF9RNl8ycDJodWFV?oc=5",
+    "image": "",
+    "published_at": "Wed, 28 Oct 2026 20:53:13 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874261+00:00"
+  },
+  {
+    "id": "c4d7bf542b6c",
+    "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
+    "source": "9to5Mac",
+    "summary": "Apple fined $15.5 million as South Korea orders changes to App Store rules&nbsp;&nbsp;9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaURLRzBHdVY2WTVHZTVCdXdWSEg3cEhEYk90bGRJSU9fbHQzdTNGWHlMTFRvNVQwem9rekNUODhoXzZ1Z1NQVElIUWplVndIanJ0VnVPNHdhRUdRZnBUZlQ4ekpZWm5WRWhjeWhOYzdZSkVjdDhsekJZT09xR3o5OWdnckdISjg4TklHR19idmFQNWl0MnFtRllCSlNiWVY0R29QdDJKVTk?oc=5",
+    "image": "",
+    "published_at": "Wed, 28 Oct 2026 22:44:00 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874273+00:00"
+  },
+  {
+    "id": "999f9c2fb1a3",
+    "title": "KT conducted emergency recovery training in preparation for situations in which communication networ..",
+    "source": "매일경제",
+    "summary": "KT conducted emergency recovery training in preparation for situations in which communication networ..&nbsp;&nbsp;매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mT01Tb2lkdzFpTlVPOVplNm5EWmtmWDhtQkZUdWtzTHctX0VDM0xhV0FMc0JkVEFNN1luRjc3Sk95cVJRZEVKa0ZCR0V2ckJvUUE?oc=5",
+    "image": "",
+    "published_at": "Sun, 01 Nov 2026 05:57:50 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874287+00:00"
+  },
+  {
+    "id": "7cf79211d9b1",
+    "title": "SK Telecom Advances Full-Stack AI Strategy to Lead Industry",
+    "source": "조선일보",
+    "summary": "SK Telecom Advances Full-Stack AI Strategy to Lead Industry&nbsp;&nbsp;조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeU5iMTZFYmp3Z1h0YkszSU5VWFVVOGZoSVZGajB0Q1dfNVVGR2p3dHVvdjVoRzJMX2pXRVB3dm5zV05QZWZlVkdWUTN6cTRReGgxb1BpMW1FWWY4TFE0WnpxelpNUTJNWExObW50ZkhSUWpXQUZEUHpwWV80ejNZbGVDdHk4enFp?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 Oct 2026 16:08:55 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874298+00:00"
+  },
+  {
+    "id": "f2865ef2a531",
+    "title": "Shenandoah Telecommunications Company (NASDAQ:SHEN) Just Reported And Analysts Have Been Lifting Their Price Targets",
+    "source": "Simply Wall St",
+    "summary": "Shenandoah Telecommunications Company (NASDAQ:SHEN) Just Reported And Analysts Have Been Lifting Their Price Targets&nbsp;&nbsp;Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUy1YOEdrQW1YNEhEUjlCaVpYSlNQSzlPU00wTU5icEo1YXRZY1dxU3FvZWYybi1MMFNLMU85QkhLdk5fS2NQT3drWjFwb3NYazRfSXQ1N3hUUGEtSlNPd014VVFhQkk0NVg4bWtKcWFEa0k1a3VoUWM0OG45WjEyOHRhUGRZekNJZ29UMlR6RmdJLVlVQVhDWXQ0N0VvOUNJUWw5WUFxUzAwdXpEY19lemotcVRReDRJUjVwTkFhY0VOdU9pclpVMnBCQm9EakpQbjhxTGdqQXJMNlo0UzZUNtIB5gFBVV95cUxOdm9JMTQ2MC1LWHRHbVRSR2Fka1JKM1ppN2JHbzRVN0lvcldRWUE5U2s5dEtiTlhwTlBvWnRzbmdEWGktQjllMjRfZER2U1Btd0F5NkdHQV9FU0h1U1ZrRmN5MmJBYjZhRVpsZ1BielF0MVBSZll3aTFXVHg0M05ZN2lUck9xaTVSNDlrWFZiUHBCWTE2cGxPNWFqaE0weXVRQkRfMDBIejNkei1LYU9rR0oxaUxlUnlVSzZDenVwWUs0N0ZHcHFWZE1QOWItWU1XZzN5QWVPX3pGMzg1b25WUnBkeW9nUQ?oc=5",
+    "image": "",
+    "published_at": "Sat, 31 Oct 2026 12:43:28 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874312+00:00"
+  },
+  {
+    "id": "c40fb2aa1a5b",
+    "title": "Meet Ahmed Mohamed Yusuf, the camel herder’s son who built a telecom giant serving 4 million Somalis, with 11 data centres and a growing 5G network",
+    "source": "Business Insider Africa",
+    "summary": "Meet Ahmed Mohamed Yusuf, the camel herder’s son who built a telecom giant serving 4 million Somalis, with 11 data centres and a growing 5G network&nbsp;&nbsp;Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU2N5RUw0ODhleDBvbzYyLVJzb2I0WnJJYU9DcXpHZTRVTDg4ZEwyaXFReTZxMUJBTllYQXZRc0RhcUllbG4ycjdKNXpHd1BqX0h5dnhRQ3ltUk5BUElGOUhOZVNDOEtLNGRfVkhoV2FUVUNPWDZ5WTZMSXFna2lMVV83ekFhV2owenVwb1pmTWxpZTZkQlhfay1iOWxQSFRJMG1qdWYzdk5QeGtBX1NtLVNNUFpYdHpaT185b1NlYWVWSzllZm9DemVsYkFLbGcxbEI2M2J3?oc=5",
+    "image": "",
+    "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874331+00:00"
+  },
+  {
+    "id": "d85d2aeb11ba",
+    "title": "Hong Kong telecom company agrees to halt US operations under pressure",
+    "source": "CNA",
+    "summary": "Hong Kong telecom company agrees to halt US operations under pressure&nbsp;&nbsp;CNA",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNElwUVBuQW1pOUw0T1pmUnJQbE1BSU4ycjNuSUN6WDNYZ0dlWU96X1VheEw0UEw5NHlvMzQtem0xWE9JT1oyajhKNktMZWtWb1pBdm9qejRvMmRhMEhxTTNUZVFUZm9QWDF2U19wX3FxVkQwMmU4M1ppWU45YkVjZUh4MWdGdm91NHp3QnJuMUx0Vl9FcUVlUW05ZDlacFpZMzFpTm9oOVZVWFk3UUxlTnRkWkc4Zw?oc=5",
+    "image": "",
+    "published_at": "Sat, 31 Oct 2026 05:20:16 GMT",
+    "fetched_at": "2026-11-01T23:28:58.874342+00:00"
   },
   {
     "id": "8ff2019ad32f",
@@ -88,106 +208,6 @@
     "image": "",
     "published_at": "Mon, 26 Oct 2026 07:16:25 GMT",
     "fetched_at": "2026-11-01T19:29:33.985376+00:00"
-  },
-  {
-    "id": "a22523ce384d",
-    "title": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need",
-    "source": "Data Center Dynamics",
-    "summary": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need&nbsp;&nbsp;Data Center Dynamics",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNGVtWm03UzBRMmhaMUdJTklubXFCdHZLX2Y5enJMcWp5VUF0bE5XaFNfTFNNLThKc2lqcDUtMlBQWlFCM3l5RktKS2VBd2p5QlpBS3gyMEtNTHVBVWp2NjF3U1hfbWhneEp6ZVhkR3ZRUVhBbXF5UHRkSmlkYlU4eU5SbFRtRmhnanhKQTVlS1B0YTJzS2lLbzdha0doYmxzRkpWRTRhMUZIbzNMYjlTUmVjeC10aTJLRFBFM3BzZjhpNGFNZ3FYZEZ6dXlXcE9nSHFoSGJyejk0cnlXdHU5V2lLUERzUEJGLXMwbTRzNA?oc=5",
-    "image": "",
-    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:33.985393+00:00"
-  },
-  {
-    "id": "e8ec4cbc30d2",
-    "title": "What's that new development on Estrada Drive in East El Paso?",
-    "source": "El Paso Times",
-    "summary": "What's that new development on Estrada Drive in East El Paso?&nbsp;&nbsp;El Paso Times",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3ZhbW9jeEZ6d192aTlrSV9kSTZhdGFYb2RodVhBemp4MUc5ZGllSzN1U25HWVNYeDFZQ3A1M3JYUVpHZWtSbzFod3k1X0xKanBYV29Yejh6MWFOMXR6ekM2UTJpejN1aHFhQVRvaEdNdWhpdUszcGNxUlRYS2l0WVBQb19YQXBWRVFmcFA3aVlRT2hVazRpeERpTWpLT2ZidVJ4MXduV1FPa1JUbUNpTkdIYXU3bkktQjRzUnNmV3BVUjNTQ1NGT2RleEs?oc=5",
-    "image": "",
-    "published_at": "Tue, 27 Oct 2026 14:02:00 GMT",
-    "fetched_at": "2026-11-01T19:29:34.792887+00:00"
-  },
-  {
-    "id": "051961fe8b35",
-    "title": "Chinese telecoms giants in Washington’s crosshairs as FCC weighs fresh curbs",
-    "source": "South China Morning Post",
-    "summary": "Chinese telecoms giants in Washington’s crosshairs as FCC weighs fresh curbs&nbsp;&nbsp;South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN1pkRTVwUDZJRXZrM2kyUjdJVVpSZ1gwNmlSelNoSUpoWFRGQVJUWmZZQU42RWhaazdHM3g5T3R0NEJJMzJOQ29VQ3JkU1lETmx6SGxkZWVzU1diWnFtUU1MRmZuZFhNcExYNWxuTjlDbFVqVkhZSkZBbUloLTVYVkhHeDVObUF2dmFkUmRWeHhseGg3VnRHWGJkUFBzeFBSWU85SC1ZSkVubkF4djlTM3FpejdLU01XZ2czcjhleGNDMkxFY2RpNg?oc=5",
-    "image": "",
-    "published_at": "Fri, 30 Oct 2026 13:00:06 GMT",
-    "fetched_at": "2026-11-01T19:29:34.792938+00:00"
-  },
-  {
-    "id": "c40fb2aa1a5b",
-    "title": "Meet Ahmed Mohamed Yusuf, the camel herder’s son who built a telecom giant serving 4 million Somalis, with 11 data centres and a growing 5G network",
-    "source": "Business Insider Africa",
-    "summary": "Meet Ahmed Mohamed Yusuf, the camel herder’s son who built a telecom giant serving 4 million Somalis, with 11 data centres and a growing 5G network&nbsp;&nbsp;Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU2N5RUw0ODhleDBvbzYyLVJzb2I0WnJJYU9DcXpHZTRVTDg4ZEwyaXFReTZxMUJBTllYQXZRc0RhcUllbG4ycjdKNXpHd1BqX0h5dnhRQ3ltUk5BUElGOUhOZVNDOEtLNGRfVkhoV2FUVUNPWDZ5WTZMSXFna2lMVV83ekFhV2owenVwb1pmTWxpZTZkQlhfay1iOWxQSFRJMG1qdWYzdk5QeGtBX1NtLVNNUFpYdHpaT185b1NlYWVWSzllZm9DemVsYkFLbGcxbEI2M2J3?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
-    "fetched_at": "2026-11-01T19:29:34.792978+00:00"
-  },
-  {
-    "id": "8e514944d14a",
-    "title": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary",
-    "source": "Yahoo Finance",
-    "summary": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU1sOVROWXBlZndPWDlmLWNXSzVQVUUxYXl5Zm1LUklyUGlOTDFlUHFuZ0hsSVpjN000WEprc212VHFHQ1RKYkhxQ2puMDVWQ1Eza2c2WWZYQ3luQWtxbGVGeXc4TURDWlVmQTVIcEpVNmdtOUVZbndJN1N4dHJDeEJjUjhzU0VYMkJRcDNWSUtoMkhyWmY1YzJRUXlpc3RiV2VOdF9RNl8ycDJodWFV?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 20:53:13 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793000+00:00"
-  },
-  {
-    "id": "c4d7bf542b6c",
-    "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
-    "source": "9to5Mac",
-    "summary": "Apple fined $15.5 million as South Korea orders changes to App Store rules&nbsp;&nbsp;9to5Mac",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaURLRzBHdVY2WTVHZTVCdXdWSEg3cEhEYk90bGRJSU9fbHQzdTNGWHlMTFRvNVQwem9rekNUODhoXzZ1Z1NQVElIUWplVndIanJ0VnVPNHdhRUdRZnBUZlQ4ekpZWm5WRWhjeWhOYzdZSkVjdDhsekJZT09xR3o5OWdnckdISjg4TklHR19idmFQNWl0MnFtRllCSlNiWVY0R29QdDJKVTk?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 22:44:00 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793022+00:00"
-  },
-  {
-    "id": "999f9c2fb1a3",
-    "title": "KT conducted emergency recovery training in preparation for situations in which communication networ..",
-    "source": "매일경제",
-    "summary": "KT conducted emergency recovery training in preparation for situations in which communication networ..&nbsp;&nbsp;매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mT01Tb2lkdzFpTlVPOVplNm5EWmtmWDhtQkZUdWtzTHctX0VDM0xhV0FMc0JkVEFNN1luRjc3Sk95cVJRZEVKa0ZCR0V2ckJvUUE?oc=5",
-    "image": "",
-    "published_at": "Sun, 01 Nov 2026 05:57:50 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793049+00:00"
-  },
-  {
-    "id": "7cf79211d9b1",
-    "title": "SK Telecom Advances Full-Stack AI Strategy to Lead Industry",
-    "source": "조선일보",
-    "summary": "SK Telecom Advances Full-Stack AI Strategy to Lead Industry&nbsp;&nbsp;조선일보",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeU5iMTZFYmp3Z1h0YkszSU5VWFVVOGZoSVZGajB0Q1dfNVVGR2p3dHVvdjVoRzJMX2pXRVB3dm5zV05QZWZlVkdWUTN6cTRReGgxb1BpMW1FWWY4TFE0WnpxelpNUTJNWExObW50ZkhSUWpXQUZEUHpwWV80ejNZbGVDdHk4enFp?oc=5",
-    "image": "",
-    "published_at": "Thu, 29 Oct 2026 16:08:55 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793070+00:00"
-  },
-  {
-    "id": "f2865ef2a531",
-    "title": "Shenandoah Telecommunications Company (NASDAQ:SHEN) Just Reported And Analysts Have Been Lifting Their Price Targets",
-    "source": "Simply Wall St",
-    "summary": "Shenandoah Telecommunications Company (NASDAQ:SHEN) Just Reported And Analysts Have Been Lifting Their Price Targets&nbsp;&nbsp;Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUy1YOEdrQW1YNEhEUjlCaVpYSlNQSzlPU00wTU5icEo1YXRZY1dxU3FvZWYybi1MMFNLMU85QkhLdk5fS2NQT3drWjFwb3NYazRfSXQ1N3hUUGEtSlNPd014VVFhQkk0NVg4bWtKcWFEa0k1a3VoUWM0OG45WjEyOHRhUGRZekNJZ29UMlR6RmdJLVlVQVhDWXQ0N0VvOUNJUWw5WUFxUzAwdXpEY19lemotcVRReDRJUjVwTkFhY0VOdU9pclpVMnBCQm9EakpQbjhxTGdqQXJMNlo0UzZUNtIB5gFBVV95cUxOdm9JMTQ2MC1LWHRHbVRSR2Fka1JKM1ppN2JHbzRVN0lvcldRWUE5U2s5dEtiTlhwTlBvWnRzbmdEWGktQjllMjRfZER2U1Btd0F5NkdHQV9FU0h1U1ZrRmN5MmJBYjZhRVpsZ1BielF0MVBSZll3aTFXVHg0M05ZN2lUck9xaTVSNDlrWFZiUHBCWTE2cGxPNWFqaE0weXVRQkRfMDBIejNkei1LYU9rR0oxaUxlUnlVSzZDenVwWUs0N0ZHcHFWZE1QOWItWU1XZzN5QWVPX3pGMzg1b25WUnBkeW9nUQ?oc=5",
-    "image": "",
-    "published_at": "Sat, 31 Oct 2026 12:43:28 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793097+00:00"
-  },
-  {
-    "id": "d85d2aeb11ba",
-    "title": "Hong Kong telecom company agrees to halt US operations under pressure",
-    "source": "CNA",
-    "summary": "Hong Kong telecom company agrees to halt US operations under pressure&nbsp;&nbsp;CNA",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNElwUVBuQW1pOUw0T1pmUnJQbE1BSU4ycjNuSUN6WDNYZ0dlWU96X1VheEw0UEw5NHlvMzQtem0xWE9JT1oyajhKNktMZWtWb1pBdm9qejRvMmRhMEhxTTNUZVFUZm9QWDF2U19wX3FxVkQwMmU4M1ppWU45YkVjZUh4MWdGdm91NHp3QnJuMUx0Vl9FcUVlUW05ZDlacFpZMzFpTm9oOVZVWFk3UUxlTnRkWkc4Zw?oc=5",
-    "image": "",
-    "published_at": "Sat, 31 Oct 2026 05:20:16 GMT",
-    "fetched_at": "2026-11-01T19:29:34.793117+00:00"
   },
   {
     "id": "3f592b7b6a5b",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Wed, 28 Oct 2026 16:19:00 GMT",
     "fetched_at": "2026-10-29T00:44:58.440801+00:00"
-  },
-  {
-    "id": "4301d03baaa9",
-    "title": "Texas Supreme Court throws out lawsuit by cities arguing telecom companies get illegal discounts",
-    "source": "Houston Public Media",
-    "summary": "Texas Supreme Court throws out lawsuit by cities arguing telecom companies get illegal discounts&nbsp;&nbsp;Houston Public Media",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYkFDVFRWcjRhb2dseU1aazdPTVloQ19VNThnenVGQ0ZtZFdsUGxFeV9kYXVDYmE5VXVZdTFITU5aUzhzX053MXpuREYyek1uY2hZZjJkU2IxSk5BdGtIYUFxV0ZrS3hxSkFKWkNTVl9sS2lGUGh3eGNwOGFkNHhSNGN4QnBjdFIzZlctTWhWaUptbHNGSlRlY3lsSW5qRU5seTFZel9pX0dqU3BfcW1mSTVxVlpaVnRxQkdiSWhMcld2S3JKVkZKXzZqb0RkZVJ2aHNIYnFEc052TVc3dDBQUi1FZW1NUHJMVTZFSEFEUFpUbW96V0pacVZIMHNaY20teUxYT1k3dFh6UHlEQk5SUFJR0gGaAkFVX3lxTE14SGVIbTI1S3ZRc0dXTTNxei0xNFpKd1U4R254Y2xQWnA1TERJZ2p5X3FRb2haTUZkNnk1V0lnYU1iTUstSElDNFNHaFFJZHN3eTY1RnNrX0F0Z0wzUDZRZV9La0RuVTNTTWpia2NTVDBsNHVZR1RwZG1qM2NrSDdNRDVnT1lCXzV5WlZFZGRCa0E5VEVLOUFWeXc0WTFFUWgyM0Y2dktYdXRleTNnZWl3b3dIbDdWc3ZKcHNtNXFPS3JBOG5tYXg3QzRJckY0Z0pOZ3NMY0pjdGk2LUlfamlHc0xYbHNneE5faFpuNDhndTRqNUw2dXR2WUw2Rkk3LVhaemNialRSYkd1MTZxWV9kQjBXdS1vSVlIQQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-29T00:44:58.440819+00:00"
-  },
-  {
-    "id": "e2c2e0ec7b15",
-    "title": "South Korea fines Google, Apple $45M over app store payment rules",
-    "source": "Latest news from Azerbaijan",
-    "summary": "South Korea fines Google, Apple $45M over app store payment rules&nbsp;&nbsp;Latest news from Azerbaijan",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLUVmRUxmaWhuVUp1aTJ1UFpaV0hGX0JvNDhOeXBqTy12UGh0Z0J5RmdMcXN0Qm8xWUxHNFdKYzhROG80dU16WjVWTmowOEtWWWpLeDFsdE5iVGpsT09oQ1V1YnV6OS1ILTdwYjBzSTFTUmc3aEkxVjJGUnJUclpqYklLeXJQX21BWDE3YQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 12:21:56 GMT",
-    "fetched_at": "2026-10-29T00:44:59.314278+00:00"
   }
 ]
