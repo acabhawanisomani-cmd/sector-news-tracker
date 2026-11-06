@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk14ZTJ6Y1FFc0VzMUtSTXFnN2gxRW5GYS1WckJwOXprMnQ0Y1hEWXJfTVVGX2JBMkFyQTNHcXcyYkQ4TGNnQkEtLXBhUmZxcHJKRVBzUU93cEZITUJvTTVxcTJTcUdqM2VxRG9nWTZkWkNIQ3RoWk4zcEd4eVdZN21Zb1VuckRmVHo4bDMzY3RPVW93bWs0MjdFdjk2TnJvWGQ3eFp4ZGNTazluZWo4U09RcEpXNE5v?oc=5",
     "image": "",
     "published_at": "Thu, 05 Nov 2026 03:05:43 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963412+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111077+00:00"
   },
   {
     "id": "0e61370d0b2d",
@@ -17,17 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xRTdqTkxkYURvVFJMYjlkY3dFZXNydll2OEtia3VOazNFZ3FOWmZ2VkFSbnZsbTBtZUVWOVhQVkJRTGhvSk1fd3MxV0QzeWMzQUVHWWRHaDZzdkFCd0JEYzJrWndkczFzS01lX3EtT21rb2c?oc=5",
     "image": "",
     "published_at": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963467+00:00"
-  },
-  {
-    "id": "0a9d83fb6071",
-    "title": "Cupid Aims Rs 400 Cr Revenue Via V2 Retail Partnership Across 425 Stores",
-    "source": "Indian Retailer",
-    "summary": "Cupid Aims Rs 400 Cr Revenue Via V2 Retail Partnership Across 425 Stores&nbsp;&nbsp;Indian Retailer",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHpnT2NlVWRNUFZ4U3pCd3ZyRVl2bzcwWEp6bHZtNUJBeDg4YVdMUHV1b1JkWDkxbEt3dGV5cWRxQVU0emJiOTMxU180TkJvVTN3S2lDSVFMckZCWkNnRjg5ZWdDOExjTlNIMDNJOHBibE12YXBaUEpSRDItTUZFNXNxWjhlNGNSUUFjYWl6b2JJMU1MVElrNDhUZ2xzWV9kM3FnRzNOUQ?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 10:08:37 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963485+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111109+00:00"
   },
   {
     "id": "a3eba3710215",
@@ -37,7 +27,17 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qaTdkc094ME91b3dHV3NBTUJUeGlWV3pKRUc5VDBaak9SN1EwQkwxUVptNjdKR3lEUHVMdS1Uc2RoYmFqUFNsbHcwN0xJNEhxUXRFNGhHaDBUU2wzTlpkXzltRDhRbHczQVVUaHhJS0QwalUwQzFfNG5QUVZhdw?oc=5",
     "image": "",
     "published_at": "Mon, 19 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963499+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111127+00:00"
+  },
+  {
+    "id": "0a9d83fb6071",
+    "title": "Cupid Aims Rs 400 Cr Revenue Via V2 Retail Partnership Across 425 Stores",
+    "source": "Indian Retailer",
+    "summary": "Cupid Aims Rs 400 Cr Revenue Via V2 Retail Partnership Across 425 Stores&nbsp;&nbsp;Indian Retailer",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHpnT2NlVWRNUFZ4U3pCd3ZyRVl2bzcwWEp6bHZtNUJBeDg4YVdMUHV1b1JkWDkxbEt3dGV5cWRxQVU0emJiOTMxU180TkJvVTN3S2lDSVFMckZCWkNnRjg5ZWdDOExjTlNIMDNJOHBibE12YXBaUEpSRDItTUZFNXNxWjhlNGNSUUFjYWl6b2JJMU1MVElrNDhUZ2xzWV9kM3FnRzNOUQ?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 10:08:37 GMT",
+    "fetched_at": "2026-11-06T01:28:17.111144+00:00"
   },
   {
     "id": "033f7d39d399",
@@ -47,7 +47,7 @@
     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSlpfWTcxcTN5ejZTT3ZOZEtEUFYtMDFHeXJBaklfeHBONVRrXzBBd1ROZldxc0E1c0IxUi04VEpIbldIbnJVRlVqU2JuVVBzbmtpdG9mUmhfUlEyWkMzTXJMSnh1bHdtTmEyUm5GV2JLVng4RjhPeFhoMnVnRV9tcnFSRVhtV213WktnN29INE14WnNlN0FrblBNaDdUZDRlQzJBVk1UekJvdDRTT182RXR5djBxTTdwc2ZQQmh4SUVRQUZfaVFVYmY1dTJ0RDFlbVFVa2NUc0lHMk9mZi1XSXdXVlFTVVBLdjdJbDBzVDBMV2dMbzRUajZCXzREQ3d6ZUF4SUM5M3BBMl8zeUlVMVdfLWJnY1ZpQS1odXBqOVdRZ9IBpwJBVV95cUxPZWV2RkJRNlhhNU04T0FRZmZxUHg0a3VPWkFvdU5nNkRWWk5RSXRLM0hhdjNrLXlZY3BZeVVuUU0tWGFDMTdGelVTVFZtSVVUendaQzNzbUlQcHpMRW05NG9nVnBmR3ZNOFNsakZaMTNhVFB1amlRbFNfU3dfQmpkRW15d2ZSeXlPZ3JvNkVfRVRRMFVaYzVaUGxPZ3lORE5nYkNvM1JwaUVVS3NhaXVSRWJFak1BMkJDSHpMcmdVZ0tJeEVONjctaklwMXNVTUx0Ukg2aWk3N0NkV21VMEF0YTBWQ1Q2dWFWWXQwV2VINWc1R3pvaXlmbkZaZHVOaWdST1RyeTNhYThXTzZiRzc0UnJsYVc3dlVuWjkwaTA5SnFHaV9qYl9B?oc=5",
     "image": "",
     "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963515+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111161+00:00"
   },
   {
     "id": "f551be52c039",
@@ -57,7 +57,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUZqdWlFYUdxMmZBamlDeUJyLTNleHgydkpZTGxhT0FFbFhxV2dsaUFldUVybmNZQjBLNUpSYWlsX2FWZVVzcnV0bU9tYUZjRGlSNkVFZmNNQVNpZ2JNR1FTRHczNlVCY2hwVmZBb1VDYk9kNE9Fa3V2aXlqMnFMUzBqY3h1RXloam9rRUFTdzdZRDBIWlB3Mlc0TF9RM3AtUC15TWVFUk5wdw?oc=5",
     "image": "",
     "published_at": "Thu, 08 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963526+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111174+00:00"
   },
   {
     "id": "09856f29a89a",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOOU9zWllMQ3JNVDFIUm9CbFQ2c1JGd0tubGhlWGMtRERZOXZ0b3RfSjhaNjFXN3AtMnhUUVlUdU53SjNwME5KUFZWeTd2aTg0RDduSFhNV3p1bE9QbTVJQ3BXTTFmeVB4NzhmVTNNZnNIYmp1TkJsblhDYnJOWG5fR3daT0NVc0owU3h0bEs3MWIzVUNVTGkzMmRtajZnamY0RUJ2UkYydEFDSVZVY3RvV0tvTHpDQWVOMU5WQUprWWN0c2JKV0s4SHdMZl9BamtsdExRZUdrUm00cF9vbWZxMzBPNF9nQmZxczBReGZYRTA1aUtjR2VTSk9JRnREamlKOEZYSlRMSUo4Szc2RXctRmVKeldneVlkNGNfeVU3VGQ0ZDFNdEhwdGl1OFQ0VGV4SnAxanNtelNwbFRDSVdCUlA2MWMwOVFPSTN5MjNuNy1pOGZ1YndJUkx0WThtaVpfUVEweEp5c3NCUXQx?oc=5",
     "image": "",
     "published_at": "Mon, 13 Jul 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963539+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111188+00:00"
   },
   {
     "id": "ba673705844a",
@@ -77,7 +77,7 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUtjLURHbXFFZDJEcUU1MmxIMTJGeTBMNXptbFRPWjhNQXAzRzgzdjJHWFU4Q2lyRlNWWWxnZnFOMnRlbmVHeHpKbUdIclVaelhJNlQtLXV5Qm9kZHlPOEFKT2pZRTJnUVE2Z29TbHhfWFQzNFBtVEFLYm1TUjhUUW1lMDV2WXlNUGEyWmN2aGZTMGMzRVdBT052dVBsY1ZpVl8temZUbW1VejFVdmt4THZNakdyemU2NEJNcGI5Ny1yWmxrSWtObVd2Y0NaamlKeHc?oc=5",
     "image": "",
     "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963554+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111204+00:00"
   },
   {
     "id": "9fa933c1b561",
@@ -87,7 +87,7 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tU2JkWTRHbTVSalJTTFpKSHRkY3lRMGJPYW9VYmhEX2FmWVgzUkg1dGtFY3ktbXdrd1hpVVBPSjQ1UTUyTjdCN3U0bW93MWcxbnVSdjF6Mjh3QkpsQk9TZkd0MTJBcVlXd0RpVw?oc=5",
     "image": "",
     "published_at": "Thu, 14 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963567+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111216+00:00"
   },
   {
     "id": "45254b9e8a0c",
@@ -97,7 +97,7 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RRzgtMXVpam9aZWM1NGc4Q2owNDE3SW1JQ1gzMVNsMnUxQm5iR2t4NWEwZUJTM2RLcFhLQlRVUHlrMW45aS1aY2xCbnVsREI2TGYxOEFobkVlc1ZsYzNLZ3dTeHdTNVJ2WHpn?oc=5",
     "image": "",
     "published_at": "Sat, 20 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:10.963590+00:00"
+    "fetched_at": "2026-11-06T01:28:17.111241+00:00"
   },
   {
     "id": "c6760519d312",
@@ -107,7 +107,97 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY19FMGJDSVlEcXlaaU1JQ2lOTEJOSEQxTVRxMy1jWXRJV1F2S3B5ckRKNjFaZ2RhVlNmbmFCeTJXWWJnaFB6UnotdUgyd0lOVlZ3TlQxX3M0ODZuTW43QnZUQnlGYktlTGg1OE9zWktZdGR3S1JKY2ppTmFyWEsxQXBnNm5DSWNySTM0OEprY01XSU5neEhCOGZscWQ?oc=5",
     "image": "",
     "published_at": "Thu, 05 Nov 2026 12:37:33 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968639+00:00"
+    "fetched_at": "2026-11-06T01:28:18.111839+00:00"
+  },
+  {
+    "id": "114ad2117e3a",
+    "title": "Body Wash & Shower Gel Market To 2035: Premiumization and E-Commerce Drive Growth - News and Statistics",
+    "source": "IndexBox",
+    "summary": "Body Wash & Shower Gel Market To 2035: Premiumization and E-Commerce Drive Growth - News and Statistics&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkZucUdJdE9jMEVVZkt4c3c5VmhhaXVJNk1RcHZ2Unp1M1c2OGJFcU94WmI3cVZZYVp2TWVDV0pOQy1NXzhOVC1hNXREanJvYW50bVF4amtpa0U5ajhMUGpWeGxZYnVjaGJnSURyWHBEamFkOE5QQ09iRzJmakdHMm9ZeDF6eXhYcExWN3gtajdHZUdMUDkzbTMwZnNydFlOYTVmVThQbXkzSWpQdjFwcHVJU2RzOFFRTnZGdk93?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 22:56:04 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111871+00:00"
+  },
+  {
+    "id": "aff51ad042fa",
+    "title": "E-commerce in Türkiye: Trends and Market Opportunities",
+    "source": "HKTDC Research",
+    "summary": "E-commerce in Türkiye: Trends and Market Opportunities&nbsp;&nbsp;HKTDC Research",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HVnh6YmpUa2UxLW15dnhJX09POEJZQWdraUVkb1NmVzhKQ1BEeUoyZ1pUQmFNeDhNS2hNcEt5TUZMWUNXVG5SUFdmSnBoZTV0LWM3MXYtVkZXOUl4cm9zZk5n?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 04:22:56 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111889+00:00"
+  },
+  {
+    "id": "e3cfbd2417e0",
+    "title": "E-commerce Market Size, Share | Industry Report, 2035",
+    "source": "Market Research Future",
+    "summary": "E-commerce Market Size, Share | Industry Report, 2035&nbsp;&nbsp;Market Research Future",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
+    "image": "",
+    "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111904+00:00"
+  },
+  {
+    "id": "72b8aad12c66",
+    "title": "Amazon, UPS Lead US Holiday Hiring Rebound In 2026",
+    "source": "Forbes Middle East",
+    "summary": "Amazon, UPS Lead US Holiday Hiring Rebound In 2026&nbsp;&nbsp;Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUF4cnA4Rk9OUjQycFJ5WXlXak4xY1NxRmstbXV2OE44M045ckZoNGNfWTZPXzdCVjFuOFlNWlVLZmhLa3NYM25kMFFVM2NmLWF2OXFsVTR6NlJ2dnl2Zk8zNUF5Q1ZUWURiNUE4OTJLWEtDOHYwVTExbmpNM2lxbWpRd2VGYmV3SElBbS1qR0szRTFaMWNfTGdoWDJCNmFoRk1kaWJkbFQ4Tm5jay1Qb2R6RlZPMDAwbWRZUDh0RkQtMU91ekdJNkFfQjROWmV5ZGY2a2tPeDZEZF8x?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 12:22:30 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111919+00:00"
+  },
+  {
+    "id": "fb9c686e78d0",
+    "title": "Latest News In E-Commerce - Shopify's Revenue Surge Highlights Evolving Market Dynamics",
+    "source": "Simply Wall St",
+    "summary": "Latest News In E-Commerce - Shopify's Revenue Surge Highlights Evolving Market Dynamics&nbsp;&nbsp;Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlNlc0ZyS0Y3R3NXaDNzRndkX0pUZUZxNXBiOFJLZWJHSnE2Wk5wcXhmZ0RwaEhrVHZQcWdjZ0o2eGlyVk5wSk9jOHNZVVBQNVIwbUp4OV9uRG1DeXpfSUhMR08xS1V6anZJZ3dKanpHSVpuQVczd1RDdURQT3ViUmVVRTNDSzF3d1pleUlFOHZqUk5VeUNGamR4VjBmcFZyTWdkQzJCRkFBWFFkVUFSbDMxTTdrVmZQQlZzYmstR2pSUDB0MEpF0gHMAUFVX3lxTE9acG15QmVpSWJ3NXpRWUp2TlpmTVN6cmJDM3V1T2h1VUtZWDNTd1JsdmpfcHRwbDluZGVCN3IzYUtqeV9sZllKazlqYUNDVWV4c0NCM2hkMEZQQWs2b0g2VHhJNXVqMG9lMFUwM2lEdmQ4aFl3QThuMzBRZWdhZWRaUGx4aVE5ZzNvOVlPVF9fWFB6ZUktOXNLbmZ4RTRQYXZZc0M3VlNLaFlNVkFtWmFkVmhaYnNKOWpYRlBCTDBOenJkb0RTRzVHSjZpSA?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 12:07:27 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111936+00:00"
+  },
+  {
+    "id": "8a6d9155ce21",
+    "title": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds",
+    "source": "Net Influencer",
+    "summary": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds&nbsp;&nbsp;Net Influencer",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3djalZJU2Y1b3JXc2tFT1dYemV5cldaRkxMN3A4dDFrSXZzaUctSmotc1lTamttMHdnZzZQRlAtMU16ckdHcllVOVhrMFhrWlBUNGZZa1pZeWRkZ1dwcjZKbGlFY3AzQndQcjhzZ29RX1RYMll3UDN3QXlQOVpuckxFZXZMY0JiTUpxUmlMUTJEWmJ6aW0wMGV1RjM2Y1FOcDRtWG1DOUlSdi03ZklBWEtNMWc0b1k?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 09:30:00 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111952+00:00"
+  },
+  {
+    "id": "a9c2c97d0588",
+    "title": "Henkel launches recyclable heat-seal coating for paper e-commerce pack",
+    "source": "Packaging Insights",
+    "summary": "Henkel launches recyclable heat-seal coating for paper e-commerce pack&nbsp;&nbsp;Packaging Insights",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2hySE4zOWt5TUZtcnRWMzkxR2lEVWRZbUNneW5uVXhvbm5YX1ZyeEFuUzM2OUlLSkxUak5wRXlLNFZ1Nm1tRkJKMmpNMmxBMU5Eb2VJM1BWQ3FNd1dKVl9DdnE0WFExa0NvZklUdlhGR1ZLbjQxeTdHNFB1aFY2MkZxaHN1NnVOSmhLSnRB?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 10:49:11 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111966+00:00"
+  },
+  {
+    "id": "ba85d12610f7",
+    "title": "CPU Cooler Air Market To 2035: Premiumization and E-Commerce Fuel Growth - News and Statistics",
+    "source": "IndexBox",
+    "summary": "CPU Cooler Air Market To 2035: Premiumization and E-Commerce Fuel Growth - News and Statistics&nbsp;&nbsp;IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmdRakhPTm5HSmRXYlE5VjBYSDIwamNPMGVDeFU5blA1ZzVoSFVrVHlHekpEbjJTQVVuVGtRdzhIaFhLX0dxbk11VjRwamRaQWdJYVJIdGdNRWJYSlN2Y2NYbzctV0hPa0NjSDNZTDdySU9LeXdrLTFfZ2I0SWpRWE5DR2JyTDVNaHc4ZFk3eGRKcW1rdE43dGRyVUJqVUxDeDZPSTZGelZPaVkwdG9IQ2hTQS1MLXhiRFE?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 22:01:04 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111983+00:00"
+  },
+  {
+    "id": "0e15d4762434",
+    "title": "Seizing Opportunities in Thailand's Rising E-Commerce Market",
+    "source": "HKTDC Research",
+    "summary": "Seizing Opportunities in Thailand's Rising E-Commerce Market&nbsp;&nbsp;HKTDC Research",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MdkN4SWxWaHUtWEpXZVVMNnFLdlhKN0RBNVR4UGNzZURYajJQWXh6VTRwUldqVUNZZ3JTaEVlNFM2UGNreWphVlBIRXRhaU1scXF2ZHI5ZG5iZVozLWJsbTJ3?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 01:30:11 GMT",
+    "fetched_at": "2026-11-06T01:28:18.111996+00:00"
   },
   {
     "id": "17dcf2d2482e",
@@ -118,66 +208,6 @@
     "image": "",
     "published_at": "Thu, 05 Nov 2026 16:26:04 GMT",
     "fetched_at": "2026-11-05T20:33:11.968669+00:00"
-  },
-  {
-    "id": "aff51ad042fa",
-    "title": "E-commerce in Türkiye: Trends and Market Opportunities",
-    "source": "HKTDC Research",
-    "summary": "E-commerce in Türkiye: Trends and Market Opportunities&nbsp;&nbsp;HKTDC Research",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HVnh6YmpUa2UxLW15dnhJX09POEJZQWdraUVkb1NmVzhKQ1BEeUoyZ1pUQmFNeDhNS2hNcEt5TUZMWUNXVG5SUFdmSnBoZTV0LWM3MXYtVkZXOUl4cm9zZk5n?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 04:22:56 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968686+00:00"
-  },
-  {
-    "id": "72b8aad12c66",
-    "title": "Amazon, UPS Lead US Holiday Hiring Rebound In 2026",
-    "source": "Forbes Middle East",
-    "summary": "Amazon, UPS Lead US Holiday Hiring Rebound In 2026&nbsp;&nbsp;Forbes Middle East",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUF4cnA4Rk9OUjQycFJ5WXlXak4xY1NxRmstbXV2OE44M045ckZoNGNfWTZPXzdCVjFuOFlNWlVLZmhLa3NYM25kMFFVM2NmLWF2OXFsVTR6NlJ2dnl2Zk8zNUF5Q1ZUWURiNUE4OTJLWEtDOHYwVTExbmpNM2lxbWpRd2VGYmV3SElBbS1qR0szRTFaMWNfTGdoWDJCNmFoRk1kaWJkbFQ4Tm5jay1Qb2R6RlZPMDAwbWRZUDh0RkQtMU91ekdJNkFfQjROWmV5ZGY2a2tPeDZEZF8x?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 12:22:30 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968701+00:00"
-  },
-  {
-    "id": "fb9c686e78d0",
-    "title": "Latest News In E-Commerce - Shopify's Revenue Surge Highlights Evolving Market Dynamics",
-    "source": "Simply Wall St",
-    "summary": "Latest News In E-Commerce - Shopify's Revenue Surge Highlights Evolving Market Dynamics&nbsp;&nbsp;Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlNlc0ZyS0Y3R3NXaDNzRndkX0pUZUZxNXBiOFJLZWJHSnE2Wk5wcXhmZ0RwaEhrVHZQcWdjZ0o2eGlyVk5wSk9jOHNZVVBQNVIwbUp4OV9uRG1DeXpfSUhMR08xS1V6anZJZ3dKanpHSVpuQVczd1RDdURQT3ViUmVVRTNDSzF3d1pleUlFOHZqUk5VeUNGamR4VjBmcFZyTWdkQzJCRkFBWFFkVUFSbDMxTTdrVmZQQlZzYmstR2pSUDB0MEpF0gHMAUFVX3lxTE9acG15QmVpSWJ3NXpRWUp2TlpmTVN6cmJDM3V1T2h1VUtZWDNTd1JsdmpfcHRwbDluZGVCN3IzYUtqeV9sZllKazlqYUNDVWV4c0NCM2hkMEZQQWs2b0g2VHhJNXVqMG9lMFUwM2lEdmQ4aFl3QThuMzBRZWdhZWRaUGx4aVE5ZzNvOVlPVF9fWFB6ZUktOXNLbmZ4RTRQYXZZc0M3VlNLaFlNVkFtWmFkVmhaYnNKOWpYRlBCTDBOenJkb0RTRzVHSjZpSA?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 12:07:27 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968717+00:00"
-  },
-  {
-    "id": "8a6d9155ce21",
-    "title": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds",
-    "source": "Net Influencer",
-    "summary": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds&nbsp;&nbsp;Net Influencer",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3djalZJU2Y1b3JXc2tFT1dYemV5cldaRkxMN3A4dDFrSXZzaUctSmotc1lTamttMHdnZzZQRlAtMU16ckdHcllVOVhrMFhrWlBUNGZZa1pZeWRkZ1dwcjZKbGlFY3AzQndQcjhzZ29RX1RYMll3UDN3QXlQOVpuckxFZXZMY0JiTUpxUmlMUTJEWmJ6aW0wMGV1RjM2Y1FOcDRtWG1DOUlSdi03ZklBWEtNMWc0b1k?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 09:30:00 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968732+00:00"
-  },
-  {
-    "id": "e3cfbd2417e0",
-    "title": "E-commerce Market Size, Share | Industry Report, 2035",
-    "source": "Market Research Future",
-    "summary": "E-commerce Market Size, Share | Industry Report, 2035&nbsp;&nbsp;Market Research Future",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
-    "image": "",
-    "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968744+00:00"
-  },
-  {
-    "id": "a9c2c97d0588",
-    "title": "Henkel launches recyclable heat-seal coating for paper e-commerce pack",
-    "source": "Packaging Insights",
-    "summary": "Henkel launches recyclable heat-seal coating for paper e-commerce pack&nbsp;&nbsp;Packaging Insights",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2hySE4zOWt5TUZtcnRWMzkxR2lEVWRZbUNneW5uVXhvbm5YX1ZyeEFuUzM2OUlLSkxUak5wRXlLNFZ1Nm1tRkJKMmpNMmxBMU5Eb2VJM1BWQ3FNd1dKVl9DdnE0WFExa0NvZklUdlhGR1ZLbjQxeTdHNFB1aFY2MkZxaHN1NnVOSmhLSnRB?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 10:49:11 GMT",
-    "fetched_at": "2026-11-05T20:33:11.968757+00:00"
   },
   {
     "id": "3509391f5cdc",
@@ -218,16 +248,6 @@
     "image": "",
     "published_at": "Wed, 04 Nov 2026 22:00:00 GMT",
     "fetched_at": "2026-11-05T12:05:06.341175+00:00"
-  },
-  {
-    "id": "0e15d4762434",
-    "title": "Seizing Opportunities in Thailand's Rising E-Commerce Market",
-    "source": "HKTDC Research",
-    "summary": "Seizing Opportunities in Thailand's Rising E-Commerce Market&nbsp;&nbsp;HKTDC Research",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MdkN4SWxWaHUtWEpXZVVMNnFLdlhKN0RBNVR4UGNzZURYajJQWXh6VTRwUldqVUNZZ3JTaEVlNFM2UGNreWphVlBIRXRhaU1scXF2ZHI5ZG5iZVozLWJsbTJ3?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 01:30:11 GMT",
-    "fetched_at": "2026-11-05T12:05:06.341185+00:00"
   },
   {
     "id": "26f4f8430222",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Tue, 03 Nov 2026 03:01:33 GMT",
     "fetched_at": "2026-11-04T08:54:29.845525+00:00"
-  },
-  {
-    "id": "a90d9d7f1c98",
-    "title": "Weekly Webinar for Emerging Spirit Brands and Investors Seeking Nationwide Distribution and Direct-to-Consumer Growth",
-    "source": "Newswire",
-    "summary": "Weekly Webinar for Emerging Spirit Brands and Investors Seeking Nationwide Distribution and Direct-to-Consumer Growth&nbsp;&nbsp;Newswire",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxBN2JpWC1ZZ1FQQUNRTFZVZTFKX1B2NHZsOU1mX1NMNC1DMDN5R1dCU3NHbmQ4dHljdWxRYjVQVThHOExNbDZsOFdEZ1FzZEVnTkFjNFM4SnNSRmpaZzg0VnA2VFNVT0F3Tmx2NGhGbEY2R3dtWEt3NkM0LUlTRExDdDhGb0dDR28tME4wX2hmbkFVY29TbGNOeTF6Rm4ybkZHcXVSaw?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 00:55:00 GMT",
-    "fetched_at": "2026-11-04T08:54:29.845541+00:00"
-  },
-  {
-    "id": "6d31df3b0d10",
-    "title": "How to Start a Functional Beverage Brand: Free FMCG Webinar",
-    "source": "TradingView",
-    "summary": "How to Start a Functional Beverage Brand: Free FMCG Webinar&nbsp;&nbsp;TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1I5VkFmbVNFZjY0ZklPR19KT2NlOTB0bmNHLUEzV1IyVE5OZWNUUlJUTV9jWHlYQkQ1Z1R0RU1uU1dlNzB4TkI1cnBrTnJYTS04c1VXaHlWc2JoMzBwTW9aNlpRZ05OcHp2QWJTQXlFa3lBRkpXa0gwZnMxem56LW5WbjBZX2c2d21lVFJ4LVlsajk4WGdMXzBxVUNxMTduTU9IMU5FLWpxbGNQSDF6TmM1SmQ0Z09JRkE?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 00:55:00 GMT",
-    "fetched_at": "2026-11-04T08:54:29.845554+00:00"
   }
 ]

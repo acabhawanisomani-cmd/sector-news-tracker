@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQkxDUmZINXNSelBMUVZpVmtTM3Z3WlpuajdFbGM2TXAtQnpsejRyTmxveGZGcmJxZ3p0bnBjMmIwWUJXblZZb0dXNEMzSUpoMGllZ1dFUDRGdk8wYTVaTHRLT1laOUQtWGEtQlBxZGJZZHJUby1hRkhPclpUOW5TSGh3?oc=5",
     "image": "",
     "published_at": "Thu, 05 Nov 2026 13:41:34 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142687+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723738+00:00"
   },
   {
     "id": "3486dd005326",
@@ -17,7 +17,7 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KdjJVVkJ4NmtyMndaLUE3dDNXS1BwbGttYjhEeVJXVzN4UHNyYnNNRDNzYWQ5M1VpOUdMM1VLbjRtNHFFVXNiQnViaHZJb0ZTR0VnSTJXcXZrNDNhZmZIZkcwZ3lHekluckIzNg?oc=5",
     "image": "",
     "published_at": "Thu, 05 Nov 2026 09:35:10 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142723+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723797+00:00"
   },
   {
     "id": "b2a7434cb6d4",
@@ -27,17 +27,7 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0FQeUluV25CVEFTNGk4QjNHOUFVZkZYWkJmTzlYazltLXBZdjh4R2ktRWNpdTFZTGR1RXRqSVN6UmpsQVR5M2pOT1VISnNiYURkcXdQLUVnTGxpMnNuOWpra1JqVVdmM1Rtb2lJaURGRm13YjlFbnRGcEZxcUZ0VWxBaDNGQkZfLVVkWlhodDJVM3ZyWHRWU2dqTVhxZ21K?oc=5",
     "image": "",
     "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142744+00:00"
-  },
-  {
-    "id": "02df80e533c2",
-    "title": "When Cellular Antennas Turn into Radar: The 5G Race Against Drones",
-    "source": "Israel Defense",
-    "summary": "When Cellular Antennas Turn into Radar: The 5G Race Against Drones&nbsp;&nbsp;Israel Defense",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TbkF5bm96NXd5UDdmREZpU21Td2tXTmZ6VjhOaGVySHVVbmI1aWRIQi1nbURzQnJsNGVxd1hmNE1sUkJDZWhOMDJSZWNUY2JyY0pwVUFtNDc?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 09:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142759+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723821+00:00"
   },
   {
     "id": "6a1273713fd5",
@@ -47,7 +37,17 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTJIV2pPSFE5ZGt2UkRtQ0hsODJfWFRWczFUeUZQZ1g1OF82R255VGFzenZ5SDFzcnB1bWZuclA4LVJKcm5Nb2xjZzhDVkpsaDRNNUVMYURRMXA1RlktN2J3V09xcm9GcVI5dzNYSWxJLXNFUTZpQnhhQ0VVU2FOc3dmRmJ4emwxQ3dhWnhhLUhZT0dvSTRvRzFuNA?oc=5",
     "image": "",
     "published_at": "Tue, 21 Apr 2026 18:07:26 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142770+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723834+00:00"
+  },
+  {
+    "id": "02df80e533c2",
+    "title": "When Cellular Antennas Turn into Radar: The 5G Race Against Drones",
+    "source": "Israel Defense",
+    "summary": "When Cellular Antennas Turn into Radar: The 5G Race Against Drones&nbsp;&nbsp;Israel Defense",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TbkF5bm96NXd5UDdmREZpU21Td2tXTmZ6VjhOaGVySHVVbmI1aWRIQi1nbURzQnJsNGVxd1hmNE1sUkJDZWhOMDJSZWNUY2JyY0pwVUFtNDc?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 09:00:00 GMT",
+    "fetched_at": "2026-11-06T01:28:56.723850+00:00"
   },
   {
     "id": "ef3b8bca7ef5",
@@ -57,7 +57,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanBTNFJCdUNaUzFGSGZnT0I4SmZpNHFqMXQ1ckVPX09mZE1iZmI4ZEdfT3RJRzRNYmtRT1ROUm9idkRxYUVjRFBhNDQwZUxVc1cwclNaU2JRelFxQlc1MTJuTE5xVXlydXlfdEFBUG01NlJlczhMdEVLeGlYTEdLVVh4MXQtd2tiaHZJ?oc=5",
     "image": "",
     "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142783+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723864+00:00"
   },
   {
     "id": "9498b9bda357",
@@ -67,7 +67,7 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTh1NXZSczczSUN6MlpsQlN6VTZiVWtsR3AzWUtYTHpqQ2xfcWFaR0gwbkZ1WEFRZjlzTEVyUF9SUTdVS2pHclJZbWlpNUVIVlAxN3ppRlRlUF9qOXVJUUFQbzRkazlPS3c0NTJITTU2WXZmeXpXSkhObktPSW9XMU9zOHJIczFncHkwcVRndU5fOFNqSTM1X291a1FIQQ?oc=5",
     "image": "",
     "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142798+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723880+00:00"
   },
   {
     "id": "26d56434bf02",
@@ -77,7 +77,7 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHA5R1o5YVcyZkRxdUFtSnVlQ2lLMEZRb2tKRjBkRGx0VkV2UHJGMnBua0kyLWZadTNVd1lnQ1AtTC1fa2ZZNGpFajA0T19pYU5tZFVOQ2lUMEZkSXN5VzZHUnFvRTQxcl9CakV3X0F1TVZ5S0M3TkViZmFjSEs5VDlLZw?oc=5",
     "image": "",
     "published_at": "Thu, 28 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142810+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723894+00:00"
   },
   {
     "id": "c2dc9fb29dd5",
@@ -87,7 +87,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWp1TFBnaHF0SG9vbmtRcm5xaW5FQVpjSUxWSTRpTmt0NktrSlA3dEJQbEZMemZQMFJUb3MyUGNjcjROLUZVUXNoRnJSLUtmLTRSV2hXVXZfV0ZfVldxRjhQMTZHM0daS2tSMDNmNUVuQURMRG9KOEZpS19rSWVXS3M5MXdKVmc2NFFteVdaRElRRWpfcXFTRnZwbTAtMEF0VVlUcGZZSEQ?oc=5",
     "image": "",
     "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142822+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723907+00:00"
   },
   {
     "id": "63224b009a52",
@@ -97,7 +97,107 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3djSlZudTBzZmVBclltTEVsa25ocVR6NkkwYklZM2hkNWRzeGlWOTdNTjVLUTJxTjNjdWhZQ0dtS3RfOXVlTGVXWFdCRURia1dsTHpWMmpiNHBTb1dYeHZlaGRHeUlGb1ZmdkdsWmxrN19Wc2hycDFqMWU2bEZnN3BJcGJjUlpTZGRvcVNEWWw?oc=5",
     "image": "",
     "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
-    "fetched_at": "2026-11-05T20:33:54.142834+00:00"
+    "fetched_at": "2026-11-06T01:28:56.723920+00:00"
+  },
+  {
+    "id": "075716a3125e",
+    "title": "SK Telecom Q3 Operating Profit Surges Elevenfold, but AI Data Center Revenue Falls 7.4%",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "summary": "SK Telecom Q3 Operating Profit Surges Elevenfold, but AI Data Center Revenue Falls 7.4%&nbsp;&nbsp;THE ELEC, Korea Electronics Industry Media",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNnYzcktoYzQ4TnhObWVRUElWRGtQaEZMZmQ4ZzdWNzQwNFJRYmNiRndLZ0Y5M3lVT2pyVGR1blpuaHduSHY5QTBFaEJBejgwc1JiSXFoZUNRTk9sR2tydGRNUEJ5ak0?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 01:35:07 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603244+00:00"
+  },
+  {
+    "id": "24566e1c4cf6",
+    "title": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses",
+    "source": "더글로벌기빙뉴스",
+    "summary": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses&nbsp;&nbsp;더글로벌기빙뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KblVlZ2I2a2JIeldqVU9GNFNOdzh4YnA4OTBRaFdqbmphQzRZcVNJc2RMT005aHJwcWx2b3dVU1RublYzbUlFc2xmU0ZNT1BBZDdrXw?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 14:21:00 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603282+00:00"
+  },
+  {
+    "id": "b14d40e03fd1",
+    "title": "iQmetrix Unveils Built-In Intelligence for Every Role in Telecom Commerce at Its 2026 Telecom Industry Address",
+    "source": "Business Wire",
+    "summary": "iQmetrix Unveils Built-In Intelligence for Every Role in Telecom Commerce at Its 2026 Telecom Industry Address&nbsp;&nbsp;Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmhpWTB4d3RGZjdLckNtRE5CektFWlpESzQ3QXRteE56aGs2ZGw5WTM0VC1kN1pVeWNMUUpvbDRzQ1ZnWXB0Ym1BSjhiSEptbVdkb3RwLTVjR1FtR1lPYkdYZmVlYkh0MjNva2xKLWZOY2hCR1VfeTFPNVpvbFhCaHdZanUxYUc1a1JQcTZfNTN2ekJSQ3V0UGhLVm5IR2NjZFBfd3Q3M1ctaUVLTjBua2hUV0xPakpLcUFPVjczcmdpUkgwcWk0a2xwYlRBT0pPNmhTaVFzQW9ETFplQW81R1RoT1Z0bFZhZUp6TDFRWFVYUllVTjJQTHhIaw?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 21:39:00 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603304+00:00"
+  },
+  {
+    "id": "960fc58fa9c2",
+    "title": "Taiwan’s Chunghwa Telecom posts NT$67.59 billion Q3 revenue",
+    "source": "Taiwan News",
+    "summary": "Taiwan’s Chunghwa Telecom posts NT$67.59 billion Q3 revenue&nbsp;&nbsp;Taiwan News",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lZUZOZVZhUFcwcUJfSTJDOEtpRjNvRmlYYzkxXzU4RVZUbzhXS2xFbWZBQWtNVHJMMzYwb0JrRUJ4Z0EzUmVjc3VWcWVvWmFwak1iaWtEczY?oc=5",
+    "image": "",
+    "published_at": "Thu, 05 Nov 2026 04:31:00 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603321+00:00"
+  },
+  {
+    "id": "2520bc88282f",
+    "title": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth",
+    "source": "스포츠조선",
+    "summary": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth&nbsp;&nbsp;스포츠조선",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjR4VVQwWVVYWW03LVE3V0tiUWNwSmxWdGpWZmU4NGZoSnhxcmJhM3FXNEFaVDhpbm9WMHRKcmxQN1ZaMmV2TXJMU0lIYlFJakZuNlZoLTZQTV9DZFNONjZMYnRnQlk3ai1HVG9FbkRfLTdycHZMUjVaU0JXY3BlSA?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 08:10:15 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603344+00:00"
+  },
+  {
+    "id": "b5fc1c88e7d9",
+    "title": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth",
+    "source": "Asia Business Outlook",
+    "summary": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth&nbsp;&nbsp;Asia Business Outlook",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZElLUC1LclRSRExvdkR2NFl1SEx0LXpjUlpXVzdBVkhId0IyWkFzbVkyTnBkZzZBWGxsTUpzT1VobVVUVWVnMUpNMFBENGpxUE9jYkZtZTNZME5HR0o0NVRxUGxGa1RFQTdwcUtGYmpSZGhuN0ozOUtsYmtLRzE1Z01mY0NUQVFlNWNzeWpsdWc5ZVJoUjJlUnNCNmtDNjc2RU5tRjhIY29UZ2doalNJVUF3?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Nov 2026 21:57:50 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603361+00:00"
+  },
+  {
+    "id": "b2bbe2b2f8cc",
+    "title": "Asia’s Journey Toward the Autonomous Enterprise: TM Forum on Unlocking AI’s Business Impact",
+    "source": "Telecom Review Asia",
+    "summary": "Asia’s Journey Toward the Autonomous Enterprise: TM Forum on Unlocking AI’s Business Impact&nbsp;&nbsp;Telecom Review Asia",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVFmTXd4RmV6Z0pKRW84d3VDWTJ5MzJ0M1dfQVZpUVBOOVhmbVlrZDFQRlUyNk5HLWNkTng1ZTlfd2xJVzFvNTcwcWF5d3ZGQUJuWl9KX2FSRVZ1TGI5V0Y0Vkl0TzVLaUxnNFJOYW9IeWdjY1RPYTFsa09zdlF1OXlKSVU5X2lzUXUxd1pwTDZuWEFLUVhEcXlXNkpMNkFXX1Y0VjV6XzEzWW1BM0tzUGk1NW9PWHJFcDc4SjhMSzItZmhXTFhXZnBTUHNTclRWNFN3N3ROcEpBeV9uekE?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 10:49:44 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603382+00:00"
+  },
+  {
+    "id": "8f966338da83",
+    "title": "SK Telecom recorded an operating profit of 552.3 billion won in the third quarter of this year, and",
+    "source": "매일경제",
+    "summary": "SK Telecom recorded an operating profit of 552.3 billion won in the third quarter of this year, and&nbsp;&nbsp;매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMk1DdmxYaWdHN1E0ek8zWnZXSFE4SVhxV3hrLS11MnpKOUZ0Z3I5TDEwelJ3amdsanA2WUVZVGphM0g5Mk5DZUJOUQ?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 04:38:19 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603403+00:00"
+  },
+  {
+    "id": "7004bfe6fdde",
+    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
+    "source": "Bain & Company",
+    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603418+00:00"
+  },
+  {
+    "id": "5fa57f4f8f24",
+    "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "source": "The Guardian",
+    "summary": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings&nbsp;&nbsp;The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHNjV2tjQlkyNGh4YzVkZE9Uc1pjTGJfRm5WQmxKWnhvdVJxMmhfUXc4RVI5bVR3SVlBM0ZvOGdWZWtzazBwN1YzaTU0YWNBNEtDZEVDSDJMR2JuVUY5TmhQa3BYN2E3QVV4ZldXRU1LNVBnak43UlF2azcwRTRwWEZjTHQ0RlNpNW4wamM5YkdBNE5CM3ZOWXJYdnUzWFU?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Nov 2026 08:21:00 GMT",
+    "fetched_at": "2026-11-06T01:28:57.603439+00:00"
   },
   {
     "id": "78f09c2ba206",
@@ -110,16 +210,6 @@
     "fetched_at": "2026-11-05T20:33:55.274369+00:00"
   },
   {
-    "id": "075716a3125e",
-    "title": "SK Telecom Q3 Operating Profit Surges Elevenfold, but AI Data Center Revenue Falls 7.4%",
-    "source": "THE ELEC, Korea Electronics Industry Media",
-    "summary": "SK Telecom Q3 Operating Profit Surges Elevenfold, but AI Data Center Revenue Falls 7.4%&nbsp;&nbsp;THE ELEC, Korea Electronics Industry Media",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNnYzcktoYzQ4TnhObWVRUElWRGtQaEZMZmQ4ZzdWNzQwNFJRYmNiRndLZ0Y5M3lVT2pyVGR1blpuaHduSHY5QTBFaEJBejgwc1JiSXFoZUNRTk9sR2tydGRNUEJ5ak0?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 01:35:07 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274403+00:00"
-  },
-  {
     "id": "37ce06b2fc37",
     "title": "SKT, LG Uplus profits surge as AI data centers fuel growth",
     "source": "매일경제",
@@ -128,56 +218,6 @@
     "image": "",
     "published_at": "Thu, 05 Nov 2026 05:34:29 GMT",
     "fetched_at": "2026-11-05T20:33:55.274424+00:00"
-  },
-  {
-    "id": "960fc58fa9c2",
-    "title": "Taiwan’s Chunghwa Telecom posts NT$67.59 billion Q3 revenue",
-    "source": "Taiwan News",
-    "summary": "Taiwan’s Chunghwa Telecom posts NT$67.59 billion Q3 revenue&nbsp;&nbsp;Taiwan News",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lZUZOZVZhUFcwcUJfSTJDOEtpRjNvRmlYYzkxXzU4RVZUbzhXS2xFbWZBQWtNVHJMMzYwb0JrRUJ4Z0EzUmVjc3VWcWVvWmFwak1iaWtEczY?oc=5",
-    "image": "",
-    "published_at": "Thu, 05 Nov 2026 04:31:00 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274463+00:00"
-  },
-  {
-    "id": "2520bc88282f",
-    "title": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth",
-    "source": "스포츠조선",
-    "summary": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth&nbsp;&nbsp;스포츠조선",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjR4VVQwWVVYWW03LVE3V0tiUWNwSmxWdGpWZmU4NGZoSnhxcmJhM3FXNEFaVDhpbm9WMHRKcmxQN1ZaMmV2TXJMU0lIYlFJakZuNlZoLTZQTV9DZFNONjZMYnRnQlk3ai1HVG9FbkRfLTdycHZMUjVaU0JXY3BlSA?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 08:10:15 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274483+00:00"
-  },
-  {
-    "id": "b5fc1c88e7d9",
-    "title": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth",
-    "source": "Asia Business Outlook",
-    "summary": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth&nbsp;&nbsp;Asia Business Outlook",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZElLUC1LclRSRExvdkR2NFl1SEx0LXpjUlpXVzdBVkhId0IyWkFzbVkyTnBkZzZBWGxsTUpzT1VobVVUVWVnMUpNMFBENGpxUE9jYkZtZTNZME5HR0o0NVRxUGxGa1RFQTdwcUtGYmpSZGhuN0ozOUtsYmtLRzE1Z01mY0NUQVFlNWNzeWpsdWc5ZVJoUjJlUnNCNmtDNjc2RU5tRjhIY29UZ2doalNJVUF3?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 21:57:50 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274497+00:00"
-  },
-  {
-    "id": "b2bbe2b2f8cc",
-    "title": "Asia’s Journey Toward the Autonomous Enterprise: TM Forum on Unlocking AI’s Business Impact",
-    "source": "Telecom Review Asia",
-    "summary": "Asia’s Journey Toward the Autonomous Enterprise: TM Forum on Unlocking AI’s Business Impact&nbsp;&nbsp;Telecom Review Asia",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVFmTXd4RmV6Z0pKRW84d3VDWTJ5MzJ0M1dfQVZpUVBOOVhmbVlrZDFQRlUyNk5HLWNkTng1ZTlfd2xJVzFvNTcwcWF5d3ZGQUJuWl9KX2FSRVZ1TGI5V0Y0Vkl0TzVLaUxnNFJOYW9IeWdjY1RPYTFsa09zdlF1OXlKSVU5X2lzUXUxd1pwTDZuWEFLUVhEcXlXNkpMNkFXX1Y0VjV6XzEzWW1BM0tzUGk1NW9PWHJFcDc4SjhMSzItZmhXTFhXZnBTUHNTclRWNFN3N3ROcEpBeV9uekE?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 10:49:44 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274515+00:00"
-  },
-  {
-    "id": "5fa57f4f8f24",
-    "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-    "source": "The Guardian",
-    "summary": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings&nbsp;&nbsp;The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHNjV2tjQlkyNGh4YzVkZE9Uc1pjTGJfRm5WQmxKWnhvdVJxMmhfUXc4RVI5bVR3SVlBM0ZvOGdWZWtzazBwN1YzaTU0YWNBNEtDZEVDSDJMR2JuVUY5TmhQa3BYN2E3QVV4ZldXRU1LNVBnak43UlF2azcwRTRwWEZjTHQ0RlNpNW4wamM5YkdBNE5CM3ZOWXJYdnUzWFU?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 08:21:00 GMT",
-    "fetched_at": "2026-11-05T20:33:55.274536+00:00"
   },
   {
     "id": "38a14deb4d80",
@@ -240,16 +280,6 @@
     "fetched_at": "2026-11-05T03:23:40.753144+00:00"
   },
   {
-    "id": "8f966338da83",
-    "title": "SK Telecom recorded an operating profit of 552.3 billion won in the third quarter of this year, and",
-    "source": "매일경제",
-    "summary": "SK Telecom recorded an operating profit of 552.3 billion won in the third quarter of this year, and&nbsp;&nbsp;매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMk1DdmxYaWdHN1E0ek8zWnZXSFE4SVhxV3hrLS11MnpKOUZ0Z3I5TDEwelJ3amdsanA2WUVZVGphM0g5Mk5DZUJOUQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 04:38:19 GMT",
-    "fetched_at": "2026-11-05T03:23:41.643223+00:00"
-  },
-  {
     "id": "c58bdd77ae83",
     "title": "Joseph Grinkorn: Elon Musk and Starlink Could Take Over the Global Telecom Industry Within Three Years – Traditional Telecom Giants on Notice",
     "source": "StreetInsider",
@@ -258,16 +288,6 @@
     "image": "",
     "published_at": "Tue, 03 Nov 2026 14:48:35 GMT",
     "fetched_at": "2026-11-05T03:23:41.643237+00:00"
-  },
-  {
-    "id": "7004bfe6fdde",
-    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
-    "source": "Bain & Company",
-    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-05T03:23:41.643258+00:00"
   },
   {
     "id": "4cd5bbfbca37",
@@ -478,25 +498,5 @@
     "image": "",
     "published_at": "Sat, 15 Aug 2026 07:00:00 GMT",
     "fetched_at": "2026-11-04T01:11:20.808079+00:00"
-  },
-  {
-    "id": "7c12fe25b903",
-    "title": "China Telecom stock faces profit pressure as AI strategy advances",
-    "source": "ad-hoc-news.de",
-    "summary": "China Telecom stock faces profit pressure as AI strategy advances&nbsp;&nbsp;ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzZqWUUzRHRQOXlZcFFmdXRQRjhiZ2p5SlNPUXJ6MHc1WEFsNVVGeXhjbEFERmFPQm1YdWpWbjE4MDBaSmw3Z1kyeW80dFA3WVZsOW9BUnlfVDFSRnNTMkhzSjNReFRrUlN4Uk5SOVRTN0phdmZsS0xOT3lPQy1nUndOSzd5a3NKbFhmTl83LW1XbkhES1p1bGlLWVd1NXE1NW51OENCbV9ocENsUFZsbmZVaUdhSnRMN2Y5U2l6cEpVdw?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 01:46:19 GMT",
-    "fetched_at": "2026-11-04T01:11:20.808096+00:00"
-  },
-  {
-    "id": "11fc13be84c4",
-    "title": "CEVA Logistics and ORANGE Polska S.A., Poland's Leading Telecommunications Company, Extend Partnership Through 2031",
-    "source": "CEVA Logistics",
-    "summary": "CEVA Logistics and ORANGE Polska S.A., Poland's Leading Telecommunications Company, Extend Partnership Through 2031&nbsp;&nbsp;CEVA Logistics",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHlpQ0phbUR4LUhGdFRwUHhUMnhTV3JwbDNzalAweTBKTG5uN0wySG5pNGl0cHBfQVZyNUNiTi05XzVSOXFDZm5TSW9aWEVoVlpiaWFqWGsyLUxxaU5GNVFyNWNMZjRDczBKTjhYM19BWTZxR2hYTlMtNkN5b1liVnYwVVpkaUhFUWlOSUFuQW9mS3M3UlRWcTlRcWNDZUprOFJQbkJkaUZhUWFmc0VQbkozakxSNUlLY1JKVWo2dkotbDQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-04T01:11:20.808115+00:00"
   }
 ]
