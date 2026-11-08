@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGc3YWlNLWcyRFlsdUQyQ3luSTRmTzdZWkRIMk1DbFEzVjN2UmFqNjN0TjVBM0wzTzJxY0VsemQ5QnJieFMxaGhwcThSeFZzOGJZNG1OTmVxOTAzSnVudTZCV3ZCVnZmYVFCU2VEZzc0dHNQZnluTW1xbGlaQ3A1WXdPQk5USkdYeUI0cU9ZLVhBeHhSc3o2UTVEaXZlU3hVTHllV0I4M2tKanh4b3dxQmozazV1VVBJSjNr?oc=5",
     "image": "",
     "published_at": "Fri, 06 Nov 2026 01:00:26 GMT",
-    "fetched_at": "2026-11-08T00:21:18.444887+00:00"
+    "fetched_at": "2026-11-08T07:07:26.718763+00:00"
   },
   {
     "id": "890357dc3a03",
@@ -17,7 +17,37 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzdMVFp6UUhFME1rYmpwaFA5dFJsbmhrUWxpbzZUYWhjSG5RelZBV0UyTzJBbTF5QXRfZU90U1RYQXVDNjhTeGN2VEhtMllRMm5tY01ka2E4YWtiYlU5RXl4d2x2ZFdzb2p1MkgwaFhkME5vLWRzRDdiZHhlTFhWUlpYNTVNYnp4?oc=5",
     "image": "",
     "published_at": "Thu, 05 Nov 2026 21:02:02 GMT",
-    "fetched_at": "2026-11-08T00:21:18.444923+00:00"
+    "fetched_at": "2026-11-08T07:07:26.718830+00:00"
+  },
+  {
+    "id": "b2a7434cb6d4",
+    "title": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Market Leadership and 5G Technology Innovation",
+    "source": "Yahoo Finance",
+    "summary": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Market Leadership and 5G Technology Innovation&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0FQeUluV25CVEFTNGk4QjNHOUFVZkZYWkJmTzlYazltLXBZdjh4R2ktRWNpdTFZTGR1RXRqSVN6UmpsQVR5M2pOT1VISnNiYURkcXdQLUVnTGxpMnNuOWpra1JqVVdmM1Rtb2lJaURGRm13YjlFbnRGcEZxcUZ0VWxBaDNGQkZfLVVkWlhodDJVM3ZyWHRWU2dqTVhxZ21K?oc=5",
+    "image": "",
+    "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718866+00:00"
+  },
+  {
+    "id": "7fe3e51f6efe",
+    "title": "Indian telcos push back against proposed 5G slicing rules",
+    "source": "Light Reading",
+    "summary": "Indian telcos push back against proposed 5G slicing rules&nbsp;&nbsp;Light Reading",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDZvNTdwbnBEYm5SQ2ZEWkpXU19rdTFRSTJFSVNYZUo3LXpkcnh2cmtEMExrNFYxWm1mZF9qVmcwZ0ZiNk0tQ1ZJWXVlLUtIbkdwRzhQQXJON01JaldySVFhTGdkUEk4X3VqVU56SlBTSFMybW5ISHkyTEkzZnN3NEdjbGljSlBteVF6cEIxc2ltYms?oc=5",
+    "image": "",
+    "published_at": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718883+00:00"
+  },
+  {
+    "id": "6a1273713fd5",
+    "title": "2024 Telecom Industry Outlook",
+    "source": "Deloitte",
+    "summary": "2024 Telecom Industry Outlook&nbsp;&nbsp;Deloitte",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTJIV2pPSFE5ZGt2UkRtQ0hsODJfWFRWczFUeUZQZ1g1OF82R255VGFzenZ5SDFzcnB1bWZuclA4LVJKcm5Nb2xjZzhDVkpsaDRNNUVMYURRMXA1RlktN2J3V09xcm9GcVI5dzNYSWxJLXNFUTZpQnhhQ0VVU2FOc3dmRmJ4emwxQ3dhWnhhLUhZT0dvSTRvRzFuNA?oc=5",
+    "image": "",
+    "published_at": "Tue, 21 Apr 2026 18:07:26 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718896+00:00"
   },
   {
     "id": "b1002e791e22",
@@ -27,7 +57,147 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTV9PRHNpOHBmdTVYdXc1bklsTHdXWEg0dENQTXJSUk9FbjZiU3NwLTNIcWFJUU9WdW5XeGZ5MzdMQ1l4c0NZTy1wQXItYVN5YThhT0U4SnZkMDAtSXVWUG1FZ3k0QkZoNXF5dXpUTlhadXpjaDVXQ0lwZXBvM0VlVWFFSTkyTVB1akdHT0FINFRNaWFZMDZYWldYdXgxc0xhZEpjMDc5YnhTUF8tbTFCZzZRNmVSeDhEZnB1dkJfQTJEcjc0M056cGNuMDdwYVc1dk5fUko4aULSAd4BQVVfeXFMUDFISGRoNF9WT0Q2TVhzTnAzRUpxc1owQmZoazE0SDN4NW5GMHhHakk5YVVKX2kwR0RZQmhGdWlLTDBCeEJULThTTF9vaHo4ZkxZcUlod0Z0eEZudEtybjBDZEhOcUZMTC1YYWotZk5MQ0M5VHR3bHZaVm90VXNnck1jYjJ0Zi1oekdsREFwdFpkSEZSUUlpUzNCa1pJOEVqSGp0UnRaa2t3NFlaamxZNlFCV0J4SFM0TldNcklyQXpUN29Rb2VINWc3cWQ3MUVhUWZsZDVmWF9aQzhxTEh3?oc=5",
     "image": "",
     "published_at": "Fri, 06 Nov 2026 02:03:10 GMT",
-    "fetched_at": "2026-11-08T00:21:18.444946+00:00"
+    "fetched_at": "2026-11-08T07:07:26.718917+00:00"
+  },
+  {
+    "id": "ef3b8bca7ef5",
+    "title": "12 Best 5G Stocks for 2026 and How to Invest",
+    "source": "The Motley Fool",
+    "summary": "12 Best 5G Stocks for 2026 and How to Invest&nbsp;&nbsp;The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanBTNFJCdUNaUzFGSGZnT0I4SmZpNHFqMXQ1ckVPX09mZE1iZmI4ZEdfT3RJRzRNYmtRT1ROUm9idkRxYUVjRFBhNDQwZUxVc1cwclNaU2JRelFxQlc1MTJuTE5xVXlydXlfdEFBUG01NlJlczhMdEVLeGlYTEdLVVh4MXQtd2tiaHZJ?oc=5",
+    "image": "",
+    "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718933+00:00"
+  },
+  {
+    "id": "9498b9bda357",
+    "title": "Perspectives from the Global Telecom Outlook, 2025–2029",
+    "source": "PwC",
+    "summary": "Perspectives from the Global Telecom Outlook, 2025–2029&nbsp;&nbsp;PwC",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTh1NXZSczczSUN6MlpsQlN6VTZiVWtsR3AzWUtYTHpqQ2xfcWFaR0gwbkZ1WEFRZjlzTEVyUF9SUTdVS2pHclJZbWlpNUVIVlAxN3ppRlRlUF9qOXVJUUFQbzRkazlPS3c0NTJITTU2WXZmeXpXSkhObktPSW9XMU9zOHJIczFncHkwcVRndU5fOFNqSTM1X291a1FIQQ?oc=5",
+    "image": "",
+    "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718954+00:00"
+  },
+  {
+    "id": "26d56434bf02",
+    "title": "Spanish telecom paradox: private costs, public benefits",
+    "source": "ing think",
+    "summary": "Spanish telecom paradox: private costs, public benefits&nbsp;&nbsp;ing think",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHA5R1o5YVcyZkRxdUFtSnVlQ2lLMEZRb2tKRjBkRGx0VkV2UHJGMnBua0kyLWZadTNVd1lnQ1AtTC1fa2ZZNGpFajA0T19pYU5tZFVOQ2lUMEZkSXN5VzZHUnFvRTQxcl9CakV3X0F1TVZ5S0M3TkViZmFjSEs5VDlLZw?oc=5",
+    "image": "",
+    "published_at": "Thu, 28 May 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718968+00:00"
+  },
+  {
+    "id": "c2dc9fb29dd5",
+    "title": "What Happens After Nationwide 5G Coverage?",
+    "source": "Telecom Review Asia",
+    "summary": "What Happens After Nationwide 5G Coverage?&nbsp;&nbsp;Telecom Review Asia",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWp1TFBnaHF0SG9vbmtRcm5xaW5FQVpjSUxWSTRpTmt0NktrSlA3dEJQbEZMemZQMFJUb3MyUGNjcjROLUZVUXNoRnJSLUtmLTRSV2hXVXZfV0ZfVldxRjhQMTZHM0daS2tSMDNmNUVuQURMRG9KOEZpS19rSWVXS3M5MXdKVmc2NFFteVdaRElRRWpfcXFTRnZwbTAtMEF0VVlUcGZZSEQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:26.718981+00:00"
+  },
+  {
+    "id": "83c53565d76e",
+    "title": "Ukraine's Kyivstar lifts outlook as digital business gathers pace",
+    "source": "Reuters",
+    "summary": "Ukraine's Kyivstar lifts outlook as digital business gathers pace&nbsp;&nbsp;Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXhocmhOMklpTVBTZmxGbGczdGNpUmF5aG00eWpyX2E2d0E3ZWN4SUxjc0UyQ0VlWDh4d05hNUZkZTUxN0dkWmZUa2kydlU2MG5PMklITkpzZEtybi1taWpWakdGYlJkbURQMnpXbmF5VnJnd2cwU2tNa3VFaFk0RjN2NXhEdDBuOGhsdlMwY2tTRlQtRWdsV1lHbFp0RnBwa3c?oc=5",
+    "image": "",
+    "published_at": "Fri, 06 Nov 2026 05:50:00 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564079+00:00"
+  },
+  {
+    "id": "3c675aa70aac",
+    "title": "Telecoms entrepreneur behind ‘breathtaking fraud’ hit with freezing orders",
+    "source": "Financial Times",
+    "summary": "Telecoms entrepreneur behind ‘breathtaking fraud’ hit with freezing orders&nbsp;&nbsp;Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeE11Z0tfUWFkb0wzQ292UnhTNjNIOUxlV0xyMGFXZDcxSEJvNEdicThjaWdXZGFwQktBTURmbEduRDlkQWFXcU1qZzVYcFZKXzN6UGgzdzBGUmV2N2t2Vi1sR3BlYUtyQTdjVFNjRkxZRkhHQlNFakdBZHJTU2lEN3hOM2Y?oc=5",
+    "image": "",
+    "published_at": "Fri, 06 Nov 2026 12:23:58 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564114+00:00"
+  },
+  {
+    "id": "8e514944d14a",
+    "title": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "summary": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU1sOVROWXBlZndPWDlmLWNXSzVQVUUxYXl5Zm1LUklyUGlOTDFlUHFuZ0hsSVpjN000WEprc212VHFHQ1RKYkhxQ2puMDVWQ1Eza2c2WWZYQ3luQWtxbGVGeXc4TURDWlVmQTVIcEpVNmdtOUVZbndJN1N4dHJDeEJjUjhzU0VYMkJRcDNWSUtoMkhyWmY1YzJRUXlpc3RiV2VOdF9RNl8ycDJodWFV?oc=5",
+    "image": "",
+    "published_at": "Wed, 28 Oct 2026 20:53:13 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564133+00:00"
+  },
+  {
+    "id": "24566e1c4cf6",
+    "title": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses",
+    "source": "더글로벌기빙뉴스",
+    "summary": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses&nbsp;&nbsp;더글로벌기빙뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KblVlZ2I2a2JIeldqVU9GNFNOdzh4YnA4OTBRaFdqbmphQzRZcVNJc2RMT005aHJwcWx2b3dVU1RublYzbUlFc2xmU0ZNT1BBZDdrXw?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 14:21:00 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564154+00:00"
+  },
+  {
+    "id": "4428fdaf01a6",
+    "title": "Japan's government weighs mandatory blocking of cyberattack sites; telecom giants cautious, saying legal framework is a prerequisite",
+    "source": "BigGo Finance",
+    "summary": "Japan's government weighs mandatory blocking of cyberattack sites; telecom giants cautious, saying legal framework is a prerequisite&nbsp;&nbsp;BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMHdTaGhIYVBDYzY3eWlCa01sTkFEcW45MGUwdWs2VFR5WVp6QTFqVlNRVTFBbkF3QkNkMzctdDZFa2xZMVUzZXZYOElHWm54bk9DUjdLS1E0MllBZzNiaGJ1cDlrZ0E4cEU3MlZERDgyZlJqWFE?oc=5",
+    "image": "",
+    "published_at": "Fri, 06 Nov 2026 14:55:00 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564175+00:00"
+  },
+  {
+    "id": "45e785ffba39",
+    "title": "N4trn telecom investment cannot deliver better service without an enabling environment — Adebayo",
+    "source": "Business News Nigeria",
+    "summary": "N4trn telecom investment cannot deliver better service without an enabling environment — Adebayo&nbsp;&nbsp;Business News Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVpGcUt0eHViOUR3c3AwakFUdjFpYklmUUZNdGJvYnM1Ym1fUXR4ejlTUDZ2SERwWE54X3Z1YzA0UUpsUUQ2UTBrVnZYMmpROE8yOGdJdmtMTnFzajV4Q2Z4emxvYUlmb0ZNSm5iQWs2S0JTRFUyWFRpN0U5SjVVRnZwOGVmb0hsVURVWVBXZE9uQ2t0c0Rsc1NkNFNNYnhqdExxcVQ2UkRkRUVaSVBmZDVyQm9KNWEwZk5BWFJvSkt4eGZfNnA5Ym5JRU9tVGo5eHc?oc=5",
+    "image": "",
+    "published_at": "Sun, 08 Nov 2026 05:06:43 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564197+00:00"
+  },
+  {
+    "id": "2520bc88282f",
+    "title": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth",
+    "source": "스포츠조선",
+    "summary": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth&nbsp;&nbsp;스포츠조선",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjR4VVQwWVVYWW03LVE3V0tiUWNwSmxWdGpWZmU4NGZoSnhxcmJhM3FXNEFaVDhpbm9WMHRKcmxQN1ZaMmV2TXJMU0lIYlFJakZuNlZoLTZQTV9DZFNONjZMYnRnQlk3ai1HVG9FbkRfLTdycHZMUjVaU0JXY3BlSA?oc=5",
+    "image": "",
+    "published_at": "Wed, 04 Nov 2026 08:10:15 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564220+00:00"
+  },
+  {
+    "id": "b5fc1c88e7d9",
+    "title": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth",
+    "source": "Asia Business Outlook",
+    "summary": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth&nbsp;&nbsp;Asia Business Outlook",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZElLUC1LclRSRExvdkR2NFl1SEx0LXpjUlpXVzdBVkhId0IyWkFzbVkyTnBkZzZBWGxsTUpzT1VobVVUVWVnMUpNMFBENGpxUE9jYkZtZTNZME5HR0o0NVRxUGxGa1RFQTdwcUtGYmpSZGhuN0ozOUtsYmtLRzE1Z01mY0NUQVFlNWNzeWpsdWc5ZVJoUjJlUnNCNmtDNjc2RU5tRjhIY29UZ2doalNJVUF3?oc=5",
+    "image": "",
+    "published_at": "Tue, 03 Nov 2026 21:57:50 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564237+00:00"
+  },
+  {
+    "id": "7004bfe6fdde",
+    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
+    "source": "Bain & Company",
+    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
+    "image": "",
+    "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564252+00:00"
+  },
+  {
+    "id": "caaa28f29a24",
+    "title": "Global M&A trends in technology, media and telecommunications: 2026 mid-year outlook",
+    "source": "PwC",
+    "summary": "Global M&A trends in technology, media and telecommunications: 2026 mid-year outlook&nbsp;&nbsp;PwC",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlN3a1h1Wk0zQzA1SkZIa0RkNGo4TmU3OTRhSm9nLUVhdnAwYVJ5MmNiQVpDbzhJRmZ2Ml9WdGtlT0pZRTB5b1RNN19RYWhITllaeTRtdGw1RVAtanpZVWw2Y0FMeDJockFSbjZHcm9URjJIcEpFTmQ4VkNNR3BjckxHN0RFcEJ5Zzk2bTNjVW1xUQ?oc=5",
+    "image": "",
+    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-08T07:07:27.564268+00:00"
   },
   {
     "id": "02df80e533c2",
@@ -38,46 +208,6 @@
     "image": "",
     "published_at": "Wed, 04 Nov 2026 09:00:00 GMT",
     "fetched_at": "2026-11-08T00:21:18.444964+00:00"
-  },
-  {
-    "id": "b2a7434cb6d4",
-    "title": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Market Leadership and 5G Technology Innovation",
-    "source": "Yahoo Finance",
-    "summary": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Market Leadership and 5G Technology Innovation&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0FQeUluV25CVEFTNGk4QjNHOUFVZkZYWkJmTzlYazltLXBZdjh4R2ktRWNpdTFZTGR1RXRqSVN6UmpsQVR5M2pOT1VISnNiYURkcXdQLUVnTGxpMnNuOWpra1JqVVdmM1Rtb2lJaURGRm13YjlFbnRGcEZxcUZ0VWxBaDNGQkZfLVVkWlhodDJVM3ZyWHRWU2dqTVhxZ21K?oc=5",
-    "image": "",
-    "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:18.444984+00:00"
-  },
-  {
-    "id": "7fe3e51f6efe",
-    "title": "Indian telcos push back against proposed 5G slicing rules",
-    "source": "Light Reading",
-    "summary": "Indian telcos push back against proposed 5G slicing rules&nbsp;&nbsp;Light Reading",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDZvNTdwbnBEYm5SQ2ZEWkpXU19rdTFRSTJFSVNYZUo3LXpkcnh2cmtEMExrNFYxWm1mZF9qVmcwZ0ZiNk0tQ1ZJWXVlLUtIbkdwRzhQQXJON01JaldySVFhTGdkUEk4X3VqVU56SlBTSFMybW5ISHkyTEkzZnN3NEdjbGljSlBteVF6cEIxc2ltYms?oc=5",
-    "image": "",
-    "published_at": "Tue, 08 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:18.444999+00:00"
-  },
-  {
-    "id": "ef3b8bca7ef5",
-    "title": "12 Best 5G Stocks for 2026 and How to Invest",
-    "source": "The Motley Fool",
-    "summary": "12 Best 5G Stocks for 2026 and How to Invest&nbsp;&nbsp;The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanBTNFJCdUNaUzFGSGZnT0I4SmZpNHFqMXQ1ckVPX09mZE1iZmI4ZEdfT3RJRzRNYmtRT1ROUm9idkRxYUVjRFBhNDQwZUxVc1cwclNaU2JRelFxQlc1MTJuTE5xVXlydXlfdEFBUG01NlJlczhMdEVLeGlYTEdLVVh4MXQtd2tiaHZJ?oc=5",
-    "image": "",
-    "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:18.445014+00:00"
-  },
-  {
-    "id": "26d56434bf02",
-    "title": "Spanish telecom paradox: private costs, public benefits",
-    "source": "ing think",
-    "summary": "Spanish telecom paradox: private costs, public benefits&nbsp;&nbsp;ing think",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHA5R1o5YVcyZkRxdUFtSnVlQ2lLMEZRb2tKRjBkRGx0VkV2UHJGMnBua0kyLWZadTNVd1lnQ1AtTC1fa2ZZNGpFajA0T19pYU5tZFVOQ2lUMEZkSXN5VzZHUnFvRTQxcl9CakV3X0F1TVZ5S0M3TkViZmFjSEs5VDlLZw?oc=5",
-    "image": "",
-    "published_at": "Thu, 28 May 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:18.445027+00:00"
   },
   {
     "id": "6a5ff40f7a03",
@@ -100,26 +230,6 @@
     "fetched_at": "2026-11-08T00:21:18.445061+00:00"
   },
   {
-    "id": "83c53565d76e",
-    "title": "Ukraine's Kyivstar lifts outlook as digital business gathers pace",
-    "source": "Reuters",
-    "summary": "Ukraine's Kyivstar lifts outlook as digital business gathers pace&nbsp;&nbsp;Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXhocmhOMklpTVBTZmxGbGczdGNpUmF5aG00eWpyX2E2d0E3ZWN4SUxjc0UyQ0VlWDh4d05hNUZkZTUxN0dkWmZUa2kydlU2MG5PMklITkpzZEtybi1taWpWakdGYlJkbURQMnpXbmF5VnJnd2cwU2tNa3VFaFk0RjN2NXhEdDBuOGhsdlMwY2tTRlQtRWdsV1lHbFp0RnBwa3c?oc=5",
-    "image": "",
-    "published_at": "Fri, 06 Nov 2026 05:50:00 GMT",
-    "fetched_at": "2026-11-08T00:21:19.294587+00:00"
-  },
-  {
-    "id": "3c675aa70aac",
-    "title": "Telecoms entrepreneur behind ‘breathtaking fraud’ hit with freezing orders",
-    "source": "Financial Times",
-    "summary": "Telecoms entrepreneur behind ‘breathtaking fraud’ hit with freezing orders&nbsp;&nbsp;Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeE11Z0tfUWFkb0wzQ292UnhTNjNIOUxlV0xyMGFXZDcxSEJvNEdicThjaWdXZGFwQktBTURmbEduRDlkQWFXcU1qZzVYcFZKXzN6UGgzdzBGUmV2N2t2Vi1sR3BlYUtyQTdjVFNjRkxZRkhHQlNFakdBZHJTU2lEN3hOM2Y?oc=5",
-    "image": "",
-    "published_at": "Fri, 06 Nov 2026 12:23:58 GMT",
-    "fetched_at": "2026-11-08T00:21:19.294622+00:00"
-  },
-  {
     "id": "eed1245b96c8",
     "title": "Telecom Consolidation Reshapes Mexico's Digital Landscape",
     "source": "Mexico Business News",
@@ -130,26 +240,6 @@
     "fetched_at": "2026-11-08T00:21:19.294640+00:00"
   },
   {
-    "id": "4428fdaf01a6",
-    "title": "Japan's government weighs mandatory blocking of cyberattack sites; telecom giants cautious, saying legal framework is a prerequisite",
-    "source": "BigGo Finance",
-    "summary": "Japan's government weighs mandatory blocking of cyberattack sites; telecom giants cautious, saying legal framework is a prerequisite&nbsp;&nbsp;BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMHdTaGhIYVBDYzY3eWlCa01sTkFEcW45MGUwdWs2VFR5WVp6QTFqVlNRVTFBbkF3QkNkMzctdDZFa2xZMVUzZXZYOElHWm54bk9DUjdLS1E0MllBZzNiaGJ1cDlrZ0E4cEU3MlZERDgyZlJqWFE?oc=5",
-    "image": "",
-    "published_at": "Fri, 06 Nov 2026 14:55:00 GMT",
-    "fetched_at": "2026-11-08T00:21:19.294662+00:00"
-  },
-  {
-    "id": "7004bfe6fdde",
-    "title": "Telecom M&A: Here Are the Latest Deal Trends Worldwide",
-    "source": "Bain & Company",
-    "summary": "Telecom M&A: Here Are the Latest Deal Trends Worldwide&nbsp;&nbsp;Bain & Company",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
-    "image": "",
-    "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:19.294678+00:00"
-  },
-  {
     "id": "960fc58fa9c2",
     "title": "Taiwan’s Chunghwa Telecom posts NT$67.59 billion Q3 revenue",
     "source": "Taiwan News",
@@ -158,16 +248,6 @@
     "image": "",
     "published_at": "Thu, 05 Nov 2026 04:31:00 GMT",
     "fetched_at": "2026-11-08T00:21:19.294695+00:00"
-  },
-  {
-    "id": "caaa28f29a24",
-    "title": "Global M&A trends in technology, media and telecommunications: 2026 mid-year outlook",
-    "source": "PwC",
-    "summary": "Global M&A trends in technology, media and telecommunications: 2026 mid-year outlook&nbsp;&nbsp;PwC",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlN3a1h1Wk0zQzA1SkZIa0RkNGo4TmU3OTRhSm9nLUVhdnAwYVJ5MmNiQVpDbzhJRmZ2Ml9WdGtlT0pZRTB5b1RNN19RYWhITllaeTRtdGw1RVAtanpZVWw2Y0FMeDJockFSbjZHcm9URjJIcEpFTmQ4VkNNR3BjckxHN0RFcEJ5Zzk2bTNjVW1xUQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T00:21:19.294712+00:00"
   },
   {
     "id": "ec391d4a0a11",
@@ -200,36 +280,6 @@
     "fetched_at": "2026-11-08T00:21:19.294758+00:00"
   },
   {
-    "id": "6a1273713fd5",
-    "title": "2024 Telecom Industry Outlook",
-    "source": "Deloitte",
-    "summary": "2024 Telecom Industry Outlook&nbsp;&nbsp;Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTJIV2pPSFE5ZGt2UkRtQ0hsODJfWFRWczFUeUZQZ1g1OF82R255VGFzenZ5SDFzcnB1bWZuclA4LVJKcm5Nb2xjZzhDVkpsaDRNNUVMYURRMXA1RlktN2J3V09xcm9GcVI5dzNYSWxJLXNFUTZpQnhhQ0VVU2FOc3dmRmJ4emwxQ3dhWnhhLUhZT0dvSTRvRzFuNA?oc=5",
-    "image": "",
-    "published_at": "Tue, 21 Apr 2026 18:07:26 GMT",
-    "fetched_at": "2026-11-07T20:46:35.261954+00:00"
-  },
-  {
-    "id": "9498b9bda357",
-    "title": "Perspectives from the Global Telecom Outlook, 2025–2029",
-    "source": "PwC",
-    "summary": "Perspectives from the Global Telecom Outlook, 2025–2029&nbsp;&nbsp;PwC",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTh1NXZSczczSUN6MlpsQlN6VTZiVWtsR3AzWUtYTHpqQ2xfcWFaR0gwbkZ1WEFRZjlzTEVyUF9SUTdVS2pHclJZbWlpNUVIVlAxN3ppRlRlUF9qOXVJUUFQbzRkazlPS3c0NTJITTU2WXZmeXpXSkhObktPSW9XMU9zOHJIczFncHkwcVRndU5fOFNqSTM1X291a1FIQQ?oc=5",
-    "image": "",
-    "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
-    "fetched_at": "2026-11-07T20:46:35.261992+00:00"
-  },
-  {
-    "id": "8e514944d14a",
-    "title": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary",
-    "source": "Yahoo Finance",
-    "summary": "Shenandoah Telecommunications Company Q3 2026 Earnings Call Summary&nbsp;&nbsp;Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU1sOVROWXBlZndPWDlmLWNXSzVQVUUxYXl5Zm1LUklyUGlOTDFlUHFuZ0hsSVpjN000WEprc212VHFHQ1RKYkhxQ2puMDVWQ1Eza2c2WWZYQ3luQWtxbGVGeXc4TURDWlVmQTVIcEpVNmdtOUVZbndJN1N4dHJDeEJjUjhzU0VYMkJRcDNWSUtoMkhyWmY1YzJRUXlpc3RiV2VOdF9RNl8ycDJodWFV?oc=5",
-    "image": "",
-    "published_at": "Wed, 28 Oct 2026 20:53:13 GMT",
-    "fetched_at": "2026-11-07T20:46:36.070304+00:00"
-  },
-  {
     "id": "7f72202e46c1",
     "title": "Safaricom energy costs rise 22% as Kenya’s digital expansion exposes telecom sector’s power challenge",
     "source": "Africa Sustainability Matters",
@@ -248,16 +298,6 @@
     "image": "",
     "published_at": "Fri, 06 Nov 2026 10:40:59 GMT",
     "fetched_at": "2026-11-07T20:46:36.070364+00:00"
-  },
-  {
-    "id": "c2dc9fb29dd5",
-    "title": "What Happens After Nationwide 5G Coverage?",
-    "source": "Telecom Review Asia",
-    "summary": "What Happens After Nationwide 5G Coverage?&nbsp;&nbsp;Telecom Review Asia",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWp1TFBnaHF0SG9vbmtRcm5xaW5FQVpjSUxWSTRpTmt0NktrSlA3dEJQbEZMemZQMFJUb3MyUGNjcjROLUZVUXNoRnJSLUtmLTRSV2hXVXZfV0ZfVldxRjhQMTZHM0daS2tSMDNmNUVuQURMRG9KOEZpS19rSWVXS3M5MXdKVmc2NFFteVdaRElRRWpfcXFTRnZwbTAtMEF0VVlUcGZZSEQ?oc=5",
-    "image": "",
-    "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-07T16:16:32.834314+00:00"
   },
   {
     "id": "bed82b4aaf51",
@@ -298,36 +338,6 @@
     "image": "",
     "published_at": "Thu, 05 Nov 2026 01:35:07 GMT",
     "fetched_at": "2026-11-07T09:52:48.960482+00:00"
-  },
-  {
-    "id": "24566e1c4cf6",
-    "title": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses",
-    "source": "더글로벌기빙뉴스",
-    "summary": "SK Telecom and LG Uplus Recover Profitability in Q3, Expand AI Data Center Businesses&nbsp;&nbsp;더글로벌기빙뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KblVlZ2I2a2JIeldqVU9GNFNOdzh4YnA4OTBRaFdqbmphQzRZcVNJc2RMT005aHJwcWx2b3dVU1RublYzbUlFc2xmU0ZNT1BBZDdrXw?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 14:21:00 GMT",
-    "fetched_at": "2026-11-07T09:52:48.960526+00:00"
-  },
-  {
-    "id": "2520bc88282f",
-    "title": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth",
-    "source": "스포츠조선",
-    "summary": "SK Telecom Co., Ltd. (SKT) Posts Operating Profit of 552.3 Billion Won in Q3 as Core Telecom Business Drives Growth&nbsp;&nbsp;스포츠조선",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjR4VVQwWVVYWW03LVE3V0tiUWNwSmxWdGpWZmU4NGZoSnhxcmJhM3FXNEFaVDhpbm9WMHRKcmxQN1ZaMmV2TXJMU0lIYlFJakZuNlZoLTZQTV9DZFNONjZMYnRnQlk3ai1HVG9FbkRfLTdycHZMUjVaU0JXY3BlSA?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 08:10:15 GMT",
-    "fetched_at": "2026-11-07T09:52:48.960545+00:00"
-  },
-  {
-    "id": "b5fc1c88e7d9",
-    "title": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth",
-    "source": "Asia Business Outlook",
-    "summary": "SK Telecom Q3 Revenue Rises 13.1% to $3.4 Billion on Growth&nbsp;&nbsp;Asia Business Outlook",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZElLUC1LclRSRExvdkR2NFl1SEx0LXpjUlpXVzdBVkhId0IyWkFzbVkyTnBkZzZBWGxsTUpzT1VobVVUVWVnMUpNMFBENGpxUE9jYkZtZTNZME5HR0o0NVRxUGxGa1RFQTdwcUtGYmpSZGhuN0ozOUtsYmtLRzE1Z01mY0NUQVFlNWNzeWpsdWc5ZVJoUjJlUnNCNmtDNjc2RU5tRjhIY29UZ2doalNJVUF3?oc=5",
-    "image": "",
-    "published_at": "Tue, 03 Nov 2026 21:57:50 GMT",
-    "fetched_at": "2026-11-07T09:52:48.960558+00:00"
   },
   {
     "id": "9b819091e4e9",
@@ -488,15 +498,5 @@
     "image": "",
     "published_at": "Wed, 04 Nov 2026 13:33:41 GMT",
     "fetched_at": "2026-11-04T22:34:33.206985+00:00"
-  },
-  {
-    "id": "c86c4c950275",
-    "title": "MWC26 Doha to bring global telecom, tech leaders to Qatar as show floor sells out",
-    "source": "Gulf Business",
-    "summary": "MWC26 Doha to bring global telecom, tech leaders to Qatar as show floor sells out&nbsp;&nbsp;Gulf Business",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekpGQ1NjM0RJVkVha3FFRi1sVm9WOHh5NWJKZ0t2TllBckN0aXhIU2NRRVZWd05ib2JIa3R2RE1wNjFjSXhoTkpEOWFqWDJuWmx1eEFYenJPTW4tUUJvLVZ0VzdLaWFvSHNQczlhbTdWamJlNHFsMEg0Um5tcDNkWmtkNVFEbzRFRkFmNnp4NGwzRklwWjVGN21XM1h1MkFia21WTmRGbmU4VUp5OTlYV19INTlQajRRMTVsWDZuNnlZQQ?oc=5",
-    "image": "",
-    "published_at": "Wed, 04 Nov 2026 15:58:57 GMT",
-    "fetched_at": "2026-11-04T22:34:34.000534+00:00"
   }
 ]
